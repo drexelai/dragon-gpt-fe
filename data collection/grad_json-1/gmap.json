@@ -1,0 +1,47 @@
+[
+      {
+            "Identifier": "GMAP 501",
+            "Title": "Game History",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores the history of video games from their analog roots and examines the video game industry from the earliest arcade entertainments to modern digital distribution networks. It will investigate the people who made technical, design, and business decisions that have had lasting, industry-wide effects that are still with us today.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "GMAP 545",
+            "Title": "Game Development Foundations",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces students to the computer game design process. Students also learn how the individual skills of modeling, animation, scripting, interface design and storytelling are coordinated to produce digital game experiences for various purposes including entertainment as well as applications in research and development.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "DIGM 506 [Min Grade: B]"
+      },
+      {
+            "Identifier": "GMAP 547",
+            "Title": "Serious Games",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores the field of serious games. Students will learn about serious games both through extensive readings on different areas of serious games and through the design and development of serious games projects.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "DIGM 506 [Min Grade: B]"
+      },
+      {
+            "Identifier": "GMAP 548",
+            "Title": "Experimental Games",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores new ideas and innovative gameplay through constraints of team size and shortened development cycles. The students will work in small groups to rapidly prototype and develop novel games projects.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "DIGM 506 [Min Grade: B]"
+      },
+      {
+            "Identifier": "GMAP 560",
+            "Title": "Game Design from the Player\u2019s Perspective",
+            "Number_of_credits": "Credits",
+            "Description": "This course is an introduction to game design from a player's perspective. Students will experience a variety of games and analyze them with respect to the use of game design principles and their consequences for game play.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      }
+]

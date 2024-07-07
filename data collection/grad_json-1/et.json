@@ -1,0 +1,227 @@
+[
+      {
+            "Identifier": "ET 605",
+            "Title": "Materials for Emerging Technologies",
+            "Number_of_credits": "Credits",
+            "Description": "General properties of metals, ceramics and polymers are presented. Focus shifts to technologies - photo and fuel cells in the energy industry. Topic include: the chemical process that converts fuel to elec,tricity directly, light energy that converts to electrical energy, band model for optical materials, and materials for the optical and electronic industries.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ET 610",
+            "Title": "Networks for Industrial Environments",
+            "Number_of_credits": "Credits",
+            "Description": "An in-depth review of high-performance wired and wireless networks for industrial control, communications, and computing. The emphasis is on understanding current and newly emerging network architectures, protocols and technologies from the point of view of performance, reliability, and cost. Industry standard modeling and simulation tools are also reviewed.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ET 615",
+            "Title": "Rapid Prototyping and Product Design",
+            "Number_of_credits": "Credits",
+            "Description": "This course will introduce concepts and methods for rapid prototyping, including their technical basis, and unified principles common to almost all rapid prototyping technologies.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ET 619",
+            "Title": "Programmable Devices and Systems",
+            "Number_of_credits": "Credits",
+            "Description": "A review of programmable devices and systems for industrial and embedded applications. Field-Programmable Gate Arrays, microcontrollers, and Programmable Logic Controllers are compared with respect to suitability, performance, and cost in industrial and embedded environments. Industry standard modeling and development tools will be introduced and used to predict performance and reliability.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ET 620",
+            "Title": "Microsystems and Microfabrication",
+            "Number_of_credits": "Credits",
+            "Description": "Microsystems and microfabrication covers the principles of design, structure, and operation, as well as fabrication technologies for microsystems including microelectronics, sensors, MEMS, micro-optics, and microfluidics (Iab-on-a-chip).",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ET 635",
+            "Title": "Engineering Quality Methods",
+            "Number_of_credits": "Credits",
+            "Description": "Six Sigma concepts and methods are covered with emphasis on its framework, statistical tools and practical implementations. Students will gain a working knowledge of Six Sigma approaches and techniques for applications to both manufacturing and services.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ET 675",
+            "Title": "Reliability Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "This course will introduce the foundations and applications of reliability engineering including basic probability models for component and system failure, with emphasis on practical applications.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ET 681",
+            "Title": "Nanomaterials and Nanoengineering",
+            "Number_of_credits": "Credits",
+            "Description": "This course is a graduate level introduction, survey, and case study analysis of nanoscale materials and nanoengineering, including nanodevices, processing, characterization, and applications. The course will feature coordinated and themed focused studies of fundamental developments in novel materials at the nanoscale, and their applications to several fields of engineering. The objectives include familiarizing students with nanoscale perspectives of materials science in the development materials with tailored properties and functions. Applications areas include materials for structures, optics, electronics, processing, and biomedical diagnostics and therapeutics. Topics related to commercialization and intellectual property, as well as environmental, safety, and regulatory issues will also be discussed.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ET 685",
+            "Title": "Precision Manufacturing",
+            "Number_of_credits": "Credits",
+            "Description": "Introduction to precision engineering for manufacturing. Emphasis on design and performance of precision machinery for manufacturing. Topics include machine tool elements and structure, sources of error (thermal, static, dynamic, process related), error mapping, precision machining processes and process models, sensors for process monitoring and control, metrology, role of CAD/CAM in precision manufacturing, examples of precision component manufacture.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ET 725",
+            "Title": "Sensors and Measurement Systems",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides a foundation in sensors and measurement systems including data acquisition for quality control. It covers general concepts, measuring devices, and the manipulation, transmission and recording of data.expanded coverage of sensors, and the use of computer tools in measurement & data acquisition for quality control. Measurement techniques related to micro- and nano-technologies are also discussed, reflecting the growing importance of these technologies.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ET 730",
+            "Title": "Lean Manufacturing Principles",
+            "Number_of_credits": "Credits",
+            "Description": "Lean is a generic process management philosophy, developed initially for manufacturing and derived mainly from the Toyota Production System (TPS), Just-in-Time (JIT) operations theory, and earlier sources dating from the work of Taylor, Ford, and others or work methods, mass production, and automation. Lean is an integral part of today's modern manufacturing enterprises.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ET 732",
+            "Title": "Modern Energy Conversion Technologies",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces new energy conversion technologies, with an emphasis on solid-state devices, distributed systems with storage, and alternative energy sources including solar, waste heat, wind, biomass, and hydrogen. Solid-state energy conversion devices including solar cells, thermoelectrics, thermionics, thermophotovoltaics and light-emitting diodes, as well as solid-state refrigerators, will be described and analyzed.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ET 733",
+            "Title": "Renewable Energy Technology",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers electric power generation technologies for renewable energy resources. Major topics are electrical machines appropriate for renewable energy systems, power converters for wind turbine and solar photovoltaics, renewable energy power transmission and distribution, and the economics of energy efficiency.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ET 755",
+            "Title": "Sustainable and Green Manufacturing",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers environmental considerations in engineering product and process design, reduction of environmental impact by design, recycling, material selection, demanufacturing and remanufacturing and trade-offs.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ET 775",
+            "Title": "Master's Project and Thesis in Engineering Technology",
+            "Number_of_credits": "Credits",
+            "Description": "Involves the study and investigation of a research or development topic in the area of the student's interest. Requires the topic and solution to be reported in a thesis under the direction of a faculty advisor. Can be repeated for credit.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated 3 times for 9 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ET I599",
+            "Title": "Independent Study in ET",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ET I699",
+            "Title": "Independent Study in ET",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ET I799",
+            "Title": "Independent Study in ET",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ET I899",
+            "Title": "Independent Study in ET",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ET I999",
+            "Title": "Independent Study in ET",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ET T580",
+            "Title": "Special Topics in ET",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ET T680",
+            "Title": "Special Topics in ET",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ET T780",
+            "Title": "Special Topics in ET",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ET T880",
+            "Title": "Special Topics in ET",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ET T980",
+            "Title": "Special Topics in ET",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

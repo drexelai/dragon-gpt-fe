@@ -1,0 +1,191 @@
+[
+      {
+            "Identifier": "AE 510",
+            "Title": "Intelligent Buildings",
+            "Number_of_credits": "Credits",
+            "Description": "An overview of the present and future role of Information Technology in the construction industry with emphasis on the computer tools used throughout the building life cycle by all stakeholders, primarily Building Information Modeling (BIM) and the role of networked-linked sensors and actuators.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "AE 540",
+            "Title": "Responsive Urban Environments",
+            "Number_of_credits": "Credits",
+            "Description": "This is a real-time Global Classroom that meets simultaneously in Philadelphia and Milan, Italy. The Responsive Urban Environment (RUE) looks at the city through the lens of ecosystem management. RUE considers the city as a complex network of interrelated systems that rely on each other to maintain system balance. RUE helps students understand the close relationship between the engineering design choices that take place at the scale of the building and neighborhood to the environmental impacts that occur at the wider scale of the urban level.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "AE 541",
+            "Title": "Bio-inspired Design",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces bio-informed sciences into engineering design to help students develop engineering strategies for the built environment to promote human health and wellbeing. Topics covered include neuroscience, photobiology, biomimicry, biophilia, and chronobiology.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "AE 544",
+            "Title": "Building Envelope Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Science and engineering fundamentals in analysis and design of building envelopes and wall systems. Architectural, structural and environmental (thermal and moisture) concerns; features of selected cladding systems; air and moisture leakage, thermal deficiency, structural distress and premature deterioration; building envelop construction, condition evaluation, maintenance and retrofit.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "AE 391 [Min Grade: C] or CIVE 303 [Min Grade: C]"
+      },
+      {
+            "Identifier": "AE 550",
+            "Title": "Indoor Air Quality",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces basic concepts about indoor air quality, indoor air pollutants, including their sources and health effects, transport of pollutants, modeling of pollutant concentration in buildings, and ventilation as well as air cleaning systems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "AE 551",
+            "Title": "Building Energy Systems I",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers inverse modeling as a scientific approach to data analysis, different types of inverse methods as applied to building & HVAC & refrigeration equipment energy use, calibrated simulation approach, current research trends.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "AE 552",
+            "Title": "Building Energy Systems II",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers topics related to building and power grid integration, such as smart grid, building energy systems, and demand response strategies. Using black and gray box modeling methods to analyze building dynamics and develop energy forecasting models are also discussed.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "AE 555",
+            "Title": "Data Acquisition and Analytics in Built Environment",
+            "Number_of_credits": "Credits",
+            "Description": "Introduce concepts on data acquisition, data storage and data analytics in the context of built environment. Students will be learning sensor technology and database design and operation in buildings, as well as novel concepts of leveraging data science for engineering challenges.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "AE 561",
+            "Title": "Airflow Simulation in Built Environment",
+            "Number_of_credits": "Credits",
+            "Description": "Introduce concepts about both computational and physical modeling of airflow in and around buildings. Help students to acquire skills in using computation fluid dynamics (CFD) techniques as design tools for buildings via the use of commercial software packages.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "AE 997",
+            "Title": "Architectural Engineering Research",
+            "Number_of_credits": "Credit",
+            "Description": "Requires students to select a topic for investigation and obtain the approval of the student\u2019s PhD advisor or committee. The hours and credits are determined for each individual. The student will communicate about their progress with the advisor on a regular basis throughout the duration of the research effort.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "AE 998",
+            "Title": "Architectural Engineering Dissertation",
+            "Number_of_credits": "Credit",
+            "Description": "Requires students to write and defend their PhD dissertation. The hours and credits are determined for each individual. The student will communicate about their progress with the advisor on a regular basis throughout the duration of the dissertation development.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "AE I599",
+            "Title": "Independent Study in Architectural Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "AE I699",
+            "Title": "Independent Study in Architectural Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "AE I799",
+            "Title": "Independent Study in Architectural Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "AE I899",
+            "Title": "Independent Study in Architectural Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "AE I999",
+            "Title": "Independent Study in Architectural Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "AE T580",
+            "Title": "Special Topics in AE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "AE T680",
+            "Title": "Special Topics in AE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "AE T780",
+            "Title": "Special Topics in AE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "AE T880",
+            "Title": "Special Topics in AE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "AE T980",
+            "Title": "Special Topics in AE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

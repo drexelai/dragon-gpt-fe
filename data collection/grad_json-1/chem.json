@@ -1,0 +1,407 @@
+[
+      {
+            "Identifier": "CHEM 521",
+            "Title": "Inorganic Chemistry I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the principal models of inorganic chemistry: structure and bonding, interactions in the solid state, coordination compounds, complexation equilibria, and acid-base models.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 522",
+            "Title": "Inorganic Chemistry II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers group theory in inorganic chemistry, including crystal field descriptions of transition metal chemistry and qualitative molecular orbital approach to and spectroscopic methods for inorganic molecules.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 521 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CHEM 523",
+            "Title": "Inorganic Chemistry III",
+            "Number_of_credits": "Credits",
+            "Description": "Covers constitutions and properties of organometallic compounds, including carbonyls and nitrosyls. Also covers kinetic properties of mononuclear and biometallic centers. Includes computer modeling/display of inorganic structures.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 522 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CHEM 530",
+            "Title": "Analytical Chemistry I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers principles and techniques of optical methods of analysis.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 531",
+            "Title": "Analytical Chemistry II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers physical and chemical methods of separation, including distillation, solvent extraction, and chromatographic and ion-exchange techniques.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 541",
+            "Title": "Organic Chemistry I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers spectroscopic methods for the determination of the structure of organic molecules.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 542",
+            "Title": "Organic Chemistry II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers static and dynamic stereochemistry; conformational theory; relationships between structure and reactivity in organic reactions; and applications to asymmetric synthesis, physical measurements, and biochemical mechanisms.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 543 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CHEM 543",
+            "Title": "Organic Chemistry III",
+            "Number_of_credits": "Credits",
+            "Description": "Covers mechanisms of organic reactions and the techniques of studying them.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 554",
+            "Title": "Chemical Kinetics",
+            "Number_of_credits": "Credits",
+            "Description": "Focuses on experimental and theoretical consideration of chemical reaction rates.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 555",
+            "Title": "Quantum Chemistry Of Molecules I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers general properties of operators; Schrodinger's equation and its solutions for a particle in a box; harmonic oscillator, tunneling problems, rigid rotor, and the hydrogen atom; approximation methods; and absorption of radiation and selection rules.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 557",
+            "Title": "Physical Chemistry I",
+            "Number_of_credits": "Credits",
+            "Description": "Schrodinger's equation and particle-wave duality, atomic structure and spectra, optical spectroscopy on molecules (rotational, vibrational and electronic spectra) molecular symmetry, design of modern spectrometers, magnetic resonance spectroscopy.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 558",
+            "Title": "Physical Chemistry II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers statistical mechanics of distinguishable and indistinguishable particle systems, and thermodynamic functions for both systems and chemical equilibrium.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 561",
+            "Title": "Polymer Chemistry I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers step growth, polymerization (including polyesters, polycarbonate, nylon, epoxies, urethanes, and formaldehyde-based polymers), step growth kinetics, molecular weight distributions, infinite networks and gelation, techniques of polymerization, ring opening polymerization, thermodynamics of polymer solutions, biological polymers, inorganic polymers, biomedical applications, and electrically conducting polymers.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 562",
+            "Title": "Polymer Chemistry II",
+            "Number_of_credits": "Credits",
+            "Description": "Includes chain growth polymerization (free radical, ionic, coordination, group-transfer, radiation-induced, and electrochemical polymerizations), kinetics of chain growth polymerization, molecular weight distributions, polymerization/depolymerization equilibria, techniques of polymerization, kinetics of polymerization, reactions of polymers, degradation of polymers, chain conformation and configuration, rubber elasticity, and copolymerization.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 563",
+            "Title": "Polymer Chemistry III",
+            "Number_of_credits": "Credits",
+            "Description": "Covers polymer characterization and analysis; morphology; molecular weight determination, including end group analysis, and colligative properties (vapor pressure lowering, ebulliometry, cryoscopy, osmometry); light scattering; viscosity; gel permeation chromatography; sedimentation; diffusion and permeation; polymer identification; plasticizers; x-ray diffraction; thermal behavior; and spectroscopic techniques.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 561 [Min Grade: B] or CHEM 562 [Min Grade: B]"
+      },
+      {
+            "Identifier": "CHEM 571",
+            "Title": "Chemistry of Biomolecules",
+            "Number_of_credits": "Credits",
+            "Description": "This course is a chemistry-based approach to understanding the basic structure, chemical reactivity, and biological function of biomolecules \u2013 including amino acids, peptides, proteins, carbohydrates, nucleic acids, and lipids. A special emphasis will be given to topics in the frontiers of biomolecular research at the interface between chemistry and biology.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 656",
+            "Title": "Quantum Chemistry of Molecules II",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesCHEM\u00a0555. Covers matrix theory and group theory, atomic structures, and self-consistent field methods including the Hartree-Fock theory. Introduces theory of chemical bonding.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 555 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CHEM 659",
+            "Title": "Physical Chemistry III",
+            "Number_of_credits": "Credits",
+            "Description": "Covers interaction of molecules with electromagnetic radiation, including internal quantum states and structure of atoms and simple molecules, applications of atomic and molecular spectroscopy, and lasers in chemistry.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 558 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CHEM 752",
+            "Title": "Biophysical Chemistry",
+            "Number_of_credits": "Credits",
+            "Description": "Thermodynamics and kinetics to aqueous biological systems. Properties and behavior of biological macromolecules.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 753",
+            "Title": "Chemical Instrumentation",
+            "Number_of_credits": "Credits",
+            "Description": "Provides hands-on training in the use of various spectroscopic (FT-IR, UV/VIS, fluorescence, AA), chromatographic (packed and capillary column GC, HPLC), and electrochemical (potentiometry, coulometry, polarography) techniques. Involves lectures with self-paced laboratory work.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 755",
+            "Title": "Mass Spectrometry",
+            "Number_of_credits": "Credits",
+            "Description": "Covers basic interpretive skills for organic and biochemical analysis; basic ion optics design using SIMON; survey of ionization methods, ion selection or separation techniques, and detectors; and applications in chemistry and biology.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 767",
+            "Title": "Chemical Information Retrieval",
+            "Number_of_credits": "Credits",
+            "Description": "Examines methods for retrieving literature information, via standard tabulations, journals, and abstracts, using hard-copy and electronic sources. Includes techniques for online searching of databases such as Chemical Abstracts, Beilstein, and crystallographic depositories.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 771",
+            "Title": "Organometallic Chemistry",
+            "Number_of_credits": "Credits",
+            "Description": "Covers compounds with metal-carbon bonds, including molecular and electronic structures and bonding descriptions, constitutions, reactivities, and syntheses of main-group and transition metal carbonyl, alkene, alkyne, alkyl, and arene complexes and clusters.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 521 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CHEM 773",
+            "Title": "The Solid State",
+            "Number_of_credits": "Credits",
+            "Description": "Covers types of bonding in solids, lattice specific heat, phonons, thermal conductivity, free electron gas, band theory of metals and semiconductors, intrinsic and extrinsic semiconductivity, and magnetic properties and superconductivity.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 782",
+            "Title": "Electronics for Chemical Instrumentation",
+            "Number_of_credits": "Credits",
+            "Description": "Covers digital electronics for chemical instrumentation, including Boolean algebra and its applications to digital circuits, implementation of basic Boolean operations with solid-state devices, and applications of digital circuits to chemical instrumentation.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 783",
+            "Title": "Electronics for Chemical Instrumentation ll",
+            "Number_of_credits": "Credits",
+            "Description": "Instrument components such as temperature, pressure, and light radiance controllers, etc. will be designed in the lectures and built and tested in the laboratory on the test board built by the student. It contains regulated +15, -15 and 5 regulated power supplies. Same sided wire wrap sockets allow amplifiers and other circuit elements to be easily and reliably mounted and connected. The test board belongs to the student.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 789",
+            "Title": "Experimental Design and Statistics in Chemistry",
+            "Number_of_credits": "Credits",
+            "Description": "Covers descriptive statistics; single and multiple linear regression techniques for analytical calibration; analysis of variance methods; basic experimental design, including full and fractional factorial techniques; and experimental optimization using steepest ascent and simplex techniques.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 792",
+            "Title": "Advanced Organic Synthesis I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers organic functional group transformation and manipulation. Includes oxidations, reductions, additions to pi bonds, substitution reactions including aromatic substitutions, and reactions of electron-deficient intermediates.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 862",
+            "Title": "Topics in Inorganic Chemistry",
+            "Number_of_credits": "Credits",
+            "Description": "Covers specialized principles of inorganic chemistry plus contemporary advances in the field. May be repeated for credit when topics vary.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 865",
+            "Title": "Chemistry Research Seminar",
+            "Number_of_credits": "Credits",
+            "Description": "Provides presentation and discussion of current research topics in chemistry.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 866",
+            "Title": "Topics in Polymer Chemistry",
+            "Number_of_credits": "Credits",
+            "Description": "Covers fundamental concepts in conductivity, magnetism and optical properties, or organic and polymeric materials; elements of the organic solid state; chemical and electrochemical synthesis; structure characterization; and properties and applications of these polymers.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 868",
+            "Title": "Topics in Analytical Chemistry",
+            "Number_of_credits": "Credits",
+            "Description": "Surveys new or developing instrumental or chemical analysis techniques. Covers spectroscopic, chromatographic, and/or electrochemical techniques for analysis of solutions or surfaces.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 898",
+            "Title": "Master's Thesis",
+            "Number_of_credits": "Credits",
+            "Description": "M.S. thesis.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 997",
+            "Title": "Research",
+            "Number_of_credits": "Credit",
+            "Description": "Requires students to select a topic for investigation and obtain the approval of the staff member in charge of the project. The hours and credits are determined for each individual.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 998",
+            "Title": "Ph.D. Dissertation",
+            "Number_of_credits": "Credit",
+            "Description": "Ph.D. dissertation.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM I599",
+            "Title": "Independent Study in CHEM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM I699",
+            "Title": "Independent Study in CHEM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM I799",
+            "Title": "Independent Study in CHEM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM I899",
+            "Title": "Independent Study in CHEM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM I999",
+            "Title": "Independent Study in CHEM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM T580",
+            "Title": "Special Topics in Chemistry",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM T680",
+            "Title": "Special Topics in Chemistry",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM T780",
+            "Title": "Special Topics in Chemistry",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM T880",
+            "Title": "Special Topics in Chemistry",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM T990",
+            "Title": "Special Topics in CHEM",
+            "Number_of_credits": "Credits",
+            "Description": "Special Topics in Chemistry.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

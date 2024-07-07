@@ -1,0 +1,434 @@
+[
+      {
+            "Identifier": "EDHE 500",
+            "Title": "Foundations of Higher Education",
+            "Number_of_credits": "Credits",
+            "Description": "Study of historical growth and advancement of colleges and universities in U.S. from Colonial era to \"virtual\" public and private universities. Integrated overview of contemporary issues, policies and practices that characterize the operational environments of higher education institutions in the 21st century; including financial management, accreditation, curriculum, and institutional planning.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 501",
+            "Title": "Foundations of Higher Education and Governance",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on the historical growth and advancement of colleges and universities in the United States from the Colonial era to \"virtual\" public/private universities and for-profit institutions. The course includes an integrated overview of contemporary issues, policies, and practices that characterize the operational and organizational environments of higher education institutions in the 21st century, including enrollment management, student affairs, financial management, institutional advancement, accreditation, curriculum, institutional research, assessment, and planning. The course introduces governance structures and the relationship between colleges and universities and the communities they serve.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 510",
+            "Title": "Governance, Management & Administration in Higher Education",
+            "Number_of_credits": "Credits",
+            "Description": "Organizational and administrative structures within the institutional hierarchy are explored as students examine the relationship between the university and the community it serves, the role of outreach in the modern university, and the role of faculty, staff, and student unions in academic operations and Risk Management.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 520",
+            "Title": "Student Development & Customer Service Management",
+            "Number_of_credits": "Credits",
+            "Description": "Examines Academic Support and Student Life Services from customer satisfaction perspective including admissions, orientation, student health and counseling, and Greek life. Best practices in Customer Relationship Management are introduced.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 521",
+            "Title": "Student Development Theory and Application",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces students to student development theory and best practices that address student success in higher education. Theories examined in this course include, but are not limited to, psychosocial, cognitive-structural, person-environment, and humanistic existential. This course explores how academic and student support services are utilized throughout the student lifecycle. This course also examines the design and implementation of inclusive services and policies to improve outcomes for students across diverse, marginalized, and special populations.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 530",
+            "Title": "Higher Education Law",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to introduce students to the key laws and legal concepts that shape the operations of higher education institutions and the rights and responsibilities of administrators, faculty, staff and students. The course examines the issues involved in interpreting and applying laws and policies in a campus setting.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 531",
+            "Title": "Legal Issues & Ethics in Higher Education",
+            "Number_of_credits": "Credits",
+            "Description": "This course prepares students to navigate important education laws, legal concepts, and ethical issues relating to the operations of higher education institutions and the rights and responsibilities of administrators, faculty, staff and students. The course emphasizes the development of ethical leadership skills. Through the use of case studies and current issues in higher education, students will gain experience applying laws and policies across diverse institutional environments.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 540",
+            "Title": "Outcomes, Assessments & Continuous Improvement",
+            "Number_of_credits": "Credits",
+            "Description": "Introduction to \"typical\" institutional accreditation process. Best practices presented for performing an institutional self-study, defining appropriate outcomes aligned with institution's strategic plan as well as introduction to appropriate quantitative and qualitative assessment methods.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 541",
+            "Title": "Institutional Assessment, Accreditation and Effectiveness",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces students to the institutional assessment and the accreditation process. Students learn to apply best practices for performing an institutional self-study. They learn to define appropriate outcomes for academic and administrative units. Students also learn to use appropriate quantitative and qualitative research methods to assess these outcomes. The course explores models for assessment of academic programs and institutional effectiveness.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 601",
+            "Title": "Strategic Planning & Evaluation",
+            "Number_of_credits": "Credits",
+            "Description": "Provides a survey of the theory and practice of planning and evaluation in higher education and nonprofit organizations. Includes development of critical issues, goals, strategies, outcomes research planning, and protocol development.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 602",
+            "Title": "Managing Campus Operations",
+            "Number_of_credits": "Credits",
+            "Description": "Detailed overview of key areas affecting campus operations that fall under Finance and Administration units including parking and transportation, non-exempt HR, facilities management, construction, risk management, and environmental health. Introduction to campus master plan development process for strategic planning.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 606",
+            "Title": "Higher Education Career Development",
+            "Number_of_credits": "Credits",
+            "Description": "Provides understanding of career patterns of faculty, deans, vice presidents, provosts, and presidents while exploring academic employment markets of these professions. Traditional career paths, diverse points of entry in Higher Education and career development of faculty are explored as well as administrative roles of managing academic units, decision making and change implementation.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 607",
+            "Title": "Higher Education Career Development, Leadership & Application",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an understanding of career paths within higher education and educational settings. Traditional and non-traditional career pathways are explored while developing critical skills for professional advancement or transition. The course also integrates leadership and technology to engage students in real-world practice across higher educational contexts.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 608",
+            "Title": "Leadership for Learning",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides students with an understanding of leadership within the context of learning at the individual level and at the organizational level. Course content addresses traditional, contemporary, and alternative theories of leadership with connections to learning theories that facilitate individual and organization development in multiple contexts. E-Learning opportunities will be incorporated as mechanisms for addressing 21st century learning leadership. This course helps enhance their professional development to effectively lead in learning focused organizations.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 620",
+            "Title": "Mind, Brain and Learning",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on current and emerging research related to the learning sciences and Mind, Brain, and Educations science. Neuromyths and evidence-based practices are explored. The course examines general neuroanatomy and processes associated with learning, memory, and emotion. Topics include neuroplasticity, brain imaging, differentiation, stress, and self-efficacy.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 621",
+            "Title": "Neuropedagogy and Assessment",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores the connections between neuropedagogy, the learning sciences, and Mind, Brain, and Education science, and creative thinking. Evidence-based practices are examined including metacognition, Universal Design for Learning, spacing, interleaving, cognitive load, and feedback. Students are introduced to formative, interim, and summative assessment as well as technology platforms, tools, and applications that support mastery and transfer of learning. Students demonstrate their understanding of neuroplasticity, neuropedoagogy, creative problem solving, and assessment through interactive real-world projects across educational and workforce environments.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 622",
+            "Title": "Neurodiversity in Education and Workforce",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on neurodiversity. The neurobiology of learning and memory is explored from the learning sciences and Mind, Brain, and Education science within the context of educational and work environments. The impact of practice, stress, and environment are examined in connection to neuroplasticity, memory, performance, and brain imaging. Students are engaged in peer-review and self-evaluation as they demonstrate technical and applied knowledge, creative critical-thinking, and communication skills through presentations and projects aligned neurodiversity and Universal Design for Learning across real-world contexts.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 634",
+            "Title": "Proposal Writing & Sponsored Project Management",
+            "Number_of_credits": "Credits",
+            "Description": "Provides knowledge and skills required to acquire and manage sponsored projects from a variety of sources including learning and practicing process of developing proposal, organizational vision, goal setting, political realities, and budget in addition to compliance management and reporting.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 640",
+            "Title": "Foundations of Institutional Research",
+            "Number_of_credits": "Credits",
+            "Description": "Provides comprehensive understanding of institutional research including roles and responsibilities. Students are introduced to database systems, statistical software and research methods to explore multifaceted links of institutional research to key divisions within higher education institutions.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 644",
+            "Title": "Student Assessments & Academic Program Evaluation",
+            "Number_of_credits": "Credits",
+            "Description": "Exposes research tools and theoretical models related to assessing student outcomes and student success measures. Benchmarking and importance of evaluating academic programs and curricula to proactively respond to institutional reporting requirements and accreditation.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 646",
+            "Title": "Survey Tools, Statistical Software & Effective Reporting",
+            "Number_of_credits": "Credits",
+            "Description": "Introduction of latest survey tools and statistical software for institutional research. Develops skills related to data gathering and effective reporting with use of latest application and support technologies to maximize research related to institutional effectiveness, program evaluation, and student outcomes.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 650",
+            "Title": "Introduction to Enrollment Management",
+            "Number_of_credits": "Credits",
+            "Description": "Introduction to history of enrollment management and how it fits university system. Provides a strong understanding of enrollment process, organizational structure, federal and legislative issues, and importance of diverse student body.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 651",
+            "Title": "Strategic Enrollment Management",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces students to the history of enrollment management within the university structure. The course explores stages of the enrollment process, including: (a) Student Outreach: Marketing, Admissions, and Enrollment; (b) Student Engagement: Orientation, Advising, and Student Support Services; (c) Student Success: Retention, Time to Degree Completion, and Graduation Rates, and (d) Enrollment Optimization: Data, Analytics, and Reporting. Functional areas that contribute to an institution\u2019s Strategic Enrollment Management (SEM) effort are identified and reviewed. The course also examines the enrollment funnel, use of predictive data in conjunction with historical data, the link between Tuition Discount/financial aid and enrollment; and assessment metrics to use to evaluate an SEM plan.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 652",
+            "Title": "Enrollment Marketing, Recruitment & Retention",
+            "Number_of_credits": "Credits",
+            "Description": "Comprehensive overview of principles and practices of strategic process including marketing and recruitment through graduation. Exposure to contemporary issues and legal problems in enrollment management.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 653",
+            "Title": "Marketing, Recruitment & Financial Aid",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides a comprehensive overview of marketing and student recruitment in higher education explored within an enrollment management context. The course includes a review of the structural issues and trends affecting student enrollments. The course examines the components of a strategic enrollment management plan in alignment marketing, recruitment, and financial aid.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 654",
+            "Title": "Financial Aid & Enrollment Management",
+            "Number_of_credits": "Credits",
+            "Description": "Strategic relationships between financial aid and enrollment management are examined in order to secure desired student mix. Financial Aid guidelines and career management strategies are discussed to explore integration of traditional student financial aid and development of aid packages.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 655",
+            "Title": "Civic Engagement in Higher Education",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores civic engagement in the context of higher education. Current and historical frameworks of civic engagement and research university-community partnerships are examined. Students develop skills to support engaged teaching, learning, and research within educational contexts. The course also investigates how institutions of higher education can institutionalize a civic mission.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 656",
+            "Title": "Enrollment Management Database Systems & Management",
+            "Number_of_credits": "Credits",
+            "Description": "Provides hands-on experience with database systems and programs that support enrollment management offices incorporating Microsoft suite application, SCT Banner, and People Soft. Collaborative assignments will require student manipulate, analyze and report data in different database systems. Strategies to \"optimize\" the recruitment mix to maximize state budget allocations are examined.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 661",
+            "Title": "Critical Issues & Risk Management in Student Affairs",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to give students an understanding of contemporary critical issues and risk management in student affairs. The broad survey of critical issues will provide students exposure to a range of topics that directly affect student affairs units, including but not limited to, the student lifecycle from orientation to graduation; campus climate; student expectations; alcohol and drugs; personal, physical and environmental safety; education, training, and prevention; mental health/wellness; and crisis response and communication. The course explores new and existing approaches to proactively manage and resolve issues related to student affairs and risk management.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 662",
+            "Title": "Critical Issues in Student Affairs",
+            "Number_of_credits": "Credits",
+            "Description": "Profession of Students Affairs and most critical issues examined through use of current texts and articles. Topics include overview of the field, diversity, fiscal/budgetary issues assessment and staff training and development. Other topics include campus conduct, academic integrity, feedom of speech, sustainability and other current issues.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 663",
+            "Title": "Safety and Crisis Management",
+            "Number_of_credits": "Credits",
+            "Description": "Examination of a broad range of campus safety and crisis management issues and exploration of safety and security strategies and consideration of essential elements of a model crisis response plan. Students will work toward understanding macro and micro safety and security issues and responses, and will design a sample crisis response model as the final course assignment.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 664",
+            "Title": "Strategies for Educational Success",
+            "Number_of_credits": "Credits",
+            "Description": "Examines research on historical and contemporary responses to inequality in education; includes multicultural education, culture of poverty, single race/sex schools; addresses new trends and strategies affecting equity in education, including immigrants, sexual identity, age, gender, organizations, developmental education, and special needs learners (i.e older adult learners and students with disabilities).",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 665",
+            "Title": "Student Success: Learning and Innovative Support Services",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines historical and contemporary theories and research on student success. This course also explores effective policies, practices, and services that can be implemented to promote student success throughout the student lifecycle. Students examine the fundamental principles of student learning inside and outside the classroom through current and emerging research from the learning sciences and Mind, Brain, and Education (MBE) science. Student and academic support service models are reviewed to promote transformative student success practices and strategies. Students review innovative services to support student success and enable students from diverse backgrounds to achieve their educational goals and aspirations.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 668",
+            "Title": "Transformational Leadership",
+            "Number_of_credits": "Credits",
+            "Description": "Reviews research about community college leadership, with an emphasis on transformational leadership, creation and implementation of a vision; develops skills in how to identify, interact, and mobilze key community organizations and constituents with an emphasis on board relations and community development.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 669",
+            "Title": "Diversity in Higher Education",
+            "Number_of_credits": "Credits",
+            "Description": "Course examines research on issues of race, class, gender and disability in education in historical and contemporary contexts; emphasizes evidence-based data analysis, specifically qualitative analysis of data; introduces qualitative analysis of data, assumptions, designs, collection, analysis, and research ethics.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 714",
+            "Title": "Introduction to Research Methods",
+            "Number_of_credits": "Credits",
+            "Description": "This course will introduce students to the process and conduct of educational research. Students will learn about the characteristics of specific research designs and will review a research study employing the specific design. Students will use established criteria given evaluate research studies. There will be an emphasis on the purpose and function of the review of the literature in educational research. Survey and interview design will also be discussed.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 715",
+            "Title": "Higher Education Co-op I with Portfolio",
+            "Number_of_credits": "Credit",
+            "Description": "The HE co-op I is the first half of a two quarter sequence in which students work in administrative offices to incorporate their knowledge and develop skills learned in the HE program. The first half of the co-op is designed to prepare students to undertake the hands-on co-op projects they will begin in the second quarter of the co-op.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE 716",
+            "Title": "Higher Education Co-op II",
+            "Number_of_credits": "Credits",
+            "Description": "Students are required to participate in a part-time co-op that lasts no less than two quarters (20 weeks). The co-op is structured to provide students with real-life, hands on experience in higher education. Students work in administrative offices and incorporate the skills and tools they have garnered in the MSHE program.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE I599",
+            "Title": "Independent Study in EDHE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE I699",
+            "Title": "Independent Study in EDHE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE I799",
+            "Title": "Independent Study in EDHE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE I899",
+            "Title": "Independent Study in EDHE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE I999",
+            "Title": "Independent Study in EDHE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE T580",
+            "Title": "Special topics in EDHE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE T680",
+            "Title": "Special topics in EDHE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE T780",
+            "Title": "Special topics in EDHE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE T880",
+            "Title": "Special topics in EDHE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDHE T980",
+            "Title": "Special topics in EDHE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

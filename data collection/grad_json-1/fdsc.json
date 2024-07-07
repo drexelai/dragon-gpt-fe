@@ -1,0 +1,263 @@
+[
+      {
+            "Identifier": "FDSC 501",
+            "Title": "Research Methods for Food Science",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces students to common research tools and skills in the field of food science and studies, as well as to basic concepts in data analysis and research ethics.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FDSC 506",
+            "Title": "Food Composition & Behavior",
+            "Number_of_credits": "Credits",
+            "Description": "Examines the composition of foods and chemical and physical changes in food components occurring during food preparation and processing.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FDSC 550",
+            "Title": "Food Microbiology",
+            "Number_of_credits": "Credits",
+            "Description": "Discusses factors affecting microbial growth in foods. Also covers methods of enumeration of food-borne organisms, microbial spoilage of foods, foods and ingredients from fermentation, food-borne pathogens and their control, and sanitation and HACCP in food processing.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FDSC 551",
+            "Title": "Food Microbiology Laboratory",
+            "Number_of_credits": "Credits",
+            "Description": "Companion laboratory course toFDSC\u00a0550. Covers methods of isolation and enumeration of microorganisms important in foods, food fermentations, and methods of control of microorganisms.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FDSC 550 [Min Grade: C], NFS 650 [Min Grade: C] (Can be taken Concurrently)"
+      },
+      {
+            "Identifier": "FDSC 554",
+            "Title": "Microbiology & Chemistry of Food Safety I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the study of microbiological and toxicological factors affecting the safety of food, including natural toxicants, food additives, and food-borne diseases, toxicoses, and parasites.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FDSC 550 [Min Grade: B] (Can be taken Concurrently)"
+      },
+      {
+            "Identifier": "FDSC 556",
+            "Title": "Food Preservation Processes",
+            "Number_of_credits": "Credits",
+            "Description": "Covers fundamentals of food processing and preservation, including techniques and methods employed to extend the useful life of food products, and the significance of changes in the composition of foods due to processing, enzymatic activity, microbial action, and chemical change.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FDSC 557",
+            "Title": "Advanced Food Product Development",
+            "Number_of_credits": "Credits",
+            "Description": "The course covers the advanced stages of new food product development, food ingredients and functionality, and new product management and marketing. The course also provides in-depth understanding of various thermal and non-thermal food processing techniques used to extend the shelf-life of food. Effect of these processing techniques on food quality will also be discussed. During the lab portion of this class, students will design a new food product suitable for specific markets while considering taste, texture, stability and packaging.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FDSC 350 [Min Grade: C] (Can be taken Concurrently)"
+      },
+      {
+            "Identifier": "FDSC 558",
+            "Title": "Nutritional Impact of Food Processing Methods",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the effect of processing on foods emphasizing nutritional and chemical aspects. Includes synthetic foods, food additives, current food processing methods, nutrition policy, consumer dietary patterns, and food production trends.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FDSC 560",
+            "Title": "Food Chemistry",
+            "Number_of_credits": "Credits",
+            "Description": "Covers chemical and physical behavior of food constituents and application of physicochemical principles to processed food systems.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FDSC 561",
+            "Title": "Food Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the application of chemical analysis techniques to food. Food composition analysis (lipids, proteins, carbohydrates) and measurements of chemical reactions in foods (browning, lipid oxidation, starch hydrolysis, protein denaturation) are studied. Also focused upon id the maintenance of food quality during processing and storage.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FDSC 568",
+            "Title": "Functional Foods",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers a range of functional foods and food components, their health conferring benefits, mechanisms of actions, and possible applications in the food industry.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FDSC 570",
+            "Title": "Meat Science",
+            "Number_of_credits": "Credits",
+            "Description": "Meat science covers a range of technical information on meats including their muscle characteristics and composition, microbiology, nutritional content and processing.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FDSC 577",
+            "Title": "Food Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "This course deals with understanding and implementing basic engineering concepts to solve quantitative problems in food engineering and processing. Concepts such as units and dimension, mass and energy balance, heat transfer, mass transfer, psychometrics and fluid flow will be covered.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FDSC 610",
+            "Title": "The Science of Wine",
+            "Number_of_credits": "Credits",
+            "Description": "Wine production is a very interdisciplinary field, at the crossing of agronomy (grape growing), chemistry, microbiology (wine making), sensory science (wine tasting) and cultural studies. The class will discuss the application of each discipline to wine production, with an emphasis on how scientific knowledge and technologies have impacted wine making and wine consumption around the world, and what empirical knowledge and practices developed over centuries has brought to science. Some of the key concepts developed during the course will be experienced through tasting of synthetic solutions and wines. Students must be 21 years or older prior to the first day of class.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FDSC 654",
+            "Title": "Microbiology & Chemistry of Food Safety II",
+            "Number_of_credits": "Credits",
+            "Description": "Advanced study of chemical of food safety significance with emphasis on the effects of components normal to food. Risk assessment, regulations and control will be covered.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FDSC 454 [Min Grade: D] or FDSC 554 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FDSC 662",
+            "Title": "Sensory Evaluation of Food",
+            "Number_of_credits": "Credits",
+            "Description": "This course, Sensory Evaluation of Food, discusses historical and current theories addressing the anatomy and mechanisms of human chemical sensing systems (taste, odor, and flavor perception). The course will provide 1) a deep understanding of the anatomy and function of chemical senses, and 2) how diets, metabolic disorders, as well as environmental and psychological factors influence the relationship between chemical senses and food choice. Finally, the course will give an overview of the functional methods of subjective or organoleptic testing involving human subjects (psychophysics).",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FDSC 669",
+            "Title": "Readings in Food Science",
+            "Number_of_credits": "Credits",
+            "Description": "Covers current research and its practical application in food production, processing storage, and preparation. Encourages individual investigation.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 2 times for 6 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FDSC 890",
+            "Title": "Seminar in Food Science",
+            "Number_of_credits": "Credit",
+            "Description": "Current topics in food science will be studied with presentations by invited speakers and students. This course may be repeated for credit.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 3 times for 3 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FDSC 997",
+            "Title": "Research in Food Science",
+            "Number_of_credits": "Credit",
+            "Description": "Students consult with a faculty advisor to identify a suitable problem are in food science and develop and carry out appropriate methodology to address the problem. This course may be repeated for credit.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 4 times for 12 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FDSC I599",
+            "Title": "Independent Study in FDSC",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FDSC I699",
+            "Title": "Independent Study in FDSC",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FDSC I799",
+            "Title": "Independent Study in FDSC",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FDSC I899",
+            "Title": "Independent Study in FDSC",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FDSC I999",
+            "Title": "Independent Study in FDSC",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FDSC T580",
+            "Title": "Special topics in FDSC",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FDSC T680",
+            "Title": "Special topics in FDSC",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FDSC T780",
+            "Title": "Special topics in FDSC",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FDSC T880",
+            "Title": "Special topics in FDSC",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FDSC T980",
+            "Title": "Special topics in FDSC",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

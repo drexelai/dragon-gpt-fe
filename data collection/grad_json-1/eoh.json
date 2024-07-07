@@ -1,0 +1,425 @@
+[
+      {
+            "Identifier": "EOH 510",
+            "Title": "Principles and Practice of Environmental and Occupational Health",
+            "Number_of_credits": "Credits",
+            "Description": "This interdisciplinary course gives an overview of environmental and occupational health (EOH) issues and an introduction to approaches for prevention and control of environmental hazards. The course will cover both traditional EOH topics such as air pollution, drinking water and sanitation, and occupational health and safety, as well as salient issues of global concern such as climate change and emerging infectious diseases. The goal is to provide students with knowledge of the basic scientific principles of EOH, as they apply to the practice of public health. Throughout the course, students will examine environmental injustice and racism, particularly how policies and systems marginalize specific populations and contribute to health disparities.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 517",
+            "Title": "The World's Water",
+            "Number_of_credits": "Credits",
+            "Description": "Water is essential for life. Worldwide, 25% of people lack safely managed drinking water services and nearly 50% lack safely managed sanitation services. Safe and sufficient water, sanitation and hygiene services (WASH) are key for health and human rights. WASH services are a critical component of responses to infectious disease epidemics and ensuring infection prevention in healthcare facilities. Contaminated drinking water, inadequate water supply, or poor sanitation and hygiene all contribute to disease burden and decreased quality of life, particularly among the most vulnerable populations. This course will discuss a wide variety of topics related to WASH around the globe and the U.S. and will explore how WASH problems are compounded by emerging infectious diseases, climate change and rapid urbanization.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 550",
+            "Title": "Introduction to Urban Health",
+            "Number_of_credits": "Credits",
+            "Description": "It is estimated that by 2050, 66% of the world\u2019s population will live in urban areas. Promoting population health and health equity is a key challenge, but also a key opportunity for cities and broader urban areas that surround them. This course is designed to provide an overview of urban health including theory, methodology, and empirical evidence. The course will explore urban health strategies, including programs and policies aimed at impacting the social determinants of health, and how these strategies affect health outcomes of populations in urban settings.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 562",
+            "Title": "Global Air Pollution and Health",
+            "Number_of_credits": "Credits",
+            "Description": "Global air pollution is an important determinant of human health, causing millions of deaths worldwide each year. This course will examine how air pollutants are emitted into or form in the atmosphere, how people are exposed to air pollutants, and how these pollutants contribute to the burden of death, disease and disability in human populations. The course will provide an understanding of the properties of air pollutants, relevant atmospheric chemistry and physical processes, and how pollutants are measured. Students will consider inequities in the impact of air pollutants on human populations across the globe. Students will learn about national programs and policies for the control of air pollutants, and about the international agencies working to solve air pollution as a global health problem.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 563",
+            "Title": "Injury Prevention and Control",
+            "Number_of_credits": "Credits",
+            "Description": "Unintentional injury is the leading cause of death for people in the United States between the ages of 1 and 44. Homicide and suicide are the second and third leading cause of death for people aged 15-34. The cost of medically treated injuries is estimated at over $100 billion annually. This course examines injury as one of the core public health problems in the United States. Causes such as motor vehicles, opioids, interpersonal and self-inflicted violence, and work are some of the topics examined, including their physical and psychological outcomes. The subsequent costs and burdens to the healthcare system are explored. Policy and behavioral interventions are addressed. Where possible, extensions to international settings are made.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 564",
+            "Title": "Safety in Healthcare",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines the history of healthcare safety as an emerging public health problem in the United States. Topics such as patient safety, nurse injury, and other outcomes will be studied. Effects of safety climate, organizational culture, and clinical knowledge on patients, healthcare workers and the healthcare system are discussed. The subsequent costs and burdens to the healthcare system are explored using current information from the academic literature, local and national interest groups, and government agencies. Policy interventions and alternatives are addressed. Emphasis is given to safety interventions regardless of preventability, lack of existing solutions, or consensus of priority.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 580",
+            "Title": "Fundamentals of Industrial Hygiene",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides students with a general understanding of the recognition and evaluation of a variety of hazards in the workplace, as well as approaches for the prevention and control of workplace hazards.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 605",
+            "Title": "Evidence Evaluation for Identification of Environmental Hazards",
+            "Number_of_credits": "Credits",
+            "Description": "The hazard identification step of environmental risk assessment is meant to answer the question, \u201cIs exposure X a cause of human health outcome Y?\u201d Answering this question involves evaluation of a body of research, often including conflicting results. In this course, students will discuss and practice evidence evaluation, using different types of evidence (human epidemiology, animal experiments, mechanistic data), and various methods for evidence synthesis (systematic review, meta-analysis) and evaluation (e.g., risk-of-bias tools). Determination of an overall weight-of-evidence for a particular hazard will also be discussed. Through case studies, students will consider strengths and limitations of evidence, the types of biases that may be present, and how differences in interpretation may occur.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 610",
+            "Title": "Environmental and Occupational Toxicology",
+            "Number_of_credits": "Credits",
+            "Description": "This course will focus on the applications of environmental and occupation health (EOH) and toxicology, along with the necessary fundamentals of toxicology as a science. Major classes of toxicants and the relevant physiology of toxicity will be covered. Students will learn the challenges and opportunities in toxicology and how toxicology interacts with other disciplines at the population and individual level. Traditional topics and approaches to EOH (water and air quality, occupational health, industrial hygiene and injury prevention) will be integrated with toxicological approaches.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 612",
+            "Title": "Environmental Exposure Science",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides students with an overview of methods for measuring and evaluating both chemical and non-chemical environmental exposures. Particular emphasis will be placed on exposure assessment methods applicable to environmental epidemiology studies. Students become familiar with exposure science study design and commonly-used methods for monitoring and modeling pollution exposures in environmental settings, through participation in classroom exercises, lectures, and group work.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 615",
+            "Title": "Environmental and Occupational Health Policy",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an overview of the origins and development of environmental and occupational health policies, primarily in the United States. It utilizes an evidenced-based framework to assess the effectiveness of these policies within a context of a political climate towards public health. There is a focus is on the role of economics, legal/regulatory processes, and ethical issues. Cross-cultural and international differences will be explored.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 625",
+            "Title": "Occupational and Environmental Epidemiology",
+            "Number_of_credits": "Credits",
+            "Description": "Students will develop an understanding of occupational and environmental epidemiologic methods. Particular emphasis will be placed on the critical analysis of published occupational epidemiologic studies. Students will gain an understanding of the most appropriate methods for assessing exposure/disease relationships for several occupational and environmental exposures and diseases.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "EPI 570 [Min Grade: B] and BST 571 [Min Grade: B]"
+      },
+      {
+            "Identifier": "EOH 642",
+            "Title": "Healthy Housing & Built Environment",
+            "Number_of_credits": "Credits",
+            "Description": "The importance of housing and the built environment is recognized in the United Nations\u2019 Sustainable Development Goal #11 to make places where people live inclusive, safe, resilient, and sustainable. This course provides an overview how housing and the built environment affect health, with attention to pathways through which both harmful exposures and health-supportive opportunities affect populations. Students will be guided to contribute to the breadth of topics and perspectives discussed, to access and appraise relevant evidence, to reflect on social and historical factors that have led to place-based inequities, to juxtapose and compare plans with regards to their effects on health and health equity, and to articulate ways that health benefits of built environment change can be amplified.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 646",
+            "Title": "Environmental Health in Vulnerable Populations",
+            "Number_of_credits": "Credits",
+            "Description": "Policy instruments and tools in place to protect the health of vulnerable populations will be critically examined as well as issues related to equity and justice. A number of case studies will be examined to exemplify why certain populations are vulnerable to various environmental hazards.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 648",
+            "Title": "Public Health and Disaster Preparedness",
+            "Number_of_credits": "Credits",
+            "Description": "This course will cover key topics in the evolving field of public health emergency preparedness. The practice of public health involves a range of skills and knowledge areas that are used on a daily basis to improve the health of communities. During or emergencies public health agencies have important roles to protect the health of the public that extend the skills and responsibilities of day-to-day public health practice.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 649",
+            "Title": "Occupational and Environmental Cancers",
+            "Number_of_credits": "Credits",
+            "Description": "This course will provide students with a basic understanding of the biology of cancer, its causes, its epidemiology, and prevention methods. Legal implications of workplace and environmental exposures will be discussed.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 650",
+            "Title": "Microbes in Public Health Practice I: Overview of Bacterial Pathogens",
+            "Number_of_credits": "Credits",
+            "Description": "This course will cover the important bacterial pathogens that cause disease in humans, including bacterial virulence factors, disease mechanisms, and immunologic responses. The curriculum will focus on selected bacteria of clinical and public health importance, reviewing the clinical syndromes they produce, and appropriate treatment and control measures. The course will also address laboratory diagnostics for infectious diseases, including culture and non-culture methods for the diagnosis of infections caused by bacteria. Students will also learn about antimicrobial agents and resistance testing methods. It is highly recommended that students enrolled in this course have taken college-level biology and immunology classes.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 651",
+            "Title": "Microbes in Public Health Practice II: Overview of Viral and Other Pathogens",
+            "Number_of_credits": "Credits",
+            "Description": "This course will cover the important viral pathogens that cause disease in humans, including virulence factors, disease mechanisms, and immunologic responses. The curriculum will focus on selected viruses of clinical and public health importance, reviewing diagnostic considerations, the clinical syndromes they produce, and appropriate treatment and control measures. The course will also address selected parasitic and fungal infections. Prerequisite may be waived with instructor permission on a case-by-case basis.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "EOH 650 [Min Grade: B-]"
+      },
+      {
+            "Identifier": "EOH 653",
+            "Title": "Environment of Care",
+            "Number_of_credits": "Credits",
+            "Description": "This course will review the role that the healthcare environment has in the transmission of infectious diseases. Students will learn about the importance of maintaining a safe and clean environment via engineering controls, maintenance of air handling and water systems, cleaning, disinfection, and sterilization. Students will learn about specific environmental vectors and vehicles for disease transmission, how to monitor the environment to prevent disease, and how to respond to outbreaks associated with the environment in healthcare.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "EOH 651 [Min Grade: C] and EOH 655 [Min Grade: C]"
+      },
+      {
+            "Identifier": "EOH 655",
+            "Title": "Infection Prevention and Control in the Healthcare Environment",
+            "Number_of_credits": "Credits",
+            "Description": "This course will review the major risks for infection in healthcare settings and surveillance and prevention strategies for healthcare associated infections (HAIs). The course will also review important concepts in infection prevention and control in the healthcare environment. Students will learn about legal mandates and the major regulatory agencies, organizations, and professional standards for infection prevention and control within healthcare facilities. A college-level biology and/or microbiology class is highly recommended.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 656",
+            "Title": "Surveillance of Healthcare Associated Infections",
+            "Number_of_credits": "Credits",
+            "Description": "This course will cover surveillance for healthcare associated infections (HAIs), including use of standardized definitions, public health reporting requirements for HAIs, and tracking and monitoring infections in healthcare to prevent and respond to nosocomial outbreaks. Important concepts include the use and evaluation of electronic surveillance tools, standardized definitions established by the Centers for Disease Control and Prevention (CDC) National Healthcare Safety Network (NHSN) and the development, use, and evaluation of surveillance plans. Students will learn about how to define, monitor, and report infection data as well as data analysis tools used to compare healthcare data both for internal and external benchmarking and performance metrics.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "EOH 651 [Min Grade: C] and EOH 655 [Min Grade: C]"
+      },
+      {
+            "Identifier": "EOH 657",
+            "Title": "Public Health Impacts of Global Climate Change",
+            "Number_of_credits": "Credits",
+            "Description": "This course will provide an overview of the public health impacts of a changing global climate. The course will briefly review the scientific basis of observed and projected changes in the climate system. Then the course will survey the direct and indirect impacts of climate change on human health and adaptation strategies to reduce these impacts, including those due to heat waves, floods and storms, infectious agents and disease vectors, air pollutants, the food supply, occupational health, and population displacement and conflict. There will be particular attention to vulnerable populations and differences in projected health impacts among populations.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 658",
+            "Title": "Crisis and Risk Communication in Public Health",
+            "Number_of_credits": "Credits",
+            "Description": "Students will learn to create effective risk communication messages that are both theoretically grounded and based upon key lessons learned from the field of public health preparedness. Using a case study approach, and with an emphasis on developing skills including message design and evaluation, this course aims to give students an applied experience that will serve as a foundation for a career in public health or health communication.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 665",
+            "Title": "Quantitative Risk Analysis for Environmental Health",
+            "Number_of_credits": "Credits",
+            "Description": "This course will provide an overview of the fundamentals of risk analysis for environmental health. Students will develop a critical understanding of the steps for quantitative assessment of risk (dose-response assessment, exposure assessment, and risk characterization) through a series of examples and applied problems. Methods for risk analysis will be taught, including use of software tools. The course will emphasize identification of data sources for use in risk calculations and interpretation of risk analysis results, including robust discussion of the variability and uncertainties. Students will examine how quantitative assessment of risk can inform regulation for protection of human health from environmental hazards. Completion of a college-level statistics course with a minimum grade of C is required.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 695",
+            "Title": "Applied Human Health Risk Assessment",
+            "Number_of_credits": "Credits",
+            "Description": "Students work independently to apply risk assessment concepts to a problem approved by the course instructor. Application may involve literature review, quantitative evaluation, or development of methodology for any of the principal steps of human health risk assessment (hazard identification, dose-response assessment, exposure assessment, risk characterization).",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "EOH 605 [Min Grade: B-] and (EOH 665 [Min Grade: B-] or ENVE 727 [Min Grade: B-])"
+      },
+      {
+            "Identifier": "EOH 698",
+            "Title": "Infection Prevention and Control Capstone I",
+            "Number_of_credits": "Credit",
+            "Description": "The Capstone Project comprises the culminating experience for MS students in Infection Prevention and Control. Students engage in a project that emphasizes practical applications of concepts and skill development. The Capstone is organized as a 3-credit project over two quarters. Students will engage in discussion and peer-mentoring, providing feedback and support to their peers via an online classroom experience. In the first course of the two-course sequence, students will work on project development and design.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 699",
+            "Title": "Infection Prevention and Control Capstone II",
+            "Number_of_credits": "Credit",
+            "Description": "The Capstone Project comprises the culminating experience for MS students in Infection Prevention and Control. Students engage in a project that emphasizes practical applications of concepts and skill development. The Capstone will require students to synthesize and apply concepts related to infection control and prevention in either a healthcare or other selected setting. Students will engage in discussion and peer-mentoring, providing feedback and support to their peers via an online classroom experience. Students will conduct and complete a project demonstrating mastery of the program\u2019s competencies. Students are required to complete a high-quality written product and presentation at the end of this course.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 710",
+            "Title": "Advanced Methods in GIS for Public Health",
+            "Number_of_credits": "Credits",
+            "Description": "This course will familiarize students with the applications of Geographic Information Systems (GIS) to understand how the places that people live, work and play either add to or detract from health. Methods to assess the relationship between aspects of our environments (e.g. housing, transportation, food/nutrition, crime, chemical pollution, parks, and vegetation) and health in Philadelphia and beyond will be discussed. Students will learn through a multidisciplinary approach drawing from public health, geography, epidemiology, planning, medicine, and the social sciences.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HMP 703 [Min Grade: B] or ENVS 708 [Min Grade: B] or URBS 630 [Min Grade: B]"
+      },
+      {
+            "Identifier": "EOH 725",
+            "Title": "Seminar in Environmental Epidemiology",
+            "Number_of_credits": "Credits",
+            "Description": "This course is aimed at graduate students undertaking independent research in preparation for thesis defense or to aid in completion of the Integrated Learning Experience (ILE) requirement of MPH degrees. Topics may include research methodologies; research ethics; the results of research and issues in specific areas relevant to students\u2019 research. Emphasis will be placed on engaging with current literature in occupational and environmental epidemiology and exposure assessment.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "EOH 625 [Min Grade: B+] or EPI 560 [Min Grade: B+]"
+      },
+      {
+            "Identifier": "EOH 750",
+            "Title": "Integrative Learning Experience: Environmental and Occupational Health I",
+            "Number_of_credits": "Credits",
+            "Description": "The Integrative Learning Experience (ILE) comprises the culminating experience required of full-time second-year MPH students majoring in Environmental and Occupational Health (EOH). Organized as a 6-credit project over two quarters in year two, students engage in an in-depth research project or project-based internship that emphasizes practical applications of concepts and skill development. Students may choose to work on an individual or group-based project. Students are required to complete a high-quality written product and presentation at the end of the experience. This is the first course in the sequence.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 751",
+            "Title": "Integrative Learning Experience: Environmental and Occupational Health II",
+            "Number_of_credits": "Credits",
+            "Description": "The Integrative Learning Experience (ILE) comprises the culminating experience required of full-time second-year MPH students majoring in Environmental and Occupational Health (EOH). Organized as a 6-credit project over two quarters in year two, students engage in an in-depth research project or project-based internship that emphasizes practical applications of concepts and skill development. Students may choose to work on an individual or group-based project. Students are required to complete a high-quality written product and presentation at the end of the experience. This is the second course in the sequence.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "EOH 750 [Min Grade: C]"
+      },
+      {
+            "Identifier": "EOH 752",
+            "Title": "Urban Health Integrative Learning Experience Capstone",
+            "Number_of_credits": "Credits",
+            "Description": "The Integrative Learning Experience (ILE) comprises the culminating experience for MPH students majoring in Urban Health. Students engage in a project that emphasizes practical applications of concepts and skill development. Students will engage in discussion and peer mentoring throughout the course providing support and feedback to their peers via an online classroom. Students are required to complete a high-quality written product and presentation at the end of the experience.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 799",
+            "Title": "Master of Science Thesis Research in Environmental and Occupational Health Sciences",
+            "Number_of_credits": "Credits",
+            "Description": "Directed guidance of thesis research, preparation for presenting thesis research to colleagues at a seminar, and preparation for the final defense.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Can be repeated 3 times for 12 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 800",
+            "Title": "Professional Development",
+            "Number_of_credits": "Credits",
+            "Description": "This course is a professional development seminar for doctoral students and candidates in the environmental and occupational health program. Students will develop the presentation and professional skills necessary to enter the academic and professional job market.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 805",
+            "Title": "Evidence Evaluation for Identification of Environmental Hazards",
+            "Number_of_credits": "Credits",
+            "Description": "The hazard identification step of environmental risk assessment is meant to answer the question, \u201cIs exposure X a cause of human health outcome Y?\u201d Answering this question involves evaluation of a body of research, often including conflicting results. In this course, students will discuss and practice evidence evaluation, using different types of evidence (human epidemiology, animal experiments, mechanistic data), and various methods for evidence synthesis (systematic review, meta-analysis) and evaluation (e.g., risk-of-bias tools). Determination of an overall weight-of-evidence for a particular hazard will also be discussed. Through case studies, students will consider strengths and limitations of evidence, the types of biases that may be present, and how differences in interpretation may occur.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 810",
+            "Title": "Environmental and Occupational Toxicology",
+            "Number_of_credits": "Credits",
+            "Description": "This course will focus on the applications of environmental and occupation health (EOH) and toxicology, along with the necessary fundamentals of toxicology as a science. Major classes of toxicants and the relevant physiology of toxicity will be covered. Students will learn the challenges and opportunities in toxicology and how toxicology interacts with other disciplines at the population and individual level. Traditional topics and approaches to EOH (water and air quality, occupational health, industrial hygiene and injury prevention) will be integrated with toxicological approaches.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 812",
+            "Title": "Environmental Exposure Science",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides students with an overview of methods for measuring and evaluating both chemical and non-chemical environmental exposures. Particular emphasis will be placed on exposure assessment methods applicable to environmental epidemiology studies. Students become familiar with exposure science study design and commonly-used methods for monitoring and modeling pollution exposures in environmental settings, through participation in classroom exercises, lectures, and group work.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 815",
+            "Title": "Environmental and Occupational Health Policy",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an overview of the origins and development of environmental and occupational health policies, primarily in the United States. It utilizes an evidenced-based framework to assess the effectiveness of these policies within a context of a political climate towards public health. There is a focus on the role of economics, legal/regulatory processes, and ethical issues. Cross-cultural and international differences will be explored.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 825",
+            "Title": "Occupational and Environmental Epidemiology",
+            "Number_of_credits": "Credits",
+            "Description": "Students will develop an understanding of occupational and environmental epidemiologic methods. Particular emphasis will be placed on the critical analysis of published occupational epidemiologic studies. Students will gain an understanding of the most appropriate methods for assessing exposure/disease relationships for several occupational and environmental exposures and diseases.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "EPI 570 [Min Grade: B] and BST 571 [Min Grade: B]"
+      },
+      {
+            "Identifier": "EOH 830",
+            "Title": "Seminar in Environmental Epidemiology",
+            "Number_of_credits": "Credits",
+            "Description": "This course is aimed at graduate students undertaking independent research in preparation for thesis defense or to aid in completion of the Integrated Learning Experience (ILE) requirement of MPH degrees. Topics may include research methodologies; research ethics; the results of research and issues in specific areas relevant to students\u2019 research. Emphasis will be placed on engaging with current literature in occupational and environmental epidemiology and exposure assessment.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "EOH 625 [Min Grade: B+] or EPI 560 [Min Grade: B+] or EOH 825 [Min Grade: B+]"
+      },
+      {
+            "Identifier": "EOH 835",
+            "Title": "Occupational Health Psychology",
+            "Number_of_credits": "Credits",
+            "Description": "The course examines psychosocial factors in the workplace that affect health and productivity. The goal of the course is to explore the impact of workplace social, psychological and organizational stressors on productivity, physical and psychological health. And also, how work stressors can be ameliorated through workplace redesign alternatives and other social policy interventions. Specific focus will be on psychosocial stressors, organizational climate and culture, contextual factors, measurement methodologies, research methods and interventions in Occupational Health Psychology.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH 997",
+            "Title": "Dissertation Guidance in Environmental and Occupational Health",
+            "Number_of_credits": "Credit",
+            "Description": "Directed guidance of dissertation research. Guidance will include preparation for presenting dissertation research and preparation for the final defense.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH T580",
+            "Title": "Special Topics in Environmental & Occupational Health",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH T680",
+            "Title": "Special Topics in Environmental & Occupational Health",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH T780",
+            "Title": "Special Topics in Environmental & Occupational Health",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH T880",
+            "Title": "Special Topics in Environmental & Occupational Health",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EOH T980",
+            "Title": "Special Topics in Environmental & Occupational Health",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

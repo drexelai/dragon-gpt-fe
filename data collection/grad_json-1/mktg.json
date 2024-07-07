@@ -1,0 +1,290 @@
+[
+      {
+            "Identifier": "MKTG 510",
+            "Title": "Marketing Strategy",
+            "Number_of_credits": "Credits",
+            "Description": "Marketing is the practice of creating and exchanging value. Marketing strategy can be thought of as a process by which companies allocate scarce resources in order to exchange value in ways that enhance corporate performance and sustainability. The course addresses how creating and delivering superior value can improve relationships with customers and other stakeholders. It also provides students with analytical skills, decision tools, and disciplined frameworks to conduct a market analysis.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MKTG 601",
+            "Title": "Marketing Strategy & Planning",
+            "Number_of_credits": "Credits",
+            "Description": "Emphasizes application of strategic planning in marketing to achieve competitive advantage. Examines the role of strategic planning in developing effective marketing programs that enhance the overall performance of the firm.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MKTG 606",
+            "Title": "Customer Analytics",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to give students powerful, cutting-edge tools to turn customer data into actionable managerial insights. Focus is on predictive analytic techniques used by marketers to acquire, develop, and retain customers. While students will employ quantitative methods in the course, the goal is not to produce experts in statistics; rather, students will gain the competency in the use of data to make better business decisions. The course uses a combination of lectures, cases, and exercises, and will be taking a very hands-on approach with real-world databases to provide students with tools that can be used immediately on the job.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MKTG 601 [Min Grade: C] or MKTG 510 [Min Grade: C]) and (STAT 601 [Min Grade: C] or STAT 610 [Min Grade: C])"
+      },
+      {
+            "Identifier": "MKTG 607",
+            "Title": "Marketing Experiments",
+            "Number_of_credits": "Credits",
+            "Description": "Focused at the intersection of marketing strategy and marketing analytics students will develop skills that will allow them to design, execute, analyze and communicate A/B and multivariate tests, designed to provide definitive answers to business questions like, \u201cWhich advertisement should we use?\u201d, \u201cHow much should we be willing to spend on an advertisement?\u201d, \u201cWhich product design should we go with?\u201d Students will gain fluency in executing statistical methods including confidence intervals, regression, optimal design, and sequential experimentation. Students will become adept at communicating data-based conclusions to business leaders and will devise strategies for developing a culture of data-based decision making in business organizations.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MKTG 601 [Min Grade: C] or MKTG 510 [Min Grade: C]) and (STAT 601 [Min Grade: C] or STAT 610 [Min Grade: C])"
+      },
+      {
+            "Identifier": "MKTG 622",
+            "Title": "Buyer Behavior Theory",
+            "Number_of_credits": "Credits",
+            "Description": "Provides an interdisciplinary study of the theories and research of buyer behavior. Draws on concepts from marketing, anthropology, psychology, sociology, and economics and their application for marketing managers seeking insights into the consumer decision-making process.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MKTG 601 [Min Grade: C] or MKTG 510 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MKTG 624",
+            "Title": "Channels of Distribution Management",
+            "Number_of_credits": "Credits",
+            "Description": "Applies marketing channel theory and research to the design of channel systems, selection of intermediaries, administration of interorganizational channels, and evaluation of distribution performance.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MKTG 601 [Min Grade: C] or MKTG 510 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MKTG 627",
+            "Title": "Digital Marketing",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores how organizations and leaders can maximize the business value of social and digital media platforms. The course also provides a framework and best practices for digital media management, enhances understanding of strategic communication within the digital media context, and improves digital media communication, content management, and analytic skills. Assignments include a personal branding weekly project, an in-class digital media marketing simulation, and a final real-world group consulting project on digital media strategy and implementation. Outside experts will provide lectures on specific digital marketing topics on select weeks.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MKTG 601 [Min Grade: C] or MKTG 510 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MKTG 630",
+            "Title": "Global Marketing",
+            "Number_of_credits": "Credits",
+            "Description": "Covers concepts, principles, and practices of international marketing management. Studies cross-cultural differences and distribution systems, pricing methods, promotional methods, trade barriers, and current factors influencing international marketing.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MKTG 601 [Min Grade: C] or MKTG 510 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MKTG 634",
+            "Title": "Integrated Marketing Communications Management",
+            "Number_of_credits": "Credits",
+            "Description": "Takes the marketing manager's viewpoint to examine the management and coordination of all marketing communication to customers and stakeholders. Discusses concepts and strategies in such areas as advertising, sales promotion, personal selling, and public relations.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MKTG 601 [Min Grade: C] or MKTG 510 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MKTG 638",
+            "Title": "New Product Planning, Strategy, and Development",
+            "Number_of_credits": "Credits",
+            "Description": "Examines the process of strategic planning for marketing innovation and development of new products in a dynamic business environment. Integrates concepts and techniques from several disciplines to understand new product development.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MKTG 601 [Min Grade: C] or MKTG 510 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MKTG 646",
+            "Title": "Services Marketing",
+            "Number_of_credits": "Credits",
+            "Description": "Covers marketing theory, concepts, strategy, and tactics as applied to the unique characteristics and demands of service organizations and manufacturing firms that use service as a competitive advantage. Evaluates marketing strategies of various service industries using case studies to illustrate the links between internal business processes and external customer satisfaction.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MKTG 601 [Min Grade: C] or MKTG 510 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MKTG 650",
+            "Title": "Marketing Management Cases and Problems",
+            "Number_of_credits": "Credits",
+            "Description": "Applies the case method to the analysis of consumer and industrial product/service marketing situations. Requires students to use systematic techniques to make decisions in product development, communications, distribution, and pricing in an evolving marketing environment.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MKTG 601 [Min Grade: C] or MKTG 510 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MKTG 652",
+            "Title": "Marketing Information Management and Research",
+            "Number_of_credits": "Credits",
+            "Description": "Examines the current tools available to modern marketing decision makers for information management and applies these tools in realistic situations.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MKTG 601 [Min Grade: C] or MKTG 510 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MKTG 654",
+            "Title": "Corporate Brand & Reputation Management",
+            "Number_of_credits": "Credits",
+            "Description": "An examination of how business managers can build the reputation of their organizations in order to gain competitive advantage in the market. The course will focus on how companies can enhance their financial value through increased attention to multiple stakeholders.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MKTG 601 [Min Grade: C] or MKTG 510 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MKTG 790",
+            "Title": "Seminar In Marketing Management",
+            "Number_of_credits": "Credits",
+            "Description": "Examines current developments and contemporary thought in marketing. Requires an in-depth analysis of a special marketing area selected by the student, and oral and written reports of graduate quality.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MKTG 601 [Min Grade: C] or MKTG 510 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MKTG 920",
+            "Title": "Concept Found Buyer Bhvr",
+            "Number_of_credits": "Credits",
+            "Description": "",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MKTG 922",
+            "Title": "Seminar in the Development of Marketing Thought and Theory",
+            "Number_of_credits": "Credits",
+            "Description": "",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MKTG 926",
+            "Title": "Seminar in Strategic Marketing Planning",
+            "Number_of_credits": "Credits",
+            "Description": "",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MKTG 932",
+            "Title": "Developing Marketing Channel Systems",
+            "Number_of_credits": "Credits",
+            "Description": "",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MKTG 940",
+            "Title": "Multivariate II",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to help student researchers enhance their data analysis skills by developing a conceptual understanding of the most widely used multivariate techniques.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "STAT 924 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MKTG 942",
+            "Title": "Models of Consumer and Firms' Decisions",
+            "Number_of_credits": "Credits",
+            "Description": "The course provides a flexible, hands-on understanding of regression & multilevel modeling. Course provides doctoral students starting serious empirical research with a useful toolkit of techniques. Topics include: fitting & understanding classical linear regression & generalized linear regression models (e.g., logistic & Poisson regression), using simulation to check model fit & model properties, understanding the assumptions & challenges underlying causal inference & a few techniques to perform causal inference & understanding multilevel data structures & fitting linear & generalized linear multilevel models.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "STAT 924 [Min Grade: B]"
+      },
+      {
+            "Identifier": "MKTG 998",
+            "Title": "Dissertation Research in Marketing",
+            "Number_of_credits": "Credit",
+            "Description": "",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MKTG I599",
+            "Title": "Independent Study in MKTG",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MKTG I699",
+            "Title": "Independent Study in MKTG",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MKTG I799",
+            "Title": "Independent Study in MKTG",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MKTG I899",
+            "Title": "Independent Study in MKTG",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MKTG I999",
+            "Title": "Independent Study in MKTG",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated 3 times for 9 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MKTG T580",
+            "Title": "Special Topics in MKTG",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MKTG T680",
+            "Title": "Special Topics in MKTG",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MKTG T780",
+            "Title": "Special Topics in MKTG",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MKTG T880",
+            "Title": "Special Topics in MKTG",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MKTG T980",
+            "Title": "Special Topics in MKTG",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

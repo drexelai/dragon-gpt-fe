@@ -1,0 +1,29 @@
+[
+      {
+            "Identifier": "COOP 500",
+            "Title": "Career Management and Professional Development for Master's Degree Students",
+            "Number_of_credits": "Credit",
+            "Description": "Prepares master\u2019s degree students enrolled in the co-op program to achieve success, personally and academically, in their cooperative education experience. Topics covered include career exploration, resume development, interview techniques, job search strategies, success in the workplace, and professionalism.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COOP 501",
+            "Title": "Co-op Experience for Master\u2019s Degree Students",
+            "Number_of_credits": "Credits",
+            "Description": "Cooperative Education program for master's degree students in select majors.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Can be repeated 1 times for 18 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COOP 995",
+            "Title": "Graduate CO-OP Companion Course",
+            "Number_of_credits": "Credit",
+            "Description": "A non-billable course that is paired with CO-OP 501 or CO-OP 601 to reflect the true commitment to experiential learning expected in those two courses. Applies to Master's Level Co-Op Programs in LeBow College of Business, College of Engineering; School of Biomedical Engineering, Information Science, and Health Systems.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

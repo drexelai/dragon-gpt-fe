@@ -1,0 +1,299 @@
+[
+      {
+            "Identifier": "MTED 500",
+            "Title": "Learning and Teaching Number and Operation",
+            "Number_of_credits": "Credits",
+            "Description": "Course focus is on the key ideas of number and operation and support students in developing a coherent understanding of both our number system and the structural similarities between it and the computation, arithmetic, algebra, and problem solving that appear throughout the school mathematics curriculum.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MTED 501",
+            "Title": "Proportional and Algebraic Reasoning",
+            "Number_of_credits": "Credits",
+            "Description": "This course is about learning and teaching algebra, focusing on patterns, functions and graphs, proportionality, and algebraic connections. Participants will collaboratively explore open-ended problems, discussing, evaluating, revising, and analyzing others' solutions. This is the first course in a sequence to prepare teachers for implementing student-centered, content-based and technology-enhanced instruction.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MTED 502",
+            "Title": "Geometry & Spatial Reasoning",
+            "Number_of_credits": "Credits",
+            "Description": "This course is about learning and teaching geometry, focusing on characteristics of shapes, representational systems, geometric modeling, and proof. Participants will collaboratively explore open-ended geometric problems, discussing, evaluating, revising, and analyzing others solutions. This is the second of three introductory courses that prepare teachers to enact student-centered learning and teaching.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MTED 503",
+            "Title": "Data Analysis and Probabilistic & Statistical Reasoning",
+            "Number_of_credits": "Credits",
+            "Description": "This course is about learning and teaching data analysis and probabilistic and statistical reasoning, focusing on representation of data, measures of center and spread, inferential statistics, proportionality and probability, and introductory statistical analysis. Participants will discuss, evaluate, revise and analyze solutions and methods. This is the third of a 3-course sequence.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MTED 511",
+            "Title": "Functions through the Curriculum",
+            "Number_of_credits": "Credits",
+            "Description": "This course will consist of an extended analysis of the conception of function, including its historical development. Participants will gain personal experience in thinking of function as a unifying idea on mathematics as well as with conceptual instructional materials.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MTED 517",
+            "Title": "Mathematics Methods and Content (PreK-4)",
+            "Number_of_credits": "Credits",
+            "Description": "Candidates will develop an in-depth understanding of how to effectively deliver standards-aligned academic math content based on age appropriate understanding and individual and group needs, including an appreciation and respect for the individual differences and unique needs of all children in the PK-4 setting. This course has a Stage 3 field component, successful completion of the field component is required for recommendation for certification. See SoE Field Placement Office website for all clearance policy and field experience requirements.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "EDUC 521 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MTED 518",
+            "Title": "Advanced Mathematics Methods and Content (PreK-4)",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides teacher candidates with an advanced perspective on the learning and teaching of mathematics to elementary school students and includes a combination of readings and analysis of current research and activities that integrate mathematical content and pedagogy. This course is designed to support teachers\u2019 understandings of PreK-4 mathematics as well as the way that this content serves as the foundation for advanced elementary and middle school mathematics.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MTED 517 [Min Grade: B]"
+      },
+      {
+            "Identifier": "MTED 519",
+            "Title": "Teaching Secondary Mathematics",
+            "Number_of_credits": "Credits",
+            "Description": "The course focuses on major issues in learning and teaching mathematics in the secondary classroom. Topics will include instructional practices, learning theories, assessment and current research in math. This course also includes multimedia and field-based experiences. This course has a Stage 3 field component, successful completion of the field component is required for recommendation for certification. See SoE Field Placement Office website for all clearance policy and field experience requirements.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MTED 528",
+            "Title": "Cultural and Historical Significance of Mathematics",
+            "Number_of_credits": "Credits",
+            "Description": "The course explores how mathematics reflects and influences the ideas and movements in culture, history, biography and philosophy. An emphasis on teaching methods is integrated throughout the course.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MTED 551",
+            "Title": "Resources & Strategies for Effective Implementation of Problems-based Instruction",
+            "Number_of_credits": "Credits",
+            "Description": "This course will enhance teachers' understanding of the Common Core State Standards' Mathematical Practices and the role of problem solving in addressing them. The goal is to develop participants' ability to support approaches that maximize problem-solving discussions in the classroom and strengthen their students' ability to practice perseverance.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MTED 563",
+            "Title": "Middle Years Mathematical Methods (4-8)",
+            "Number_of_credits": "Credit",
+            "Description": "This course focuses on critical knowledge and skills for teaching mathematics in middle years, including learning theories and psychology in mathematics education, mathematics curricula, teaching mathematics, technology, assessment, and meeting individual student needs. The major goal is to provide prospective middle school teachers the opportunity to develop concepts, skills, and pedagogical procedures for effective teaching of mathematics in middle years. Important social and cultural aspects of teaching math that impact student learning will be considered, as well as reflection occur on how teaching mathematics can be made exciting, intriguing, and understandable for students.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MTED 601",
+            "Title": "Diagnosing Student Mathematical Thinking",
+            "Number_of_credits": "Credits",
+            "Description": "This course is about student-centered learning and teaching of mathematics. This goal is to develop participants' expertise in analyzing student work, understanding student thinking, and using that understanding to guide subsequent interactions and interventions with the student.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MTED 611",
+            "Title": "Virtual Field Experience I - Online Mentoring",
+            "Number_of_credits": "Credit",
+            "Description": "This course utilizes the Math Forum's online learning environment to provide teachers with opportunities to engage with students, diagnose student understandings, and implement appropriate instructional responses. Key to this course is virtual one-on-one interactions and an opportunity to reflect on these interactions. This is the first of a 2-course sequence.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MTED 601 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MTED 612",
+            "Title": "Virtual Field Experience II - Online Mentoring",
+            "Number_of_credits": "Credit",
+            "Description": "This course utilizes the Math Forum's online learning environment to provide teachers with opportunities to engage with students, diagnose student understandings, and implement appropriate instructional responses. Key to this course is continued virtual interactions and an opportunity to reflect on these4 interactions. This is the second of a 2-course sequence.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MTED 611 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MTED 621",
+            "Title": "Collaborative Instructional Design & Analysis I",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on teachers identifying critical areas from their colleagues' classrooms that are in need of improvement and designing and implementing a substantive, outcome-driven response. The course will involve intensive analysis of curricular goals, intended student outcomes, lesson planning and classroom-based \"action research\".",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MTED 601 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MTED 622",
+            "Title": "Collaborative Instructional Design & Analysis II",
+            "Number_of_credits": "Credits",
+            "Description": "This course is the second of two courses designed to help teachers identify critical areas from their colleagues' classrooms that are in need of improvement and designing and implementing an appropriate response. The course will involve similar tasks and assignments as MDED 621 but will differ in curricular focus.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MTED 621 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MTED 642",
+            "Title": "Mathematics Coaching and Leadership",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores the attributes of effective mathematics coaching. The goal is to develop candidates\u2019 understanding and expertise of the structure, skills, core concepts, facts, methods of inquiry and application of technology required to build and sustain a successful mathematics coaching practice within their chosen specialization (preK-12, pre-K-8 or 6-12).",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MTED 621 [Min Grade: B]"
+      },
+      {
+            "Identifier": "MTED 643",
+            "Title": "Practicum in Mathematics Coaching and Leadership",
+            "Number_of_credits": "Credits",
+            "Description": "This course offers teachers the opportunity to engage in a wide range of practical experiences in authentic educational settings and connect their coaching knowledge with practical issues in real school contexts. As the term develops, participant\u2019s required exposure to learning situations and school settings under the guidance of program faculty and trained mentors will increase significantly. There is a substantial field experience component in this course.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MTED 621 [Min Grade: B]"
+      },
+      {
+            "Identifier": "MTED 651",
+            "Title": "Problem Solving Strategies",
+            "Number_of_credits": "Credits",
+            "Description": "Course focus is on supporting the development of mathematical approaches to problems that allow students to productively engage with and reason through a wide variety of mathematical tasks. Students will develop high levels of competence and sophistication with a wide range of mathematical approaches, including guess and check, consider a simpler problem, analyze in terms of parity, case analysis, etc.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MTED 661",
+            "Title": "Teaching Math with Dynamic Math Technology",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores how the teaching and learning of math in grades 6 through calculus is enhanced by appropriate use of dynamic mathematics software such as Classpad.net, Geogebra and Desmos. Course activities will include constructing content-focused math activities from scratch and using existing ready-to-use activities from the different dynamic math software tools to cover topics in middle school, algebra, geometry, statistics, and calculus. Technology skills such as creating sliders, constructions, creating multiple representations, creating hide/show buttons, and more will be covered as they relate to the math topics being explored. The focus is on using technology appropriately to enhance the teaching and learning of mathematics.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MTED 662",
+            "Title": "Teaching Calculus with Dynamic Geometry Software",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores teaching the fundamental ideas of calculus, including limits, derivatives, antiderivatives, and integrals through the use of dynamic geometry software. While the course will cover a variety of calculus content, it is not a calculus course. This course is designed to enrich students' understanding of calculus ideas, to corroboratively explore these ideas with colleagues, and to engage in professional conversations about the implications of these experiences and technologies on the teaching of the ideas of calculus at the middle and secondary levels.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MTED 690",
+            "Title": "Current Research in Mathematics Learning & Teaching",
+            "Number_of_credits": "Credits",
+            "Description": "This capstone course for the Master of Science program in Mathematics Learning and Teaching will provide students with an introduction to research in mathematics education. Participants will read, analyze, and synthesize seminal research articles in mathematics education and create a proposal for a future classroom-based research project.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MTED 775",
+            "Title": "Special Topics in Mathematics Education",
+            "Number_of_credits": "Credits",
+            "Description": "Covers various topics of particular interest to mathematics teachers and education students.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated 3 times for 9 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MTED I599",
+            "Title": "Independent Study in MTED",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MTED I699",
+            "Title": "Independent Study in MTED",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MTED I799",
+            "Title": "Independent Study in MTED",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MTED I899",
+            "Title": "Independent Study in MTED",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MTED I999",
+            "Title": "Independent Study in MTED",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MTED T580",
+            "Title": "Special topics in MTED",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MTED T680",
+            "Title": "Special topics in MTED",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MTED T780",
+            "Title": "Special topics in MTED",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MTED T880",
+            "Title": "Special topics in MTED",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MTED T980",
+            "Title": "Special topics in MTED",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

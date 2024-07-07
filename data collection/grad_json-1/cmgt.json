@@ -1,0 +1,191 @@
+[
+      {
+            "Identifier": "CMGT 501",
+            "Title": "Leadership in Construction",
+            "Number_of_credits": "Credits",
+            "Description": "This course is intended to introduce students to value-based, effective leadership principles and practices across the construction industry. Topics include prevailing theory, leadership traits & styles, emotional intelligence, motivation, collaborative environs and alliances, and change.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CMGT 505",
+            "Title": "Construction Accounting and Financial Management",
+            "Number_of_credits": "Credits",
+            "Description": "This course presents the principles of accounting for construction projects. Topics include techniques of cost accounting and financial analysis employed by the construction practitioners. Specific topics include accounting principles to track and manage labor, material, equipment, overhead and other construction resources. Topics specific to construction include contract revenue, financial reporting, and tax considerations for conductors.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CMGT 510",
+            "Title": "Construction Control Techniques",
+            "Number_of_credits": "Credits",
+            "Description": "This course addresses the knowledge and skill sets required to successfully plan and control complex construction projects. Topics include procurement and contracts, pre-bid planning, contract budgets and cash flow, and planning case studies.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CMGT 512",
+            "Title": "Cost Estimating and Bidding Strategies",
+            "Number_of_credits": "Credits",
+            "Description": "This is an advanced course in construction estimating addressing competitive bidding strategies. Topics include profit objectives, analyzing the competition, and determining optimum combo of price, cost and volume.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CMGT 515",
+            "Title": "Risk Management in Construction",
+            "Number_of_credits": "Credits",
+            "Description": "This course presents risk management techniques and practices specific to construction projects. Students will gain an understanding of the risks stemming from technical and business sources related to the construction process, and to identify, quantify, and develop the appropriate response strategies.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CMGT 525",
+            "Title": "Applied Construction Project Management",
+            "Number_of_credits": "Credits",
+            "Description": "This course presents the knowledge and skills required to successfully manage complex construction projects. Topics include the project management hard skills such as estimating and budgeting, time management, and planning.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CMGT 528",
+            "Title": "Construction Contract Administration",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces the managerial and legal aspects of construction contract administration. The student is introduced to basic concepts of contract law employed in construction and the rules of interpretation. Topics include changes and change orders, disputes, differing site conditions, and defective documents.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CMGT 530",
+            "Title": "Equipment Applications and Economy",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an in-depth treatment of heavy construction equipment applications and covers the associated management practices. The application topics include techniques used to analyze and estimate equipment productivity, equipment selection, and optimization. The course includes a strong emphasis in equipment economics including owning and operating costs.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CMGT 532",
+            "Title": "International Construction Practices",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an introduction to the strategic issues relating to the business of construction on a global scale. The course is intended to provide students with the knowledge of current best practices by construction organizations in America, Europe and Asia.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CMGT 535",
+            "Title": "Community Impact Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an overview of community impact assessment, including the benefits of conducting such an assessment. It also provides general guidelines for conducting a community impact assessment, including types of impacts that should be addressed during the process and related issues.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CMGT 538",
+            "Title": "Strategic Management in Construction",
+            "Number_of_credits": "Credits",
+            "Description": "This course presents concepts in strategic management within construction organizations. Topics include clients/constructors/competencies, portfolio management, and marketing strategies for construction firms.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CMGT 540",
+            "Title": "Schedule Impact Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "This is an advanced course that deals with the legal aspects of construction schedules. Topics include time impact analysis, applying CPM techniques to contract claims, and calculating delay damages.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CMGT 510 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CMGT 545",
+            "Title": "Sustainable Principles & Practices",
+            "Number_of_credits": "Credits",
+            "Description": "This course addresses the fundamentals of green building concepts and practices underlying sustainable construction from the perspective of the LEED Green Building rating system.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CMGT 546",
+            "Title": "Sustainable Technologies",
+            "Number_of_credits": "Credits",
+            "Description": "This course addresses sustainable technologies in the built environment and is presented as a whole building design system. The course is organized into three major categories-Design Guidance, Project Management, and Operations & Maintenance.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CMGT 547",
+            "Title": "LEED Concepts",
+            "Number_of_credits": "Credits",
+            "Description": "This course addresses the fundamental concepts and practices underlying the LEED green building rating system.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CMGT 548",
+            "Title": "Quality Management and Construction Performance",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers quality management of construction processes. Topics include designing and implementing quality management plans, establishing a quality management system and Information technology in quality management.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CMGT 550",
+            "Title": "Productivity Analysis and Improvement",
+            "Number_of_credits": "Credits",
+            "Description": "The focus of this course is construction productivity measurement and improvement. Topics include roles of the individual stakeholders, quantifying labor and equipment productivity, and techniques to improve job site productivity.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CMGT 558",
+            "Title": "Community Sustainability",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides clear direction to students how to design cities and developments that are sustainable and reduce environmental harm.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CMGT 696",
+            "Title": "Capstone Project in Construction Management I",
+            "Number_of_credits": "Credits",
+            "Description": "The capstone project is completed independently over two quarters under the direction of full-time Construction Management faculty and is intended to reinforce the knowledge and skills acquired through graduate study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CMGT 697",
+            "Title": "Capstone Project in Construction Management II",
+            "Number_of_credits": "Credits",
+            "Description": "The capstone project is completed independently over two quarters under the direction of full-time Construction Management faculty and is intended to reinforce the knowledge and skills acquired through graduate study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CMGT 696 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CMGT T580",
+            "Title": "Special Topics in Construction Management",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated 2 times for 9 credits",
+            "Prerequisites": "Null"
+      }
+]

@@ -1,0 +1,281 @@
+[
+      {
+            "Identifier": "CHE 502",
+            "Title": "Mathematical Methods in Chemical Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Emphasizes formulation of ordinary and partial differential equations and their analytical and approximate solutions governing steady and unsteady chemical and biochemical engineering phenomena and processes.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE 513",
+            "Title": "Chemical Engineering Thermodynamics I",
+            "Number_of_credits": "Credits",
+            "Description": "Examines thermodynamic principles from a classical viewpoint, including properties of materials, equations of state of mixtures, and chemical and phase equilibria of complex mixtures.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE 525",
+            "Title": "Transport Phenomena I",
+            "Number_of_credits": "Credits",
+            "Description": "Presents a unified treatment of the continuity of conserved qualities of momentum, energy, and mass, with emphasis on analytical and approximate solution methods.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 502 [Min Grade: B-]"
+      },
+      {
+            "Identifier": "CHE 531",
+            "Title": "Fundamentals of Solar Cells",
+            "Number_of_credits": "Credits",
+            "Description": "Focuses on fundamentals of solar cells, covering semiconductor materials, basic semiconductor physics, optical and electronic phenomena, and case studies of crystalline silicon, thin film, and nanostructured photovoltaics.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE 532",
+            "Title": "Electrochemical Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the principles and applications of electrochemical equilibria, kinetics, and transport processes with a focus on system operation and design, drawing examples and applications from topics that include batteries and fuel cells, electroanalytical chemistry, electroplating, and corrosion protection.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE 533",
+            "Title": "Introduction to Rheology",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces the concepts of how science defines and conceptualizes the behavior of \u201creal\u201d fluids. Covers concepts such as how to characterize, quantify, and simulate non-newtonian behavior in real fluids.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE 543",
+            "Title": "Kinetics & Catalysis I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers chemical reaction kinetics in chemical engineering, including gas and liquid phase reaction mechanisms, reaction rate theories, and heterogeneous kinetics and catalysis.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 502 [Min Grade: B-]"
+      },
+      {
+            "Identifier": "CHE 554",
+            "Title": "Process Systems Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Covers basic concepts of the systems engineering approach to the design and operation of chemical engineering processes, including methods for developing process control strategies.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 502 [Min Grade: B-]"
+      },
+      {
+            "Identifier": "CHE 560",
+            "Title": "Transport Phenomena in Biological Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Covers gas-liquid mass transfer in microbial systems, mass transfer in cells and biofilms, membrane transport, fluid mechanics of fermentation broth, power consumption in agitated vessels, heat transfer, and scale-up of mass transfer equipment.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE 561",
+            "Title": "Principles of Colloid Science",
+            "Number_of_credits": "Credits",
+            "Description": "Focuses on fundamental principles of colloid science from a biological perspective, covering surface active agents, thermodynamics of self-assembly of surfactants, surface chemistry and physics of monolayers and bilayers, microstructures and phase behavior, specific biological colloids (micelles, liposomes, and lipoproteins), and colloidal stability.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE 562",
+            "Title": "Bioreactor Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Covers growth and product formation kinetics, batch and continuous stirred tank bioreactors, tower reactors, immobilized-cell reactors, and immobilized-enzyme reactors.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE 564",
+            "Title": "Unit Operations in Bioprocess Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Covers liquid-liquid extraction, membrane separation, chromatographic separation, filtration, and centrifugation in bioprocessing.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE 571",
+            "Title": "Pharmaceutical & Medical Device Manufacturing I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers engineering and regulatory processes in the manufacture of pharmaceutical, biopharmaceutical and medical devices, including Good Manufacturing Practice and Medical Device Regulations.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE 572",
+            "Title": "Pharmaceutical & Medical Device Manufacturing II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers design of unit operations and critical systems used in the manufacture of pharmaceutical, biopharmaceutical and medical devices, and engineering design and validation of manufacturing facilities.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 571 [Min Grade: B-]"
+      },
+      {
+            "Identifier": "CHE 581",
+            "Title": "Solutions to Climate Change",
+            "Number_of_credits": "Credits",
+            "Description": "Climate change will likely be the most important challenge of our time. Drawdown is the theoretical point in the future when greenhouse gas concentrations in the atmosphere peak and then begin to decline, reversing the trend of global warming. Can we get there? How? We will examine the potential impacts of dozens of top solutions to understand where our actions have the most leverage. Solutions range from technical (green energy, buildings, and transportation) to non-technical (food choices and education). The best solutions not only mitigate global warming but also lead to economic benefits and a more just and equitable society.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE 590",
+            "Title": "Research Methods and Practices",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces general process for scientific inquiry and engineering research, providing good practices for conducting and communicating scientific research, including approaches for effective technical writing and oral presentations.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE 614",
+            "Title": "Chemical Engineering Thermodynamics II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers theory and application of statistical mechanics, with emphasis on prediction of volumetric and thermal properties of pure fluids and mixtures, and phase equilibrium. Covers also non-equilibrium statistical mechanics, with emphasis on linear response theory for chemical kinetics. Introduces modern methods in applied statistical mechanics, including Monte Carlo and molecular dynamics simulations.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 513 [Min Grade: B-]"
+      },
+      {
+            "Identifier": "CHE 626",
+            "Title": "Transport Phenomena II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers advanced analysis of transport phenomena involving mass, energy, and momentum transport, with emphasis on application of numerical methods for solving systems of nonlinear algebraic equations, initial value problems, and boundary value problems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 525 [Min Grade: B-]"
+      },
+      {
+            "Identifier": "CHE 897",
+            "Title": "Research",
+            "Number_of_credits": "Credit",
+            "Description": "Requires research in chemical engineering. Student is expected to conduct independent research, maintain high standards of ethical integrity, professionalism, self-motivation and curiosity, and comply with group, department and university safety policies. Student has prime responsibility for successful continuation/completion of research. Responsibilities include, but are not limited to, literature review, design & analysis of experiments/computations to ensure meaningful and unique contributions to the chosen field; regular communication with research advisor(s) to discuss results, analysis & next steps; dissemination via conference presentations and peer-reviewed publications; relevant equipment maintenance; working with peers, collaborators and mentoring undergraduate and junior PhD students.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE 898",
+            "Title": "Master's Thesis",
+            "Number_of_credits": "Credits",
+            "Description": "Requires thesis research in chemical engineering. Student is expected to conduct independent research, maintain high standards of ethical integrity, professionalism, self-motivation and curiosity, and comply with group, department and university safety policies. Student has prime responsibility for successful continuation/completion of research. Responsibilities include, but are not limited to, literature review, design & analysis of experiments/computations to ensure meaningful and unique contributions to the chosen field; regular communication with research advisor(s) to discuss results, analysis & next steps; dissemination via conference presentations and peer-reviewed publications; relevant equipment maintenance; and working with peers, collaborators.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE 998",
+            "Title": "Ph.D. Dissertation",
+            "Number_of_credits": "Credit",
+            "Description": "Requires dissertation research in chemical engineering. Student is expected to conduct independent research, maintain high standards of ethical integrity, professionalism, self-motivation and curiosity, and comply with group, department and university safety policies. Student has prime responsibility for successful continuation/completion of research. Responsibilities include, but are not limited to, literature review, design & analysis of experiments/computations to ensure meaningful and unique contributions to the chosen field; regular communication with research advisor(s) to discuss results, analysis & next steps; dissemination via conference presentations and peer-reviewed publications; relevant equipment maintenance; working with peers, collaborators and mentoring undergraduate and junior PhD students.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE I599",
+            "Title": "Independent Study in CHE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE I699",
+            "Title": "Independent Study in CHE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE I799",
+            "Title": "Independent Study in CHE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE I899",
+            "Title": "Independent Study in CHE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE I999",
+            "Title": "Independent Study in CHE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE T580",
+            "Title": "Special Topics in CHE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE T680",
+            "Title": "Special Topics in CHE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE T780",
+            "Title": "Special Topics in CHE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE T880",
+            "Title": "Special Topics in CHE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE T980",
+            "Title": "Special Topics in CHE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

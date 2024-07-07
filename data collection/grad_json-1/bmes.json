@@ -1,0 +1,785 @@
+[
+      {
+            "Identifier": "BMES 501",
+            "Title": "Medical Sciences I",
+            "Number_of_credits": "Credits",
+            "Description": "First course in a three-course sequence designed to acquaint students with the fundamentals of biology and physiology from an engineering perspective. This first course covers evolution, genetics, molecular biology and basic cellular physiology.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 502",
+            "Title": "Medical Sciences II",
+            "Number_of_credits": "Credits",
+            "Description": "Second course in a three-course sequence designed to introduce students to the fundamentals of biology and physiology from an engineering perspective. This second course covers important concepts in cell physiology and highlights applications of these concepts in biomedical engineering.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BMES 501 [Min Grade: C]"
+      },
+      {
+            "Identifier": "BMES 503",
+            "Title": "Medical Sciences III",
+            "Number_of_credits": "Credits",
+            "Description": "Third course in a three-course sequence designed to introduce students to the fundamentals of biology and physiology from an engineering perspective. This third course focuses on understanding physiology from the cellular to systems scales, with an emphasis on biological control systems and applications in biomedical engineering.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BMES 502 [Min Grade: C]"
+      },
+      {
+            "Identifier": "BMES 505",
+            "Title": "Mathematics for Biomedical Sciences I",
+            "Number_of_credits": "Credits",
+            "Description": "This course is for students of biology and related medical fields aimed at bridging the gap between qualitative and quantitative approaches in the study of biological processes. Topics include single and multivariable calculus infinite series, etc.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 506",
+            "Title": "Mathematics for Biomedical Sciences II",
+            "Number_of_credits": "Credits",
+            "Description": "This course for students of biomedical science or biomedical engineering is designed to permit the student to go on to advanced studies in engineering and science in which differential equations are needed. Biological applications are emphasized.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BMES 505 [Min Grade: C]"
+      },
+      {
+            "Identifier": "BMES 507",
+            "Title": "Mathematics for Biomedical Sciences III",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers topics in Fourier series and orthogonal functions, partial differential equations, and boundary value problems. Applications are made to problems in neuro-physiology, cellular transport, and biological oscillations.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BMES 506 [Min Grade: C]"
+      },
+      {
+            "Identifier": "BMES 508",
+            "Title": "Cardiovascular Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "This course emphasizes engineering approaches to the analysis of the cardiovascular system focusing on fundamental mechanics and emerging technologies.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BMES 501 [Min Grade: B] and BMES 502 [Min Grade: B]"
+      },
+      {
+            "Identifier": "BMES 509",
+            "Title": "Entrepreneurship for Biomedical Engineering and Science",
+            "Number_of_credits": "Credits",
+            "Description": "This course serves as the foundation course in entrepreneurship and is designed to provide students with a complete working knowledge of the modern entrepreneurial and business planning process.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 510",
+            "Title": "Biomedical Statistics",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces the graduate student to the fundamentals of inferential statistics with biomedical applications. It covers topics in data presentation, sampling, experimental design, probability and probability distributions, significance tests, and clinical trials.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 511",
+            "Title": "Principles of Systems Analysis Applied to Biomedicine I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers formulation of biological problems by rigorous mathematical techniques, including application of conservation laws, network theorems, and mesh and nodal analysis.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 512",
+            "Title": "Principles of Systems Analysis Applied to Biomedicine II",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesBMES\u00a0511. Emphasizes input/output transfer function problems, linear systems and linear operations, and impulse response.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BMES 511 [Min Grade: C]"
+      },
+      {
+            "Identifier": "BMES 515",
+            "Title": "Experimental Design in Biomedical Research",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to introduce students to the fundamental principles of experimental design and statistical analysis as applied to biomedical research with animals and humans. Topics to be covered include experimental design, clinical design, and protocol submission and review.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BMES 510 [Min Grade: C]"
+      },
+      {
+            "Identifier": "BMES 517",
+            "Title": "Intermediate Biostatistics",
+            "Number_of_credits": "Credits",
+            "Description": "The purpose of this course is to acquaint students with some of the statistical tools commonly used in biomedical and health sciences research. The course will provide the student with a basic theoretical background on the procedures of repeated measures ANOVA and selected multivariate statistical tests. It will familiarize students with the use of computer-based statistical analyses.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BMES 510 [Min Grade: C]"
+      },
+      {
+            "Identifier": "BMES 518",
+            "Title": "Interpretation of Biomedical Data",
+            "Number_of_credits": "Credits",
+            "Description": "The focus of this course is on understanding the methods used to analyze and interpret the results of quantitative data analyses in the biomedical and health sciences and determine their meaningfulness (clinical significance). Fundamental to this process is an understanding of the interrelatedness of statistical power, effect size, sample size and alpha.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BMES 510 [Min Grade: C]"
+      },
+      {
+            "Identifier": "BMES 524",
+            "Title": "Introduction to Biosensors",
+            "Number_of_credits": "Credits",
+            "Description": "An introductory course in the general area of microsensors covering basic sensing mechanisms and various types of conductometric, acoustic, silicon, optical and MEMS microsensors. Two case studies involving biosensors and acoustics sensors allow students to acquire in-depth knowledge in the theory and design of microsensors.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 525",
+            "Title": "Advanced Biosensors",
+            "Number_of_credits": "Credits",
+            "Description": "The second course in a two-course sequence, this course covers aspects of modern biosensor design methods and addresses challenges associated with fabrication technologies and instrumentation techniques. Topics covered include the theory and modeling of biosensors, fabrication steps, and testing methods.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 528",
+            "Title": "Pediatric Engineering I",
+            "Number_of_credits": "Credits",
+            "Description": "This course will introduce students to concepts related to childhood injury and disease and to current treatment paradigms for pediatric patients. The objective is for students to develop a fundamental understanding of childhood injury and disease, healthcare, and treatment strategies which underscore the need for new and innovative therapies for pediatric patients. Instructors will discuss how the needs of pediatric patients vary considerably due to differences in size, rates of growth, critical development periods, anatomy, physiological differences, and physical activity levels.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 529",
+            "Title": "Pediatric Engineering II",
+            "Number_of_credits": "Credits",
+            "Description": "This course will leverage the content fromBMES\u00a0528by introducing students to the challenges and limitations of current treatment paradigms for pediatric patients and by studying the landscape of pediatric medical device development. Focus will be on the scientific and engineering concepts, methods, and approaches to address healthcare challenges with direct relevance to pediatric patients, including pediatric medical devices and unmet clinical needs. There is and has been a compelling and recognized need for the development of new medical devices and therapies for pediatric patients. The objective is to train the next-generation of students for future scientific and technical careers in pediatric engineering, healthcare, entrepreneurship, and innovation that will have a lasting impact on global health.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BMES 528 [Min Grade: B-]"
+      },
+      {
+            "Identifier": "BMES 531",
+            "Title": "Chronobioengineering I",
+            "Number_of_credits": "Credits",
+            "Description": "This course advances the student's knowledge of biological time-keeping and adaptive functions of biological clocks. It includes such topics as biochemical and physiological models of biological blocks, adjustment to environmental cycles and rhythms in behavior and models.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BMES 502 [Min Grade: C]"
+      },
+      {
+            "Identifier": "BMES 532",
+            "Title": "Chronobioengineering II",
+            "Number_of_credits": "Credits",
+            "Description": "This course continuesBMES\u00a0531. It covers topics in the patterns, rhythms, evolution, neurology, psychology and overall functions of sleep.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BMES 531 [Min Grade: C]"
+      },
+      {
+            "Identifier": "BMES 534",
+            "Title": "Design Thinking for Biomedical Engineers",
+            "Number_of_credits": "Credits",
+            "Description": "This course is a studio-seminar exploring principles and theories of product design, systematic design process, problem-solving, decision-making and design as authorship. The course uses design research methods and topical design issues to explore and experience design thinking.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 535",
+            "Title": "Introduction to Product Design for Biomedical Engineers",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces students to basic product design techniques. It combines lectures, demonstrations, discussions and problem solving exercises exploring product design as a creative process in the production of simple objects. Students develop a command of product development, skills in modeling and communication of their novel solutions.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BMES 534 [Min Grade: D] or PROD 101 [Min Grade: C]"
+      },
+      {
+            "Identifier": "BMES 538",
+            "Title": "Biomedical Ethics and Law",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces a wide spectrum of ethical, regulatory, and legal issues facing health care practitioners and biomedical researchers. The course helps students become aware of the ethical and legal issues involved in their work while increasing the student's understanding of how legal and ethical decisions should be made in biomedical research, as well as what sources of help and guidance are available.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 541",
+            "Title": "Nano and Molecular Mechanics of Biological Materials",
+            "Number_of_credits": "Credits",
+            "Description": "This course aims to provide students with the fundamental knowledge and latest scientific developments in molecular mechanics of biological materials. The first half of the course will introduce interdisciplinary theoretical background including molecular physics, electrostatics, colloidal science, biocompatibility and polymer mechanics. The second half will describe the most recent advances in nanotechnology and nanomechanics-related biomechanical and biomedical research. Students are expected to understand the fundamental knowledge of the molecular-level phenomena in biological systems, and to grasp the basic design and operation principles of nanomechanical instruments.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 543",
+            "Title": "Quantitative Systems Biology",
+            "Number_of_credits": "Credits",
+            "Description": "This course uses a data-driven systems engineering approach to provide a foundation in systems biology. Topics covered include the organization of robust networks of genes and proteins; intercellular communication; and cells as basic units of life.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BMES 546 [Min Grade: B] or BMES 550 [Min Grade: B]"
+      },
+      {
+            "Identifier": "BMES 544",
+            "Title": "Genome Information Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to provide students with hands-on experience in the application of genomic, proteomic, and other large-scale information to biomedical engineering. The underlying goal is to develop an understanding of highthrough experimental technologies, biological challenges, and key mathematical and computational methods relevant to biomedical engineering.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 545",
+            "Title": "Biosystems Modeling",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides hands-on experience in advanced computational methods used in systems biology: pathway and circuitry, feedback and control, cellular automata, sets of partial differential equations, stochastic analysis, and biostatistics.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BMES 502 [Min Grade: C] and BMES 512 [Min Grade: C]"
+      },
+      {
+            "Identifier": "BMES 546",
+            "Title": "Biocomputational Languages",
+            "Number_of_credits": "Credits",
+            "Description": "This course aims to develop the computational skills relevant to Bioinformatics and related fields. MATLAB will be the primary programming languages utilized in this course, and some exposure to Python will be provided. The focus will be on gaining hands-on knowledge in these programming languages and in the biocomputing toolboxes and libraries available for them.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 547",
+            "Title": "Machine Learning in Biomedical Applications",
+            "Number_of_credits": "Credits",
+            "Description": "Machine Learning is a computational approach for construction of algorithms that can learn from and make predictions on data. The focus of the course is to deliver a practical approach that can help appropriate utilization of machine learning methods for data exploration and prediction tasks in biomedical applications. Applications will be drawn from bioinformatics, neuro-engineering, and biomedical image analysis, with special emphasis given to feature extraction and representation strategies specific to the data types prevalent in these domains. The machine learning concepts and methods will include parameter density estimation, dimension reduction, supervised and unsupervised learning, neural networks, and support vector machines.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BMES 546 [Min Grade: B] or BMES 550 [Min Grade: B]"
+      },
+      {
+            "Identifier": "BMES 548",
+            "Title": "Structural Bioinformatics and Drug Design",
+            "Number_of_credits": "Credits",
+            "Description": "This is an interdisciplinary course that introduces students to protein structure and drug design, using computational methods. Experimental and computational modeling methods for biomolecular structures will be discussed and state of the art software tools will be introduced for homology modeling, protein design, drug design, and molecular docking applications.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BMES 543 [Min Grade: B] (Can be taken Concurrently) and (BMES 546 [Min Grade: B] or BMES 550 [Min Grade: B])"
+      },
+      {
+            "Identifier": "BMES 549",
+            "Title": "Genomic and Sequencing Technologies",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an introduction to modern genomic and sequencing technologies, focusing on genomic technologies to extract information from three primary biological molecules, DNA RNA, and protein. The course takes an engineering approach that studies the key technological advancements driving the development and utilization of these methods. In addition to a technical investigation of these technologies, the course will also discuss biomedical applications of these technologies and introduce basic data analysis algorithms developed for processing their output. This course will involve both lectures and hands-on lab experience.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BMES 501 [Min Grade: B] and (BMES 546 [Min Grade: B] or BMES 550 [Min Grade: B])"
+      },
+      {
+            "Identifier": "BMES 550",
+            "Title": "Advanced Biocomputational Languages",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides hands-on education in programming languages used in biomedical applications. Specific programming languages explored will reflect the current state of practice and may include one or more of MATLAB, Python, R, Php, C/C++, and Java languages. This course focuses on advanced programming topics including data communication, high performance computing, database systems, web interactions, and graphical and web interfaces. The principal application areas to be investigated include Bioinformatics (algorithms on strings and sequences), image analysis, feedback and control systems, and network modeling and simulation.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 551",
+            "Title": "Biomedical Signal Processing",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces discrete time signals and systems; origin and classification of biomedical signals; data acquisition, filtering, and spectral estimation of medical signals; compression of medical signals; new processing approaches and time-frequency representation and wavelets.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 555",
+            "Title": "Biomedical Additive Manufacturing",
+            "Number_of_credits": "Credits",
+            "Description": "Additive manufacturing, also known as 3D printing, is currently revolutionizing the way things are created and used in biomedical engineering, especially in the context of the regulated medical device industry. In this introductory course, we will focus on the materials and printing technologies used for additive manufacturing of medical devices as well as bioprinting, including developing skills needed for hands-on assembly and operation of extrusion-based 3D printing of low temperature polymers. The goal of this course is to provide students with basic hands-on skills and an overview of additive manufacturing in a biomedical engineering context, and to prepare students for independent research and investigation of more advanced topics in 3D printing of medical devices and implants.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 571",
+            "Title": "Biological Evolution: Applications to Human Health and Performance",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to provide students with an evolutionary perspective on health and disease. The focus is on humans as products of evolution by natural selection and as such, subject to the same relationships and historical precedents that govern the rest of the natural world. Topics to be covered include ecological damage and emerging diseases, sociobiological perspectives on behavioral disorders, the development of resistance in pathogens, and adaptation and maladaptation of humans to urban environments.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 585",
+            "Title": "Medical Technology Innovation: Devices",
+            "Number_of_credits": "Credits",
+            "Description": "This course helps students gain exposure to medtech innovation culture and community by interfacing with innovators, prototype engineers, industrial designers, product and business developers, entrepreneurs, intellectual property, regulatory and legal professionals, and economic development experts and investors. Students are expected to study ecosystems that engender medical innovation and conduct due diligence on actual companies in terms of technology, management, and commercialization viability. Through this course, the medtech innovation journey comes alive; as a bonus, students expand their medtech networks and outreach to innovation industry.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 586",
+            "Title": "Medical Technology Innovation: Biologics",
+            "Number_of_credits": "Credits",
+            "Description": "Medical Technology Innovation: Biologics course is focused on biologics, in particular, emerging fronts in medical biotechnologies including biosensing, gene, cell, tissue and immune technologies. This courses provide a primer on basics of Biologics medical technology innovation from concept to commercialization, starting from laboratory proof-of-concept studies as well as translational research and technology transfer of research discoveries.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 587",
+            "Title": "Brain Technology Convergence: Your Brain on the Metaverse",
+            "Number_of_credits": "Credits",
+            "Description": "This interdisciplinary course brings two futures together: Neurotechnologies and Virtual Immersive Virtual Worlds. Starting with a primer on natural (human) and artificial (computational) intelligence, virtual and immersive media and the Metaverse, students are introduced to emerging neuro-technologies including brain-computer interfaces (BCI), neuro-imaging, neuro-stimulation, neuroergonomics, brain-in-the-loop systems, human-robot teaming, humanoid robots and \u2018human autonomy.\u2019 The course then proceeds to application domains such as gaming, entertainment, health, aerospace, learning and behavioral economics. The content emphasizes \u2018responsible brain-technology convergence\u2019 that is respectful of our neurorights as individuals and responsive to potential social, professional, legal and ethical implications.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 588",
+            "Title": "Medical Device Development",
+            "Number_of_credits": "Credits",
+            "Description": "Medical device product development must take into account a diverse set of disciplines to achieve a safe and successful product. This course exposes the student to several of these disciplines with the objective of raising the student's awareness of safety throughout the product development life cycle. Students will learn to appreciate the complex engineering decisions that support development of a safe medical device through an examination of risk management, regulatory processes, human factors and clinical studies.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 596",
+            "Title": "Clinical Practicum",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides biomedical engineering students with an opportunity to observe basic operative and postoperative procedures with the idea of both learning about such procedures and identifying the role of biomedical engineering in these clinical settings.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 604",
+            "Title": "Pharmacogenomics",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the interaction between chemical agents and biological systems at all levels of integration. Discusses general classes of drugs, with particular emphasis on general concepts and problems of medical importance.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 609",
+            "Title": "Emerging Technologies in the Healthcare System",
+            "Number_of_credits": "Credits",
+            "Description": "The course provides a robust understanding of the current healthcare landscape and offers a view into the \"future-state\" of the quickly changing environment. Students will learn to address the complexities of the healthcare industry and global challenges faced by 4P's (pharma, patient, payer, and provider) through innovative problem solving. Students will gain insights about the application of emerging technologies and data to tackle the future-states of the healthcare system.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 611",
+            "Title": "Biological Control Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces the basic concepts of feedback control systems, including characterization in terms of prescribed constraints, study of input and output relationship for various types of biological systems, and stability and time delay problems in the pupillary reflex/eye-hand coordination system.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 613",
+            "Title": "Biological Control Systems III",
+            "Number_of_credits": "Credits",
+            "Description": "Covers mathematical models of biological systems, with emphasis on non-linear and adaptive systems study.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 621",
+            "Title": "Medical Imaging Systems I",
+            "Number_of_credits": "Credits",
+            "Description": "Provides an overview of the field of medical imaging. Covers aspects of light imaging; systems theory, convolutions, and transforms; photometry, lenses, and depth of field; image perception and roc theory; three-dimensional imaging; image acquisition and display; and image processing operations, including scanning and segmentation.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 622",
+            "Title": "Medical Imaging Systems II",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces medical visualization techniques based on ultrasound propagation in biological tissues. Includes generation and reception of ultrasound, imaging techniques (A-mode, B-mode, M-mode, and Doppler), typical and emerging diagnostic applications, elements of ultrasound exposimetry, and safety aspects from the clinical point of view.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BMES 621 [Min Grade: C]"
+      },
+      {
+            "Identifier": "BMES 623",
+            "Title": "Medical Imaging Systems III",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces elements of wave imaging, including wave propagation, Fourier optics and acoustics, limitations on resolution, ultrasound transducer characterization, and synthetic aperture systems. Examines MRI imaging in detail, including physical principles and scanning methodologies. Includes aspects of the psychophysics of human vision.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BMES 622 [Min Grade: C]"
+      },
+      {
+            "Identifier": "BMES 624",
+            "Title": "Principles of Neuroimaging",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces types and categories of neuroimaging methods that can measure brain anatomy as well as brain activity including MRI, PET, CT, SPECT, EEG and NIRS. For each modality, basic principles, technical foundations of its operation, neural signals, visualization and analysis of multidimensional data, relevant standards will be provided as well as an overview of the clinical and translational applications.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 631",
+            "Title": "Tissue Engineering I",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to familiarize students with advanced concepts of cellular and molecular biology relevant to tissue engineering. This is the initial course in a three-course sequence combining materials from life science, engineering design and biomaterials to educate students in the principles, methods and technology of tissue engineering.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BMES 502 [Min Grade: B]"
+      },
+      {
+            "Identifier": "BMES 632",
+            "Title": "Tissue Engineering II",
+            "Number_of_credits": "Credits",
+            "Description": "This course familiarizes students with advanced concepts of developmental and evolutionary biology relevant to tissue engineering. The second part of a three-course sequence combines materials from cellular/molecular biology, evolutionary design, and biomaterials to education students in the principles and methods of tissue engineering.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BMES 631 [Min Grade: B]"
+      },
+      {
+            "Identifier": "BMES 641",
+            "Title": "Biomedical Mechanics I",
+            "Number_of_credits": "Credits",
+            "Description": "Designed to acquaint students with the response of biological tissues to mechanical loads and with the mechanical properties of living systems. Covers topics in musculoskeletal anatomy and functional mechanics; a review of mechanical principles, statics, dynamics, and materials; soft and hard tissue mechanics; mechano-pathological conditions in biological tissues and their correction; and prosthetics.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 642",
+            "Title": "Biomedical Mechanics II",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesBMES\u00a0641.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 643",
+            "Title": "Biomedical Mechanics III",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesBMES\u00a0642.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 644",
+            "Title": "Cellular Biomechanics",
+            "Number_of_credits": "Credits",
+            "Description": "This course of cellular bioengineering focuses on mechanics and transport. Material builds upon undergraduate engineering education to place engineering mechanics into the context of biological function at the cellular level.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 651",
+            "Title": "Transport Phenomena in Living Systems I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers physical principles of momentum, energy, and mass transport phenomena in blood and other biological fluids; diffusion and convection at the microcirculatory level; physiology of arteries and veins; and local and systemic blood flow regulation and vascular disease.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 660",
+            "Title": "Biomaterials I",
+            "Number_of_credits": "Credits",
+            "Description": "First course in a three-quarter sequence designed to acquaint students with the behavior of materials used in biomedical application under load (i.e., mechanical properties), their modes of failure and as a function of their environment. This course provides students with the fundamentals needed to proceed with Biomaterials II.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 661",
+            "Title": "Biomaterials II",
+            "Number_of_credits": "Credits",
+            "Description": "Second course in a three-quarter sequence in biomaterials. The goal of this course is with an understanding of, and ability to select, appropriate materials for specific applications taking into account mechanical, thermal, and rheological properties taught in Biomaterials I and combining them with the biocompatibility issues covered in the present course.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 672",
+            "Title": "Biosimulation I",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses upon the mathematical analysis of biomedical engineering systems. As the first course in the biosimulation sequence, the course is a blend of analytical and numerical methods with strong emphasis on analytical approaches. The class concentrates on the application of mathematical concepts to biomedical problems drawn from physiological systems, cellular and molecular systems, bioimaging and biomedical device design.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 673",
+            "Title": "Biosimulation II",
+            "Number_of_credits": "Credits",
+            "Description": "The second in a two-course sequence, this course focuses upon the mathematical modeling and subsequent computational analysis of complex biological systems. Specific examples are drawn physiological systems, cellular and molecular systems, bioimaging and biomedical device design and analysis. Topics covered include: modeling of complex bioengineering systems; parameter estimation and optimization of such models; and application of probability and statistical approaches as required.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BMES 672 [Min Grade: C]"
+      },
+      {
+            "Identifier": "BMES 675",
+            "Title": "Biomaterials and Tissue Engineering III",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides students with in-depth knowledge of factor-mediated tissue engineering and regenerative medicine. Students learn about fundamental repair and regenerative processes and gain an understanding of specific biomaterials being used to mimic and/or enhance such processes. Students also learn about the delivery methods of agents which promote the proper functional development of specialized tissues.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BMES 660 [Min Grade: C-] and BMES 661 [Min Grade: C-] and BMES 631 [Min Grade: C-] and BMES 632 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "BMES 677",
+            "Title": "Mathematical Modeling of Cellular Behavior",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses upon the mathematical analysis of cellular processes. Topics include reaction kinetics, enzyme kinetics, receptor-ligand binding and trafficking dynamics, cell signaling processes, cell migration and cytoskeletal dynamics, and cell-scale transport phenomena.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 678",
+            "Title": "Biocomputational Modeling and Simulation",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on computational methods used to simulate and analyze dynamical systems in biological systems. Solutions of ordinary differential equations using both symbolic and numerical methods and parameter estimation from experimental data are discussed. 3D modeling and simulation are introduced. Graphical tools to design and simulate models are demonstrated.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BMES 546 [Min Grade: B] or BMES 550 [Min Grade: B]"
+      },
+      {
+            "Identifier": "BMES 685",
+            "Title": "Experimental Methods in Neuroengineering",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores an exciting field of neuroengineering, brain computer interfaces (BCI), in a hands-on laboratory setting. The course addresses both the human and computational elements of the technology emphasizing an engineering perspective while utilizing and modifying common paradigms in electroencephalogram (EEG)-based BCIs such as motor imagery and the P300 speller. Students are expected to understand the EEG signal and develop good recording techniques to assess and modify data collection and processing in real time. This course will also discuss how the techniques and algorithms addressed in this class translate to other modalities such as fNIR as well as more invasive systems. This course includes a lecture and laboratory component.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 710",
+            "Title": "Neural Signals",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers aspects of neural signaling, including fundamentals of action potential generation, generator potentials, synaptic potentials, and second messenger signals. Students learn Hodgkin-Huxley descriptions, equivalent circuit representations and be able to derive and integrate descriptive equations and generate computer simulations.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 711",
+            "Title": "Principles in Neuroengineering",
+            "Number_of_credits": "Credits",
+            "Description": "This course is an in-depth student of some of the cutting-edge technologies in neuroengineering. The course draws on faculty in the College of Medicine and School of Biomedical Engineering, Science and Health Systems to present and investigate three topics in neuroengineering.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BMES 710 [Min Grade: B]"
+      },
+      {
+            "Identifier": "BMES 715",
+            "Title": "Systems Neuroscience and Applications I",
+            "Number_of_credits": "Credits",
+            "Description": "This course will introduce you to the neuronal and circuit basis underlying sensory processing and perception, to neurological disorders that are result of incorrect neuronal processing, and to the application of these circuits to devices around us. Emphasis will be placed on cutting-edge techniques: Computational, experimental and therapeutic techniques will be covered.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BMES 710 [Min Grade: C]"
+      },
+      {
+            "Identifier": "BMES 718",
+            "Title": "Brain Computer Interfaces",
+            "Number_of_credits": "Credits",
+            "Description": "Brain Computer Interface (BCI) is defined as a combination of hardware and software systems that allows capturing brain activities to control or interact with external devices such as computers and robots. This course will familiarize students with principles and main methods in the emerging and rapidly growing field of BCI technologies. The goal of this course is to provide an introduction to the state-of-the-art brain computer interface technologies, current approaches, limitations, potentials and various types of applications.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 722",
+            "Title": "Neural Aspects of Posture and Locomotion I",
+            "Number_of_credits": "Credits",
+            "Description": "Studies physiology of sensory/motor systems, with emphasis on modeling of neural systems and biomechanical aspects of functional tasks. Begins with an analysis of the transportation of materials in and out of cells, followed by an examination of the origin and maintenance of membrane potentials. Discusses intra-and extracellular and surface measurement of potentials, generation and transmission of action potentials, synaptic processes, and the structure/function of muscle. Combines these elements to study reflex systems as well as vestibular and ocular effects on posture. Culminates in the study of the control of motor systems with respect to bipedal locomotion.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 725",
+            "Title": "Neural Networks",
+            "Number_of_credits": "Credits",
+            "Description": "Explores the mathematical and biological bases for neurocomputing. Involves construction by students of computer simulations of important models and learning algorithms. Discusses applications to pattern recognition, vision, speech, control, and psychological modeling.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 821",
+            "Title": "Medical Instrumentation",
+            "Number_of_credits": "Credits",
+            "Description": "Provides a broad overview of the applications of health care technology in diagnosis and therapy. Reflects the persuasiveness of biomedical engineering in medicine by describing medical instrumentation and engineering technology used in most of the main areas of specialization in medicine.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 822",
+            "Title": "Medical Instrumentation II",
+            "Number_of_credits": "Credits",
+            "Description": "The objective of this course is to prepare the student for following an industry-accepted standard for designing a medical device. Students will work in teams to identify and design a response to medical need. The resulting design will either address an unmet medical need or present an improved approach to an existing solution. After identifying a particular project, the students will learn and implement particular processes for both design and documentation.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 825",
+            "Title": "Hospital Administration",
+            "Number_of_credits": "Credits",
+            "Description": "Provides an analysis of the administrative process, including planning, organization, design, decision-making, leadership, and control. Presents methodologies and techniques that can contribute to the effective performance of administrative responsibilities examined in the light of significant and unique factors in hospital health care administration.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 864",
+            "Title": "Seminar",
+            "Number_of_credits": "Credits",
+            "Description": "An invitation seminar for discussion of research topics in biomedical engineering and science.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Can be repeated 2 times for 0 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 870",
+            "Title": "Graduate Research Talks",
+            "Number_of_credits": "Credit",
+            "Description": "This course provides a structured forum for graduate students to present their ongoing research and provide feedback and critiques to their peers.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Can be repeated 8 times for 9 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 897",
+            "Title": "Research",
+            "Number_of_credits": "Credit",
+            "Description": "Requires investigation of a biomedical problem under the direction of a faculty adviser.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 898",
+            "Title": "Master's Thesis",
+            "Number_of_credits": "Credits",
+            "Description": "Requires the study and investigation of a research or development problem. Requires results to be reported in a thesis under the direction of a faculty adviser. No credit granted until the thesis is completed and approved.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES 998",
+            "Title": "Ph.D. Dissertation",
+            "Number_of_credits": "Credit",
+            "Description": "Requires the study and investigation of a research or development problem. Requires results to be reported in a dissertation under the direction of a faculty adviser. No credit granted until the dissertation is completed and approved.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES I599",
+            "Title": "Independent Study in BMES",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES I699",
+            "Title": "Independent Study in BMES",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES I799",
+            "Title": "Independent Study in BMES",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES I899",
+            "Title": "Independent Study in BMES",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES I999",
+            "Title": "Independent Study in BMES",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES T580",
+            "Title": "Special Topics in BMES",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES T680",
+            "Title": "Special Topics in BMES",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES T780",
+            "Title": "Special Topics in BMES",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES T880",
+            "Title": "Special Topics in BMES",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BMES T980",
+            "Title": "Special Topics in BMES",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "School of Biomedical Engineering, Science & Health Systems",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

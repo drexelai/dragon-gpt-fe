@@ -1,0 +1,29 @@
+[
+      {
+            "Identifier": "BSAN 601",
+            "Title": "Business Analytics for Managers",
+            "Number_of_credits": "Credits",
+            "Description": "Business Analytics is an interactive process of analyzing and exploring enterprise data, in order to understand the past, make predictions about the future, and guide decision-making. In this course, students will learn how to use analytics in their decision-making. Analytics through the methodology of problem framing, model building, analysis, and communicating insights is explored.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BSAN 615",
+            "Title": "Data Visualization & Analytics",
+            "Number_of_credits": "Credits",
+            "Description": "Graphical methods enable data and information to be presented in an easily consumable, insightful, and actionable manner. Descriptive, diagnostic, predictive, and prescriptive analytics all benefit from data visualization, through the use of infographics, interactive visualizations, dashboards, and more recently, augmented analytics. This course will focus on three main facets of data visualization: strategy and implementation, Interpretation and insights, and communication and storytelling.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "STAT 610 [Min Grade: C]"
+      },
+      {
+            "Identifier": "BSAN 710",
+            "Title": "Business Analytics Capstone Project",
+            "Number_of_credits": "Credits",
+            "Description": "Contemporary business is embedded in a data-driven economy. Large datasets must be analyzed to understand the financial, economic, technological, societal, social, and environmental impacts of products, services, and policies. In this course, students execute a data-driven project in order to demonstrate their ability to meet this challenge. Projects draw on multiple quantitative skills: data management, mathematical modeling, and statistical analysis to support decision-making processes. Emphasis is also placed on ability to develop business insights from data and present findings to decision makers.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MIS 612 [Min Grade: C] and MIS 632 [Min Grade: C] and OPR 601 [Min Grade: C] and STAT 642 [Min Grade: C] and STAT 645 [Min Grade: C]"
+      }
+]

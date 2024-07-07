@@ -1,0 +1,119 @@
+[
+      {
+            "Identifier": "INTB 620",
+            "Title": "International Business Management",
+            "Number_of_credits": "Credits",
+            "Description": "This course is an introduction to doing business at a global scale. This course explores international business, from theories to practical day to day to issues facing the international business person. Subjects include the role of culture, differences in the business environment, strategic management, organizational design, marketing, operations, and human resources.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BUSN 502 [Min Grade: C] or ECON 601 [Min Grade: C] or ECON 610 [Min Grade: C]"
+      },
+      {
+            "Identifier": "INTB 632",
+            "Title": "Economic Analysis of Multinational Corporations",
+            "Number_of_credits": "Credits",
+            "Description": "Analysis of MNCs as an economic unit. Explores the determinants of organizational structure expansion strategies, and R&D strategies of multinational corporations. Impact of MNCs on competitiveness, technology transfer, and trade policy.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BUSN 502 [Min Grade: C] or ECON 601 [Min Grade: C] or ECON 610 [Min Grade: C]"
+      },
+      {
+            "Identifier": "INTB 790",
+            "Title": "International Business Seminar and Residency",
+            "Number_of_credits": "Credits",
+            "Description": "This course pairs online academic instruction with a one-week international residency. Coursework in international business and on-site cultural immersion enhance students\u2019 understanding of the global economy and the opportunities and challenges facing companies around the world. The online course component consists of an overview of the economic issues facing the Region and Country(ies) through class discussions, relevant case studies, and group work focused on companies that will be visited abroad. The international residency is a one-week business trip to Country(ies) where students gain firsthand knowledge of conducting business in the region through company presentations, site visits, and cultural experiences.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INTB I599",
+            "Title": "Independent Study in INTB",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INTB I699",
+            "Title": "Independent Study in INTB",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INTB I799",
+            "Title": "Independent Study in INTB",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INTB I899",
+            "Title": "Independent Study in INTB",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INTB I999",
+            "Title": "Independent Study in INTB",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INTB T580",
+            "Title": "Special Topics in INTB",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INTB T680",
+            "Title": "Special Topics in INTB",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INTB T780",
+            "Title": "Special Topics in INTB",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INTB T880",
+            "Title": "Special Topics in INTB",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INTB T980",
+            "Title": "Special Topics in INTB",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

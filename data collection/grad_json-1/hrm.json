@@ -1,0 +1,272 @@
+[
+      {
+            "Identifier": "HRM 501",
+            "Title": "Foundations of the Hospitality Industry",
+            "Number_of_credits": "Credits",
+            "Description": "This is a gateway course to provide students of various backgrounds the information and conceptual tools needed to grasp the fundamentals of the global hospitality industry as understood in its widest sense. Students will become familiar with the production and distribution of hospitality products. Trends in the industry will also be discussed.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HRM 505",
+            "Title": "Customer Service for Professionals",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers the principles of managing in a service environment with an emphasis on procedures and results that are necessary for all service organizations. Analysis, planning, and problem solving strategies will be examined to empower successful customer oriented employees along with consideration of factors that influence customer service organizations.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HRM 501 [Min Grade: C]"
+      },
+      {
+            "Identifier": "HRM 515",
+            "Title": "Destination and Resort Management",
+            "Number_of_credits": "Credits",
+            "Description": "A study of destination and resort management from a global perspective including strategic planning and competitive analysis of domestic and international resort destinations. Students will study the various aspects of resort management in the context of high levels strategic planning that includes market research, market positioning, feasibility studies, and revenue forecasting for resort destinations.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HRM 501 [Min Grade: C]"
+      },
+      {
+            "Identifier": "HRM 520",
+            "Title": "Hospitality Management Information Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the use of technology and computer information systems in the hospitality industry. The course emphasizes high level strategic planning for leveraging technology and information systems to gain competitive advantages and improve a business's position in the marketplace. Includes structured decision making in the acquisition and implementation of technology including feasibility analysis and financial forecasting.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HRM 501 [Min Grade: C]"
+      },
+      {
+            "Identifier": "HRM 555",
+            "Title": "Hospitality Human Resource Management",
+            "Number_of_credits": "Credits",
+            "Description": "This course will study the human resource function from a strategic and developmental standpoint within a variety of hospitality and tourism contexts.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HRM 501 [Min Grade: C]"
+      },
+      {
+            "Identifier": "HRM 565",
+            "Title": "Culinary Tourism",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores culinary tourism opportunities, the role of food tourism in developing, sustaining and promoting regional identities, and draws knowledge and presents perspectives from the fields of anthropology, folklore and foodways, and food and tourism studies. Although taught online, it will include engaging field trips.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HRM 572",
+            "Title": "Gaming Information Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the use of technology and computer information systems in the casino industry. The course emphasizes high level strategic planning for leveraging technology and information systems to gain competitive advantage and improve a casino's position in the marketplace. Includes structured decision making in the acquisition and implementation of technology including feasibility analysis and financial forecasting.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HRM 520 [Min Grade: C]"
+      },
+      {
+            "Identifier": "HRM 575",
+            "Title": "Current Issues in Gaming",
+            "Number_of_credits": "Credits",
+            "Description": "This course will examine current issues in the casino and gaming industry. An in-depth examination of trends, policies, and impacts on gaming operations with an emphasis on casino operations will be potential topics for discussion.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HRM 501 [Min Grade: C]"
+      },
+      {
+            "Identifier": "HRM 595",
+            "Title": "Economics of Tourism",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores the economic issues that influence the tourism industry and examines the sociological dynamics shaping the tourism environment.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HRM 501 [Min Grade: C]"
+      },
+      {
+            "Identifier": "HRM 610",
+            "Title": "The Global Tourism System",
+            "Number_of_credits": "Credits",
+            "Description": "An in-depth investigation of the components of the global tourism system to provide the conceptual framework for students to understand the economic dynamics of tourism. The course will familiarize students with the major areas of production and distribution of hospitality products. Future trends in tourism will be examined.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HRM 501 [Min Grade: C]"
+      },
+      {
+            "Identifier": "HRM 612",
+            "Title": "Tourism and Sustainability",
+            "Number_of_credits": "Credits",
+            "Description": "Students in this course will examine limits to mass tourism and alternatives such as ecotourism, community-based-tourism pro-poor tourism, and their contributions to sustainable world development. Other topics include how environmental changes affect tourism and how tourism affects the environment and the role of tourism in economic development.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HRM 501 [Min Grade: C]"
+      },
+      {
+            "Identifier": "HRM 614",
+            "Title": "Tourism Development",
+            "Number_of_credits": "Credits",
+            "Description": "This course will provide an in-depth evaluation of the major issues in travel and hospitality development. It will review the relationships among development and tourism development, differences between attractions and products, defining target markets, elaborating development plans, destination management, and measuring success.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HRM 501 [Min Grade: C]"
+      },
+      {
+            "Identifier": "HRM 616",
+            "Title": "Tourism Marketing and Branding",
+            "Number_of_credits": "Credits",
+            "Description": "This course will cover the major issues related to the marketing of travel and tourism products according to the specific nature of the travel and tourism industry. The course will include strategic marketing, travel market analysis, and the major tools available for creating successful marketing and branding of travel and tourism products.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HRM 501 [Min Grade: C]"
+      },
+      {
+            "Identifier": "HRM 650",
+            "Title": "Strategic Management & Leadership in Hospitality",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers the concepts of strategic management in the hospitality business environment and the role of strategic leadership practices. Strategic decision making principles will be examined to create competitive advantages for hospitality industry leaders and organizations.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HRM 501 [Min Grade: C] and PRST 503 [Min Grade: C]"
+      },
+      {
+            "Identifier": "HRM 670",
+            "Title": "Casino Financial Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers the unique aspects of analyzing the financial results of casino programs and product offerings including marketing promotion analysis, special even manifest analysis, player development, executive profit and loss, table game mix, and slot floor product and position analysis. Volume forecast methods will also be studied.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HRM 520 [Min Grade: C]"
+      },
+      {
+            "Identifier": "HRM 672",
+            "Title": "Security and Risk Management",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers strategic issues in casino security including high-level planning and risk analysis. Students will complete an in-depth case study analysis of court cases in the casino and hospitality industry that can potentially have a significant impact on capital expenditures and operating strategies. Students will learn to analyze risk and make effective strategic decisions regarding loss prevention.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HRM 572 [Min Grade: C]"
+      },
+      {
+            "Identifier": "HRM 674",
+            "Title": "Tribal Gaming Management",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores the topics of gaming, casino management, sovereignty, and other public policy issues. In addition, tribal casino management will be emphasized to examine the unique operational and developmental aspects of this type of gaming.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HRM 501 [Min Grade: C]"
+      },
+      {
+            "Identifier": "HRM 676",
+            "Title": "Casino Marketing",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers the unique aspects of casino marketing including player loyalty programs, promotional strategies, customer relationship marketing, branding, database marketing, player development and junket programs. The course is taught from a global perspective with an emphasis on strategy and positioning in the marketplace.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HRM 505 [Min Grade: C]"
+      },
+      {
+            "Identifier": "HRM 680",
+            "Title": "Research Methods for Hospitality and Tourism",
+            "Number_of_credits": "Credits",
+            "Description": "This course presents strategies for approaching hospitality research. Students will explore how to find, read and analyze scholarly articles, consult and conduct a literature review, read and write purpose statements and research questions; explore quantitative and qualitative research methods, strategies for data collection; strategies for analyzing and interpreting data; and reporting research results and recommendations in various presentation and publishing formats.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HRM 501"
+      },
+      {
+            "Identifier": "HRM 997",
+            "Title": "Research Project in Hospitality Management",
+            "Number_of_credits": "Credit",
+            "Description": "Students consult with a faculty advisor to identify a suitable problem area in hospitality management and develop and carry our appropriate methodology to address the problem. This course may be repeated for credit.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 4 times for 12 credits",
+            "Prerequisites": "HRM 501 [Min Grade: C] and PRST 504 [Min Grade: C]"
+      },
+      {
+            "Identifier": "HRM I599",
+            "Title": "Independent Study in HRM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HRM I699",
+            "Title": "Independent Study in HRM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HRM I799",
+            "Title": "Independent Study in HRM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HRM I899",
+            "Title": "Independent Study in HRM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HRM I999",
+            "Title": "Independent Study in HRM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HRM T580",
+            "Title": "Special Topics in HRM",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HRM T680",
+            "Title": "Special Topics in HRM",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HRM T780",
+            "Title": "Special Topics in HRM",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HRM T880",
+            "Title": "Special Topics in HRM",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HRM T980",
+            "Title": "Special Topics in HRM",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

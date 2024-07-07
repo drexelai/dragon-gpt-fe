@@ -1,0 +1,155 @@
+[
+      {
+            "Identifier": "DSRE 620",
+            "Title": "Design Problem Solving",
+            "Number_of_credits": "Credits",
+            "Description": "A seminar course that examines different methods of design problem solving and its role across disciplines. The intention is to give the student a basis to approach interdisciplinary projects in an innovative way. In addition, the practice of design problem solving is examined from multiple viewpoints including human centered and technology centered approaches.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "DSRE 625",
+            "Title": "Technologies of Making",
+            "Number_of_credits": "Credits",
+            "Description": "A Seminar and Lab course that examines and builds on the students\u2019 core skills in design and making. The Technologies of Making Course aims to continue the development of skills in various computational modeling and fabrication techniques and at varying scales. This course also includes an interdisciplinary exploration in digital fabrication.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "DSRE 626",
+            "Title": "Design: Making and Disruption",
+            "Number_of_credits": "Credits",
+            "Description": "This course combines studio and lecture to introduce students to a variety of disruptive and destructive design techniques and guides them towards innovation and inventions. Through hands-on prompted experimentation, selected readings, in-class discussion, instructive editing, and group critique, students will explore unbuilding and rebuilding of design systems. Students will produce several small-scale experiments and create a larger deliverable based on opportunities discovered during the prototyping phase. To produce this work, students will engage with a variety of digital, philosophical, and material fabrication methods. The course aims to enhance student design abilities by promoting the out-of-the-box expansion of traditional design techniques.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "DSRE 630",
+            "Title": "Data Visualization for Design Professionals",
+            "Number_of_credits": "Credits",
+            "Description": "A seminar course that examines and builds visual fluency in the understanding and re-communication of data including both quantitative and qualitative constructs. Skill building in the communication of research as a way of facilitating design research and the communication of intensive data including technology, environment and human based modes.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "DSRE 635",
+            "Title": "Translational Design Research",
+            "Number_of_credits": "Credits",
+            "Description": "A seminar course that examines and builds on the students\u2019 core skills in design research. Students will understand the ways that research can drive innovation and iteration in the design process. Students will understand the ethics of research and how to engage with different types of research including engagement with different cultures and communities and a variety of stakeholders.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "DSRE 640",
+            "Title": "Design Media and Communications",
+            "Number_of_credits": "Credits",
+            "Description": "New forms of communication in the many design disciplines will be examined. This course will also examine the ways in which this truly interdisciplinary media practice influences and creates the current and future culture of design via a hybridization of media. The goal is to produce interdisciplinary researchers from a group of multi disciplinary students. For the purpose of this course, media refers to a broad set of digital and analogue modes of operation, contemporary works, theories, history and practice. This course will engage students in historical, current and future theories and speculative strategies in relationship to these evolving forms of design and information transfer.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "DSRE 641",
+            "Title": "Contemporary Design Theory",
+            "Number_of_credits": "Credits",
+            "Description": "In this core course, we will work on the development and positioning of current research within a broader theoretical, philosophical and contextual framework. We will be examining how a larger body of research can spawn multiple threads of inquiry each with differing aspects which are relevant to specific audiences related to funding, academic conferences and publications. Within an academic research context, this entails the extraction of specific aspects of students' work which are then investigated further through the specific lens of conference or journal themes and topics.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "DSRE 645",
+            "Title": "Design Research Thesis Proposal",
+            "Number_of_credits": "Credits",
+            "Description": "In this course students will integrate their thoughts, research and progress into a proposal for their Masters of Science in Design Research (DSRE) thesis capstone project. The DSRE thesis proposal will include elements of speculation related to their chosen research path. Proposal possible outcomes for the project and research methods will be examined and implemented. Students will use the proposal as a plan to organize the four term thesis research project they will undertake in the second year of the program.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "DSRE 625 [Min Grade: C] and DSRE 635 [Min Grade: C]"
+      },
+      {
+            "Identifier": "DSRE 650",
+            "Title": "Thesis Research and Practicum",
+            "Number_of_credits": "Credits",
+            "Description": "In this course, students will spend the term documenting, preparing for, and reflecting on a practicum experience related to their path of study; or an initial research endeavor related to the path of study. Students will also take part in various professional and research activities that will augment their thesis process integrate their experience into the ongoing research.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "DSRE 645 [Min Grade: C]"
+      },
+      {
+            "Identifier": "DSRE 677",
+            "Title": "Health and Design Research",
+            "Number_of_credits": "Credits",
+            "Description": "In this inter-professional course, students will explore concepts and methodologies of design, health research, and design thinking. The course is cross-listed between the disciplines of public health and design research, and students will be drawn from both disciplines to examine the reciprocal relationship between health research and human-centered innovation and creative thinking.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "DSRE 750",
+            "Title": "Thesis in Design Research I",
+            "Number_of_credits": "Credits",
+            "Description": "In this, the first of the three thesis project courses, students will expand their research, and progress, into their Masters of Science in Design Research (DSRE) thesis capstone project. The DSRE thesis project will include elements of speculation related to their chosen research path. The initial work of the proposal written inDSRE\u00a0645and outcomes from the practicum/research courseDSRE\u00a0650will be examined and synthesized in this first of the three-course thesis project sequence-additional research methods will be implemented and examined. The outcome from this term is a research report that will be integrated into the final binder in the third thesis term.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "DSRE 650 [Min Grade: C]"
+      },
+      {
+            "Identifier": "DSRE 760",
+            "Title": "Thesis in Design Research II",
+            "Number_of_credits": "Credits",
+            "Description": "In this, the second course of the thesis sequence, students will continue to develop their Masters of Science in design Research (DSRE) thesis capstone project. The DSRE thesis project will include elements of speculation related to their chosen research path. Student will build on initial research outcomes to develop a draft of their final thesis-this may include a physical artifact, prototype or a database-or a combination of outcomes. All students will produce a final binder that documents the proposal, base research, and outcomes. This term students will produce, document and speculate on initial outcomes-a draft of the final document will be due at the end of this term.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "DSRE 750 [Min Grade: C]"
+      },
+      {
+            "Identifier": "DSRE 770",
+            "Title": "Thesis in Design Research III",
+            "Number_of_credits": "Credits",
+            "Description": "In this course, the culmination of the Masters of Science in Design Research (DSRE) Thesis sequence, students will finalize their DSRE thesis capstone project. The DSRE thesis project will include elements of speculation related to their chosen research path. Students will build on initial research outcomes to complete their final thesis-this may include a physical artifact, prototype , database-or a combination of outcomes. All students will produce a final, publication quality paper that documents the proposal, base research, and outcomes. In this final term, students will finalize both the outcome and the document. The final format will be determined by the student and advisor-final outcome to be evaluated with professional input.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "DSRE 760 [Min Grade: C]"
+      },
+      {
+            "Identifier": "DSRE I599",
+            "Title": "Independent Study",
+            "Number_of_credits": "Credit",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "DSRE I699",
+            "Title": "Independent Study",
+            "Number_of_credits": "Credit",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "DSRE T580",
+            "Title": "Special Topics in Design Research",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "DSRE T680",
+            "Title": "Special Topics in Design Research",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

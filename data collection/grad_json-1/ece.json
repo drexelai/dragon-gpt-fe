@@ -1,0 +1,254 @@
+[
+      {
+            "Identifier": "ECE 500",
+            "Title": "Advanced Power Electronics",
+            "Number_of_credits": "Credits",
+            "Description": "This power electronics course is for graduate students in the area of power engineering, focusing on advanced knowledge and technology in the research and applications of power electronics. It will introduce the latest achievements in power electronics and provides future trend of technology developments.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECE 501",
+            "Title": "Topics in Circuits and Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Circuit laws, transfer functions, convolution, transform techniques, systems engineering. This series of courses may be used to meet the admission prerequisites to ECE graduate program. One credit per term is creditable to the M.S.E.E. degree.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECE 502",
+            "Title": "Topics In Communications, Controls and Computers",
+            "Number_of_credits": "Credits",
+            "Description": "Modulation theory, noise, feedback theory, stability, computer engineering fundamentals, computers in communication and controls. This series of courses may be used to meet the admission prerequisites to the ECE graduate program. One credit per term is creditable to the M.S.E.E. degree.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECE 503",
+            "Title": "Topics in Mathematical Techniques In Electrical and Computer Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Complex variables in communication and control, matrix methods in circuits and systems, vector calculus in fields, two-dimensional image processing. This series of courses may be used to meet the admission prerequisites to the ECE graduate program. One credit per term is creditable to the M.S.E.E. degree.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECE 506",
+            "Title": "Hands on Computer Networks",
+            "Number_of_credits": "Credits",
+            "Description": "This course makes use of a remote platform, an open infrastructure for networking research and education that spans multiple testbeds of real networking equipment around the United States and abroad. Students will gain hands-on experience designing, configuring and analyzing real networks. We will work in small groups on lab exercises by creating a shared ``networking slice\u201d for each group. We will explore several networking protocols, from basic home gateway services (DHCP, DNS, NAT), to TCP/IP Protocol layers (Link State Routing, TCP congestion control), network security basics (network reconnaissance, DNS spoofing scenarios) to more advanced topics, such as programmable switches and software defined networking.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECE 531",
+            "Title": "Modern Transistors",
+            "Number_of_credits": "Credits",
+            "Description": "This course teaches the underlying physics of the operation of modern bipolar and unipolar transistors which are used in modern electronics. This background is helpful for a) courses related to digital microelectronics, logical gates, memories, and sub circuits, and VLSI circuits; b) courses in analog electronics; and c) courses in microwave electronic systems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECE 532",
+            "Title": "Modern Photonics",
+            "Number_of_credits": "Credits",
+            "Description": "This course will teach students the principles that underline the interaction of light and matter, leading to the understanding of the basis of operation of photonic devices such as lasers, LEDs, solar cells, and photodetectors. The course starts with how understanding of light spectrum that is generated due to heat started the development of the field of quantum mechanics by Max Planck. This is then expanded by Einstein to include a quantum theory of light, on which basis absorption, stimulated and spontaneous emission are explained. Building on that work, we analyze light interaction with semiconductors and show how lasers, LEDs and photodetectors work, and how modern photonics is able to solve great challenges of humanity.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECE 551",
+            "Title": "Digital Systems Design",
+            "Number_of_credits": "Credits",
+            "Description": "A project-based course on design concepts, tools and implementation of systems with embedded processors, library IP (Intellectual Property) cores and custom IP cores, synthesis and Field Programmable Gate Array (FPGA) implementation.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECE 571",
+            "Title": "Introduction to Electrical and Computer Engineering Research",
+            "Number_of_credits": "Credits",
+            "Description": "Topics of departmental research. Thesis selection. Required of all full-time graduate students.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECE 572",
+            "Title": "Techniques of Electrical and Computer Engineering Research",
+            "Number_of_credits": "Credits",
+            "Description": "Techniques for making technical presentations: oral and written modes. Meeting organization, audience awareness. Writer-to-reader communication. Required of all full-time graduate students.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECE 573",
+            "Title": "Presentation of Electrical and Computer Engineering Research",
+            "Number_of_credits": "Credits",
+            "Description": "Conference attendance and critique. Student presentation and critique. Topics of concern: professional ethics, liability, etc. Required of all full-time graduate students.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECE 600",
+            "Title": "Applied Robotics Laboratory",
+            "Number_of_credits": "Credits",
+            "Description": "Students will learn the underlying background/theory to simulate and physically implement a two axis scara robot that can draw a straight line or follow curves. Key topics include: creation of motion profiles, forward and inverse kinematics, Devevit-Haretnburg matrices, Lagrangian dynamisc, position servo systems and determining required bandwith of servo system to ensure tracking of desired waveforms as well as fundamentals of robot motion programming. In addition students will also explore commercial codes used for robot design and analysis.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECE 603",
+            "Title": "Computing and Control",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on the practical aspects of implementing Computer Control using microcontrollers in such applications as: Automated Equipment, Robotics, Motor Control, Process Control and Aerospace. The course is essentially divided into two parts: (1) the computer in the loop and (2) addressing noisy measurements.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECE 605",
+            "Title": "Quantum Computing and Informatics",
+            "Number_of_credits": "Credits",
+            "Description": "Implementation of computing and information processing depends on physical laws. Laws of quantum theory could make it possible to circumvent some current limitations of classical computers and information processing methods. This course introduces the concepts of quantum computing and informatics with a particular emphasis on comparison with its classical counterparts. The course does not discuss technology or devices that can be used to implement quantum computers. Instead, it is meant to provide logical foundation for the quantum computation paradigm culminating in the discussion, analysis and simulation of simple quantum computing algorithms and information transfer fundamentals.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECE 608",
+            "Title": "Decision-Making for Robotics",
+            "Number_of_credits": "Credits",
+            "Description": "Robots today are equipped with sophisticated computing, communication, and sensing resources. It is becoming increasingly important to develop efficient decision-making algorithms that make full use of the robot's capabilities. In this course, we will discuss the state-of-the-art algorithms that aim for that. Topics range from Information-theoretic Planning, Planning under Uncertainty, Adversarial Planning, to Learning and Perception.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECE 610",
+            "Title": "Machine Learning & Artificial Intelligence",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces students to topics in modern machine learning, along with applications of machine learning to problems in engineering. Introductory topics will include an overview of classification, overfitting, cross-validation, and dimensionality reduction. Supervised classification approaches will be covered including linear classifiers, generative and discriminative models, non-probabilistic classification approaches, kernel methods, and neural networks. Topics in unsupervised learning will also be covered if time permits.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECES 521 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECE 612",
+            "Title": "Applied Machine Learning Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "This course emphasizes how to gather data then train, test, and deploy practical machine learning systems using modern software libraries, with an emphasis on Keras on TensorFlow. Complementing the other department courses emphasizing the mathematics behind machine learning algorithms and the ways these can be tailored to specific computing architectures, this project-focused course emphasizes the practice of rapidly prototyping and testing multiple learning structures. To provide the broadest applicability, datasets will range from rich text, to financial time series, to sound, images, and video.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECE 613",
+            "Title": "Neuromorphic Computing",
+            "Number_of_credits": "Credits",
+            "Description": "This course will cover the principles of neuromorphic computing. Topics will cover 1) fundamentals of spiking neural network (SNN), which mimics the computation in mammalian brain; 2) supervised and unsupervised learning algorithms for SNN; 3) novel applications of SNN, including in vision and time series processing; 4) architectures for implementing SNN in hardware, aka neuromorphic hardware; 5) introduction to non-volatile memory technologies to implement synaptic processing in neuromorphic hardware; 6) software stacks for neuromorphic computing; and 7) design challenges in dependable neuromorphic computing.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECE 630",
+            "Title": "Software Defined Radio Laboratory",
+            "Number_of_credits": "Credits",
+            "Description": "This laboratory course takes a Software-Defined Radio (SDR) implementation approach to learn about modern analog and digital communication systems. Software defined radio uses general purpose radio hardware that can be programmed in software to implement different communication standards. Discussion of the basic principles of wireless radio frequency transmissions and leverage this knowledge to build analog and digital communication systems. Knowledge of these techniques and systems will provide a platform that can be used in the class project for further exploration of wireless networking topics such as cybersecurity, cognitive radio, smart cities, and the Internet of Things.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECE 686",
+            "Title": "Cell & Tissue Image Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "Theory and practice of building computational tools for biological image analysis.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECE 687",
+            "Title": "Pattern Recognition",
+            "Number_of_credits": "Credits",
+            "Description": "Theory of supervised and unsupervised statistical pattern recognition, presented through practical programming techniques.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECE 695",
+            "Title": "Research Rotations in Cybersecurity",
+            "Number_of_credits": "Credit",
+            "Description": "The research rotation course allows students to gain exposure to cybersecurity-related research that cuts across conventional departmental barriers and traditional research groups, prior to identifying and focusing on a specific interdisciplinary project or thesis topic. Students selecting to participate in research rotations would participate in the research activities of two labs for each three credits of research rotation they undertake.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECE 697",
+            "Title": "Research",
+            "Number_of_credits": "Credit",
+            "Description": "Research in electrical and computer engineering.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECE 898",
+            "Title": "Master's Thesis",
+            "Number_of_credits": "Credit",
+            "Description": "Master's thesis in electrical and computer engineering.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECE 997",
+            "Title": "Dissertation Research",
+            "Number_of_credits": "Credit",
+            "Description": "Graded Ph.D. dissertation research in electrical and computer engineering.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECE 998",
+            "Title": "Ph.D. Dissertation",
+            "Number_of_credits": "Credit",
+            "Description": "Ph.D. dissertation research in electrical and computer engineering.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECE I699",
+            "Title": "Independent Study in ECE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECE T580",
+            "Title": "Special Topics in ECE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

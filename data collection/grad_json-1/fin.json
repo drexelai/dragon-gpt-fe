@@ -1,0 +1,344 @@
+[
+      {
+            "Identifier": "FIN 601",
+            "Title": "Corporate Financial Management",
+            "Number_of_credits": "Credits",
+            "Description": "The objective of this course is to develop the intuition and tools to analyze corporate financial decisions. The topics to be covered include the time value of money, capital budgeting, stock and bond valuation, the link between risk and return, the cost of capital, and business valuation.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BUSN 501 [Min Grade: C] or ACCT 510 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN 602",
+            "Title": "Advanced Financial Management",
+            "Number_of_credits": "Credits",
+            "Description": "Provides an in-depth treatment of long-term financing decisions, including estimation of the cost of capital, financial leverage, dividend policy, and capital structure determination.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 601 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN 605",
+            "Title": "Business Valuation",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides a framework to understand value creation and maximization. The primary focus is on the valuation of equity in a public corporation, but the methods also apply to the valuation of private companies and small businesses. Topics include the analysis and projection of financial performance and the application of discounted cash flow and price-multiple valuation models.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 601 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN 610",
+            "Title": "Corporate Governance",
+            "Number_of_credits": "Credits",
+            "Description": "Corporate governance determines how strategic financial decisions are made in a firm. Topics include how incentives are set for executives in compensation contracts; the role of external constituents such as regulators, security analysts, and activist investors; the structure and purpose of the board of directors; and the consideration of environmental, social, and governance (ESG) factors on corporate structure and policy. The course will explore the success and failure of strategic decisions and the role governance plays in shaping them. The material will be delivered via lecture, student-driven discussion, and real-world case analysis.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FIN 615",
+            "Title": "Environmental and Social Issues in Finance",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on how policies related to environmental and social (ES) issues affect firm performance. Using a mix of case studies, readings, discussions, and assignments, this class critically assesses ES issues affecting corporations today. Specific topics include activist and regulatory pressure, motivation for ES policies, greenwashing, and consequences for corporations that do and do not address these issues.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 601 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN 622",
+            "Title": "Financial Institutions & Markets",
+            "Number_of_credits": "Credits",
+            "Description": "Analyzes the economic functions of financial markets and intermediaries. Examines monetary policy formation and its impact on financial markets.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 601 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN 624",
+            "Title": "Risk Management",
+            "Number_of_credits": "Credits",
+            "Description": "Provides a fundamental understanding of risk and return, modern portfolio theory, asset pricing models, performance evaluation, and the use of derivatives to hedge and manage risk.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 601 [Min Grade: C] and (STAT 601 [Min Grade: C] or STAT 610 [Min Grade: C] or STAT 510 [Min Grade: C] or ECON 540 [Min Grade: C])"
+      },
+      {
+            "Identifier": "FIN 626",
+            "Title": "Investment Management",
+            "Number_of_credits": "Credits",
+            "Description": "Covers theoretical and analytical frameworks used to value securities such as common stocks and bonds.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 601 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN 635",
+            "Title": "Entrepreneurial Finance",
+            "Number_of_credits": "Credits",
+            "Description": "The purpose of the course is to bring financial management decision, tools and techniques typically applied in corporate contexts into the realm of entrepreneurship. This course presents the importance of understanding and applying entrepreneurial finance methods and tolls to help ensure a successful venture.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 601 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN 639",
+            "Title": "FinTech",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on the growing area of fintech, defined as the set of new technologies and innovations that strive to compete with traditional financial methods in the delivery of financial services. Specific topics include cryptocurrencies, peer-to-peer lending, crowdfunding, initial coin offerings, the technology-based alternatives to personal advising / trading, and regulatory issues. For each, we will consider both the benefits of these \u2018fintech\u2019 innovations, as well as their limitations.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 601 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN 640",
+            "Title": "Mergers and Acquisitions",
+            "Number_of_credits": "Credits",
+            "Description": "Covers internal vs. external growth, forces of expansion, analysis of relevant quantitative factors, accounting and tax problems, and forms of expansion.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 602 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN 642",
+            "Title": "Business Conditions and Forecasting",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces various techniques such as trend analysis, time series analysis, and econometric methods to forecast business fluctuations and financial asset prices.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 601 [Min Grade: C] and (STAT 601 [Min Grade: C] or STAT 610 [Min Grade: C] or STAT 510 [Min Grade: C] or ECON 540 [Min Grade: C])"
+      },
+      {
+            "Identifier": "FIN 645",
+            "Title": "Behavioral Finance",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an introduction to the topic of behavioral finance. Much of traditional economics and finance is based on market participants and managers behaving rationally. However, financial decisions in the laboratory and in the field systematically deviate from rational benchmarks, despite large monetary incentives to get it right. Behavioral finance examines these deviations and their implications for investor welfare and asset prices.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 626 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN 648",
+            "Title": "International Financial Management",
+            "Number_of_credits": "Credits",
+            "Description": "Uses analytical tools and data to formulate optimal financing and investment strategies in global markets. Analyzes exchange rate determination and international asset price linkages.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 601 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN 649",
+            "Title": "Comparative Financial Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "The analysis of financial statements for the purposes of valuation and the assessment of creditworthiness and liquidity; financial ratio analysis.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 601 [Min Grade: C] and FIN 626 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN 650",
+            "Title": "Derivative Securities",
+            "Number_of_credits": "Credits",
+            "Description": "The analysis and pricing of derivative securities including futures and options; applications to risk management and portfolio management.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 624 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN 660",
+            "Title": "Advanced Portfolio Management",
+            "Number_of_credits": "Credits",
+            "Description": "The course is designed to provide the student with a fundamental understanding of portfolio management; introduce the student to international investing and alternative investment strategies; foster intuitive understanding of the material; and integrate theoretical concepts with practical investment applications.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 601 [Min Grade: B]"
+      },
+      {
+            "Identifier": "FIN 670",
+            "Title": "Applied Portfolio Management",
+            "Number_of_credits": "Credits",
+            "Description": "This course is the second in the sequence of experiential courses for MS students in which students will develop a business plan for offering financial service products with particular emphasis on portfolio management strategies. A majority of your work will be outside of the classroom in the development and preparation of the business plan to be presented in class.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 601 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN 790",
+            "Title": "Seminar in Finance",
+            "Number_of_credits": "Credits",
+            "Description": "Requires students to present the results of research on the application of financial theory to the establishment of financial policy. Requires oral report and written paper of graduate quality.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 602 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN 794",
+            "Title": "Seminar in Investments",
+            "Number_of_credits": "Credits",
+            "Description": "Requires students to present the results of research on the application of theory to portfolio management problems.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 626 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN 910",
+            "Title": "Doctoral Seminar in Corporate Governance",
+            "Number_of_credits": "Credits",
+            "Description": "Doctoral Seminar on research in Corporate Governance. Topics include board composition, executive compensation, and governance effects on mergers and acquisitions.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FIN 920",
+            "Title": "Doctoral Seminar in Asset Pricing",
+            "Number_of_credits": "Credits",
+            "Description": "Provides an introduction to techniques used in asset pricing.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FIN 921",
+            "Title": "Doctoral Seminar in Behavioral Finance",
+            "Number_of_credits": "Credits",
+            "Description": "Much of finance research is based on market participants and managers behaving rationally. Financial decisions in the lab and the field systematically deviate from rational benchmarks, despite pecuniary incentives to get it right. Behavioral finance examines these deviations and their implications for welfare and prices. This course provides an introduction to the field for doctoral students in financial economics.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FIN 922",
+            "Title": "Doctoral Seminar in Corporate Finance",
+            "Number_of_credits": "Credits",
+            "Description": "Covers theoretical and empirical topics in corporate finance.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FIN 924",
+            "Title": "Doctoral Seminar in Financial Markets",
+            "Number_of_credits": "Credits",
+            "Description": "The course provides a theoretical framework to analyze the behavior of prices in financial markets.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FIN 928",
+            "Title": "Doctoral Seminar in Financial Econometrics",
+            "Number_of_credits": "Credits",
+            "Description": "The course provides econometric techniques for empirical analysis of financial economics.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FIN 931",
+            "Title": "Seminar on Current Issues in Finance",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores the role that market participants, namely analysts, investment banks and advisors, and insiders play in providing information to the market, while investigating conflicts of interest that potentially alter the information produced by these agents.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FIN 998",
+            "Title": "Dissertation Research in Finance",
+            "Number_of_credits": "Credit",
+            "Description": "",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FIN I599",
+            "Title": "Independent Study in FIN",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FIN I699",
+            "Title": "Independent Study in FIN",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FIN I799",
+            "Title": "Independent Study in FIN",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FIN I899",
+            "Title": "Independent Study in FIN",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FIN I999",
+            "Title": "Independent Study in Finance",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated 3 times for 12 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FIN T580",
+            "Title": "Special Topics in Finance",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FIN T680",
+            "Title": "Special Topics in Finance",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FIN T780",
+            "Title": "Special Topics in Finance",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FIN T880",
+            "Title": "Special Topics in Finance",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FIN T980",
+            "Title": "Special Topics in Finance",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

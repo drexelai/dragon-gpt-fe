@@ -1,0 +1,425 @@
+[
+      {
+            "Identifier": "LSTU 550",
+            "Title": "Introduction to the Legal System",
+            "Number_of_credits": "Credits",
+            "Description": "This course will begin to help students \"think like lawyers\" by providing an overview of the United States legal system. It will explain the legislative and judicial processes, so that students will gain an understanding of where the power to regulate originates and the basis of federal law and regulations. The course will then focus on substantive areas of the law, such as torts, contracts, and criminal law.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 551",
+            "Title": "Compliance Skills: Auditing, Investigation & Reporting",
+            "Number_of_credits": "Credits",
+            "Description": "This is a skills course that provides students opportunities to develop internal audit skills and strategies, conduct internal investigation work plans, and draft executive level communications. The skills taught will include work plan development, investigative techniques, interviewing methods, class presentations, and drafting of projects plans and board/executive level reporting.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 552",
+            "Title": "Ethics and Professional Standards",
+            "Number_of_credits": "Credits",
+            "Description": "Students will be exposed to fundamental issues and current best practices in managing issues of ethical/legal compliance, corporate social responsibility and business ethics. Topics cover business issues, including anti-corruption, environmental crimes/compliance, child labor, employment discrimination, crisis management, whistleblowing, retaliation, fraud, privacy, sustainability and social enterprise. Special attention is given to preparing students to understand and manage the demands on corporations making complex business decisions in the face of increasing expectations for transparency and accountability.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 553",
+            "Title": "Legal Research and Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "Students will learn how to research topics and distill their research in written form through a series of exercises. They will also be expected to complete numerous written communications of increasing length and complexity. Detailed feedback will be provided on all written exercises by the professor.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 554",
+            "Title": "Risk Assessment and Management",
+            "Number_of_credits": "Credits",
+            "Description": "Risk assessment and management has become a crucially important field for private sector business as well as government sector agencies and organizations, particularly over the past decade following the passage of laws such as Sarbanes-Oxley and Dodd-Frank. This course will examine regulatory compliance and risk management issues that impact various corporate and governmental entities, providing students the opportunity to explore risk analysis and compliance in a variety of legal environments. This course will help familiarize students with issues that might arise in corporate risk management departments, contracts departments, risk management consulting, and the regulatory compliance departments of financial services industries, banking, insurance, credit, risk assessment, and benefits management.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 555",
+            "Title": "Compliance Communications",
+            "Number_of_credits": "Credits",
+            "Description": "This course serves as an introduction to the fundamentals of writing specific to the growing area of compliance and addresses why compliance writing is different than general business writing. Assignments are drawn from the various types of writing that are typical of compliance professionals in various industries. Topics include writing for different audiences (various corporate departments, c-suite executives, boards of directors, regulators, the public, etc.), policy and procedure writing, the complexities of communicating with a diverse global audience, investigation memos and evaluation/communication of metrics-based data.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 560",
+            "Title": "MLS Masters Capstone I",
+            "Number_of_credits": "Credits",
+            "Description": "This course will provide students with faculty and peer support and guidance in preparing a capstone research project in completion of the Master of Legal Studies. Students will prepare a major written project which may consist of a novel legal claim supported by a substantial literature review or an experientially-based study grounded in a substantial literature review.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 561",
+            "Title": "MLS Masters Capstone II",
+            "Number_of_credits": "Credits",
+            "Description": "This course will provide students with faculty and peer support and guidance in preparing a capstone research project in completion of the Master of Legal Studies. Students will prepare a major written project which may consist of a novel legal claim supported by a substantial literature review or an experientially-based study grounded in a substantial literature review.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 600",
+            "Title": "Health Care Rules and Regulations",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to provide students with an understanding of the laws and regulations encountered by compliance professionals. The course will equip students to apply statutory and regulatory principles to situations that they will encounter in their work.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 601",
+            "Title": "Health Care Quality, Patient Safety and Risk Management",
+            "Number_of_credits": "Credits",
+            "Description": "This course will examine methods and tools for managing quality in health facilities, physician practices, managed care, and public health; including developments in quality assurance and improvement, utilization review, risk management, and patient satisfaction.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 602",
+            "Title": "Patients and Privacy: HIPAA and Related Regulations",
+            "Number_of_credits": "Credits",
+            "Description": "The focus of this course will be the privacy and security provisions of the Health Insurance Portability and Accountability Act of 1996 (HIPAA), the foundation for federal protections of health care information. Additionally, the course will examine the interplay between HIPAA and other federal and state health privacy laws and the application and enforcement of those laws in a variety of health care settings. The class will incorporate discussions about the close and evolving relationships among health care policy, evolving social norms, and health privacy laws.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 603",
+            "Title": "Legal Regulation of Pharmaceutical and Medical Device Research and Development",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores the regulatory entities and schemes governing the research and development, management, financing, and reporting requirements of clinical trials in the pharmaceutical and life sciences sectors. Topics include the role of the Institutional Review Board, compliance with Good Clinical Practice standards, informed consent, pharmacovigilance and the protection of human research subjects, payments and financial transparency, conflicts of interest, ethical considerations in designing and executing clinical trials, and reporting requirements.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 604",
+            "Title": "Legal Regulation of Pharmaceutical and Medical Device Sales and Marketing Practices",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores the law governing pharmaceutical and medical device sales and marketing practices, including product pricing, advertising, labeling, promotion and distribution. Topics may include identification of the entities regulating pharmaceutical and medical device manufacturers, disclosure and transparency requirements, payments to doctors and institutions, fraud and abuse, anti-bribery laws, direct-to-consumer advertising including internet advertising, off-label marketing and promotion, labeling over-the-counter (OTC) drugs, and limitations on the government\u2019s ability to regulate commercial speech.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 605",
+            "Title": "Food and Drug Law",
+            "Number_of_credits": "Credits",
+            "Description": "This course considers the federal regulation of products subject to FDA jurisdiction, including food, human prescription and nonprescription drugs, animal feed and drugs, biologics and blood products, medical devices, and cosmetics. The course examines the public policy choices underlying the substantive law, FDA enforcement power, and agency practice and procedure.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 610",
+            "Title": "NCAA Governance I: Division I",
+            "Number_of_credits": "Credits",
+            "Description": "This course will provide a comprehensive overview of the NCAA governance methodology and structure related to managing a Division I Intercollegiate athletic program. Students will explore the NCAA bylaws, focusing specifically on large public research universities with high-profile teams playing at the top National College Athletics Association level, and will examine the relationship between athletics and undergraduate education.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 611",
+            "Title": "NCAA Governance II- Division II and III",
+            "Number_of_credits": "Credits",
+            "Description": "This course will introduce students to the membership criteria and governance structure relating to managing a Division II or III Intercollegiate athletic program. Students will explore NCAA rules-making process and bylaws specific to DII and DIII schools and will continue the examination of the relationship between athletics and education in the higher education setting.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 612",
+            "Title": "NCAA Infractions and Enforcement Processes",
+            "Number_of_credits": "Credits",
+            "Description": "This course will offer a comprehensive overview of the NCAA enforcement mechanism for infractions of the NCAA rules and regulations in across Divisions. Students will examine the investigatory processes and the consequences member institutions face for violating NCAA bylaws. Students will also explore how the rules have been interpreted and enforced by the NCAA, on campus, and by judicial decisions.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 620",
+            "Title": "Legal Issues in Employee Hiring and Termination",
+            "Number_of_credits": "Credits",
+            "Description": "Legal issues in hiring and termination of employees are at the core of human resources responsibilities. This course will examine regulatory compliance and management issues that arise in the context of hiring and terminating employees with special consideration of federal law and its continued developments. This course will help familiarize students with issues that arise in human resource departments, particularly as they pertain to those points of entry and exit and where the need to document becomes a critical duty of those managing the hiring, evaluation and termination process.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Can be repeated 1 times for 8 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 621",
+            "Title": "Human Resources Compliance: Managing the Employer/Employee Relationship",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to introduce students to the fundamentals of human resource compliance and regulation and to provide an overview of the skills necessary to manage human resources effectively. The course will examine why human resource management matters in today\u2019s business world and will show how employee performance and legal compliance serve as intermediary processes that connect human resource practices to organizational performance and effectiveness. Students will discuss the various ways in which the employer/employee relationship can be harnessed in positive ways rather than be seen in an adversarial light. This course will highlight issues that might arise in human resource departments, compliance departments and benefits management departments.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 622",
+            "Title": "Human Resources in Practice: Negotiation, Mediation, and Alternative Dispute Resolution",
+            "Number_of_credits": "Credits",
+            "Description": "Human resource managers deal not only with laws, rules and regulations, but also and foremost, with people. This course explores the practical reality of working in human resources and provides the necessary skills to ensure competency and success. The course focuses on negotiation with subordinates, peers and supervisors; mediation, because human resource workers often act as informal mediators between employees and supervisors; and alternative dispute resolution, as more employers require their employees to submit their complaints to some form of resolution process as an alternative to a formal lawsuit. This course will familiarize students with issues that arise in human resource departments and provide them with concrete tools to analyze, understand, and implement the best possible path to resolution.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 630",
+            "Title": "Corrections Law",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to introduce students to the constitutional rights of prisoners and the implications of those rights for prison management. In particular, students will gain a working knowledge of the role of the First Amendment in regulating inmate mail, associational rights, religious practice, and visitation. They will learn how the Fourth Amendment relates to searches of both inmates and visitors. Students will discover how the Fifth and Fourteenth Amendment Due Process rights control inmate transfer, classification and discipline. They will also learn how the Eighth Amendment controls prison policy with respect to the conditions of confinement and provision of health care.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 631",
+            "Title": "Criminal Law",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines the principles that underlie liability for criminal conduct. Topics include the definition of crimes and the principles of punishment, the required acts and mental states necessary for liability, and defenses to and justifications for conduct. Specific crimes will be discussed including conspiracy and intentional murder and manslaughter.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 632",
+            "Title": "Criminal Procedure: Investigations",
+            "Number_of_credits": "Credits",
+            "Description": "This course considers the Fourth Amendment's protection against unreasonable search and seizure, the Fifth Amendment's right to Due Process and against compulsory self-incriminations, and the Sixth Amendment's right to counsel, all with particular emphasis on the application of these constitutional provisions within the context of criminal investigation.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 640",
+            "Title": "Legal Landscape of Student Rights and Campus Safety",
+            "Number_of_credits": "Credits",
+            "Description": "This course will discuss the legal rights of students beginning at the application process and continuing through matriculation and separation from the higher education institution. Topics may include the Family Educational Rights and Privacy Act (FERPA); anti-discrimination and equal access issues; campus crime and safety, including sexual assault and required disclosures; and liability and negligence on the part of the institution.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Can be repeated 1 times for 8 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 641",
+            "Title": "Institutional Compliance: Aid and Accreditation",
+            "Number_of_credits": "Credits",
+            "Description": "This course will provide an overview of compliance issues in American institutions of higher learning as they pertain to financial aid and accreditation. In particular, this course will focus on issues pertaining to federal and state financial aid, college access, and reporting requirements. The course will also examine accreditation and disclosure requirements under the Higher Education Act and other relevant regulations and laws.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Can be repeated 1 times for 8 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 642",
+            "Title": "Higher Education Institutions: Financial Rules and Regulations",
+            "Number_of_credits": "Credits",
+            "Description": "This course will introduce students to the many financial rules and regulations that govern institutions of higher learning. This course will expose students to areas such as governance and accountability, charitable gifts and endowments and their attending tax implications as well and issues that arise in the areas of intellectual property and scientific research.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Can be repeated 1 times for 8 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 649",
+            "Title": "Foundations of Financial Regulation",
+            "Number_of_credits": "Credits",
+            "Description": "This foundational course will introduce students to various types of financial services institutions in the U.S. and the bodies that regulate them. The course will explore the history of domestic financial regulation and the development and current state of regulation in different industry sectors, including commercial and consumer depository institutions, investment companies, securities firms, private investment funds, and insurance companies.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 650",
+            "Title": "Legal Regulation of Global Financial Crimes",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers a broad scope of global financial crimes and their intersection with the US financial system. Students will learn about a variety of types of financial crimes; what laws and regulations come into play; which regulators enforce them; the consequences for individuals and financial institutions who enable such crimes (whether intentionally or otherwise); the latest data breach issues, laws, and regulations (including GLBA, GDPR, and others); and how current events, politics, and technological advances intersect with these criminal enterprises.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 651",
+            "Title": "Legal Regulation of Investment Advisers",
+            "Number_of_credits": "Credits",
+            "Description": "This course will thoroughly review the Investment Advisers Act of 1940 and how it laid the foundation for present day regulation. It will explore the various legal and regulatory schemes that govern investment companies and look at the key policies that drive them.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 652",
+            "Title": "Legal Regulation of Investment Companies",
+            "Number_of_credits": "Credits",
+            "Description": "This course will thoroughly review the Investment Company Act of 1940 and how it laid the foundation for present day regulation. It will explore the various legal and regulatory schemes that govern investment companies and look at the key policies that drive them.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 653",
+            "Title": "Broker/Dealer Regulation",
+            "Number_of_credits": "Credits",
+            "Description": "This course will discuss the legal and regulatory frameworks that govern broker-dealers. It will explore the multiple legal and regulatory regimes that govern broker dealers and affiliated institutions.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 654",
+            "Title": "Banking Law",
+            "Number_of_credits": "Credits",
+            "Description": "This course will explore the development of banking law and how that development shapes our current banking regulatory regime. It will also compare the US banking regulatory scheme comprised of state and federal bodies with the more uniform systems operating in many foreign jurisdictions.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 660",
+            "Title": "Information Privacy Law",
+            "Number_of_credits": "Credits",
+            "Description": "This course will introduce students to the development of information privacy law in the United States. It will focus on legal regulations limiting government access to private information as well as laws regulating the ability of third parties to access such information. It will conclude with an introduction to the privacy regulatory regime imposed by the Federal Trade Commission and European Union regulators.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 661",
+            "Title": "The Law and Strategies Surrounding Cybersecurity",
+            "Number_of_credits": "Credits",
+            "Description": "This course will introduce students to the legal and regulatory frameworks governing US cybersecurity. It will examine topics including domestic cybersecurity standards, data breach notification and response, and the creation of compliance programs to manage cybersecurity risks.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 662",
+            "Title": "European Union Data Privacy and Protection",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores the law governing information privacy, data protection, and data security in the European Union. Topics may include an introduction to the EU Data Protection Directive and the new General Data Protection Regulation (2018), the Data Protection Authorities and cybersecurity in Europe. Students will also explore the so-called \u201cRight to Be Forgotten,\u201d and how EU law affects US companies doing business in Europe or with European entities.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 998",
+            "Title": "Thesis I \u2013Scholarly Legal Writing:  Planning and Preparation",
+            "Number_of_credits": "Credits",
+            "Description": "This course will introduce you to research and writing techniques commonly used in legal scholarly writing. Specifically, this course will help you identify and develop an original thesis topic and will provide you with the foundation needed to draft, edit, and present an original scholarly work of publishable quality in Thesis II.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU 999",
+            "Title": "Thesis II \u2013 Scholarly Legal Writing:  Writing, Refining, and Presentation",
+            "Number_of_credits": "Credits",
+            "Description": "Following Thesis I, this course will provide faculty-guided oversight and mentorship for the drafting, editing, and presentation of an original piece of publishable-quality legal scholarship akin to a law review article. Students will confer with a faculty advisor weekly, either live or via real-time video conference, submit interim drafts as assigned, and receive meaningful faculty feedback. Students will submit a final scholarly paper and present it to colleagues in a workshop format.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU I599",
+            "Title": "Independent Study in Legal Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Can be repeated 6 times for 84 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU I699",
+            "Title": "Independent Study in Legal Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Can be repeated 6 times for 84 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU I799",
+            "Title": "Independent Study in Legal Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Can be repeated 6 times for 84 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU I899",
+            "Title": "Independent Study in Legal Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Can be repeated 6 times for 84 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU I999",
+            "Title": "Independent Study in Legal Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Can be repeated 6 times for 84 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU T580",
+            "Title": "Special Topics in Legal Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU T680",
+            "Title": "Special Topics in Legal Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU T780",
+            "Title": "Special Topics in Legal Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU T880",
+            "Title": "Special Topics in Legal Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LSTU T980",
+            "Title": "Special Topics in Legal Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

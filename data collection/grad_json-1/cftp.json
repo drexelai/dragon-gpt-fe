@@ -1,0 +1,875 @@
+[
+      {
+            "Identifier": "CFTP 500",
+            "Title": "Introduction to Systems Theory",
+            "Number_of_credits": "Credits",
+            "Description": "This course will present an overview of systems theory, particularly general systems theory and cybernetics. This course will include a critique of system theory from a feminist and cross-cultural perspective.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 502",
+            "Title": "Introduction to Family Therapy II",
+            "Number_of_credits": "Credits",
+            "Description": "This course will include contemporary and evidence based family therapy models. Students must have successfully completed Systems Theory and Introduction to Family Therapy I prior to enrolling in this course.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CFTX 501 [Min Grade: C] and CFTP 500 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CFTP 503",
+            "Title": "Historical and Sociocultural Influences",
+            "Number_of_credits": "Credits",
+            "Description": "This course will introduce students to an examination of the family in a broader social cultural context. This class will explore how sociocultural concepts define and affect social, interpersonal and professional interactions.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 504",
+            "Title": "Sociocultural Influences II",
+            "Number_of_credits": "Credits",
+            "Description": "This course will teach students how to develop culturally competent couple and family therapy models. Special attention to issues of power, privilege and oppression will be infused throughout the course. Students must successfully complete Sociocultural Influences I prior to enrolling in this course.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CFTP 503 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CFTP 506",
+            "Title": "Contextual Theory and Therapy",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces students to present the basic tenets of Contextual Therapy and Clinical applications.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 509",
+            "Title": "Couples Therapy",
+            "Number_of_credits": "Credits",
+            "Description": "This course will introduce students to the theory and practice of couple therapy. Couple theories, research, clinical practice and techniques will be studies and critiqued.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 510",
+            "Title": "Sex Therapy",
+            "Number_of_credits": "Credits",
+            "Description": "This course will introduce students to the theory and practice of sex therapy. Sexual disorders and sexuality will be addressed from the perspective of the individual, couple and family or origin.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CFTP 509 [Min Grade: C] (Can be taken Concurrently)"
+      },
+      {
+            "Identifier": "CFTP 513",
+            "Title": "DSM I: Adult Psychopathology",
+            "Number_of_credits": "Credits",
+            "Description": "This is a survey of the major categories of adult psychopathological disturbance in the DSM-TR classification system. This course emphasizes the dynamics of diagnosis and biological treatment in relational therapy.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 514",
+            "Title": "DSM II: Child Psychopathology",
+            "Number_of_credits": "Credits",
+            "Description": "This is a survey of the major categories of child psychopathological disturbances in the DSM-TR classification system. This course emphasizes the dynamics of diagnosis and biological treatments in relational therapy.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CFTP 513 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CFTP 515",
+            "Title": "Introduction to Psychopharmacology",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to present a history and the most current trends in biological treatments in psychiatric disorders. While it focuses on biological treatments the students concurrently will be exposed to historical and contemporary trends in the philosophy and practice of psychopharmacology in the profession.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 516",
+            "Title": "Behavioral/Process Addictions",
+            "Number_of_credits": "Credits",
+            "Description": "The process of behavioral addiction will be examined in the context of the family and the larger social system. Process addictions such as sex, gambling, food, exercise, spending, and shopping will be covered in this course.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 517",
+            "Title": "Addictions in The Family",
+            "Number_of_credits": "Credits",
+            "Description": "The process of addiction will be examined in the context of the family and the larger social system. A wide exposure to theory and treatment models will be utilized to aid students' assessment and intervention skills in treating families with substance abuse issues.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 518",
+            "Title": "Medical Family Therapy",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to prepare family therapists and other health professionals to work collaboratively in addressing the unique psychosocial problems of individuals, couples and families with acute and chronic medically related concerns.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 520",
+            "Title": "Family Life Cycle",
+            "Number_of_credits": "Credits",
+            "Description": "This course integrates the interface of individual development with the social structure of coupling and family in family life cycle framework.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 521",
+            "Title": "Human Development",
+            "Number_of_credits": "Credits",
+            "Description": "This course will introduce students to the foundations of human development. It is designed to engage students in discussions of both traditional and contemporary human development models.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 522",
+            "Title": "Legal and Ethical Implications in Couple and Family Therapy Practice",
+            "Number_of_credits": "Credits",
+            "Description": "This course will introduce students to ethical and legal issues that may arise in couple and family therapy treatment including confidentiality and its limits, record keeping, custody cases, abuse, privilege, licensure and informed consent.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 524",
+            "Title": "Family Assessment and Evaluation",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on issues in the clinical assessment of individuals, couples, and families. Assessment will be considered through a multi-method approach that includes: qualitative interview, observational, clinician-rated or global rating scales, and self-report inventories.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 525",
+            "Title": "Research in Couple and Family Therapy",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on research methods for couple and family therapy, and is designed to review contemporary family research methods through a multi-method approach. Issues in the clinical assessment of individuals, couples, and families will be explored from diverse contextual variables.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 526",
+            "Title": "Person of the Therapist Experience I",
+            "Number_of_credits": "Credits",
+            "Description": "Students will use the Person of the Therapist Training Model to actively explore self of the therapist development. This course is designed to help students develop an awareness of the self within one's own family of origin.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CFTP 530 [Min Grade: C] (Can be taken Concurrently)"
+      },
+      {
+            "Identifier": "CFTP 527",
+            "Title": "Person of the Therapist Experience II",
+            "Number_of_credits": "Credits",
+            "Description": "This course is a continuation of Therapist Experience I: Person of the Therapist Training. Students will use the Person of the Therapist Training Model to actively explore self of the therapist development.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CFTP 526 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CFTP 528",
+            "Title": "Person of the Therapist Experience III",
+            "Number_of_credits": "Credits",
+            "Description": "This course is a continuation of Therapist Experience I & II: Person of the Therapist Training. Students will use the Person of the Therapist Training Model to actively explore self of the therapist development.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CFTP 526 [Min Grade: C] and CFTP 527 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CFTP 529",
+            "Title": "Family Policy",
+            "Number_of_credits": "Credits",
+            "Description": "The purpose of this course is to enhance student's awareness of policies that affect families in society. It will focus on policy development and process, and the role of policy in addressing family problems. Critical issues in family policy, particularly as it relates to diverse family structures and culture will also be explored.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 530",
+            "Title": "Clinical Practicum/Supervision I",
+            "Number_of_credits": "Credits",
+            "Description": "The purpose of the first-year practicum is for the students to develop foundational skills necessary for the practice of couple and family therapy. Students are expected to spend one hour weekly in on-site supervision (which may be a non-AAMFT-approved supervisor); in addition, students spend one hour weekly in off-site supervision, and/or 2 hours weekly in group supervision (with an AAMFT-approved supervisor). An average of 8-10 client contact hours is expected each week for MFT students, with 10-12 client contact hours each week for PMC students. Students must successfully complete practicum orientation in order to enroll in this course and subsequently complete each practicum.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 539",
+            "Title": "Clinical Readiness Seminar",
+            "Number_of_credits": "Credits",
+            "Description": "The purpose of this first-year course is to develop foundational clinical skills in couple and family therapy necessary to prepare a student to achieve proficiency in clinical readiness and intake assessment that support their initial clinical placement. Students must successfully demonstrate their knowledge and skills in each of these areas, through successful completion of course assignments, to pass the course.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 1 times for 6 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 540",
+            "Title": "Child Therapy in Couple and Family Therapy",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides students with an expanded exposure to working with children, individually and in the context of family or social group. It examines a variety of conceptual bases for working with children and adolescents, considers the expression of different diagnostic categories, and examines therapist strategies for the different diagnoses, based on the therapist conceptual base. Issues of client development, family situation, and cultural context will be examined in relation to possible therapeutic strategies.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 1 times for 6 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 541",
+            "Title": "Live Supervision Group",
+            "Number_of_credits": "Credits",
+            "Description": "This course serves as an integrative link between theory and practice for the graduate student who is engaged in meeting the practicum requirements of the program. CFT interns will carry a case load in the CFT clinical practices. It allows students immediate feedback from a program supervisor concerning the many situations encountered in the process of training to be couple and family therapists. In addition, issues of therapist self-care and ethical practice remain on the forefront throughout the clinical experience.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 1 times for 4 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 542",
+            "Title": "Professional Development Seminar",
+            "Number_of_credits": "Credit",
+            "Description": "This course addresses professional expectations and resources students can expect to find as they graduate from the program.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 543",
+            "Title": "Capstone Project",
+            "Number_of_credits": "Credit",
+            "Description": "This course provides a forum for students to present the capstone projects that they have been developing throughout the program, integrating the principles of self-of-therapist, respect for diversity, and commitment to social justice in a personal reflective statement.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 4 times for 5 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 544",
+            "Title": "Clinical Practicum/Supervision VIII",
+            "Number_of_credits": "Credit",
+            "Description": "The purpose of the second year Practicum is for the student to show integration of theory and practice, develop their own style of practice, and globally demonstrate comfort and competency in the role and functions of a couple and family therapist.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 1 times for 18 credits",
+            "Prerequisites": "CFTX 536 [Min Grade: CR]"
+      },
+      {
+            "Identifier": "CFTP 545",
+            "Title": "Clinical Practicum/Supervision IX",
+            "Number_of_credits": "Credit",
+            "Description": "The purpose of the second year Practicum is for the student to show integration of theory and practice, develop their own style of practice, and globally demonstrate comfort and competency in the role and functions of a couple and family therapist.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CFTP 544 [Min Grade: CR]"
+      },
+      {
+            "Identifier": "CFTP 546",
+            "Title": "Clinical Practicum/Supervision X",
+            "Number_of_credits": "Credit",
+            "Description": "The purpose of the second year Practicum is for the student to show integration of theory and practice, develop their own style of practice, and globally demonstrate comfort and competency in the role and functions of a couple and family therapist.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CFTP 545 [Min Grade: CR]"
+      },
+      {
+            "Identifier": "CFTP 547",
+            "Title": "Clinical Practicum/Supervision XI",
+            "Number_of_credits": "Credit",
+            "Description": "The purpose of the second year Practicum is for the student to show integration of theory and practice, develop their own style of practice, and globally demonstrate comfort and competency in the role and functions of a couple and family therapist.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 1 times for 18 credits",
+            "Prerequisites": "CFTP 546 [Min Grade: CR]"
+      },
+      {
+            "Identifier": "CFTP 548",
+            "Title": "Clinical Practicum/Supervision XII",
+            "Number_of_credits": "Credit",
+            "Description": "This directed course may be offered when a student wishes to pursue a particular personal goal, or when remedial action needs to be taken, based on a student\u2019s past clinical performance. The directed study will be designed by the Director of Clinical Training, with input from the student, and in consultation with the Director of the Program and the student\u2019s clinical supervisors.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CFTX 536 [Min Grade: CR]"
+      },
+      {
+            "Identifier": "CFTP 549",
+            "Title": "Clinical Practicum/Supervision XIII",
+            "Number_of_credits": "Credit",
+            "Description": "This directed course may be offered when a student wishes to pursue a particular personal goal, or when remedial action needs to be taken, based on a student\u2019s past clinical performance. The directed study will be designed by the Director of Clinical Training, with input from the student, and in consultation with the Director of the Program and the student\u2019s clinical supervisors.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CFTP 539 [Min Grade: CR]"
+      },
+      {
+            "Identifier": "CFTP 550",
+            "Title": "Clinical Practicum/Supervision XIV",
+            "Number_of_credits": "Credit",
+            "Description": "This clinical directed study course may be offered when a student wishes to pursue a particular personal goal, or when remedial action needs to be taken, based on a student\u2019s past clinical performance. The directed study will be designed by the Director of Clinical Training, with input from the student, and in consultation with the Director of the Program and the student\u2019s clinical supervisors.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CFTP 539 [Min Grade: CR]"
+      },
+      {
+            "Identifier": "CFTP 561",
+            "Title": "Group Supervision Practicum I",
+            "Number_of_credits": "Credits",
+            "Description": "The purpose of second-year practicum is for students to show integration of theory and practice, develop their own style of practice, and globally demonstrate comfort and competency in the role and functions of a couple and family therapist. Students are expected to spend two hours weekly in group supervision with an AAMFT-Approved Supervisor or AAMFT-Approved Supervisor Candidate. An average of 8-10 client contact hours is expected each week for MFT students.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 562",
+            "Title": "Group Supervision  Practicum II",
+            "Number_of_credits": "Credits",
+            "Description": "The purpose of second-year practicum is for students to show integration of theory and practice, develop their own style of practice, and globally demonstrate comfort and competency in the role and functions of a couple and family therapist. Students are expected to spend two hours weekly in group supervision with an AAMFT-Approved Supervisor or AAMFT-Approved Supervisor Candidate. An average of 8-10 client contact hours is expected each week for MFT students.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CFTP 561 [Min Grade: CR]"
+      },
+      {
+            "Identifier": "CFTP 563",
+            "Title": "Group Supervision Practicum III",
+            "Number_of_credits": "Credits",
+            "Description": "The purpose of second year practicum is for students to show integration of theory and practice, develop their own style of practice, and globally demonstrate comfort and competency in the role and functions of a couple and family therapist. Students are expected to spend two hours weekly in group supervision with an AAMFT-Approved Supervisor or AAMFT-Approved Supervisor Candidate. An average of 8-10 client contact hours is expected each week for MFT students.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CFTP 562 [Min Grade: CR]"
+      },
+      {
+            "Identifier": "CFTP 564",
+            "Title": "Group Supervision Practicum IV",
+            "Number_of_credits": "Credits",
+            "Description": "The purpose of second-year practicum is for students to show integration of theory and practice, develop their own style of practice, and globally demonstrate comfort and competency in the role and functions of a couple and family therapist. Students are expected to spend two hours weekly in group supervision with an AAMFT-Approved Supervisor or AAMFT-Approved Supervisor Candidate. An average of 8-10 client contact hours is expected each week for MFT students.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CFTP 563 [Min Grade: CR]"
+      },
+      {
+            "Identifier": "CFTP 568",
+            "Title": "Addictions in the Family System",
+            "Number_of_credits": "Credits",
+            "Description": "The process of addiction will be examined in the context of the family and larger social systems. The course includes broad exposure to theoretical and treatment models to aid students' clinical assessment and intervention skills in treating families impacted by substance abuse issues.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 570",
+            "Title": "Foundational Elements of Trauma Care",
+            "Number_of_credits": "Credits",
+            "Description": "Assessment of the impact of both acute and chronic trauma on family members and the response of the family system. Both internal trauma (domestic violence) and external trauma investigated.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 571",
+            "Title": "Human Development and Family Life Cycles",
+            "Number_of_credits": "Credits",
+            "Description": "This course will introduce students to the foundations of human development. The course integrates the interface of individual development with the social structure of coupling and family in the family life cycle framework.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 572",
+            "Title": "Diversity and Contextual Factors in Clinical Practice",
+            "Number_of_credits": "Credits",
+            "Description": "This course will introduce students to an examination of the family in a broader social cultural context. This class will explore how sociocultural concepts define and affect social, interpersonal and professional interactions.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 573",
+            "Title": "Group Therapy: Theory and Practice Models",
+            "Number_of_credits": "Credit",
+            "Description": "Students in this course will gain knowledge of the theory and practice of developing and running group psychotherapies. All types of group processes will be examined, including structured and unstructured, and topic-specific modalities. Strategies for maintaining a systemic perspective will be emphasized, along with a focus on diversity and experience. Experiential learning activities and implementation-based projects will be a primary evaluation method.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 574",
+            "Title": "Intersections of Trauma and Families Across Contexts",
+            "Number_of_credits": "Credits",
+            "Description": "Application of trauma care models across various populations. Assessment and treatment modalities across family systems.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CFTP 570 [Min Grade: B]"
+      },
+      {
+            "Identifier": "CFTP 575",
+            "Title": "Foundational Elements of Addiction",
+            "Number_of_credits": "Credits",
+            "Description": "This course is an introduction into addictions which includes an overview of definitions, conceptual frameworks, and classical methods used; the effects and consequences of addiction on family and community, and the familial processes associated with substance use and abuse.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 576",
+            "Title": "Couples and Attachment",
+            "Number_of_credits": "Credits",
+            "Description": "This course builds onCFTP\u00a0509and will provide an in-depth exploration of the role of attachment in couple relationships. This course will explore the role of attachment in couple relationships and provide an overview of the adult attachment literature and attachment-informed couples therapy models.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CFTP 509 [Min Grade: B]"
+      },
+      {
+            "Identifier": "CFTP 577",
+            "Title": "Self of the Therapist",
+            "Number_of_credits": "Credits",
+            "Description": "Students will be introduced to multiple self-of-the-therapist models for use in clinical practice This course is designed to help students develop an awareness of the self in the context of their roles as therapists.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 578",
+            "Title": "Couples and Sex Therapy",
+            "Number_of_credits": "Credits",
+            "Description": "This course will introduce students to systemic approaches to working couples in therapy, including differences between family therapy and couple therapy, issues of joining, assessment, and intervention, and types of problems typically brought to therapy. Students will be exposed to foundational concepts of human sexuality, as well as the assessment and treatment protocols related to sexual issues and disorders in couple therapy. Contextual issues and self-of-the therapist issues will also be integrated in the course content.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 600",
+            "Title": "Advanced Theory and Practice I",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to advance student understanding of clinical practice through in-depth exposure to an evidenced-based and/or a modern or postmodern model of treatment.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 601",
+            "Title": "Advanced Theory and Practice II",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to advance student knowledge and clinical practice through in-depth exposure to a modern or postmodern family therapy model(s) of treatment. The organization of the course includes presentations of theory, including assessment and clinical intervention techniques, skills training exercises, and discussion of clinical case material and issues.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 602",
+            "Title": "Advanced Theory and Practice III",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to advance student knowledge of clinical practice through in-depth exposure to an evidenced-based model of treatment. The organization of the course includes presentations of theory, including assessment and clinical intervention techniques, skills training exercises, and discussion of clinical case material and issues.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 603",
+            "Title": "Professional Development Capstone",
+            "Number_of_credits": "Credits",
+            "Description": "This course will provide a forum for students to complete and present their capstone project. The capstone project will integrate principles of person-of-the-therapist and demonstrate students\u2019 ability to identify, critically analyze, and integrate the family therapy theories and models that inform their clinical practice. Students will complete a Mock License Examination and will learn about professional resources, requirements, and opportunities that will be available after graduating from the program.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 606",
+            "Title": "Contextual Family Therapy",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces students to the basic tenets and clinical implications of Contextual Therapy including but not limited to assessment, intervention, and treatment implications.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 610",
+            "Title": "Sex Therapy",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces students to the theory and practice of sex therapy. Sexual disorders and sexuality will be addressed from the perspective of the individual, couple, and family of origin.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CFTP 509 [Min Grade: C] (Can be taken Concurrently)"
+      },
+      {
+            "Identifier": "CFTP 710",
+            "Title": "Advanced Legal and Ethical Implications in Couple and Family Therapy",
+            "Number_of_credits": "Credits",
+            "Description": "This course builds on foundational knowledge of couple and family therapy professional ethics through an in-depth examination of: 1) the AAMFT Code of Ethics and related state and federal laws, 2) ethical reasoning and decision-making, and 3) key current ethical and legal issues relevant to advanced clinical practice, clinical administration and supervision, and clinical education.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 713",
+            "Title": "Introduction to CFT Clinical Research",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an overview of seminal and current couple and family therapy clinical research. This course will review debates around the value, training and dissemination of empirically supported treatments and philosophical underpinnings of the scientific enterprise. We will also examine research from the perspective of culture, race and gender and how these sociopolitical issues impact the interpretation of science. The significance of the research process and empirical evidence to couple and family therapy practice will be explored, with reference to \u201ccommon factors\u201d and evidence-based research.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 716",
+            "Title": "Advanced Family Therapy Theory and Practice",
+            "Number_of_credits": "Credits",
+            "Description": "Advanced comparative analysis of historical and contemporary approaches to family therapy theory and their practical application, with particular reference to social context implications.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 718",
+            "Title": "Professional Development Seminar II",
+            "Number_of_credits": "Credits",
+            "Description": "Self of the therapist and issues in the development of PhD-level professionals. Preparation of presentations and publications for submission to professional conferences and journals.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 720",
+            "Title": "Couple Therapy Theory & Practice",
+            "Number_of_credits": "Credits",
+            "Description": "Advanced comparative analysis of historical and contemporary approaches to couple therapy theory and their practical application, with particular reference to social context implications.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 721",
+            "Title": "Critical Theory in Couple and Family Therapy",
+            "Number_of_credits": "Credits",
+            "Description": "Comparative analysis of postmodern critical theories (e.g., critical race theory, feminist theory, queer theory) of family interaction and development.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 724",
+            "Title": "Multicultural Approach to Couple and Family Therapy",
+            "Number_of_credits": "Credits",
+            "Description": "Develops cultural awareness and competency in working with families around issues if race and class.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 725",
+            "Title": "Trauma and Families",
+            "Number_of_credits": "Credits",
+            "Description": "Assessment of the impact of both acute and chronic trauma on family members and the response of the family system. Both internal trauma (domestic violence) and external trauma investigated.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 729",
+            "Title": "Diverse Families and Communities: Intervention Strategies",
+            "Number_of_credits": "Credits",
+            "Description": "This course will increase student\u2019s knowledge about social context impact clinical interventions and clinical research. Students will examine the importance of research with culturally diverse populations and consider how contextual issues influence CFT clinical practice and research. Specifically, students will examine how contextual variables such as gender, class, sexual orientation, immigration, religion, race, ethnicity, and are considered in the context of clinical practice and research.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 730",
+            "Title": "Gender and Sexual Orientation",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers gender and sexual orientation with special attention given to the intersection of race, class, culture, ethnicity, religion, age, and ability.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 734",
+            "Title": "Supervision in Couple and Family Therapy",
+            "Number_of_credits": "Credits",
+            "Description": "Preparation for supervising trainees in couple and family therapy, from a systemic perspective. Exploration of supervision models and modalities; development of a personal model of supervision.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 735",
+            "Title": "Family Healthcare Policy",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines historical and contemporary trends in family healthcare policy, emphasizing healthcare disparities and the socio-political implications for families in different social positions while examining the intervene role of family therapy in larger eco-systemic issues. Furthermore, this course will explore individual and family health, specifically across the contexts of gender, race, and class. Factors influencing health policy (e.g., politics, media, interests groups, religion, think tanks) will additionally be explored, along with health disparities and health equality in the American health care system.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 736",
+            "Title": "Professional Development Seminar VI",
+            "Number_of_credits": "Credits",
+            "Description": "Self of the therapist issues in the development in PhD-level professionals. Ethics in CFT supervision and teaching.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 740",
+            "Title": "Systemic Approaches to Addiction",
+            "Number_of_credits": "Credits",
+            "Description": "This course will provide an in-depth exploration of the effects and consequences of addiction across multiple systems including family, community, and society. Its purpose in the program of study is to support the application and advancement of family therapy theory and practice in the prevention, treatment and recovery support for families impacted by substance use and addiction.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 742",
+            "Title": "Couples Sexual Therapy",
+            "Number_of_credits": "Credits",
+            "Description": "Explores the definition of \"normal\" sexual functioning, and the assessment and treatment of sexual dysfunction in couples therapy.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 743",
+            "Title": "Trauma Theory and Models with Vulnerable Populations",
+            "Number_of_credits": "Credits",
+            "Description": "This course reviews models of trauma and the various ways that trauma may intersects with various aspects of social location and identity, as well therapeutic models for the provision of trauma-informed and socially just mental healthcare services.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 750",
+            "Title": "Professional Development and Leadership",
+            "Number_of_credits": "Credits",
+            "Description": "This course prepares doctoral students for leadership roles in the field of couple and family therapy, with a focus on administrative skills and roles. Course content areas include leadership styles and theories, navigating the job application process, licensure and certification, and key skills for leadership and administration in clinical organizations.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 757",
+            "Title": "Attachment, Emotions and Psychotherapy",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines attachment theory and theories of emotional development and their implications for therapeutic work with individuals, couples, and families. This course provides an in-depth understanding of the importance of parent child attachment and the role in plays in the development of emotion regulation skills across the lifespan. Students will learn how attachment theory and emotion regulation can inform therapeutic work with individuals, couples, and families. Students will study issues related to contextual variables, diverse culture, and attachment theory.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 758",
+            "Title": "Dyadic Analysis and Longitudinal Causal Modeling in CFT",
+            "Number_of_credits": "Credits",
+            "Description": "The purpose of this course is to introduce students to causal/structural equation modeling (SEM) in the field of family therapy for dyadic analysis issues. This course will illustrate the uses of structural equation models for dyadic, cross-sectional, longitudinal, and experimental data analysis. Major activities include a combination of lectures, group discussions, and software applications and interpretations. The course will cover an introduction to SEM with an emphasis on dyadic analysis, building, specifying, estimating, and testing models, confirmatory factor analysis, invariance testing, full SEM models and related techniques. The course is organized to take students through each of the cumulative steps in the analysis: 1) deciding which type of model is appropriate; 2) setting up the data file and cod.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 759",
+            "Title": "Psychotherapy Outcome and Process Research",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines the methodological foundations of psychotherapy outcome and process research, specifically related to family based interventions. The course will define and demonstrate methods pertaining to efficacy, effectiveness, and dissemination/implementation science. The course will focus sample selection, sample size and statistical power, assessment, random assignment, study design, comparison groups, and treatment fidelity. The first five weeks focus will focus on randomized clinical trials; the second five weeks will focus on processes research.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 760",
+            "Title": "Teaching Practicum",
+            "Number_of_credits": "Credits",
+            "Description": "This teaching practicum course will include a teaching experience such as guest lecturing or an extended teaching opportunity at Drexel University. Students will develop learning activities and assignments, create student assessments to evaluate student performance, and participate in self and peer evaluation of teaching performance.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 761",
+            "Title": "Advanced Clinical Practicum/Supervision",
+            "Number_of_credits": "Credits",
+            "Description": "This course prepares doctoral students to develop advanced skills necessary for the practice of couple and family therapy. Students engage in one hour of on-site supervision, and 8-10 client contact hours each week for three terms. Students must successfully complete all compliance requirements in order to enroll in this course.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 2 times for 6 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 765",
+            "Title": "Grant Writing for Program Development",
+            "Number_of_credits": "Credits",
+            "Description": "This project-based course is designed to teach students about the importance of grant-writing in their role as a professional and leader in the field of the couple and family therapy. Students will gain the essential knowledge and skills to write and submit a competitive grant proposal for the purpose of program development to a foundation or government agency. This will include identification or creation of a fundable project in their content area, research and assessment of funding sources, collaboration with other professionals, writing a proposal that includes a budget, and completing a proposal package that is submitted to the funder of their choice.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 770",
+            "Title": "Capstone Project I",
+            "Number_of_credits": "Credits",
+            "Description": "The Capstone Project facilitates the student\u2019s ability to articulate and demonstrate how the knowledge and skills of an advanced Couple and Family Therapist can be applied to a problem that affects a couple, family, or community. In this first of three capstone courses, the student works with a faculty mentor to conceptualize a problem and proposes an action plan.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 771",
+            "Title": "Capstone Project II",
+            "Number_of_credits": "Credits",
+            "Description": "Capstone Project II facilitates the student\u2019s ability to implement an action plan as proposed in Capstone I and devise a mechanism for evaluating the outcome.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CFTP 770 [Min Grade: B]"
+      },
+      {
+            "Identifier": "CFTP 772",
+            "Title": "Capstone Project III",
+            "Number_of_credits": "Credits",
+            "Description": "Capstone Project III facilitates the student\u2019s ability to evaluate the outcomes of the project as implemented in Capstone II and write a complete manuscript about the project.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CFTP 771 [Min Grade: B]"
+      },
+      {
+            "Identifier": "CFTP 797",
+            "Title": "Capstone Portfolio Development I",
+            "Number_of_credits": "Credits",
+            "Description": "The Capstone Portfolio Development I course is the first in a series of three courses which prepare students for the Capstone Portfolio I,II, and III courses. This course series provides students with instructor and peer support to 1) develop a feasible plan to meet key program capstone portfolio requirements, 2) initiate long-term capstone portfolio tasks, and 3) explore opportunities to align capstone portfolio tasks with their professional goals.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 798",
+            "Title": "Capstone Portfolio Development II",
+            "Number_of_credits": "Credits",
+            "Description": "The Capstone Portfolio Development II course is the second in a series of three courses which prepare students for the Capstone Portfolio I,II, and III courses. This course series provides students with instructor and peer support to 1) develop a feasible plan to meet key program capstone portfolio requirements, 2) initiate long-term capstone portfolio tasks, and 3) explore opportunities to align capstone portfolio tasks with their professional goals.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CFTP 797 [Min Grade: B]"
+      },
+      {
+            "Identifier": "CFTP 799",
+            "Title": "Capstone Portfolio Development III",
+            "Number_of_credits": "Credits",
+            "Description": "The Capstone Portfolio Development III course is the third in a series of three courses which prepare students for the Capstone Portfolio I,II, and III courses. This course series provides students with instructor and peer support to 1) develop a feasible plan to meet key program capstone portfolio requirements, 2) initiate long-term capstone portfolio tasks, and 3) explore opportunities to align capstone portfolio tasks with their professional goals.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CFTP 797 [Min Grade: B] and CFTP 798 [Min Grade: B]"
+      },
+      {
+            "Identifier": "CFTP 800",
+            "Title": "Portfolio Planning and Development",
+            "Number_of_credits": "Credit",
+            "Description": "The Portfolio Planning and Development course is intended to prepare students for Capstone I,II,II and ensure the student has support in 1) developing a feasible plan meet capstone portfolio requirements and 2) making progress on portfolio tasks that require long-term development across the first two years of the program and 3) tailoring their capstone portfolio to represent their professional goals. The capstone portfolio will represent professional development across four professional domains: 1) Scholarship, 2) Teaching, 3) Clinical Practice, and 4) Citizenship, Leadership, and Service.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 6 times for 7 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 801",
+            "Title": "Couple and Family Therapy Internship",
+            "Number_of_credits": "Credit",
+            "Description": "Provides an advanced one-year full time supervised placement in a clinical, research, administrative or academic setting, as determined by the program director and student.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 802",
+            "Title": "Couple and Family Therapy Dissertation",
+            "Number_of_credits": "Credit",
+            "Description": "Supervised research, including establishing a topic directly related to family functioning or family therapy; developing a research question and methodology for investigating it, collecting, processing, and analyzing the data; and writing a scholarly description of the research project.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 803",
+            "Title": "Couple and Family Therapy Dissertation Defense",
+            "Number_of_credits": "Credit",
+            "Description": "The student should enroll for this only in the anticipated final quarter of enrollment, after all other credits for the PhD have been satisfied. This course may be repeated for a maximum of six (6) credits.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 3 times for 3 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 804",
+            "Title": "Registered for Degree Only",
+            "Number_of_credits": "Credit",
+            "Description": "The student should enroll for this only in the anticipated final quarter of enrollment, after all other credits for the PhD have been satisfied. This course may be repeated for a maximum of two credits.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 2 times for 2 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 805",
+            "Title": "Couple and Family Therapy Doctoral Internship I",
+            "Number_of_credits": "Credits",
+            "Description": "This is the first course in the sequence of required clinical internship courses for students in the Doctor of Couple and Family Therapy Program. Students will complete a supervised placement in a clinical setting providing individual and couple/family therapy services. Students who are fully licensed as a marriage and family therapist, prior to the start of this course, may complete a portion of their required internship hours in an administrative or academic domain, as determined by the Program Director.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP 806",
+            "Title": "Couple and Family Therapy Doctoral Internship II",
+            "Number_of_credits": "Credits",
+            "Description": "This is the second course in the sequence of required clinical internship courses for students in the Doctor of Couple and Family Therapy Program. Students will continue to build their clinical skills by completing a supervised placement in a clinical setting providing individual and couple/family therapy services. Students who are fully licensed as a marriage and family therapist, prior to the start of this course, may complete a portion of their required internship hours in an administrative or academic domain, as determined by the Program Director.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CFTP 805 [Min Grade: B]"
+      },
+      {
+            "Identifier": "CFTP 807",
+            "Title": "Couple and Family Therapy Doctoral Internship III",
+            "Number_of_credits": "Credits",
+            "Description": "This is the third course in the sequence of required clinical internship courses in the Doctor of Couple and Family Therapy Program. Students will continue to build their clinical skills by completing a supervised placement in a clinical setting providing individual and couple/family therapy services. Students who are fully licensed as a marriage and family therapist, prior to the start of this course, may complete a portion of their required internship hours in an administrative or academic domain, as determined by the Program Director.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 1 times for 6 credits",
+            "Prerequisites": "CFTP 806 [Min Grade: B]"
+      },
+      {
+            "Identifier": "CFTP 810",
+            "Title": "Capstone Portfolio I",
+            "Number_of_credits": "Credits",
+            "Description": "The Capstone Portfolio course requires each student to create an electronic professional portfolio to synthesize and demonstrate key knowledge and professional accomplishments in the domains of 1) Scholarship, 2) Teaching, 3) Clinical Practice, and 4) Citizenship, Leadership, and Service. In this first of three Capstone Portfolio Courses, the student chooses two of the four portfolio professional development domains to focus on and will work on completing the tasks/subsections within each. The student will work closely with a faculty advisor throughout this process.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CFTP 800 [Min Grade: B] (Can be taken Concurrently)"
+      },
+      {
+            "Identifier": "CFTP 811",
+            "Title": "Capstone Portfolio II",
+            "Number_of_credits": "Credits",
+            "Description": "The Capstone Portfolio course requires each student to create an electronic professional portfolio to synthesize and demonstrate key knowledge and professional accomplishments in the domains of 1) Scholarship, 2) Teaching, 3) Clinical Practice, and 4) Citizenship, Leadership, and Service. In this second of three Capstone Portfolio Courses, the student completes the two remaining portfolio professional development domains including the tasks/subsections within each. The student will work closely with a faculty advisor throughout this process.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CFTP 810 [Min Grade: B]"
+      },
+      {
+            "Identifier": "CFTP 812",
+            "Title": "Capstone Portfolio III",
+            "Number_of_credits": "Credits",
+            "Description": "The Capstone Portfolio course requires each student to create an electronic professional portfolio to synthesize and demonstrate key knowledge and professional accomplishments in the domains of 1) Scholarship, 2) Teaching, 3) Clinical Practice, and 4) Citizenship, Leadership, and Service. In this third of the Capstone Portfolio Courses, the student will finalize their capstone portfolio, submit it for faculty review, and give a presentation on their portfolio accomplishments and experience. The student will work closely with a faculty advisor throughout this process.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CFTP 811 [Min Grade: B]"
+      },
+      {
+            "Identifier": "CFTP I799",
+            "Title": "Independent Study in Couple and Family Therapy",
+            "Number_of_credits": "Credit",
+            "Description": "An Independent Study may be offered when a student needs a unique plan of study, either to pursue a particular personal goal, or when remedial action needs to be taken, based on student performance, or extenuating circumstances beyond the student\u2019s control. The Independent Study will be designed by the instructor, with input from the student, in consultation with the Director of the program.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 2 times for 16 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CFTP T780",
+            "Title": "Special Topics in Couple and Family Therapy",
+            "Number_of_credits": "Credit",
+            "Description": "Special topics may be offered when several students share an interest in a particular subject matter related to couple and family therapy. This course may be repeated for a maximum of eight (8) credits.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 2 times for 8 credits",
+            "Prerequisites": "Null"
+      }
+]

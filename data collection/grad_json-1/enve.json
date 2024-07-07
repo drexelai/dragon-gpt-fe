@@ -1,0 +1,398 @@
+[
+      {
+            "Identifier": "ENVE 516",
+            "Title": "Fundamentals of Environmental Biotechnology",
+            "Number_of_credits": "Credits",
+            "Description": "This is an introductory course in environmental biotechnology for upper-level undergraduates and graduate students in engineering. The fundamentals of microbiology and molecular biology important to environmental engineering applications will be emphasized.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVE 529",
+            "Title": "Environmental Noise",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the fundamentals of acoustic propagation, instrumentation, noise descriptors, hearing damage and other health effects, occupational noise, noise abatement techniques, modeling the noise near highways and airports, and EPA strategy for reducing environmental noise exposure.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVE 534",
+            "Title": "Industrial Ventilation",
+            "Number_of_credits": "Credits",
+            "Description": "Covers principles of air movement related to ventilation and air-conditioning facilities for the maintenance of suitable environmental conditions in work areas. Includes principles of industrial processes and air pollution abatement equipment, including air flow, ducts, fans, motors, and hoods.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVE 535",
+            "Title": "Industrial Safety",
+            "Number_of_credits": "Credits",
+            "Description": "Examines the impact of accidents, liability considerations, legislation and regulation of safety, osha codes and standards, hazards and their analysis and control, risk assessment, major types of accidents and their impacts, and accident investigation.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVE 546",
+            "Title": "Solid Waste Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Analyzes the public health, economic, and political aspects in the operation and design of storage, collection, and disposal of solid waste materials.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVE 550",
+            "Title": "Recycling of Materials",
+            "Number_of_credits": "Credits",
+            "Description": "This course will examine the selection criteria for recycling component materials. Recycling involves both reusing materials for energy applications and reprocessing materials into new products.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVE 555",
+            "Title": "Geographic Information Systems",
+            "Number_of_credits": "Credits",
+            "Description": "The course provides grounding in fundamental principles of GIS, and achieves understanding through hands on practical laboratories. Course topics include: spatial reference systems, geographic data theory and structures, structures, spatial analysis tools, functions and algorithms, GIS data sources, compilation and quality, and GIS project design and planning.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVE 560",
+            "Title": "Fundamentals of Air Pollution Control",
+            "Number_of_credits": "Credits",
+            "Description": "Fundamental topics with regard to the formation and control of air pollutants are studied. This course provides strong foundation for engineers who will be involved in the development of engineering solutions for industrial air pollution prevention and design, development or selection of air pollution control devices and systems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVE 570",
+            "Title": "Industrial Ecology",
+            "Number_of_credits": "Credits",
+            "Description": "Industrial Ecology (IE) is an evolving view of industrial operations which seeks to design processes and manufacture products in such a way to minimize and optimize their environmental interactions. IE borrows the analogy from nature that \u201cwaste\u201d from one organism is \u201cfood\u201d for another. Within the \u201ctechnosphere\u201d, the organization in which economic processes and activities are conducted by humans, IE uses the evolving tools life cycle assessment (LCA), material flow analysis (MFA), and economic valuation, to explore novel approaches to minimizing waste stocks and flows at both micro and macro levels.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 240 [Min Grade: B-] and ENVE 300 [Min Grade: B-]"
+      },
+      {
+            "Identifier": "ENVE 571",
+            "Title": "Environmental Life Cycle Assessment",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides graduate engineering students with an enhanced skill set to permit them to cooperate more fully in the sustainable design and planning of engineering systems. Students will be introduced to the systems analysis modeling approaches life cycle assessment (LCA) and material flow analysis (MFA), and will explore research-oriented aspects of the methods and their application in engineering design, decisions, and public policy.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVE 300 [Min Grade: B-] and CIVE 240 [Min Grade: B-]"
+      },
+      {
+            "Identifier": "ENVE 602",
+            "Title": "Water Quality Control Lab",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces analytical procedures in the assessment of water quality as applied to the analysis of natural waters and wastewaters, and to the control of water and waste treatment processes.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVR 501 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ENVE 603",
+            "Title": "Hazardous Waste Analysis Lab",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces methods of sampling and analysis of hazardous environmental pollutants. Emphasizes inorganic and organic pollutants found at hazardous waste disposal sites. Includes application of leachability and extraction tests.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVR 501 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ENVE 604",
+            "Title": "Solid Waste Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "Uses chemical and physical techniques to analyze the composition of solid waste material. Emphasizes combustible, organic, and toxic fractions of solid wastes.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVR 501 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ENVE 607",
+            "Title": "Environmental Systems Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "Surveys system concepts, theories, and analytical techniques, and their application to urban and environmental problems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVE 642",
+            "Title": "Control of Gas and Vapor Pollutants From Industrial and Mobile Sources",
+            "Number_of_credits": "Credits",
+            "Description": "In this course, students will learn how different physical and chemical mechanisms can be used to prevent, separate, recover or destroy the gas/vapor air pollutants. The control mechanisms are studied in detail. Students then learn how to apply those mechanisms in the design of conventional, or new, devices and systems for control of gas/vapor air pollutants.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVE 460 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVE 644",
+            "Title": "Design of Particulate Control Devices",
+            "Number_of_credits": "Credits",
+            "Description": "Students will learn how different mechanisms can control characteristics, formation, transport, separation and destruction of airborne particulate pollutants. Students learn how to apply the studied material in the first part of this course to design conventional or new devices and systems for control of particulate air pollutants.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVE 460 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVE 646",
+            "Title": "Advanced Solid Waste Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces and analyzes the newest advances in solid waste technology, with an emphasis on design, treatment, and processing techniques.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVR 501 [Min Grade: C] and ENVR 546 [Min Grade: C] and ENVR 636 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ENVE 657",
+            "Title": "Incineration",
+            "Number_of_credits": "Credits",
+            "Description": "Covers destruction of solid and liquid hazardous wastes at high temperature in a combustion device, including requirements for destruction of toxic materials and control of discharges to the atmosphere.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVR 501 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ENVE 660",
+            "Title": "Chemical Kinetics in Environmental Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Covers chemical and biological kinetics, mass-transfer considerations and hydraulic regimes in water and wastewater treatment, and water quality management. Includes absorption and stripping of gases and volatile organics and applications to aeration and ozonation processes.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVE 661",
+            "Title": "Env Engr Op-Chem & Phys",
+            "Number_of_credits": "Credits",
+            "Description": "Provides a theoretical study of the chemical and physical unit operations of environmental engineering, including sedimentation, coagulation, precipitation, adsorption, oxidation-reduction, ion exchange, disinfection, membrane processes, and filtration.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVE 660 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ENVE 662",
+            "Title": "Enviro Engr Unit Oper-Bio",
+            "Number_of_credits": "Credits",
+            "Description": "Provides a systematic study of the microbiological and biochemical processes for the treatment of aqueous and solid wastes, including aerobic and anaerobic processes and composting.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVE 660 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ENVE 665",
+            "Title": "Hazardous Waste & Groundwater Treatment",
+            "Number_of_credits": "Credits",
+            "Description": "Covers principles of hazardous waste and groundwater treatment and in situ technologies. Presents application of processes, including solvent extraction, steam and air stripping, adsorption, ion exchange, oxidation, dechlorination, stabilization, wet air and supercritical oxidation, incineration, soil washing, and soil vapor extraction.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVR 660 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ENVE 681",
+            "Title": "Analytical and Numerical Techniques in Hydrology",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an introduction to some of the analytical and numerical methods that are widely used to solve problems in hydrology, including translating physical processes into partial differential equations and solving these problems using both analytical and numerical solution methods.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 200 [Min Grade: D] and ENGR 232 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVE 682",
+            "Title": "Subsurface Contaminant Transport",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers principles governing contaminant movement in aquifers. It includes advection, dispersion, reactive transport, microbial and colloidal transport, matrix diffusion, density-coupled transport, and multiphase flow. It also emphasizes field-scale applications.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVE 681 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ENVE 683",
+            "Title": "Stochastic Subsurface Hydrology",
+            "Number_of_credits": "Credits",
+            "Description": "",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVE 682 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ENVE 684",
+            "Title": "Water Resource Systems Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers mathematical optimization techniques as applied to water resource systems. Example applications include water supply management, irrigation planning and operation, water quality management and ground water management.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVE 702",
+            "Title": "Adv Enviro Instrumentatn",
+            "Number_of_credits": "Credits",
+            "Description": "Uses instrumental analysis to assess environmental quality.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVR 602 [Min Grade: C] and ENVR 604 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ENVE 726",
+            "Title": "Environmental Assessment",
+            "Number_of_credits": "Credits",
+            "Description": "Examines the National Environmental Policy Act of 1969 and its implemen-tation according to the regulations of the Council on Environmental Quality. Discusses air, water, noise, biological, cultural, and socioeconomic impacts. Includes methods of impact analysis and means to compare alternative actions.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVE 727",
+            "Title": "Risk Assessment",
+            "Number_of_credits": "Credits",
+            "Description": "Covers quantitative relations between environmental exposures and effects. Includes computer methods for risk analysis and development of environmental guidelines and standards.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVE 750",
+            "Title": "Data-based Engineering Modeling",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers empirical methods to understand and model engineering systems. Students will learn to develop evaluate statistical models and use three common statistical software packages, Excel, SPSS, and R.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVE 761",
+            "Title": "Enviro Engr Unit Oper Lab",
+            "Number_of_credits": "Credits",
+            "Description": "Covers application of unit operations including filtration, adsorption, oxidation, coagulation, and biodegradation to the treatment of potable water, wastewater, and hazardous waste.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVR 661 [Min Grade: C] and ENVR 662 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ENVE 766",
+            "Title": "Waste Wtr Treat Plant Des",
+            "Number_of_credits": "Credits",
+            "Description": "Covers application of principles of environmental engineering unit operations to the treatment of municipal, industrial, and hazardous wastes by biological, physical, and chemical means. Includes applications of computers to the design process.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVR 662 [Min Grade: C] and ENVR 751 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ENVE 767",
+            "Title": "Surface Water Mixing Processes",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers the hydrodynamic mixing and transport processes in free-surface flows. Basic mixing processes including molecular diffusion, turbulent diffusion and dispersion are also covered. Emphasis will be on the solution of the advection-diffusion equation with various boundary conditions . Additional topics include boundary exchanges, non-ideal mixing in rivers, and analysis of jets and plumes.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 664 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ENVE 768",
+            "Title": "Sediment & Contamin Trnsport",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers the transport of sediments and reactive solutes in surface waters as well as the classic theory for bed-load and suspended sediment transport. The interplay of stream flow, frictional resistance, and sediment transport is also covered. The biogeochemical processes that influence contaminant mobility and the integration of physical and chemical processes in contaminant transport models are also discussed.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 767 [Min Grade: C] or ENVE 767 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ENVE I599",
+            "Title": "Independent Study in ENVE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVE I699",
+            "Title": "Independent Study in ENVE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVE I799",
+            "Title": "Independent Study in ENVE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVE I899",
+            "Title": "Independent Study in ENVE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVE I999",
+            "Title": "Independent Study in ENVE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVE T580",
+            "Title": "Special Topics in ENVE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVE T680",
+            "Title": "Special Topics in ENVE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVE T780",
+            "Title": "Special Topics in ENVE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVE T880",
+            "Title": "Special Topics in ENVE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVE T980",
+            "Title": "Special Topics in ENVE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

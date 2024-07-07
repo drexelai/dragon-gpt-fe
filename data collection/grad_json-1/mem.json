@@ -1,0 +1,992 @@
+[
+      {
+            "Identifier": "MEM 503",
+            "Title": "Gas Turbines & Jet Propulsion",
+            "Number_of_credits": "Credits",
+            "Description": "Covers fundamentals of thermodynamics and aerothermodynamics, and application to propulsion engines; thermodynamic cycles and performance analysis of gas turbines and air-breathing propulsion systems, turbojet, turboprop, ducted fan, ramjet, and ducted rocket; theory and design of ramjets, liquid and solid rockets, air-augmented rockets, and hybrid rockets; aerodynamics of flames, including the thermodynamics and kinetics of combustion reactions; supersonic combustion technology and zero-g propulsion problems; and propulsion systems comparison and evaluation for space missions.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 504",
+            "Title": "HVAC Equipment",
+            "Number_of_credits": "Credits",
+            "Description": "Covers performance of air handlers, pumps, direct expansion systems, chillers, cooling towers, and similar equipment.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 505",
+            "Title": "HVAC Controls",
+            "Number_of_credits": "Credits",
+            "Description": "Covers control theory and application to heating, ventilating, air conditioning, including pneumatic, fluidic, and electronic controls.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 517",
+            "Title": "Fundamentals of Nanomanufacturing",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces conventional methods that emerged from microelectronics and nonconventional or alternative approaches as applied to fabricate nanometer-scale biological and solid-state devices; Preliminary concepts for nanofabrication; Conventional lithographic methods; Nonconventional methods such as nanoimprint lithography and chemical and biological approaches; Cell culturing for application in biology; The safe development and use of advanced nanotechnological manufacturing.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 417 [Min Grade: C] or PHYS 201 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 518",
+            "Title": "Introduction to Nanoscale Metrology",
+            "Number_of_credits": "Credits",
+            "Description": "Highlights the most innovative and powerful developments in nano/microscale diagnostics; Reviews conventional and non-conventional micro- and nanofabrication, preliminary concepts for nanoscale metrology; Covers optical diagnostics for microfluidics and nanofluidics, scanning electron microscopy, transmission electron microscopy, atomic force microscopy, ionic current blockage measurement, mass spectroscopy and UV-Vis spectroscopy, and laser induced fluorescence.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 530",
+            "Title": "Aircraft Flight Dynamics & Control I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers development of dynamic models, linearization, aerodynamic coefficients, control derivatives, longitudinal and lateral modes, and open-loop analysis.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 540",
+            "Title": "Control Applications of DSP Microprocessors",
+            "Number_of_credits": "Credits",
+            "Description": "Most of the control systems today are digital and implemented using microprocessors. In this course, the students will learn how to employ the state-of-the-art DSP microprocessors to perform analog-to-digital conversion, digital-to-analog conversion, digital signal processing, decision making, and feedback control action to achieve precise regulation/ tracking, disturbance reduction, and robust stability/performance for physical systems. In addition to lectures by the instructor, the course will feature eight hands-on lab projects centered on the design and microprocessor implementation of digital controllers for MIMO (multi-input-multi-output) electro-mechanical systems. Cross-listed with undergraduate courseMEM\u00a0459.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 545",
+            "Title": "Solar Energy Fundamentals",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on basic theories of solar radiation, solar thermal energy, and photovoltaics. Students will learn basic radiation heat transfer, solar radiation, solar thermal collection and storage, passive and active solar heating/cooling, physics of photovoltaic cells, and characteristics and types of solar cells.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 345 [Min Grade: D] or PHYS 201 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 569",
+            "Title": "Introduction to Composite Materials I",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces anisotropic elasticity, lamina stiffness and compliance, plane-stress and plane-strain, stress-strain relations of a lamina, testing methods, engineering elastic constants, failure criteria, and micromechanics.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 570",
+            "Title": "Introduction to Composite Materials II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers laminated plate theory, stiffness and compliance of laminated plates, effect of laminate configuration on elastic performance, and review of research topics.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 569 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 571",
+            "Title": "Introduction to Robot Technology",
+            "Number_of_credits": "Credits",
+            "Description": "Covers robot configuration; components, actuators, and sensors; vision; and control, performance, and programming. Includes lectures and laboratory.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 572",
+            "Title": "Mechanics of Robot Manipulators",
+            "Number_of_credits": "Credits",
+            "Description": "Covers homogeneous transformation, direct and inverse kinematic manipulators, velocities and acceleration, static forces, and manipulators' dynamics, via Lagrange and Newton-Euler formulations. Includes lectures and laboratory.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 666 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 573",
+            "Title": "Industrial Application of Robots",
+            "Number_of_credits": "Credits",
+            "Description": "Covers path planning and workspace determination, robot accuracy and repeatability measurements, robot call design, application engineering and manufacturing, material transfer, processing operations, and assembly and inspection. Includes lectures and laboratory.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 574",
+            "Title": "Introduction to CAM",
+            "Number_of_credits": "Credits",
+            "Description": "Examines the basic elements used to integrate design and manufacturing processes, including robotics, computerized-numerical controlled machines, and CAD/CAM systems. Covers manufacturability considerations when integrating unit process elements.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 591",
+            "Title": "Applied Engr Analy Methods I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers effective methods to analyze engineering problems. This module focuses on analytical and computational methods for problems tractable with vectors, tensors and linear algebra. Uses symbolic/numerical computational software. Examples drawn from thermal fluid sciences, mechanics and structures, systems and control, and emerging technologies.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 592",
+            "Title": "Applied Engr Analy Methods II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers effective methods to analyze engineering problems. This module focuses on computational and analytical methods for complex variables and ordinary differential equations. Uses symbolic/numerical computational software. Examples drawn from thermal fluid sciences, mechanics and structures, systems and control, and emerging technologies.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 591 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 593",
+            "Title": "Applied Engr Analy Methods III",
+            "Number_of_credits": "Credits",
+            "Description": "Covers effective methods to computationally and analytically solve engineering problems. This module focuses on solution methods for partial differential equations, Fourier analysis, finite element analysis and probabilistic analysis. Uses symbolic/numerical computational software. Examples drawn from mechanical and civil engineering.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 592 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 601",
+            "Title": "Statistical Thermodynamics I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers probability theory; statistical interpretation of the laws of thermodynamics; systems of independent particles; systems of dependent particles; kinetic theory of dilute gases; quantum mechanics; energy storage and degrees of freedom; and thermochemical properties of monatomic, diatomic, and polyatomic gases.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 602",
+            "Title": "Statistical Thermodynamics II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers analysis of monatomic solids, theory of liquids, chemical equilibrium, kinetic and thermochemical description of rate processes, transport phenomena, and spectroscopy.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 601 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 603",
+            "Title": "Advanced Thermodynamics",
+            "Number_of_credits": "Credits",
+            "Description": "Covers reformulation of empirical thermodynamics in terms of basic postulates; presentation of the geometrical, mathematical interpretation of thermodynamics; Legendre transforms; requirements for chemical and phase equilibrium; first-and second-order phase transitions; Onsager reciprocal relations; and irreversible thermodynamics.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 611",
+            "Title": "Conduction Heat Transfer",
+            "Number_of_credits": "Credits",
+            "Description": "Covers conduction of heat through solid, liquid, and gaseous media; advanced analytical methods of analysis, including integral transform and Green's functions, the use of sources and sinks, and numerical and experimental analogy methods; and variational techniques.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 612",
+            "Title": "Convection Heat Transfer",
+            "Number_of_credits": "Credits",
+            "Description": "Covers convective heat transfer without change of phase or constitution, fundamental equations, exact solutions, application of the principle of similarity and the boundary-layer concept to convective heat transfer, similarity between heat and momentum transfer, and heat transfer in high-velocity flows.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 613",
+            "Title": "Radiation Heat Transfer",
+            "Number_of_credits": "Credits",
+            "Description": "Covers radiation heat transfer between surfaces and within materials that absorb and emit. Formulates and applies methods of analysis to problems involving radiation alone and radiation combined with conduction and convection.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 617",
+            "Title": "Introduction to Microfabrication",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on the fundamentals of microfabrication technologies. The materials, principles, and applications of silicon-based microfabrication technologies such as photolithography, wet/dry etching, deposition techniques, surface micromachining, and polymer micromachining will be covered. This course also includes two lab sessions through which students will have a hands-on experience in microfabrication.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 619",
+            "Title": "Microfluidics and Lab-on-a-Chip",
+            "Number_of_credits": "Credits",
+            "Description": "The course explores applications of microfluidic phenomena and lab-on-a-chip technology. The topics include fluid behavior in microchannels, electrokinetic manipulation, micro-scale separation/surface sciences, transducer effects, and microactuators. Students will also have a hands-on experience through laboratory sessions.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 417 [Min Grade: C] or MEM 617 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 621",
+            "Title": "Foundations of Fluid Mechanics",
+            "Number_of_credits": "Credits",
+            "Description": "Covers kinematics and dynamics of fluid motion; Lagrangian and Eulerian description of motion; transport theorem; continuity and momentum equations (Navier-Stokes equations); vorticity vector and equation; three-dimensional, axisymmetric, and two-dimensional complex potential flows; constitutive equations of a viscous fluid; dynamic similarity; Stokes flow; and similarity analysis.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 622",
+            "Title": "Boundry Layers-Laminar & Turbulent",
+            "Number_of_credits": "Credits",
+            "Description": "Covers laminar boundary layers; approximate integral method; three-dimensional laminar boundary layer and boundary-layer control; transient boundary-layer flows; the integral momentum equation; origins of turbulence; transition to turbulent flow; Reynolds-averaged equations; Reynolds stress; measurement of turbulent quantities; study of turbulent wall bounded flows, including pipe flow, flow over a flat plate, and flow over a rotating disk; and boundary layer in a pressure gradient.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 621 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 630",
+            "Title": "Linear Multivariable Systems I",
+            "Number_of_credits": "Credits",
+            "Description": "State space representation, continuous time and discrete time systems, similarity transformation, invariant subspaces, state response, stability, controllability, observability, Kalman decomposition, spectral and singular value decompositions.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 631",
+            "Title": "Linear Multivariable Systems II",
+            "Number_of_credits": "Credits",
+            "Description": "Pole assignment, output feedback, linear quadratic regulator, observer design, stochastic processes, state response to white noise, Kalman filter, linear quadratic Gaussian controller, evaluation of closed loop system.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 632",
+            "Title": "Linear Multivariable Systems III",
+            "Number_of_credits": "Credits",
+            "Description": "Model reduction: approximation of transfer functions, modal truncations, oblique projections, component cost analysis, internal balancing; controller reduction: observer-based controller parametrization, Riccati balancing, q-COVER theory, optimal projections.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 633",
+            "Title": "Robust Control Systems I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers linear spaces and linear operators; Banach and Hilbert spaces; time-domain spaces; frequency-domain spaces; singular value decomposition; EISPACK, LINPACK, and MATLAB, including internal stability; coprime factorization over the ring of polynomial matrices; matrix fraction description; properties of polynomial matrices; irreducible mfds; Smith-McMillan form; poles and zeros; canonical realizations; and computation of minimal realizations.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 634",
+            "Title": "Robust Control Systems II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the structure of stabilizing controllers; coprime factorization over the ring of proper stable rational matrices; algebraic Riccati equation; state space computation of coprime factorization; yvb controller parametrization; linear fractional transformation; state space structure of proper stabilizing controllers; formulation of control problem, H, and H optimization problem; model matching problem; tracking problem; robust stabilization problem; inner-outer factorization; and Sarason's H interpolation theory.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 633 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 635",
+            "Title": "Robust Control Systems III",
+            "Number_of_credits": "Credits",
+            "Description": "Covers Hankel-norm approximations, balanced realizations, two-block H optimization, generalized multivariable stability margins, structured and non-structured stability margins, structured singular values, robust stabilization and performance, and recent developments in robust control.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 634 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 636",
+            "Title": "Theory of Nonlinear Control I",
+            "Number_of_credits": "Credits",
+            "Description": "Provides a comprehensive introduction to the geometric theory of non-linear dynamical systems and feedback control. Includes stability, controllability, and observability of non-linear systems; exact linearization, decoupling, and stabilization by smooth feedback; and zero dynamics.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 637",
+            "Title": "Theory of Nonlinear Control II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers systems with parameters, including bifurcation and stability; static bifurcation; local regulation of parameter-dependent non-linear dynamics; tracking; limit cycles in feedback systems; perturbation methods; frequency domain analysis; and applications.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 636 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 638",
+            "Title": "Theory of Nonlinear Control III",
+            "Number_of_credits": "Credits",
+            "Description": "Covers high gain and discontinuous feedback systems, including sliding modes, applications, and advanced topics.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 637 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 639",
+            "Title": "Real Time Microcomputer Control I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers discrete-time systems and the Z-transform, sampling and data reconstruction, the pulse transfer function, discrete state equations, time-domain analysis, digital simulation, stability, frequency-domain analysis, Labview programming, and data acquisition and processing.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 640",
+            "Title": "Real Time Microcomputer Control II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers design of discrete-time controllers, sampled data transformation of analog filter, digital filters, microcomputer implementation of digital filters, Labview programming techniques, using the daq library, writing a data acquisition program, and Labview implementation of pid controllers.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 639 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 646",
+            "Title": "Fundamentals of Plasmas I",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces the fundamentals of plasma science and modern industrial plasma applications in electronics, fuel conversion, environmental control, chemistry, biology, and medicine. Topics include quasi-equilibrium and non-equilibrium thermodynamics, statistics, fluid dynamics and kinetics of plasma and other modern high temperature and high energy systems and processes.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 647",
+            "Title": "Fundamentals of Plasmas II",
+            "Number_of_credits": "Credits",
+            "Description": "Continues the development of the engineering fundamentals of plasma discharges applied in modern industrial plasma applications in electronics, fuel conversion, environmental control, chemistry, biology, and medicine. Topics include quasi-equilibrium and non-equilibrium thermodynamics, statistics, fluid dynamics of major thermal and non-thermal plasma discharges, operating at low, moderate and atmospheric pressures.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 646 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 648",
+            "Title": "Applications of Thermal Plasmas",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces applications of modern thermal plasma processes focused on synthesis of new materials, material treatment, fuel conversion, environmental control, chemistry, biology, and medicine. Topics include: thermodynamics and fluid dynamics of high temperature plasma processes, engineering organization of specific modern thermal plasma technologies.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 649",
+            "Title": "Application of Non-Thermal Plasmas",
+            "Number_of_credits": "Credits",
+            "Description": "Application of modern non-thermal plasma processes focused on synthesis of new materials, material treatment, fuel conversion, environmental control, chemistry, biology, and medicine. Topics include: non-equilibrium thermodynamics and fluid dynamics of cold temperature plasma processes, engineering organization of specific modern non-thermal plasma technologies.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 660",
+            "Title": "Theory of Elasticity I",
+            "Number_of_credits": "Credits",
+            "Description": "Summarizes mechanics of materials courses. Covers vector and tensor analysis, indicial notation, theory of stress, equilibrium equations, displacements and small strains, compatibility, and strain energy; formulation of the governing equations and the appropriate boundary conditions in linear elasticity, and uniqueness of the solutions; elementary three-dimensional examples and two-dimensional theory; stress functions; solutions in Cartesian and polar coordinates; and Fourier series.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 663 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 661",
+            "Title": "Theory of Elasticity II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers two-dimensional problems by the method of Muskhelishvili, torsion problem, stress function and solutions by means of complex variables and conformal mapping, three-dimensional solutions for straight beams, energy theorems, virtual work and their applications, and Rayleigh-Ritz method.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 660 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 662",
+            "Title": "Theory of Elasticity III",
+            "Number_of_credits": "Credits",
+            "Description": "Covers use of Fourier series and Green's functions for plane problems; three-dimensional problems in terms of displacement potentials; use of the Galerkin vector and the Boussinesq-Papkovitch-Neuber functions; fundamental solutions to the Kelvin, Boussinesq, Cerruti, and Mindlin problems; and elastic contact. Introduces non-linear elasticity.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 661 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 663",
+            "Title": "Continuum Mechanics",
+            "Number_of_credits": "Credits",
+            "Description": "Covers kinematics, Eulerian, and Lagrangian formulations of deformation; theory of stress; balance principles; continuum thermodynamics; and constitutive relations in fluids and solids.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 664",
+            "Title": "Introduction to Plasticity",
+            "Number_of_credits": "Credits",
+            "Description": "Reviews stress and strain deviators, invariants and distortional energy, principal and octahedral stresses and strains, Tresca and von Mises yield criteria, yield surface and Haigh-Westergaard stress space, Lode's stress parameter, subsequent yield surface, Prandtl-Reuss relations, work hardening and strain hardening, stress-strain relations from Tresca criteria, incremental and deformation theories, the slip-line field, slip-line equations for stress, velocity equations and geometry of slip-line field, limit analysis, simple truss, bending of beams, lower and upper bound theorems, and plasticity equations in finite-element methods.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 660 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 665",
+            "Title": "Time-Dependent Solid Mechanics",
+            "Number_of_credits": "Credits",
+            "Description": "Part a: Covers elastodynamics, including plane, cylindrical, and spherical waves; characteristics; the acoustic tensor; polarizations and wave speeds; transmission and reflection at plane interfaces; critical angles and surface waves; and waveguides and dispersion relationships. Part b: Covers linear viscoelasticity, including relaxation modulus and creep compliance, hereditary integrals, Laplace transform, correspondence principle, creep buckling and vibrations, viscoplasticity, creep, strain-rate effects, shear bands, and shock waves.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 660 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 666",
+            "Title": "Advanced Dynamics I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers analytical statics (principle of virtual work), Lagrange's equations, conservation laws, stability analysis by perturbation about steady state, Jacobi first integral, ignoration of coordinates, classification of constraints, solution of constrained dynamical problems by constraint embedding (elimination) or constraint adjoining (Lagrange multipliers), generalized impulse and momentum, and formulation and solution of non-holonomic systems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 667",
+            "Title": "Advanced Dynamics II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers vector dynamics in three dimensions, including a detailed study of rotational kinematics, motion of the mass center and about the mass center for a system of particles and a rigid body, moments of inertia, three-dimensional dynamical problems, and comparison between Lagrangian techniques and the vector methods of Euler and Newton. Includes vibrations, Euler's angles, motion of a gyroscope, and motion of an axially symmetric body under no force other than its weight.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 666 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 668",
+            "Title": "Advanced Dynamics III",
+            "Number_of_credits": "Credits",
+            "Description": "Covers central forces, effect of the earth's rotation, Foucault's pendulum, variational methods, Hamilton's principle, state space techniques for the integration of equations of motion, and numerical integration of equations of motion on microcomputers through the CSMP program. Depending on student interest, includes either Hamiltonian dynamics (canonical equations, contact transformations, Hamilton-Jacobi theory) or rigid body kinematics of complex dynamical systems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 667 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 670",
+            "Title": "Theory of Plates and Shells",
+            "Number_of_credits": "Credits",
+            "Description": "Covers elements of the classical plate theory, including analysis of circular and rectangular plates, combined lateral and direct loads, higher-order plate theories, the effects of transverse shear deformations, and rotatory inertia; matrix formulation in the derivation of general equations for shells; and membrane and bending theories for shells of revolution.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 671",
+            "Title": "Mechanical Vibrations I",
+            "Number_of_credits": "Credits",
+            "Description": "Free and forced responses of single degree of freedom linear systems; two degree of freedom systems; multiple degree of freedom systems; the eigenvalue problem; modal analysis; continuous systems; exact solutions; elements of analytical dynamics.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 672",
+            "Title": "Mechanical Vibrations II",
+            "Number_of_credits": "Credits",
+            "Description": "Continuous systems; approximate solutions; the finite element method; nonlinear systems; geometric theory, perturbation methods; random vibrations; computational techniques.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 673",
+            "Title": "Ultrasonics I",
+            "Number_of_credits": "Credits",
+            "Description": "Basic elements of ultrasonic nondestructive evaluation, wave analysis, transducers, transform techniques, A,B,C,M,F and Doppler imaging, medical imaging, multiple element arrays, real-time imaging, calibration.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 674",
+            "Title": "Ultrasonics II",
+            "Number_of_credits": "Credits",
+            "Description": "Basic elements of guided wave analysis, oblique incidence reflection factor, critical angle reflectivity, surface waves, lamb waves, plate waves, dispersion, phase and group velocity, experimental techniques for guided waves.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 675",
+            "Title": "Medical Robotics I",
+            "Number_of_credits": "Credits",
+            "Description": "Use of robots in surgery, safety considerations, understanding robot kinematics, analysis of surgeon performance using a robotic devices, inverse kinematics, velocity analysis, acceleration analysis, various types of surgeries case study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 676",
+            "Title": "Medical Robotics II",
+            "Number_of_credits": "Credits",
+            "Description": "Force and movement for robot arms, robot dynamics, computer vision, vision based control, combining haptics, vision and robot dynamics in a cohesive framework for the development of a medical robotic system.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 675 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 677",
+            "Title": "Haptics for Medical Robotics",
+            "Number_of_credits": "Credits",
+            "Description": "Introduction to haptics, physiology of touch, actuators, sensors, non-portable force feedback, portable voice feedback, tactile feedback interfaces, haptic sensing and control.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 678",
+            "Title": "Nondestructive Evaluation Methods",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers the tools necessary for the inspection and evaluation of materials and infrastructures. Most relevant methods used for Non-Destructive Evaluation (NDE) of structural components will be discussed. Physical principles of continuum mechanics, electrical engineering, acoustics and elastic wave propagation underlying the NDE methods will be covered. Sensor data acquisition and digital signal processing will be addressed.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 681",
+            "Title": "Finite Element Methods I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers formulation of finite element methods for linear analysis of static and dynamic problems in solids, structures, fluid mechanics, heat transfer, and field problems; displacement-based, hybrid, and stress-based methods; variational and weighted residual approaches; effective computational procedures for solution of finite element equations in static and dynamics analyses; and pre-processing and post-processing.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 682",
+            "Title": "Finite Element Methods II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers formulation of advanced finite element methods for non-linear analysis of static and dynamic problems in solids, structures, fluid mechanics, heat transfer, and field problems; material non-linearity; large displacement; large rotation; large strain; effective solution procedures for non-linear finite element equations in static and dynamic analyses; and effective finite element methods for eigenvalue problems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 681 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 684",
+            "Title": "Mechanics of Biological Tissues",
+            "Number_of_credits": "Credits",
+            "Description": "Covers composition and structure of tendons, ligaments, skin, and bone; bone mechanics and its application in orthopedics; viscoelasticity of soft biological tissues; models of soft biological tissues; mechanics of skeletal muscle; and muscle models and their applications.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 685",
+            "Title": "Mechanics of Human Joints",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the structure of human joints, including experimental and analytical techniques in the study of human joint kinematics; applications to the design of artificial joints and to clinical diagnosis and treatments; stiffness characteristics of joints and their applications to joint injuries; and prosthetic design and graft replacements.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 686",
+            "Title": "Mechanics of Human Motion",
+            "Number_of_credits": "Credits",
+            "Description": "Examines experimental and analytical techniques in human motion analysis and human locomotion; interdeterminacy of muscle force distribution in human motion; modeling and simulation of bipedal locomotion; energetics, stability, control, and coordination of human motion; and pathological gait.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 687",
+            "Title": "Manufacturing Processes I",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces basic manufacturing process technology and the mechanical properties of metals and plastics. Covers dimensional and geometry tolerancing; surface finishing; material removal processes and machine tools; processing of polymers and reinforced plastics, including general properties of plastic materials and forming, shaping, and processing of plastics; and CNC machining and programming. Combines lectures and laboratory work.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 688",
+            "Title": "Manufacturing Processes II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers processing of polymers and reinforced plastics, including general properties of plastic materials and forming, shaping, and processing of plastics; CNC machining and programming; casting processes; sheet-metal forming processes; bulk deformation processes; and computer integrated manufacturing systems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 687 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 689",
+            "Title": "Computer-Aided Manufacturing",
+            "Number_of_credits": "Credits",
+            "Description": "Covers development of software and hardware for computer-aided manufacturing systems, basic elements used to integrate the manufacturing processes, and manufacturability studies.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 701",
+            "Title": "Physical Gas Dynamics I",
+            "Number_of_credits": "Credits",
+            "Description": "Reviews equilibrium kinetic theory of dilute gases. Covers non-equilibrium flows of reacting mixtures of gases, flows of dissociating gases in thermodynamics equilibrium, flow with vibrational or chemical non-equilibrium, non-equilibrium kinetic theory, flow with translational non-equilibrium, and equilibrium/non-equilibrium radiation.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 602 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 705",
+            "Title": "Combustion Theory I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers thermochemistry, including the relationship between heats of formation and bond energies, heat capacities and heats of reaction, chemical equilibrium and the equilibrium constant, calculation of adiabatic flame temperature and composition of burned gas, free energy and phase equilibrium, classical chemical kinetics, and chain reaction theory.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 706",
+            "Title": "Combustion Theory II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers laminar flame propagation in premixed gases, detonation and deflagration, heterogeneous chemical reactions, burning of liquid and solid fuels, and diffusion flames.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 705 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 707",
+            "Title": "Combustion Theory III",
+            "Number_of_credits": "Credits",
+            "Description": "Covers advanced topics in combustion, including combustion-generated air pollution, incineration of hazardous wastes, supersonic combustion, propellants and explosives, and fires.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 706 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 711",
+            "Title": "Computational Fluid Mechanics and Heat Transfer I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers classification of fluid flow and heat transfer phenomena, including time-dependent multidimensional heat conduction and finite-difference and finite-element formulations; convection and diffusion; upwind, exponential, and hybrid schemes; and boundary-layer-type fluid flow and heat transfer problems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 712",
+            "Title": "Computational Fluid Mechanics and Heat Transfer II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers basic computational methods for incompressible Navier-Stokes equations, including vorticity-based methods and primitive variable formulation; computational methods for compressible flows; inviscid and viscous compressible flows; finite-element methods applied to incompressible flows; and turbulent flow models and calculations.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 711 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 714",
+            "Title": "Two-Phase Flow & Heat Transfer",
+            "Number_of_credits": "Credits",
+            "Description": "Covers selected topics in two-phase flow, with emphasis on two-phase heat transfer problems, basic conservation equations for two-phase flows, nucleation, bubble dynamics, pool boiling, forced convective boiling, condensation heat transfer, two-phase flow equipment design, tube vibration and flow instability in two-phase flows, and fouling in heat transfer equipment.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 717",
+            "Title": "Heat Transfer in Manufacturing",
+            "Number_of_credits": "Credits",
+            "Description": "Covers heat conduction fundamentals, including phase change problems (casting, welding, and rapid solidification processes) and cooling controls of rolling, forging, and extrusion processes.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 611 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 721",
+            "Title": "Non-Newtonian Fluid Mechanics and Heat Transfer",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the stress-strain rate relationship, simple flow, general constitutive and conservation equations, generalized Newtonian models, molecular theories, rheological property measurements, plane Couette flow, hydrodynamic theory of lubrication, helical flow, boundary layer flows, pipe flows, natural convection, thin film analysis, drag reduction phenomenon, and biorheology.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 622 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 722",
+            "Title": "Hydrodynamic Stability",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces stability, including discrete and continuous systems. Covers linear theory; instability of shear flows, spiral flows between concentric cylinders and spheres, thermoconductive systems, and viscous flows; global stability and non-linear theories; and time periodic and non-periodic flows, attractors, and bifurcation.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 622 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 723",
+            "Title": "Vortex Interactions and Complex Turbulent Flow",
+            "Number_of_credits": "Credits",
+            "Description": "Nonlinear vertex motion and interaction; motion of point vortices; generation and interaction of vortex rings and counter-rotating vortex pairs; vortex impulse, energy, pairing, bifurcation, and bursting; study of free and separating turbulent flows: mixing layers, wakes, jets, and buoyant plumes; recirculation behind bluff bodies and backsteps; longitudinal and lateral vortex waves and shear layers; sweeps and bursts in turbulent boundary layers; characteristics of turbulence: entrainment and molecular mixing, effects of buoyancy, rotation, acceleration, and heat release; the 3-D turbulent energy cascade and the 2-D inverse cascade.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 725",
+            "Title": "Compressible Fluid Dynamics",
+            "Number_of_credits": "Credits",
+            "Description": "Reviews one-dimensional flows. Covers steady flow of a compressible fluid; two-and three-dimensional subsonic, transonic, supersonic, and hypersonic flow; normal and oblique shock waves; wave reflections; oblique shock wave interactions and generation vorticity; compressible boundary layers; and shock boundary-layer interactions.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 621 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 727",
+            "Title": "Fluid Dynamics in Manufacturing Processes",
+            "Number_of_credits": "Credits",
+            "Description": "Covers transport of slurries, molten metals, and polymers; hydrodynamics in forming processes; resin flow model in polymer composites; shaped charge jet technology; separation and filtration; coating; lubrication; and melt-spinning process.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 730",
+            "Title": "Control of Flexible Space Structures I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers modeling of FSS including PDE description and finite element modeling, model errors, model reduction, component cost analysis, modal cost analysis, stability of mechanical systems, gyroscopic and non-gyroscopic systems, and rate and position feedback.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 731",
+            "Title": "Control of Flexible Space Structures II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers probability theory, stochastic processes, Kalman filter, LQG compensators, controller reduction, CCA theory, balancing reductions, and applications.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 730 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 733",
+            "Title": "Applied Optimal Control I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers necessary conditions from calculus of variations, equality and inequality constraints, fixed and free final time problems, linear-quadratic control, bang-bang control, and application to problems in flight mechanics.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 734",
+            "Title": "Applied Optimal Control II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers neighboring extremals and the second variation, perturbation feedback control, sufficient conditions, numerical solution methods, and application to problems in flight mechanics.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 733 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 735",
+            "Title": "Advanced Topics in Optimal Control",
+            "Number_of_credits": "Credits",
+            "Description": "Covers singular arc control, model following control, variable structure control, singular perturbation methods, differential games, and applications.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "MEM 734 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 760",
+            "Title": "Mechanics of Composite Materials I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers anisotropic elastic moduli, stress-strain relations of a lamina, failure criteria of a lamina, introduction to micromechanics, laminated plate theory, residual stresses, and strength of laminates.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 660 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 761",
+            "Title": "Mechanics of Composite Materials II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers anisotropic plates and shells, boundary value problem in anisotropic heterogeneous elasticity, vibrations and buckling of laminated plates, and testing methods.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 760 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 762",
+            "Title": "Mechanical Composite Materials III",
+            "Number_of_credits": "Credits",
+            "Description": "Covers classical failure criteria for orthotropic materials, fracture in laminates, three-dimensional stress analysis, simulation of delamination and transverse cracks, fatigue damage, and cumulative damage models.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 761 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 770",
+            "Title": "Theory of Elastic Stability",
+            "Number_of_credits": "Credits",
+            "Description": "General stability criteria; beam column; the elastica; energy methods; torsional stability; combined torsion and flexure; lateral buckling of beams in pure bending; buckling of rings; curved bars and arches.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 777",
+            "Title": "Fracture Mechanics I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers fundamental mechanics of fracture, including linear elastic crack mechanics, energetics, small-scale yielding, fully plastic crack mechanics, creep crack mechanics, fracture criteria, mixed mode fracture, stable quasi-static crack growth (fatigue crack growth and environmentally induced crack growth), toughness and toughening, and computational fracture mechanics.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 782",
+            "Title": "Impact and Wave Propagation I",
+            "Number_of_credits": "Credits",
+            "Description": "Governing equations for elastic waves; longitudinal waves in a bar; transverse in a flexible string; flexural waves in a Bernoulli-Euler beam; flexural waves in a Timoshenko beam; Rayleigh surface waves; Pochhammer-Chree waves in circular cylinders; reflection of plane waves at a plane boundary.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 783",
+            "Title": "Impact and Wave Propagation II",
+            "Number_of_credits": "Credits",
+            "Description": "Spherical and cylindrical waves in unbounded medium; method of Laplace transform; method of characteristics; flexural waves in a Timoshenko plate; viscoelastic and viscoplastic waves; dispersion and phase velocity; natural frequency in free vibration.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 784",
+            "Title": "Impact & Wave Propagation III",
+            "Number_of_credits": "Credits",
+            "Description": "Governing equations for unsteady, nonisentropic fluid flows; shock waves; method of characteristics for nonlinear system; numerical integration along characteristics; impact and vibration of shell topics in wave propagation.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 891",
+            "Title": "Topics in Advanced Engineering I",
+            "Number_of_credits": "Credits",
+            "Description": "Linear systems; control theory; vibrations and eigenvalue problems; systems dynamics; Fourier transformation; flight dynamics.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 892",
+            "Title": "Topics in Advanced Engineering II",
+            "Number_of_credits": "Credits",
+            "Description": "Separation of variables; thermodynamics; heat transfer; fluid mechanics; boundary layer theory; elasticity; finite element methods. Solid mechanics; aeroelasticity.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 893",
+            "Title": "Topics in Advanced Engineering III",
+            "Number_of_credits": "Credits",
+            "Description": "Basic probability and statistics; communication theory; sampled data system; digital and optical processing.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 894",
+            "Title": "Engineering Mathematics",
+            "Number_of_credits": "Credits",
+            "Description": "Application of matrices, linear algebra, and complex analysis to engineering problems. Ordinary and partial differential equations.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 897",
+            "Title": "Research",
+            "Number_of_credits": "Credit",
+            "Description": "Supervised research in Mechanical Engineering.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 898",
+            "Title": "Master's Thesis",
+            "Number_of_credits": "Credit",
+            "Description": "Master's thesis.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 998",
+            "Title": "Ph.D. Dissertation",
+            "Number_of_credits": "Credit",
+            "Description": "Ph.D. dissertation.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM I599",
+            "Title": "Independent Study in MEM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM I699",
+            "Title": "Independent Study in MEM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM I799",
+            "Title": "Independent Study in MEM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM I999",
+            "Title": "Independent Study in MEM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM T580",
+            "Title": "Special Topics in MEM",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM T680",
+            "Title": "Special Topics in MEM",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM T780",
+            "Title": "Special Topics in MEM",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM T880",
+            "Title": "Special Topics in MEM",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM T980",
+            "Title": "Special Topics in MEM",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

@@ -1,0 +1,479 @@
+[
+      {
+            "Identifier": "ECEC 500",
+            "Title": "Fundamentals Of Computer Hardware",
+            "Number_of_credits": "Credits",
+            "Description": "Covers computer organization and architecture; elements of computer hardware, processors, control units, and memories; hardware for basic mathematical operations; tradeoffs between speed and complexity; examples of embedded systems; microcontrollers; systems modeling.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC 501",
+            "Title": "Computational Principles of Representation and Reasoning",
+            "Number_of_credits": "Credits",
+            "Description": "This course presents fundamentals of discrete mathematics as applied within the computer engineering and manufacturing environment. Students are given the theoretical background in representation and reasoning for a broad variety of engineering problems solving situations. Entity-relational techniques of representation are demonstrated to evolve into the object-oriented approach. Various search techniques are applied in the cases of representing engineering systems by using theory of automata techniques.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC 502",
+            "Title": "Principles of Data Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "This course presents theoretical methods and techniques of model development applicable within the computer engineering design and manufacturing environment. Students are given the theoretical background in data analysis (including \"data mining\"). Emphasis is on hybrid systems and discrete events systems. Various methods of recognizing regularities in data will be presented. Elements of the theory of clustering and classification will be dealt with for the paradigm of software and hardware problems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC 503",
+            "Title": "Principles of Decision Making",
+            "Number_of_credits": "Credits",
+            "Description": "This course presents theoretical fundamentals and engineering techniques of decision making and problem solving applicable within the computer engineering design and manufacturing environment. Students are given the theoretical background in optimization methods for a broad variety of situation. Elements of the theory of planning and on-line control of systems are presented within the scope of software and hardware computer design and control.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC 511",
+            "Title": "Combinational Circuit Design",
+            "Number_of_credits": "Credits",
+            "Description": "Representing arithmetic. Logic and syntax data for machine processing. Switching algebra: Boolean and multiple values. Identification and classification of functions. Realizing completely specified and incompletely specified Boolean functions. Issues in designing large communication/control Boolean functions. Fault and testing of Boolean function.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC 512",
+            "Title": "Sequential Circuit Design",
+            "Number_of_credits": "Credits",
+            "Description": "Finite automata and their realization by sequential machines, capabilities, transformation, and minimization of finite automata, linear finite automata. Clocked pulsed and level mode sequential circuits. Malfunctions in sequential circuits: hazards, races, lockouts, metastability. Issues of state assignment. Evolution of memory elements design: ROM vs. RAM vs. associative memory.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEC 511 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECEC 513",
+            "Title": "Design for Testability",
+            "Number_of_credits": "Credits",
+            "Description": "Economics vs. Complexity vs. Strategy of Testing; Fault Models; Test Generation; Testability Analysis & Designing Testable Circuits; Testing Microprocessors, Memories and Computer Components; Test Data Compression; Fault Tolerant Hardware; Reliably vs. Availability; Redundancy and Error Correcting Codes.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEC 511 [Min Grade: C] and ECEC 512 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECEC 520",
+            "Title": "Dependable Computing",
+            "Number_of_credits": "Credits",
+            "Description": "Fundamental design issues involved in building reliable, safety-critical, and highly available systems. Topics include testing and fault-tolerant design of VLSI circuits, hardware and software fault tolerance, information redundancy, and fault-tolerant distributed systems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC 531",
+            "Title": "Principles of Computer Networking",
+            "Number_of_credits": "Credits",
+            "Description": "Principles of circuit switching, packet switching and virtual circuits; protocol layering; application layer protocols for e-mail and web applications; naming and addressing; flow control and congestion avoidance with TCP; Internet Protocol (IP); routing algorithms; router architectures; multicast protocols; local area network technologies and protocols; issues in multimedia transmissions; scheduling and policing; Quality-of-Service and emerging Internet service architectures; principles of cryptography.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC 541",
+            "Title": "Robotic Computer Interface Controls I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers sensors, actuators, mechanical components of robots, kinematics, inverse kinematics, dynamics, and equations of motion.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC 542",
+            "Title": "Robotic Computer Interface Controls II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the robot control problem, including PD, PID, position, force and hybrid controllers, resolved rate and acceleration control, and multiprocessor architecture.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECES 641 [Min Grade: C] and ECES 643 [Min Grade: C] and ECEC 541 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECEC 543",
+            "Title": "Robotic Computer Interface Controls III",
+            "Number_of_credits": "Credits",
+            "Description": "Covers non-linear control techniques, FLDT, and advanced topics.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEC 542 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECEC 571",
+            "Title": "Introduction to VLSI Design",
+            "Number_of_credits": "Credits",
+            "Description": "This is an introductory course where systematic understanding, design and analysis of digital VLSI integrated circuits will be covered. The course will begin with a review of CMOS transistor operation and semiconductor processes. Logic design with CMOS transistor and circuit families will be described. Specifically, layout, design rules, and circuit simulation will be addressed. Performance metrics will be analyzed in design and simulation.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC 572",
+            "Title": "Custom VLSI Design & Analysis I",
+            "Number_of_credits": "Credits",
+            "Description": "This is the first of two courses offered on Custom VLSI circuit and systems design and analysis. An understanding of VLSI integrated circuits is achieved through circuit design and analysis. This course focuses exclusively on high performance digital CMOS VLSI circuit and systems design, although some topics on mixed-signal circuits are also addressed. Design and analysis of VLSI integrated circuits will be covered from the circuits and systems design perspectives. First, a thorough analysis of interconnect networks is presented. The second part of the class focuses on synchronization of high performance ICs.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEC 571 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECEC 573",
+            "Title": "Custom VLSI Design & Analysis II",
+            "Number_of_credits": "Credits",
+            "Description": "This is the second of two courses offered on Custom VLSI circuit and systems design and analysis. An understanding of VLSI integrated circuits is achieved through circuit design and analysis. This course focuses exclusively on high performance digital CMOS VLSI circuit and systems design, although some topics on mixed-signal circuits are also addressed. The primary focus is on-chip power management. Power generation techniques are discussed and different power converters are analyzed. Power distribution networks are presented with a focus on the different distribution architectures and output impedance characteristics. Techniques to reduce power supply noise are also provided. A secondary focus examines substrate noise in mixed-signal systems and techniques to reduce substrate noise.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEC 571 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECEC 574",
+            "Title": "ASIC Design I",
+            "Number_of_credits": "Credits",
+            "Description": "This course will focus exclusively on digital CMOS Application Specific Integrated Circuit (ASIC) systems design and automation. The ASIC physical design flow, including logic synthesis, floorplanning, placement, clock tree synthesis, routing and verification will be presented. These back-end physical design flow steps will also be covered through hands-on practice using industrial VLSI CAD tools. Contemporary design practices will be reviewed and presented in experiments.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC 575",
+            "Title": "ASIC Design II",
+            "Number_of_credits": "Credits",
+            "Description": "Design and analysis of VLSI integrated circuits will be covered from a systems design perspective. System timing, arithmetic building block and memory block design processes will be presented. Design tasks in a quarter-long, small-complexity processor design project will cover the back-end of the IC design flow range, from RTL synthesis to timing and power analysis. Projects will be performed in a hierarchical group, similar to an industrial setting, with other graduate and undergraduate students.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEC 574 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECEC 576",
+            "Title": "Hardware Security & Trust",
+            "Number_of_credits": "Credits",
+            "Description": "The course will cover a broad range of current topics in the areas of security and protection of modern integrated circuits. The covered material includes cryptographic processor and processing overhead, physical and invasive attacks, side-channel attacks, physically unclonable functions, hardware-based true random number generators, watermarking of intellectual property, FPGA security, passive and active metering for prevention of piracy, access control, and emerging threats to current and next- generation technologies.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEC 571 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECEC 600",
+            "Title": "Fundamentals of Computer Networks",
+            "Number_of_credits": "Credits",
+            "Description": "Fundamentals design principles of ATM, Internet and local area networks; protocol layers and the Internet Architecture; medium access protocols; application protocols and TCP/IP utilities; basic principles and virtual circuit switching; naming and addressing; flow and congestion control protocols; routing algorithms; Quality-of-Service in computer networks; security issues in networks.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC 621",
+            "Title": "High Performance Computer Architecture",
+            "Number_of_credits": "Credits",
+            "Description": "Maximizing single processor performance. Concepts and techniques for design of computer systems. Processor design, instruction set architecture design and implementation, memory hierarchy, pipelines processors, bus bandwidth, processor/memory interconnections, cache memory, virtual memory, advanced I/O systems, performance evaluation.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC 622",
+            "Title": "Parallel Programming",
+            "Number_of_credits": "Credits",
+            "Description": "This course will focus on developing parallel algorithms for multi-core CPUs using: (1) OpenMP, a progamming interface for shared-memory parallel computers, (2) streaming SIMD extensions (SSE2), and (2) the pthread multi-threading library. The course will also teach students how to develop parallel algorithms for the graphics processing unit (GPU) and implement them using the CUDA programming interface. Specifically, students will be introduced to the architecture of a modern GPU, to the CUDA programming interface, and to general purpose programming on the GPU.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC 623",
+            "Title": "Advanced Topics in Computer Architecture",
+            "Number_of_credits": "Credits",
+            "Description": "This course teaches advanced concepts of modern computer architecture and introduces the current challenges faced by computer architects. These challenges include power consumption, transistor variability, and processor heterogeneity. Students develop their research skills through a self directed research project with a final presentation and conference style writeup.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEC 621 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECEC 632",
+            "Title": "Performance Analysis of Computer Networks",
+            "Number_of_credits": "Credits",
+            "Description": "Covers probability theory and its applications to networks, random variable and random processes; Markov chains, multi-dimensional Markov chains; M/M/1, M/M/m, M/M/m/m, M/G/1 and G/G/1 queueing systems and their applications in computer networks; analysis of networks of queues: Kleinrock Independence Approximation; Time-reversibility and Burke's theorem; Jackson's theorem; the phenomenon of long-range dependence and its implications in network design and traffic engineering.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEC 631 [Min Grade: C] or ECEC 531 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECEC 633",
+            "Title": "Advanced Topics in Computer Networking",
+            "Number_of_credits": "Credits",
+            "Description": "Perspectives in the areas of switch/router architectures, scheduling for best-effort and guaranteed services, QoS mechanisms and architectures, web protocols and applications, network interface design, optical networking, and network economics. The course also includes a research project in computer networking involving literature survey, critical analysis, and finally, an original and novel research contribution.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEC 632 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECEC 641",
+            "Title": "Web Security I",
+            "Number_of_credits": "Credits",
+            "Description": "An introduction to web security risks, attack strategies and defenses; a security-conscious introduction to web development languages; security issues in HTTP; symmetric and public key encryption on the web; cryptographic hash functions; digital certificates and authentication; case studies of attacks; encrypted web communications (HTTPS).",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC 642",
+            "Title": "Web Security II",
+            "Number_of_credits": "Credits",
+            "Description": "Origin-based isolation of web content; attacks on the Domain Name System (DNS) and countermea- sures; Secure DNS; anonymous web browsing; onion-routing; Tor browser; attacks on Tor and de- fenses; illegal hosting and anonymous publishing; fast-flux proxies; Internet censorship, surveillance and their circumvention; security issues in Internet governance.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC 643",
+            "Title": "Web Security III",
+            "Number_of_credits": "Credits",
+            "Description": "Advanced topics in JavaScript security; Asynchronous JavaScript (AJAX); mobile web security; elliptic-curve cryptography; secure coding principles; web-based malware; secure database manage- ment on the web; intrusion detection; principles of security for web users, web developers, and web hosts; trade-offs between performance and security; research perspectives in web security.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC 654",
+            "Title": "Knowledge Engineering I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers conceptual modeling, including an overview of knowledge representation. Includes semantic networks, reduced semantic networks, logic of incomplete knowledge bases, extensional semantic networks, and applications of conceptual models.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC 655",
+            "Title": "Knowledge Engineering II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers expert systems, including language and tools of knowledge engineering. Includes reasoning about reasoning, design and evaluation, heuristics in expert systems, expert systems for decision support, and expert systems in conceptual design.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEC 654 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECEC 656",
+            "Title": "Knowledge Engineering III",
+            "Number_of_credits": "Credits",
+            "Description": "Covers information-intensive systems, including information representation in autonomous systems. Includes clauses and their validation; clustering in linguistic structures; linguistic and pictorial knowledge bases; discovery in mathematics, including am; and methods of new knowledge generation.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEC 655 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECEC 661",
+            "Title": "Digital Systems Design",
+            "Number_of_credits": "Credits",
+            "Description": "A project-based course on design concepts, tools and implementation of systems with embedded processors, library IP (Intellectual Property) cores and custom IP cores, synthesis and Field Programmable Gate Array (FPGA) implementation.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC 662",
+            "Title": "VLSI Array Processors I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers VLSI testing, including design for testability and parallel computer architectures; signal and image processing algorithms and mapping algorithms onto array structures; and systolic array processors.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEC 661 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECEC 663",
+            "Title": "VLSI Array Processors II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers wavefront array processors; matching hardware to arrays; hardware design, systems design, and fault-tolerant design; and implementations and VLSI design projects.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEC 662 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECEC 671",
+            "Title": "Electronic Design Automation for VLSI Circuits I",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on the electronic design automation problems in the design process of VLSI integrated circuits. In this first quarter of the course, algorithms, techniques and heuristics structuring the foundations of contemporary VLSI CAD tools are presented. Boolean algebra, graph theory, logic minimization and satisfiability topics are presented.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC 672",
+            "Title": "Electronic Design Automation for VLSI Circuits II",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on the electronic design automation problems in the design process of VLSI integrated circuits. In this second quarter of the course, physical VLSI design steps of technology mapping, floor planning, placement, routing and timing and presented individual and team-based small-to-medium scale programming projects are assigned.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEC 671 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECEC 673",
+            "Title": "Deep Sub-Micron Integrated Circuit Design",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on the design challenges of digital VLSI integrated circuits in deep sub-micron manufacturing technologies. Automation challenges and high-performance circuit design techniques such as low-power and variation-aware design are presented. The course material is delivered in a lecture format structured on recent presentations, articles, and tutorials.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEC 671 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECEC 697",
+            "Title": "Research in Computer Engineering",
+            "Number_of_credits": "Credit",
+            "Description": "Research in computer engineering.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC 699",
+            "Title": "Supervised Study in Computer Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Supervised study in computer engineering.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC 890",
+            "Title": "Advanced Special Topics in Computer Engineering",
+            "Number_of_credits": "Credit",
+            "Description": "Covers advanced special topics of interest to students and faculty.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC 891",
+            "Title": "Advanced Topics in Computer Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Advanced topics in computer engineering.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC 898",
+            "Title": "Master's Thesis in Computer Engineering",
+            "Number_of_credits": "Credit",
+            "Description": "Master's thesis in computer engineering.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC 997",
+            "Title": "Dissertation Research in Computer Engineering",
+            "Number_of_credits": "Credit",
+            "Description": "Graded Ph.D. dissertation in computer engineering.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC 998",
+            "Title": "Ph.D. Dissertation in Computer Engineering",
+            "Number_of_credits": "Credit",
+            "Description": "Ph.D. dissertation in computer engineering.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC I599",
+            "Title": "Independent Study in ECEC",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC I699",
+            "Title": "Independent Study in ECEC",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC I799",
+            "Title": "Independent Study in ECEC",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC I899",
+            "Title": "Independent Study in ECEC",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC I999",
+            "Title": "Independent Study in ECEC",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC T580",
+            "Title": "Special Topics in ECEC",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC T680",
+            "Title": "Special Topics in ECEC",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC T780",
+            "Title": "Special Topics in ECEC",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC T880",
+            "Title": "Special Topics in ECEC",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEC T980",
+            "Title": "Special Topics in ECEC",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

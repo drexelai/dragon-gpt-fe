@@ -1,0 +1,182 @@
+[
+      {
+            "Identifier": "CW 500",
+            "Title": "Reading as a Writer I",
+            "Number_of_credits": "Credits",
+            "Description": "This is a course whose purpose is to teach and promote the use of active reading as a methodology of acquiring expertise in creative writing. Reading as a Writer I will give students a common language with which to discuss current fiction, not as the springboard for criticism, but as the wellspring for creation and inspiration.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CW 501",
+            "Title": "Reading as a Writer II",
+            "Number_of_credits": "Credits",
+            "Description": "This is a course whose purpose is to teach and promote the use of active reading as a methodology of acquiring expertise in creative writing with special focus on advanced considerations of genre and technique. This class features meet-ups with published guest authors on asynchronous Discussion Boards. Guest authors will share with students their own creative and professional journeys, their literary influences, and will discuss how to use published works as guidebook, inspiration, and as a customizable writer\u2019s tool box.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CW 510",
+            "Title": "Prepared to Publish",
+            "Number_of_credits": "Credits",
+            "Description": "Prepared to Publish is designed to give MFA creative writing students knowledge of and practice in the situations, roles, and skills they might encounter in their future publishing endeavors (whether as authors with big publishers or small presses, as self-publishers who take on the task of publishing their own books, or as professionals on the editorial or business side of publishing). Students will learn about such topics as editing, copy editing, book production, author rights and contracts, working with agents and editors, small press book publication, book cover design, interior book layout, building an author website, social media and book promotion, and literary magazines.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CW 550",
+            "Title": "Creative Writing Workshop",
+            "Number_of_credits": "Credits",
+            "Description": "This is a creative writing workshop whose purpose is to introduce core principles and give students a common language with which to create, analyze, and discuss creative writing within a workshop environment. Subjects covered include specificity, sensory language, symbolic language, character development, vivid scene crafting, organization/structure, and treatment of significance or themes.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CW 555",
+            "Title": "Creative Writing Packet Exchange I",
+            "Number_of_credits": "Credit",
+            "Description": "This is a creative writing mentorship course whose purpose is to enable students to practice and develop their craft, taking into consideration craft lessons learned in prior quarters. This course also emphasizes the importance of revision strategies. The format of the class is a packet exchange. The quarter will begin with a conversation between mentor and student in which they will discuss the nature of the project the student will work on and complete during the quarter. The student will then send their mentor three packets of writing on pre-arranged dates. The mentor will review and critique the student\u2019s efforts and return work on a pre-set date with a line edit and a robust editorial note.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 2 times for 9 credits",
+            "Prerequisites": "CW 550 [Min Grade: B]"
+      },
+      {
+            "Identifier": "CW 556",
+            "Title": "Creative Writing Packet Exchange II",
+            "Number_of_credits": "Credit",
+            "Description": "This is a creative writing mentorship course whose purpose is to enable students to practice and develop their craft. This course also emphasizes the professional aspect of developing market awareness for one\u2019s own work. The format of the class is a packet exchange. The quarter will begin with a conversation between mentor and student in which they will discuss the nature of the project the student will work on and complete during the quarter. The student will then send their mentor three packets of writing on pre-arranged dates. The mentor will review and critique the student\u2019s efforts and return work on a pre-set date with a line edit and a robust editorial note. Students are expected to demonstrate an awareness of prior critique \u2013 in reflection and in the creation of new writing.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 2 times for 9 credits",
+            "Prerequisites": "CW 555 [Min Grade: B]"
+      },
+      {
+            "Identifier": "CW 600",
+            "Title": "Creative Writing Craft Residency",
+            "Number_of_credits": "Credits",
+            "Description": "The residency will provide opportunity for intensive study and community building for the MFA cohort. Daily schedule consists of peer-critique, faculty-led master workshop, faculty talks and career development modules. As the inaugural residency in the MFA sequence, this course will introduce core craft principals and orient students for the course of study. Prior to the workshop students complete reading assignments and submit 20-30 page double-spaced works-in-progress for faculty-led workshop critique and analysis.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 1 times for 6 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CW 601",
+            "Title": "Professional Residency in New York",
+            "Number_of_credits": "Credits",
+            "Description": "This is a residency for creative writers with an intensive focus on career development. Course consists of peer-critique, faculty-led master workshop, and intensive career development modules. Topics covered include platform building, social media tools, personal publication roadmap, pitch strategies, networking and agent searches. In advance of the workshop students complete reading assignments and submit 20-30 page double-spaced works-in-progress for faculty-led workshop critique and analysis.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 1 times for 6 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CW 602",
+            "Title": "MFA Creative Writing Graduation Residency",
+            "Number_of_credits": "Credits",
+            "Description": "This is a residency with a daily schedule that consists of peer-critique, faculty-led master workshop, and career development modules. As the capstone residency, this course will allow students to present their thesis work to peers and mentors and to develop professional and aesthetic (craft) strategies for post-graduation success. The residency will also teach students to situate themselves within a creative tradition and to develop networks for post-graduation creative and professional support.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CW 600 [Min Grade: B] and (CW 601 [Min Grade: B] or CW 601 [Min Grade: CR])"
+      },
+      {
+            "Identifier": "CW 653",
+            "Title": "Creative Writing Intensive Course Abroad",
+            "Number_of_credits": "Credits",
+            "Description": "This is an Intensive Course Abroad in Creative Writing. The location and availability of the course will change according to faculty availability and other programmatic details. The Drexel MFA encourages travel experiences as a formative part of a writer\u2019s education. The program consists of touring, community engagement, craft exercises, workshop and study of work by local authors and screenwriters. Prior to the course, students complete reading assignments and submit 20-30 page double-spaced works-in-progress for faculty-led workshop that will take place abroad.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 1 times for 6 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CW 654",
+            "Title": "Writing Pedagogy",
+            "Number_of_credits": "Credits",
+            "Description": "This is a pedagogy course whose purpose is to familiarize students with effective teaching modalities for undergraduate composition or fiction writing courses. The course will run in different versions, with an emphasis on creative writing or compositional pedagogy depending upon the cohort. Subjects covered include syllabus creation, grading, Drexel core principals, university resources, teaching strategies and subject-specific materials. Weekly assigned readings will inform discussions and be used for assignment materials. Students will receive focused instruction on common qualities of impactful writing, and on experiential techniques designed to elicit effective writing from students.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CW 655",
+            "Title": "Fiction Writing Workshop  II",
+            "Number_of_credits": "Credits",
+            "Description": "This is an advanced fiction-writing workshop whose purpose is to introduce core principals, and give Drexel MFA students a common language with which to create, analyze and discuss fiction within a workshop environment. Subjects covered can include: specificity, sensory language, symbolic language, character development, vivid scene crafting, and plot structure. The format of the class is a weekly peer-workshop meeting. Students post and share their own fiction in a rotating schedule and are required each week to engage in conversation while offering their own constructive criticism of all submitted work. Students will receive instruction on common qualities of impactful writing and on techniques designed to encourage the development of an author\u2019s unique style and voice.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CW 690",
+            "Title": "Thesis Development",
+            "Number_of_credits": "Credit",
+            "Description": "This is a course whose purpose is to enable students to begin thesis planning and execution. The quarter will begin with an in-depth conversation between instructor and student in which they will discuss the scope of the thesis project and student\u2019s particular interests as related to the creation and development of a publishable piece of work. Student will then propose two separate thesis topics. Instructor will review student efforts and make suggestions and give advice on best creative and professional course forward.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 2 times for 9 credits",
+            "Prerequisites": "CW 556 [Min Grade: B]"
+      },
+      {
+            "Identifier": "CW 691",
+            "Title": "Thesis Packet Exchange I",
+            "Number_of_credits": "Credit",
+            "Description": "This is a course whose purpose is to enable students to commence and ultimately complete their capstone thesis project which is the culminating experience of the Drexel MFA. The quarter will begin with an in-depth conversation between instructor and student in which they will discuss the scope of the thesis project and student\u2019s plan for producing an ambitious publishable piece of work. Instructor will review student efforts and make suggestions and give advice on best creative and professional course forward.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 2 times for 9 credits",
+            "Prerequisites": "CW 690 [Min Grade: B] or CW 690 [Min Grade: CR]"
+      },
+      {
+            "Identifier": "CW 692",
+            "Title": "Thesis Packet Exchange II",
+            "Number_of_credits": "Credit",
+            "Description": "This is a course whose purpose is to enable students to complete their capstone thesis project, which is the culminating experience of the Drexel MFA. The quarter will begin with an in-depth conversation between instructor and student in which they will discuss the scope of the thesis project and student\u2019s plan for producing an ambitious publishable piece of work. Instructor will review student efforts and make suggestions and give advice on best creative and professional course forward.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 2 times for 9 credits",
+            "Prerequisites": "CW 691 [Min Grade: B] or CW 691 [Min Grade: CR]"
+      },
+      {
+            "Identifier": "CW I599",
+            "Title": "Independent Study in Creative Writing",
+            "Number_of_credits": "Credits",
+            "Description": "This course recognizes that writers have a variety of inspirations and that direct experience can provide raw material for story creation. Students are invited to propose Independent Study projects of any kind. Students are also invited to propose Independent Studies that draw inspiration from Drexel\u2019s unique resources, such as the Academy of Natural Sciences, the Bioko Biodiversity Protection Program or the Robert and Penny Fox Historic Costume Collection. Independent studies may also be inspired by subject matter far outside of university collections. The format of the class depends upon the particular project and will be determined in collaboration with the MFA director, the course instructor and the student.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CW I699",
+            "Title": "Independent Study in Creative Writing",
+            "Number_of_credits": "Credits",
+            "Description": "This course recognizes that writers have a variety of inspirations and that direct experience can provide raw material for story creation. Students are invited to propose Independent Study projects of any kind. Students are also invited to propose Independent Studies that draw inspiration from Drexel\u2019s unique resources, such as the Academy of Natural Sciences, the Bioko Biodiversity Protection Program or the Robert and Penny Fox Historic Costume Collection. Independent studies may also be inspired by subject matter far outside of university collections. The format of the class depends upon the particular project and will be determined in collaboration with the MFA director, the course instructor and the student.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CW I799",
+            "Title": "Community Based Learning Independent Study",
+            "Number_of_credits": "Credits",
+            "Description": "Students will develop and deliver innovative programming that uses creative writing to teach, inspire and make art with vulnerable and/or underserved populations. The format of the class depends upon the community setting and will be determined in collaboration with the MFA director, the community partner and the student. Student finds a community partner, develops teaching/enrichment plan, creates schedule for implementation and follows through on implementation. Or, student joins a Community Based Learning project which is already in progress. If this is the case, the student\u2019s initial proposal must explain the student\u2019s unique role in the project. Collaborative initiatives are encouraged.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CW T580",
+            "Title": "Special Topics in Creative Writing",
+            "Number_of_credits": "Credits",
+            "Description": "This is a variable topics Course for the Drexel MFA in Creative Writing. The purpose of the course is for students to gain experience in specific genres and/or techniques such as but not limited to: dialogue writing, the hero\u2019s journey, memoir writing, creative non-fiction writing, comedy writing or writing from history. Emphasis is placed on revision, preparation for publication, and on identifying possible sources for publication.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CW T680",
+            "Title": "Special Topics in Creative Writing",
+            "Number_of_credits": "Credits",
+            "Description": "The purpose of the course is for students to gain experience in specific genres and/or techniques such as but not limited to: dialogue writing, the hero\u2019s journey, memoir writing, creative non-fiction writing, comedy writing or writing from history. Emphasis is placed on revision, preparation for publication, and on identifying possible sources for publication. This is the second Special Topics course in the MFA sequence, and is intended for students taking a Special Topics course in their second year of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

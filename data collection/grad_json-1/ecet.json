@@ -1,0 +1,209 @@
+[
+      {
+            "Identifier": "ECET 501",
+            "Title": "Fundamentals of Communications Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Fundamentals of Communications Engineering. This course introduces basic modulation, deletion and coding techniques in modern telecommunications systems, including PAM and FSK, spread-spectrum and OFDM, ML receiver, ISI and equalization, compression code and coded modulation. May be repeated once for credit.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECES 521 [Min Grade: C] and ECES 522 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECET 511",
+            "Title": "Physical Foundations of Telecommunications Networks",
+            "Number_of_credits": "Credits",
+            "Description": "Physical Foundations of Telecommunications Networks. Introduction to wired and wireless telecommunication systems. Review of wave propagation. Review of wireline transmission media. Modeling wireline and wireless point-to-point communication links. N-port linear networks and network analysis/parameters. Review of passive RF components, semiconductor devices. Optical communication devices: optical switches, couplers, isolators, sources, modulators, detectors, amplifiers. Overview of active circuits.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECET 512",
+            "Title": "Wireless Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Fundamentals of modern wireless systems. Fundamentals of radio propagation and link performance. Cellular concept: interference, base stations and cell sites, handoffs, system capacity. Fading environments: multipath propagation, delay spread, Doppler Spread, statistically fading channel models. Multiple-access schemes: FDMA, TDMA, CDMA, SDMA. Emerging methodologies: phases/adaptive antenna array, multi-array (MIMO) communication systems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECET 513",
+            "Title": "Wireless Networks",
+            "Number_of_credits": "Credits",
+            "Description": "Introduction to Wireless Networks, Evolution: 1G, 2G, 3G, Next-G. Wireless Networks Operation: Mobility and Resource Management, Security. Wireless WANs: GSM, CDMA, IS-95, and IMT-2000, Mobil Data Networks, Wireless LANs: 802.11, HIPERLAN, Ad Hoc Networks, Mobil IP. Next Generation Wireless Systems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECET 602",
+            "Title": "Information Theory and Coding",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces fundamental information theory and source and channel coding technology. Major topics include: entropy and mutual information, source coding theorem, Huffman code, rate-distortion function and vector quantization, channel capacity, channel coding theorem, linear block code, cyclic code, convolution code, Turbo code, LDPC code, trellis coded modulation, space-time code. May be repeated once for credit.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated 1 times for 3 credits",
+            "Prerequisites": "ECES 521 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECET 603",
+            "Title": "Optical Communications and Networks",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces fiber-optic based transmission and networking technology. Major topics include: Loss and dispersion characters of fiber, shot noise, modulation, line code, direct receiver, coherent receiver, link budget, optical layer, SONET, WDM, photonic packet switch, Hybrid systems (CATV).",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated 1 times for 3 credits",
+            "Prerequisites": "ECET 501 [Min Grade: C] and ECET 511 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECET 604",
+            "Title": "Internet Laboratory",
+            "Number_of_credits": "Credits",
+            "Description": "This course aims to prepare the next generation of Internet engineers for the challenges of understanding, maintaining, and participating in an ever-evolving Internet through hands-on experiments on real networking equipment. The long term objective of the internet Laboratory course is to graduate students who can maintain, update, improve, and even redesign the Internet.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEC 631 [Min Grade: C] or ECEC 531 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECET 697",
+            "Title": "Research in Telecommunications",
+            "Number_of_credits": "Credit",
+            "Description": "Research credits in telecommunications. May be repeated for credit.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECET 699",
+            "Title": "Supervised Study in Telecommunications",
+            "Number_of_credits": "Credits",
+            "Description": "Supervised Study in Telecommunications Engineering. May be repeated for credit.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECET 890",
+            "Title": "Advanced Special Topics in Telecommunications",
+            "Number_of_credits": "Credit",
+            "Description": "Covers advanced special topics of interest to students and faculty.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECET 898",
+            "Title": "Master's Thesis in Telecommunications",
+            "Number_of_credits": "Credit",
+            "Description": "Master's thesis in telecommunications. May be repeated for credit.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECET 997",
+            "Title": "Dissertation Research in Telecommunications",
+            "Number_of_credits": "Credit",
+            "Description": "Graded Ph.D. dissertation in telecommunications engineering.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECET 998",
+            "Title": "Ph.D. Dissertation in Telecommunications",
+            "Number_of_credits": "Credit",
+            "Description": "Ph.D. Dissertation in Telecommunications. May be repeated for credit.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECET I599",
+            "Title": "Independent Study in ECET",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECET I699",
+            "Title": "Independent Study in ECET",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECET I799",
+            "Title": "Independent Study in ECET",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECET I899",
+            "Title": "Independent Study in ECET",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECET I999",
+            "Title": "Independent Study in ECET",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECET T580",
+            "Title": "Special Topics in ECET",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECET T680",
+            "Title": "Special Topics in ECET",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECET T780",
+            "Title": "Special Topics in ECET",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECET T880",
+            "Title": "Special Topics in ECET",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECET T980",
+            "Title": "Special Topics in ECET",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

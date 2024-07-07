@@ -1,0 +1,344 @@
+[
+      {
+            "Identifier": "FASH 500",
+            "Title": "Sustainable Practice in Fashion",
+            "Number_of_credits": "Credits",
+            "Description": "Introduction to responsible/sustainable practices for ethical design, development, and marketing of fashion product. Course includes the exploration of global and regional markets engaged in these practices.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FASH 504",
+            "Title": "Materials Exploration",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines the relationship of fibers, processes and textile creation and form as it relates to the body. Students will learn how to transform and manipulate fabric by uncovering processes that allow the metamorphosis of planar materials into three-dimensional works.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(VSST 104 [Min Grade: C] or VSST 101 [Min Grade: C]) and (VSST 105 [Min Grade: C] or VSST 102 [Min Grade: C]) and (VSST 106 [Min Grade: C] or VSST 103 [Min Grade: C]) and VSST 110 [Min Grade: C] and VSST 111 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FASH 509",
+            "Title": "Visual Communication in Fashion",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces digital skills and presentation techniques used for communication in the fashion industry. Students will be introduced to research\u2013based design practice.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FASH 504 [Min Grade: C] or FASH 604 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FASH 512",
+            "Title": "Surface Design for Textiles",
+            "Number_of_credits": "Credits",
+            "Description": "Investigates traditional and digital techniques of surface design. This course explores aesthetics, color theory, motif development and layout for use in multiple fashion categories.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "VSST 102 [Min Grade: C] or VSST 105 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FASH 514",
+            "Title": "Fashion Portfolio I",
+            "Number_of_credits": "Credits",
+            "Description": "Requires the creation of a portfolio of original designs executed in a medium of choice. Explores various market segments of the industry and includes project reviews by critics who are specialists in these areas.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FASH 212 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FASH 515",
+            "Title": "Computer Aided Design for Patternmaking",
+            "Number_of_credits": "Credits",
+            "Description": "Develops skills in digital patternmaking, grading and marker-making using Clo 3-D Software. Process is tested with a muslin prototype and a final garment.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FASH 342 [Min Grade: C] or FASH 528 [Min Grade: C] or FASH 628 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FASH 518",
+            "Title": "Technical Design for Industry",
+            "Number_of_credits": "Credits",
+            "Description": "Fashion data visualization for use in the design and manufacturing of fashion product. Students create accurate flat sketches and detailed technical packs for product life cycle management.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FASH 528 [Min Grade: C] or FASH 628 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FASH 519",
+            "Title": "Fashion Design in 3-D Space",
+            "Number_of_credits": "Credits",
+            "Description": "Students explore clo 3-D virtual garment simulation. Draping directly on the avatar, individual designs are realized through a zero-waste process. Material properties are tested on the avatar in motion.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FASH 524",
+            "Title": "Advanced Fashion Design in 3-D Space",
+            "Number_of_credits": "Credits",
+            "Description": "This is an advanced level of Fashion Design in 3D Space. Students will work on special 3D Fashion projects and/or a self-directed project.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated 2 times for 9 credits",
+            "Prerequisites": "FASH 519 [Min Grade: D]"
+      },
+      {
+            "Identifier": "FASH 528",
+            "Title": "Patternmaking II",
+            "Number_of_credits": "Credits",
+            "Description": "Differences in the material properties of fabric require the designer to use a variety of approaches to take a design concept to realization. Advances skills of FASH-341 and includes an introduction to basic draping and how to translate on to paper.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FASH 341 [Min Grade: C] or FASH 541 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FASH 534",
+            "Title": "Virtual Costume Design",
+            "Number_of_credits": "Credits",
+            "Description": "Using 3D virtual design software, students create historic and futuristic 3D costume design to enhance a virtual story. Through historical costume research students will learn how to use costume design to develop narrative. This course is open to students across the University.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated 2 times for 9 credits",
+            "Prerequisites": "VSST 111 [Min Grade: D]"
+      },
+      {
+            "Identifier": "FASH 541",
+            "Title": "Patternmaking I",
+            "Number_of_credits": "Credits",
+            "Description": "Explores basic patternmaking techniques and manipulations and establishes comparisons between drafting and draping techniques in the development of standard slopers.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FASH 241 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FASH 543",
+            "Title": "Tailoring",
+            "Number_of_credits": "Credits",
+            "Description": "In this course, building on skills mastered inFASH\u00a0341-Flat Pattern Design andFASH\u00a0528-Draping Design, the student is instructed in the complex pattern-making, draping, construction and fitting techniques necessary to produce a tailored suit or coat.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FASH 529 [Min Grade: C] or FASH 629 [Min Grade: C] or FASH 548 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FASH 548",
+            "Title": "Fashion Design I: Fabric to Form",
+            "Number_of_credits": "Credits",
+            "Description": "Exploring unconventional sources for design research, students use problem solving in design to take concepts from 2-D to 3-D with an emphasis on materials.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FASH 528 [Min Grade: C] or FASH 628 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FASH 553",
+            "Title": "Fashion Design II: Knitwear",
+            "Number_of_credits": "Credits",
+            "Description": "Survey of knitwear design development includes yarn identification and knitted structures. Students hands-on experience learning digital knitting technology with SES Apex software and Shima Seiki electronic knitting machines in the design process.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FASH 548 [Min Grade: C] or FASH 529 [Min Grade: C] or FASH 629 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FASH 554",
+            "Title": "Fashion Design III: Sustainable Design",
+            "Number_of_credits": "Credits",
+            "Description": "Using responsible eco-friendly concepts, students design original collections for men\u2019s and women\u2019s wear. Zero waste design, up-cycling and de-reconstruction methods are considered in the circular design process.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FASH 553 or FASH 530 or FASH 630"
+      },
+      {
+            "Identifier": "FASH 555",
+            "Title": "Fashion Design IV: Collection Research & Development",
+            "Number_of_credits": "Credits",
+            "Description": "Expands and broadens technical skills and lays the groundwork for development of the senior collection. This includes design research and prototype development.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FASH 554 [Min Grade: B-] or FASH 550 [Min Grade: B-] or FASH 631 [Min Grade: B-]"
+      },
+      {
+            "Identifier": "FASH 600",
+            "Title": "Fashion Industry Internship",
+            "Number_of_credits": "Credits",
+            "Description": "Provides relevant off campus employment for students; they experience design and production processes in an industrial setting.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FASH 633",
+            "Title": "Couture Techniques",
+            "Number_of_credits": "Credits",
+            "Description": "Emphasizes a particular limit of time, cost, or material and expands development of technical solutions to construction and production problems.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FASH 550 [Min Grade: C] or FASH 730 [Min Grade: C] or FASH 555 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FASH 650",
+            "Title": "Machine Knitting",
+            "Number_of_credits": "Credits",
+            "Description": "Machine Knitting is an introduction to knitwear design specialization. Students learn to style and draw knit garments to develop a professional portfolio. Technical information regarding yarn analysis, stitch construction, pattern and garment construction are the focus of this class.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated 3 times for 12 credits",
+            "Prerequisites": "FASH 241 [Min Grade: C] and (VSST 112 [Min Grade: C] or VSST 113 [Min Grade: C])"
+      },
+      {
+            "Identifier": "FASH 651",
+            "Title": "Accessory Design",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides students with concepts and skills to design traditional and contemporary fashion accessories with emphasis in embroidery; applique; hand painting; and clay, plastic and ceramic work.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FASH 241 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FASH 653",
+            "Title": "Intimate Apparel Design",
+            "Number_of_credits": "Credits",
+            "Description": "This course will offer an introduction to the foundations and sleepwear marketplace. Primary focus will be on the design and execution of two pieces for this market. Students will learn how to construct a bra (molded cups) and how to incorporate these details into their final looks for this market. In addition, students will learn the safe operation of the specialty sewing machines for knit construction.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FASH 629 [Min Grade: C] or FASH 529 [Min Grade: C] or FASH 548 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FASH 655",
+            "Title": "Advanced Machine Knitting",
+            "Number_of_credits": "Credits",
+            "Description": "Advanced Machine Knitting is a further exploration into the software and machinery used in knit product production. Students will participate in all stages of product development from yarn and stitch selection, swatch sampling, gauge analysis, pattern writing, knitting output, and assembly methods.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated 2 times for 9 credits",
+            "Prerequisites": "FASH 650 [Min Grade: D]"
+      },
+      {
+            "Identifier": "FASH 664",
+            "Title": "Fashion Portfolio II",
+            "Number_of_credits": "Credits",
+            "Description": "This course will involve research, development and execution of a finished fashion designer portfolio. Students will create a physical and electronic portfolio for the global market place.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FASH 514 [Min Grade: C] and FASH 553 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FASH 666",
+            "Title": "Business of Fashion",
+            "Number_of_credits": "Credits",
+            "Description": "Presents the following topics in seminar: fashion merchandising as a link between producer and final consumer, retail distribution, interpreting consumer demand, merchandise assortment planning, unit and inventory control, and pricing; fashion marketing and manufacturing, including the marketing process, components of the fashion industry, market evaluation, demographic and psychographic factors, manufacturing components and processes, and case studies.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FASH 685",
+            "Title": "Collection I",
+            "Number_of_credits": "Credits",
+            "Description": "Requires proposal, design, and execution of related garments to form a collection. Emphasizes the designer's goals. Includes professional critique.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FASH 550 [Min Grade: C] or FASH 730 [Min Grade: C] or FASH 555 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FASH 686",
+            "Title": "Collection II",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesFASH\u00a0685Collection I. Includes professional critique.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FASH 685 [Min Grade: C] or FASH 865 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FASH 699",
+            "Title": "Comprehensive Examination in Fashion Design",
+            "Number_of_credits": "Credits",
+            "Description": "Provides a comprehensive examination in the field of fashion design. Required of candidates for the M.S. degree upon satisfactory completion of the coursework for the degree.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FASH I599",
+            "Title": "Independent Study in Fashion Design",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FASH I699",
+            "Title": "Independent Study in Fashion Design",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FASH I799",
+            "Title": "Independent Study in Fashion Design",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FASH I899",
+            "Title": "Independent Study in Fashion Design",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FASH I999",
+            "Title": "Independent Study in Fashion Design",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FASH T580",
+            "Title": "Special Topics in Fashion Design",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FASH T680",
+            "Title": "Special Topics in Fashion Design",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FASH T780",
+            "Title": "Special Topics in Fashion Design",
+            "Number_of_credits": "Credit",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FASH T880",
+            "Title": "Special Topics in Fashion Design",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FASH T980",
+            "Title": "Special Topics in Fashion Design",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

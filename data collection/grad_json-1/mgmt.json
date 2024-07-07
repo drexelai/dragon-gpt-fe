@@ -1,0 +1,362 @@
+[
+      {
+            "Identifier": "MGMT 510",
+            "Title": "Business Problem Solving",
+            "Number_of_credits": "Credits",
+            "Description": "Decision-making and problem-solving prowess is a skill that can and should be learned. Why do well-intentioned, smart, experienced professionals make poor decisions far too often? It may be because they haven\u2019t been taught a disciplined process for making quality decisions. Perhaps they\u2019ve relied on intuition, brains, luck, common sense, and training within the narrow bounds of their professional expertise. Unfortunately, in today\u2019s professional environment these attributes may not be enough to sustain advantage. This course will help managers build confidence in the quality of their complex problem solving and decision making abilities, making them better leaders, and preparing them for effectively solving future challenges.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT 520",
+            "Title": "Strategy Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "Strategy Analysis will help you understand the fundamental question: Why do some firms perform better than others? Strategy Analysis will offer you the frameworks and tools necessary to assemble and analyze information required to arrive at the answer to the fundamental question.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MGMT 530 [Min Grade: C] and ACCT 510 [Min Grade: C] and MKTG 510 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MGMT 530",
+            "Title": "Managing and Leading the Total Enterprise",
+            "Number_of_credits": "Credits",
+            "Description": "In this course, you will assume the leadership of an existing business and manage it through expansion, releasing new products, raising capital, and achieving success against agile and capable competitors. A dynamic total enterprise simulation puts you in the board room with a team of professionals who together will use critical thinking to guide your company through several simulated years of operations. You will know, sense, experience, and understand the challenges that business leaders confront, analyze, and overcome on a regular basis. This experiential learning course will provide you with the ability to integrate cardinal business concepts for managing the total enterprise and unmatched practical experience in applying your knowledge, making better business decisions, and measuring your success.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT 600",
+            "Title": "Introduction to Change Management: An Integration of Macro and Micro Perspectives",
+            "Number_of_credits": "Credits",
+            "Description": "Organizational change is one of the most challenging managerial tasks. This course provides an overview of organizational change by focusing on external and internal dynamics, in which firms craft their strategic actions and organizational implementations. The course has two modules. The first module takes a strategic perspective to analyze the external dynamics of large-scale organizational change. The second module focuses on the internal dynamics of organizational change. The course introduces analytical tools for students to understand the complexity of organizational change, build a mindset of organizational change and obtain a skillset for executing organizational change agendas.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT 601",
+            "Title": "Managing the Total Enterprise",
+            "Number_of_credits": "Credits",
+            "Description": "Business Simulation focusing on the need to integrate strategic and operational concepts, issues and decisions in moving technological enterprise from start-up to success.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT 602",
+            "Title": "Innovation Management",
+            "Number_of_credits": "Credits",
+            "Description": "This course will focus on the role of innovation in building the competitive advantage of firms. It will focus on the process of innovation, sources of innovation, and types of innovation \u2013 both process and product. Theories of diffusion of innovation, factors driving and impeding innovation, and resistance to innovation will be highlighted. Critical issues of management of innovation will be discussed.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT 603",
+            "Title": "Technology Strategy",
+            "Number_of_credits": "Credits",
+            "Description": "Technological change has been a persistent force in the conduct and performance of contemporary organizations. This course will focus on the markets and institutions shaping technology shifts and strategies that firms can employ to address these shifts. Key concepts covered include standards and dominant designs, network effects, technology lockout, modularity and product architecture, platform technologies, complementary products and multi-sided markets. A special topic on recent developments in technology applications will also be discussed.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT 604",
+            "Title": "Strategic Change Management",
+            "Number_of_credits": "Credits",
+            "Description": "Corporations are continuously adapting to changes and new opportunities in their environments to maintain a competitive advantage. However, if not planned and implemented properly, change not only runs the risk of undermining a firm\u2019s value proposition and customer base but might be difficult to manage. This course approaches the management of change from a strategic perspective. As such, we will consider how internal structures and external factors jointly facilitate (or hinder) change and innovation, covering topics such as organizational resistance to change, agility, strategic repositioning, and various sources of change.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT 630",
+            "Title": "Corporate Strategy",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on the strategic management of firms spanning multiple business lines or geographic areas. As opposed to Strategy Analysis that focuses on individual businesses, in this course we examine issues specific to multi-business corporations. For example, what are a firm\u2019s core competences that can be exploited in multiple settings? Which new markets or businesses should a firm enter? How should those businesses be entered How should one manage the portfolio of a diversified firm? How should a firm work with other firms? How does synergy matter when it comes to diversification, mergers or acquisitions? By considering these questions critical to analyzing and managing a multi-business organization, this course has important implications for business students across disciplines and function areas.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MGMT 520 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MGMT 635",
+            "Title": "Advanced Strategy Business Simulation",
+            "Number_of_credits": "Credits",
+            "Description": "This experiential learning course provides the student with the ability to apply integrated business concepts for managing the total enterprise using a more complex business simulation than used inMGMT\u00a0530after obtaining the knowledge, skills, and abilities from other MBA core and elective courses. In this course, students will assume the leadership of an existing business and manage it through expansion, releasing new products, raising capital, negotiating labor contracts, and achieving success against agile and capable competitors. A dynamic total enterprise simulation puts the student in the board room with a team of professionals who together will use critical thinking to guide the company through several simulated years of operations.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MGMT 520 [Min Grade: C] and MGMT 530 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MGMT 640",
+            "Title": "Strategic Human Resource Management",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines how line managers can determine the most effective HR practices. HR practices examined include job designs, reward systems, development and appraisal systems, and internal and external staffing approaches. Students are encouraged to think strategically about different aspects of managing the organization's human assets.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT 650",
+            "Title": "Corporate Venturing",
+            "Number_of_credits": "Credits",
+            "Description": "This course will examine how organizations can create and sustain capacity for entrepreneurship and better manage the innovation process. This course will focus on the organizational and project level to explore the many ways that organizations can establish structures and processes for entrepreneurship.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT 652",
+            "Title": "New Venture Planning",
+            "Number_of_credits": "Credits",
+            "Description": "Students draw on their entire business education and practical experience and bring it to bear upon a plan for launching a new venture. Working in small teams, students research a new project or service; prepare marketing, sales and operation plans; and make financial plans.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT 655",
+            "Title": "Knowledge Management",
+            "Number_of_credits": "Credits",
+            "Description": "Provides a broad overview of the emerging field of knowledge management. The primary focus of the course will be on the concepts and approaches useful for managing knowledge from a corporate strategies perspective. Covers KM tools and techniques, and management approaches.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT 660",
+            "Title": "Leading the Digital Supply Chain",
+            "Number_of_credits": "Credits",
+            "Description": "Supply chain leaders have done a good job of optimizing results by managing suppliers, moving manufacturing to low-cost locations and increasing the efficiency of logistics. But these steps are insufficient in a global business environment that is being reshaped by Big Data, analytics, emerging technologies, innovative business models, new management challenges, and an increasingly risky operating environment. Leading the Digital Supply Chain is a course that will prepare you to lead and accelerate the transformation of supply chains by taking advantage of new management practices, a continuously expanding data reservoir, and new ways to collaborate with customers and suppliers to build innovative products and services.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT 670",
+            "Title": "Business Ethics",
+            "Number_of_credits": "Credits",
+            "Description": "Presents several frameworks by which to view ethics and decision-making. Links theory and practice through the study of business ethics as it relates to a variety of management issues. Focuses on the individual, the organization, and the system. Includes case studies, field work, readings, and interaction with visiting guest lecturers.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT 676",
+            "Title": "Sustainability and Value Creation",
+            "Number_of_credits": "Credits",
+            "Description": "Managing strategically must incorporate environmentalism as a key component for creating value to all stakeholders. Sustainability, the capacity of a company to do good for society and the environment, is critical to competitive advantage. This course is intended to familiarize students whose primary background is not science or engineering based with relevant frameworks and perspectives about the necessity of incorporating sustainability into competitive strategies. In particular, the courses addresses: description of key concepts and stakeholders; public policy issues, lessons learned from the success and failures of integrating sustainability into management both nationally and globally.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT 680",
+            "Title": "Leading for Innovation",
+            "Number_of_credits": "Credits",
+            "Description": "This course is presented and delivered by LeBow's Centers of Excellence. The course integrates the thought leadership of our Centers. Through an experiential learning platform, the course will focus on the way leaders, both entrepreneurs and executives, need to innovate as they lead their businesses for value creation.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT 686",
+            "Title": "Strategy Implementation",
+            "Number_of_credits": "Credits",
+            "Description": "This course will focus on the frameworks and tools necessary and often used in strategy implementation. The course will stress the need to tailor an implementation approach to be aligned with the intended strategy, and responsive to external stakeholders, both shareholders, customers and others. In successive sessions, the course will focus on rational components of execution such as structure and reward systems, and the human components such as culture, networks and power. The distinct roles of top management and middle management will be illustrated, and examples will include both single industry and diversified firms.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MGMT 602 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MGMT 690",
+            "Title": "Change Management Experiential Capstone",
+            "Number_of_credits": "Credits",
+            "Description": "This change management capstone course is designed to provide actionable know-how and skills for leading and managing change management initiatives successfully. Using live change consulting projects, a simulation, and interactions with change practitioners, the course is designed to provide students with a real world experience in the art and science of change management. This course is primarily aimed at graduate level masters students, mid- to senior-level executives, and other professionals, who aim to develop systematic understanding of organizational change, as well as practical strategies for leading organizational change in their respective organizations. Students from all disciplines and concentrations are expected to benefit from the depth and breadth of change-related issues covered in this course.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT 715",
+            "Title": "Business Consulting",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on business problem solving through project-based learning, equipping students with skills to effectively frame a problem, model a solution and communicate their findings. Acting as student consultants throughout the quarter, teams conduct research and analyses to form insights and recommendations for an organization\u2019s business challenges, then present their work at the conclusion of the course.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated 2 times for 9 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT 770",
+            "Title": "MBA Capstone",
+            "Number_of_credits": "Credits",
+            "Description": "This core course will provide a student with an exposure to integrated decision making situation from the CEO\u2019s perspective. This course will enable students to appreciate the complexities of formulating and solving complex business problems. We will also discuss how the \u201csoft\u201d side of things effect business performance. Finally, unlike the analytic focus of strategy analysis, the students will be forced to think through specific action plans and implementation.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MGMT 520 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MGMT 906",
+            "Title": "Foundations of Research in Behavioral Science",
+            "Number_of_credits": "Credits",
+            "Description": "MGMT\u00a0906is a broad-based course that is intended to familiarize students with basic material on theory building in behavioral research. It course will expose the students to different perspectives on theory building, logic of discovery and verification, major scholars in philosophy of science and business disciplines who have shaped our practice of principles of measurement, research designs and strategies.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT 907",
+            "Title": "Research Analysis in Behavioral Sciences",
+            "Number_of_credits": "Credits",
+            "Description": "The objective of this course is to introduce students to methodologies and analytical techniques that are important for carrying out behaviorally-oriented research in business disciplines. Specific topics include hypothesis development, measurement, sampling and data collection, ethical issues in research, and data analysis/reporting.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MGMT 906 [Min Grade: C] and (STAT 932 [Min Grade: C] or STAT 931 [Min Grade: C])"
+      },
+      {
+            "Identifier": "MGMT 908",
+            "Title": "Advanced Research in Behavioral Science",
+            "Number_of_credits": "Credits",
+            "Description": "This is a seminar course in advanced research methods. It includes attention to philosophical questions, to political and ethical issues, and to practical matters of method and technique.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MGMT 907 [Min Grade: C] or MGMT 903 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MGMT 910",
+            "Title": "Readings in Strategic Management",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces students to many of the major theoretical approaches and debates in strategic management. This course supplies a roadmap for students to roam the terrain of organization theory and gear up to generate original research ideas that extend inquiry in a student's chosen area of research.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT 935",
+            "Title": "Seminar in Organization Theory",
+            "Number_of_credits": "Credits",
+            "Description": "This course aims at equipping students with knowledge about both classical and contemporary organizational theory, which is one of the central pillars of management research. We will cover core topics such as organizational learning, organizational change, contingency theory, institutional theory, and organizational ecology.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT 940",
+            "Title": "Seminar in Organizational Behavior",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides a critical review of significant concepts within the field of organizational behavior. The course starts with individual behaviors concepts such as work motivation, job design, and work attitudes, turns to group processes and leadership; and concludes with a consideration of cultural issues in organizational behavior.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT 950",
+            "Title": "Technology and Strategy",
+            "Number_of_credits": "Credits",
+            "Description": "The purpose of this seminar is to introduce Ph.D. students to the disciplines of Technology Management and Strategic Management. Since the two disciplines cover a broad area of various research streams, the focus is on the most essential research streams such as knowledge-based view of the firms or transaction cost approach.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT 998",
+            "Title": "Dissertation Research in Management",
+            "Number_of_credits": "Credit",
+            "Description": "",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT I599",
+            "Title": "Independent Study in MGMT",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT I699",
+            "Title": "Independent Study in MGMT",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT I799",
+            "Title": "Independent Study in MGMT",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT I899",
+            "Title": "Independent Study in MGMT",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT I999",
+            "Title": "Independent Study in MGMT",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT T580",
+            "Title": "Special Topics in MGMT",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT T680",
+            "Title": "Special Topics in MGMT",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT T780",
+            "Title": "Special Topics in MGMT",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT T880",
+            "Title": "Special Topics in MGMT",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MGMT T980",
+            "Title": "Special Topics in MGMT",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

@@ -1,0 +1,668 @@
+[
+      {
+            "Identifier": "CIVE 501",
+            "Title": "Model Analysis of Structures",
+            "Number_of_credits": "Credits",
+            "Description": "Open to advanced undergraduates. Covers application of models for the analysis and design of complex structures, including development of laws of similitude, methods of fabricating, and testing and instrumentation of models.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 510",
+            "Title": "Prestressed Concrete",
+            "Number_of_credits": "Credits",
+            "Description": "Open to advanced undergraduates. Covers definitions and general principles, anchorage systems, and loss of prestress; analysis and design of simple beams for flexure, shear, bond, and bearing; partial prestressed and post-tensioned reinforcement; and continuous beams.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 302 [Min Grade: D] and CIVE 303 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CIVE 512",
+            "Title": "Wood and Timber Design",
+            "Number_of_credits": "Credits",
+            "Description": "Covers properties, species and grades of wood; definitions and general principles of wood and timber design including light wood frame construction and mass timber (CLT) construction; analysis and design of simple joists/beams and girders for flexure, shear, deflections, and bearing; analysis and design of compression and tension members, and beam-columns; shear walls and horizontal diaphragms; sustainability of mass timber construction; simple connections. The focus will be on the ASD method with a few examples using the LRFD method.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 302 [Min Grade: D] and CIVE 303 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CIVE 516",
+            "Title": "Geotechnical Site Investigation",
+            "Number_of_credits": "Credits",
+            "Description": "This course will cover best practices for the geotechnical characterization of subsurface conditions required for successful planning, design, construction, and operation of civil infrastructure. The course provides historical, theoretical, experimental, and empirical development of different insitu tests in geotechnical engineering. Practical applications and limitation of field testing devices will be studied. Interpretation of test results and measurements for geotechnical site characterization will be discussed.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 518",
+            "Title": "Natural Hazards and Infrastructure",
+            "Number_of_credits": "Credits",
+            "Description": "Overview of natural hazards in the form of landslides, earthquakes, windstorms, tsunamis, hurricanes, floods, scour, subsidence, tornadoes, wildfires, etc. Covers processes and risk to civil infrastructure through case histories and post-disaster reconnaissance to improve our understanding of these hazards and how to help us mitigate the risk posed by these natural hazards.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 520",
+            "Title": "Advanced Concrete Technology",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers the mechanical, physical and chemical properties of concrete: characteristics of concrete in the fresh, setting and hardening states; high performance concrete. Factors influencing the mechanical performance of concrete are discussed as well as field testing methods.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 530",
+            "Title": "Geotechnical Engineering for Highways",
+            "Number_of_credits": "Credits",
+            "Description": "Covers design if stable right-of-way, USDA classification, frost and swell expansion, capillary moisture retention, subgrade compaction, beam on elastic foundation pavement model, loads and resistance of buried pipes, subdrainage, basic slope stability and retaining structures.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 531",
+            "Title": "Advanced Foundation Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Covers design of shallow foundations (footing and mats), deep foundations (piles, augered, drilled shafts) and retaining structures for stability and deformation performance.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 540",
+            "Title": "Forensic Structural Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Investigation of structural failures which includes partial or total collapse or the inability of structures to function as intended. Using structural failure case studies and hypothetical failure scenarios, the course will cover the forensic engineering process, types and causes of structural failures, mechanisms and modes of structural failures, structural condition assessment, load testing, structural retrofitting, structural failure investigation and analysis. The technical, ethical and legal ramifications of structural failures and the role of the expert witness are also discussed, and students will be expected to prepare failure investigation reports.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 542",
+            "Title": "Incorporating Sustainability Principles in Design",
+            "Number_of_credits": "Credits",
+            "Description": "This course considers different approaches to green and sustainable design. It introduces the concept of regenerative design, which seeks to restore ecological balance and health in communities and ecosystems. Students will apply ecological engineering principles to design of resilient and sustainable built environments.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 554",
+            "Title": "Traffic Flow Theory",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces topics and concepts of traffic flow theory and their applications, including models (single vehicle dynamics, car following models, lane-change models, etc.), data (sensing, data processing, model calibration and validation), and applications (microscopic traffic simulation, connected and automated vehicles).",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 560",
+            "Title": "Introduction to Coastal & Port Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Provides an overview of coastal engineering problems and their solution, including shoreline erosion, ocean waves and wave theories, wave generation, diffraction, refraction, harbor hydraulics, coastal currents, and tidal inlet hydraulics and sedimentation.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 561",
+            "Title": "Introduction to Hydrology",
+            "Number_of_credits": "Credits",
+            "Description": "Covers climate and weather, precipitation, evaporation and transpiration, drainage basins, and hydrographs.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "EGEO 700 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CIVE 562",
+            "Title": "Introduction to Groundwater Hydrology",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the fundamentals of fluid flow in porous media, groundwater supply, pollution problems, well and aquifer hydraulics, and groundwater flow modeling.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 564",
+            "Title": "Sustainable Water Resource Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Objective is to enable students to incorporate sustainability concepts into the planning, design, and management of water resources, accomplished through critique of historical agricultural, industrial, and urban water infrastructure in the context of their ecological, social justice, and economic impacts. Global case studies featured and discussed. Also involves a research/design project with an actual \"class client\".",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 565",
+            "Title": "Urban Ecohydraulics",
+            "Number_of_credits": "Credits",
+            "Description": "Will enable students to incorporate an understanding of ecohydrologic patterns and processes into the design of built landscapes and engineered infrastructure. Students will be introduced to techniques for analyzing and modeling rainfall-runoff processes and will learn how to develop ecosystem water budgets in urban contexts. Case studies and field trips will expose students to both ecosystem restoration and green infrastructure projects in the mid-atlantic region.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 320 [Min Grade: D] and CIVE 330 [Min Grade: D] and CIVE 430 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CIVE 567",
+            "Title": "Watershed Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on land use change (LUC) and the hydrologic cycle in agricultural and forest (non-urban) watersheds. Using climate, hydrology, and agricultural models, students will investigate how changes in hydroclimatology and landscape-scale land cover affect surface water flow, runoff, and water quality in selected watersheds. The course will explore emerging topics pertaining to water and energy that course through rural watersheds, with the goal of interpreting data output from models into an environmental life cycle assessment (LCA) framework. LCA is a systems analysis framework that feeds information on life cycle environmental damages/consequences back into design and decision making. This course focuses specifically on watershed analysis models and how their output feed into design.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 320 [Min Grade: B-] and CIVE 330 [Min Grade: B-] and CIVE 240 [Min Grade: B-]"
+      },
+      {
+            "Identifier": "CIVE 585",
+            "Title": "Transportation Planning and Capacity",
+            "Number_of_credits": "Credits",
+            "Description": "Open to undergraduates. Covers prediction of travel demand; principles of highway and transit capacity; level-of-service concepts; uninterrupted and interrupted flow; traffic characterization by volume, speed, and density; operational analysis and design of freeways, highways, and urban streets; intermodal systems, intelligent transportation systems (its), and mass transit.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 605",
+            "Title": "Advanced Mechanics of Materials",
+            "Number_of_credits": "Credits",
+            "Description": "Open to advanced undergraduates. Covers shear flow and shear center, unsymmetrical bending, torsion of non-circular and open sections, bending of curved beams, stress at a point, and failure theories.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 615",
+            "Title": "Infrastructure Condition Evaluation",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers the tools necessary for the inspection and evaluation of infrastructure. Non-destructive testing (NDT) techniques are introduced and applications and limitations of NDT techniques for a variety of structures are illustrated. Also covered are the policies for deter-mining the physical condition and maintenance needs for highway bridges.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 250 [Min Grade: D] and CIVE 520 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CIVE 632",
+            "Title": "Advanced Soil Mechanics",
+            "Number_of_credits": "Credits",
+            "Description": "Consolidation magnitude and time rate of settlement, secondary compression, mitigating settlement problems, shear strength of cohesive and non-cohesive soils, critical state soil mechanics, undrainied pore pressure response, SHANSEP undrained strength.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 633",
+            "Title": "Lateral Earth Pressures and Retaining Structures",
+            "Number_of_credits": "Credits",
+            "Description": "In this course, students will learn classical and modern lateral earth pressure theories, effects of wall friction and external loads (including earthquakes). Geotechnical design, including computer applications, of retaining structures including rigid and flexible retaining walls; Deadman anchors, sheet pile walls, mechanically stabilized soil reinforcement systems, and excavation bracing.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 635",
+            "Title": "Slope Stability and Landslides",
+            "Number_of_credits": "Credits",
+            "Description": "Slope process and mass wasting; landslide characteristics, features and terminology; limit equilibrium slope stability analysis, including Bishop, Janbu, Spenser, Morgenstern-Price methods; effects of water on slop stability; dynamic (earthquake) stability analysis methods; introduction to rock slopes, slope stability investigations, and design and repair.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 636",
+            "Title": "Engineering Ground Improvement",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers the improvement of soil properties to meet project requirements, including surface and in situ technologies: compaction, densification, precompression, stabilization with admixtures, grouting and dewatering.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 637",
+            "Title": "Seepage and Consolidation",
+            "Number_of_credits": "Credits",
+            "Description": "Covers permeability of soils, seepage and drainage, seepage analysis of geotechnical problem such as dams, sheet piles, excavations. Classical one-dimensional consolidation theories, analysis and interpretation of laboratory and field tests. Extended consolidation theories to include 3D consolidation, nonlinear finite strain, etc. Course covers numerical methods applied to seepage and consolidation geotechnical problems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 640",
+            "Title": "Environmental Geotechnics",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers the analysis and control of subsurface exploration, groundwater remediation, pollutant-soil interaction and waste containment barriers and drains.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 650",
+            "Title": "Geosynthetics in Civil Infrastructure",
+            "Number_of_credits": "Credits",
+            "Description": "An overview of geosynthetics used in civil infrastructure applications, including geotextiles, geogrids, geocomposities, plastic pipes and geofoam. Covers testing and design based on the primary application function such as separation, filtration, drainage, reinforcement in roadways, soil consolidation, and retaining structures. Analyze failure criteria and determine the long-term engineering design values.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 651",
+            "Title": "Geosynthetics in Waste Containment",
+            "Number_of_credits": "Credits",
+            "Description": "An overview of each category of geosynthetics. Covers testing and design based on primary application function: separation, reinforcement, filtration, drainage, barrier, and combined in landfills (liner and cover systems), surface impoundments, floating covers, and mining. Analyze failure criteria and determine the long-term engineering design values.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 650 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CIVE 652",
+            "Title": "Geosynthetics III",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesCIVE\u00a0651. Covers design and testing of geosynthetic clay liners as a hydraulic/gas barrier and geopipes as drainage materials in numerous application. Presents geocomposites in separation, reinforcement, filtration, drainage, and barrier applications.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 651 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CIVE 660",
+            "Title": "Hydrology-Stream Flow",
+            "Number_of_credits": "Credits",
+            "Description": "Covers precipitation, runoff, evaporation and transpiration, streamflow, floodflow, and minimum flow. Pays special attention to factors affecting water supply and quality.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 561 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CIVE 663",
+            "Title": "Hydrodynamics II",
+            "Number_of_credits": "Credits",
+            "Description": "Extends the theory of perfect fluids to cover fluid forces and moments on bodies, free streamline theory, and extension of vorticity theory.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 662 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CIVE 664",
+            "Title": "Open Channel Hydraulics",
+            "Number_of_credits": "Credits",
+            "Description": "Covers principles of flow in open channels, conservation laws, uniform flow, critical flow, gradually varied flow, backwater computations, channel design, and numerical computation of flows having a free surface.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 665",
+            "Title": "Computational Hydraulics I",
+            "Number_of_credits": "Credits",
+            "Description": "This course continuesCIVE\u00a0664to cover the application of mathematical and numerical techniques to model complex open channel hydraulic processes. At each stage the fundamental hydraulic principles are reviewed to assure proper construction of a modeling algorithm and to assist in interpretation of results.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 664 [Min Grade: C] and CIVE 330 [Min Grade: D] and (CIVE 341 [Min Grade: D] or ENVE 416 [Min Grade: D]) and CIVE 430 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CIVE 701",
+            "Title": "Advanced Structural Analysis I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers basic principles of structural analysis, including elastic deflection; elastic analysis of statically indeterminate structures by methods of virtual work, Castigliano's theorems, and moment distribution; and the Muller-Breslau principle and application to influence lines for continuous members and frames. Introduces numerical techniques.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 702",
+            "Title": "Advanced Structural Analysis II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers matrix analysis of structures using finite elements, including elastic analysis of structures by influence coefficients, Argyris force method, direct stiffness method, and the displacement method. Introduces the finite-element method for planar structures.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 701 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CIVE 703",
+            "Title": "Advanced Structural Analysis III",
+            "Number_of_credits": "Credits",
+            "Description": "Covers development of stiffness functions for planar and three-dimensional finite elements, and application to frame, plate, shell, and massive structures. Introduces the general application of finite elements to continuum problems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 702 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CIVE 704",
+            "Title": "Behavior and Stability of Structural Members I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers development of the basic differential equations of member behavior, including second-order effects, in-plane beam-column behavior, column buckling, elastic and inelastic behavior, energy methods, and approximate methods.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 705",
+            "Title": "Behavior and Stability of Structural Members II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers general torsion of thin-walled open, closed, and combined open-and-closed cross-sections; lateral torsional buckling; biaxial bending; elastic and inelastic behavior; approximate methods; and frame buckling.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 704 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CIVE 708",
+            "Title": "Fundamentals of Structural Dynamics",
+            "Number_of_credits": "Credits",
+            "Description": "Covers formulation of equations of motion, free vibration response, undamped and damped systems, harmonic analysis, resonance and vibration isolation, response to periodic loading, impulsive loading, response to general dynamic loading, shock and response spectra. Introduces multi-degree-of-freedom systems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 710",
+            "Title": "Design and Structure of Integrity Building Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Covers integration of design and building cycle, building envelope, structural morphology, composite structures, thermal and moisture design, fire and smoke, sound and vibration, building failure, and repair and restoration.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 711",
+            "Title": "Engineered Masonry I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers masonry materials, structural behavior of masonry assemblages, and deformational characteristics of brick and block masonry; performance of load-bearing wall systems and design of unreinforced masonry elements; and special design and construction topics.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 712",
+            "Title": "Engineered Masonry II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers fundamental concepts of reinforced masonry, reinforced wall design, column and pilaster design, seismic resistance of masonry structures, prestressed masonry, and applied design of low-and high-rise buildings.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 714",
+            "Title": "Behavior of Concrete Structures I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers reinforced concrete members; relationship between results of research and current specifications for design of members subjected to axial loads, flexure, combined axial load and flexure, combined shear and flexure, long columns, bond and anchorage, and limit design; application to design of determinate and indeterminate reinforced concrete frames; and development of current code provisions for design of floor slabs in buildings.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 715",
+            "Title": "Behavior of Concrete Structures II",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesCIVE\u00a0714.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 714 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CIVE 717",
+            "Title": "Behavior of Metal Structures I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers load and resistance factor design, including tension, bolted and welded connections, block-shear, compression, built-up compression members, lateral-torsional instability, light-gauge metal buckling and post-buckling strength, and behavior.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 605 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CIVE 718",
+            "Title": "Behavior of Metal Structures II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers load and resistance factor design, including design and behavior of metal structural members and connections, flexural members including plate girders, bracing and lateral-torsional buckling resistance, torsion and other combined loading, and composite beams and columns.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 717 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CIVE 719",
+            "Title": "Behavior of Metal Structures III",
+            "Number_of_credits": "Credits",
+            "Description": "Covers load and resistance factor design, including idealization and design of structures and their connections, frame bracing and sway, frame design philosophy, optimization, fatigue, and fracture.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 718 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CIVE 730",
+            "Title": "Experimental Soil Mechanics I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers methods and techniques of soil testing, including interpretation and evaluation of test data, and fundamentals of soil behavior.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 632 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CIVE 731",
+            "Title": "Experimental Soil Mechanics II",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesCIVE\u00a0730.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 632 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CIVE 732",
+            "Title": "Experimental Soil Mechanics III",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesCIVE\u00a0731.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 731 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CIVE 737",
+            "Title": "Seismic Geotechnics",
+            "Number_of_credits": "Credits",
+            "Description": "Introduction to earthquake hazards and seismology; strong ground motion parameters, deterministic and probabilistic seismic hazard analysis, influence of subsurface conditions and topography and ground motion, soil liquefaction, and brief coverage of seismic slop stability, design of retaining structures, and soil-structure interaction.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 632 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CIVE 754",
+            "Title": "Properties and Processes of Polymeric Construction Materials",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on the uses and characteristics of polymeric materials used in civil and architectural engineering infrastructure. Also covered are micro-structure, physical and chemical properties and mechanical behavior. and the effects of manufacturing on the properties of the products.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 250 [Min Grade: D] and TDEC 211 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CIVE 755",
+            "Title": "Durability of Polymeric Construction Materials",
+            "Number_of_credits": "Credits",
+            "Description": "This is a continuation ofCIVE\u00a0754and concentrates on protecting and predicting service lifetimes. It covers physical aging, mechanical stabilization and chemical degradation of polymeric materials and the products in which they are incorporated for field use. Covered in this course is the fundamental degradation mechanisms of different polymeric materials commonly used in Civil Engineering practice. Also covered are test methods and extrapolation methodologies for predicting long-term performance.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 754 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CIVE 756",
+            "Title": "Evaluation of Polymeric Construction Materials",
+            "Number_of_credits": "Credits",
+            "Description": "This lab course is designed to integrate and extend the coverage ofCIVE\u00a0754and 755 so that students have a full concept of the behavior of polymeric construction materials. A series of thermal analysis and physical, chemical, and mechanical tests are included. The stress relaxation, stress cracking, oxidation, and applications of test results in infrastructure and environ-mental applications are discussed, including problems in comparative analysis of test results and their implications in design and specification.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 754 [Min Grade: D] and CIVE 755 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CIVE 801",
+            "Title": "Dynamics of Structures I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers formulation of equations of motion, including generalized single-degree-of-freedom systems, free vibration response, undamped and damped systems, harmonic analysis, resonance and vibration isolation, response to periodic loading, impulsive loading, response to general dynamic loading, non-linear structural response, and Rayleigh's method and other variational techniques. Introduces multi-degree-of-freedom systems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 802",
+            "Title": "Dynamics of Structures II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers formulation of multi-degree-of-freedom equations of motion, including evaluation of structural property matrices; elastic properties, mass properties, damping, and external loading; geometric stiffness; undamped free vibrations; analysis of dynamic response; practical vibration analysis; Stodola method; Holzer method; reduction of degrees of freedom; matrix iteration and other techniques; analysis of non-linear systems; variational formulation of the equations of motion; partial differential equations of motion; and free vibrations of beams.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 801 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CIVE 803",
+            "Title": "Dynamics of Structures III",
+            "Number_of_credits": "Credits",
+            "Description": "Covers distributed parameter dynamic systems, equations of motion, free and forced vibrations, analysis of structural response to earthquakes, seismological background, deterministic analysis of single-degree-of-freedom and multi-degree systems, multi-degree-of-freedom and distributive parameter systems, soil-structure interaction, non-linear response to earthquakes and current design code requirements, dynamics of complex structures, modeling, and use of large computer codes.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 811",
+            "Title": "Plates and Shells I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers analysis of circular, rectangular, and continuous plates by classical and approximate methods, including the folded plate theory.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 831",
+            "Title": "Deep Foundations",
+            "Number_of_credits": "Credits",
+            "Description": "Covers topics including mat foundation design using plate theory, continuous beam design using beam-on-elastic foundation theory, and pile design.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 838",
+            "Title": "Soil Behavior",
+            "Number_of_credits": "Credits",
+            "Description": "Particle-scale behavior of soil and assemblages; clay mineralogy; soil formation, composition, structure and properties; soil water interaction; clay-water-electrolyte systems, adsorption-desorption and ion exchange; conduction phenomena; micromechanics; volume change behavior; strength and deformation behavior.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 632 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CIVE 839",
+            "Title": "Geomechanics Modeling",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers constitutive laws in goemechanics, including linear elastic, quasi-linear (hyperbolic) elastic, linear elastic-perfectly plastic and elasto-plastic models based on critical state soil mechanics. The finite element method is used to solve geotechnical boundary value problems incorporating different constitutive models.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 632 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CIVE 898",
+            "Title": "Master's Thesis",
+            "Number_of_credits": "Credits",
+            "Description": "Involves investigation of an approved topic. Required of full-time master's degree students.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 997",
+            "Title": "Research",
+            "Number_of_credits": "Credit",
+            "Description": "Research.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE 998",
+            "Title": "Ph.D. Dissertation",
+            "Number_of_credits": "Credit",
+            "Description": "Involves investigation of an approved topic. Required of Ph.D. students.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE I599",
+            "Title": "Independent Study in Civil Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE I699",
+            "Title": "Independent Study in Civil Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE I799",
+            "Title": "Independent Study in Civil Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE I899",
+            "Title": "Independent Study in Civil Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE I999",
+            "Title": "Independent Study in Civil Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE T580",
+            "Title": "Special Topics in Civil Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE T680",
+            "Title": "Special Topics in Civil Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE T780",
+            "Title": "Special Topics in Civil Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE T880",
+            "Title": "Special Topics in Civil Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CIVE T980",
+            "Title": "Special Topics in Civil Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]
