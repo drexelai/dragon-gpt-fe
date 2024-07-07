@@ -1,0 +1,155 @@
+[
+      {
+            "Identifier": "ENSS 120",
+            "Title": "Introduction to Environmental Studies",
+            "Number_of_credits": "Credits",
+            "Description": "This course looks at the many topics that fall under the interdisciplinary focus of environmental studies, such as biodiversity, preservation, conservation, sustainability, deforestation, environmental justice, risk society, treadmill of production, and climate change. Students will be introduced to the ideas, issues and practices linked to these concepts.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENSS 244",
+            "Title": "Sociology of the Environment",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines environmental problems through a sociological lens, and focuses on the ways that social practices, social structures and economic and political systems drive environmental change, degradation and preservation. We will explore the following questions: Why do humans keep re-creating environmental problems that threaten human and ecosystem survival even with the development of advanced technologies? What are the social barriers that stand in the way of solving the environmental problems of the twenty-first century? What has kept environmental movements from enjoying more success?.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENSS 275",
+            "Title": "Global Climate Change",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides a multidisciplinary introduction to the issue of global climate change. It focuses on the scientific evidence for climate change, its impact on natural and human systems, actions that can be taken to mitigate or adapt to climate change and the political and cultural dynamics of this issue.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENSS 283",
+            "Title": "Introduction to Environmental Policy",
+            "Number_of_credits": "Credits",
+            "Description": "Introduction to researching environmental laws and regulations, local ordinances, and how to participate in the process. The course will explore the major environmental statutes and the system for policy creation and implementation in the US Government, and the importance of citizen involvement in environmental protections.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENSS 285",
+            "Title": "Introduction to Urban Planning",
+            "Number_of_credits": "Credits",
+            "Description": "The urban planning profession seeks to improve the arrangement and character of the built environment: the places we live, work, and play. Planners develop strategies and designs to improve communities for the future, balancing citizen, political, financial, and environmental interests. This practice-focused course will introduce the many types of work planners do, and many local professionals who do it.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENSS 326",
+            "Title": "Cities and Sustainability",
+            "Number_of_credits": "Credits",
+            "Description": "This course will provide an overview of the issue of sustainability planning and policy for cities. Topics include how we define sustainability for cities, and how we measure its progress and impacts. The course will also cover how land reuse planning impacts the development of green space, including parks, gardens and urban agriculture, as well as green building, the green economy and the impact of sustainability planning on public health outcomes.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENSS 341",
+            "Title": "Environmental Movements in America",
+            "Number_of_credits": "Credits",
+            "Description": "Focuses on key collective actors and institutions that are involved in the creation of U.S. environmental policies, including historical and cultural processes of change involving social movements, environmental advocacy organizations, foundations, and the media.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENSS 346",
+            "Title": "Environmental Justice",
+            "Number_of_credits": "Credits",
+            "Description": "Focuses on the political economy of environmental injustice and the impact of social movements addressing it; impact of chemical pollutants on human health; and the scientific and legal issues surrounding the study and regulation of pollutants.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENSS 348",
+            "Title": "Delaware River Issues and Policy",
+            "Number_of_credits": "Credits",
+            "Description": "This course will examine the various elements of watershed management including the governance structure of the Delaware Basin, what science can and cannot tell us, how policies may differ by state, how toxic pollutants are managed and impacts of climate change. Also addressed are how various species are protected and the challenges of maintaining the natural world in a densely populated watershed.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENSS I199",
+            "Title": "Independent Study in ENSS",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENSS I299",
+            "Title": "Independent Study in ENSS",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENSS I399",
+            "Title": "Independent Study in ENSS",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENSS I499",
+            "Title": "Independent Study in ENSS",
+            "Number_of_credits": "Credit",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENSS T180",
+            "Title": "Special Topics in Environmental Studies & Sustainability",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENSS T280",
+            "Title": "Special Topics in Environmental Studies & Sustainability",
+            "Number_of_credits": "Credit",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENSS T380",
+            "Title": "Special Topics in Environmental Studies & Sustainability",
+            "Number_of_credits": "Credit",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENSS T480",
+            "Title": "Special Topics in Environmental Studies & Sustainability",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

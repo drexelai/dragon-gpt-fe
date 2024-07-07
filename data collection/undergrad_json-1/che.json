@@ -1,0 +1,461 @@
+[
+      {
+            "Identifier": "CHE 211",
+            "Title": "Material and Energy Balances I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers elementary principles of chemical engineering, use of stoichiometry and material and energy balances to analyze chemical processing operations, and application to specific commercial processes.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 102 [Min Grade: D] and MATH 122 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 212",
+            "Title": "Material and Energy Balances II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers application of material and energy balances to analyze chemical processing operations, with application to both small-scale and commercial processes. Emphasis is on simultaneous solution of material and energy balances and on time-dependent analysis.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 211 [Min Grade: D] and CHE 220 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 220",
+            "Title": "Computational Methods in Chemical Engineering I",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces computational approaches and software applied to solve problems in chemical engineering. Software includes spreadsheet programs (Excel), high level computing languages (MATLAB), and chemical process simulation tools (Aspen, HYSYS).",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGR 131 [Min Grade: D] or ENGR 132 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 230",
+            "Title": "Chemical Engineering Thermodynamics I",
+            "Number_of_credits": "Credits",
+            "Description": "First and second laws of thermodynamics, use of state functions to solve macroscopic problems, distinction between solving ideal gas and real fluid problems. An introduction to phase equilibrium and mixtures. Concepts of fugacity and activity as measures of nonideality.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 200 [Min Grade: D] and CHE 211 [Min Grade: D] and CHE 220 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 304",
+            "Title": "Process Mass Transfer",
+            "Number_of_credits": "Credits",
+            "Description": "Covers, within the context of processes previously introduced, mass transfer in mixtures; diffusion, convection, and continuation of transport phenomena; component separation in continuous contractors; gas absorption; liquid-liquid extraction; and simultaneous heat and mass transfer.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 303 [Min Grade: D] and (CHE 201 [Min Grade: D] or CHE 211 [Min Grade: D]) and (CHE 202 [Min Grade: D] or CHE 212 [Min Grade: D])"
+      },
+      {
+            "Identifier": "CHE 308",
+            "Title": "Process Modeling II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers mathematical modeling of chemical and biochemical processes such as chemical and biochemical reactors and heating and cooling systems, analytical methods for solving algebraic and ordinary-differential equations.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 305 [Min Grade: D] and CHE 307 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 320",
+            "Title": "Computational Methods in Chemical Engineering II",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces computational approaches and software applied to solve problems in chemical engineering. The course includes finite element software for solving differential equations (COMSOL Multiphysics) and computer programming.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 341 [Min Grade: D] and CHE 220 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 330",
+            "Title": "Chemical Engineering Thermodynamics II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers mixture thermodynamics, multi-component, multi-phase equilibrium calculations, and chemical equilibrium calculations for real fluids.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 230 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 331",
+            "Title": "Separation Processes",
+            "Number_of_credits": "Credits",
+            "Description": "Covers application of thermodynamics and equilibrium stage concepts to separation unit operations in chemical processing.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 330 [Min Grade: D] and CHE 343 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 341",
+            "Title": "Fluid Mechanics",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces, within the context of processes, transport phenomena, fluid flow, momentum transport, skin friction, drag, and piping networks.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 212 [Min Grade: D] and CHE 230 [Min Grade: D] and MATH 210 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 342",
+            "Title": "Heat Transfer",
+            "Number_of_credits": "Credits",
+            "Description": "Covers, as a continuation of transport phenomena and within the context of processes, transfer of energy by conduction, convection, and radiation and design of heat exchangers.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 341 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 343",
+            "Title": "Mass Transfer",
+            "Number_of_credits": "Credits",
+            "Description": "Covers, within the context of processes previously introduced, mass transfer in mixtures; diffusion, convection, and continuation of transport phenomena; component separation in continuous contactors; gas absorption; liquid-liquid extraction; and simultaneous heat and mass transfer.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 341 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 344",
+            "Title": "Transport Phenomena in Bioengineering Processes",
+            "Number_of_credits": "Credits",
+            "Description": "Covers gas-liquid mass transfer in microbial systems, mass transfer in cells and biofilms, membrane transport, fluid mechanics of fermentation broth, power consumption in agitated vessels, heat transfer, and scale-up of mass transfer equipment.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(CHE 343 [Min Grade: D] or CHE 304 [Min Grade: D]) and (CHE 341 [Min Grade: D] or CHE 302 [Min Grade: D])"
+      },
+      {
+            "Identifier": "CHE 350",
+            "Title": "Statistics and Design of Experiments",
+            "Number_of_credits": "Credits",
+            "Description": "Provides statistical treatment of engineering data including application of statistical techniques to process model formulation, statistical designs of engineering experiments, and analysis of probabilistic systems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 210 [Min Grade: D] or ENGR 232 [Min Grade: D] or MATH 262 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 351   [WI]",
+            "Title": "Chemical Engineering Laboratory I",
+            "Number_of_credits": "Credits",
+            "Description": "Offers laboratory experience in chemical engineering processes, requiring both experimental design and analysis.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 341 [Min Grade: D] and CHE 330 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 352   [WI]",
+            "Title": "Chemical Engineering Laboratory II",
+            "Number_of_credits": "Credits",
+            "Description": "Offers laboratory experience in chemical engineering processes, requiring both experimental design and analysis.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 343 [Min Grade: D] and CHE 331 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 360",
+            "Title": "BioProcess Principles",
+            "Number_of_credits": "Credits",
+            "Description": "This course is concerned with manufacturing processes involving biological substances. Students gain detailed knowledge in the design and operation of bioreactors and learn about biomolecules produces therein. Specific topics covered include: Cells (type, organization, function and growth); Protein and Enzymes; Bioreactor Process Principles (active vs. passive immobilization, fermentation and scale-up, recovery and purification); Special consideration for animal and plant cell cultures.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 211 [Min Grade: D] or CHE 201 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 362",
+            "Title": "Chemical Kinetics and Reactor Design",
+            "Number_of_credits": "Credits",
+            "Description": "Covers isothermal and non-isothermal reactor design, series and parallel reactions, and heterogeneous catalysis.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 330 [Min Grade: D] and CHE 342 [Min Grade: D] and CHE 343 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 364",
+            "Title": "Bioprocess Unit Operations",
+            "Number_of_credits": "Credits",
+            "Description": "Covers separation processes applicable to bio-systems, including liquid-liquid extractions, membrane separations, chromatographic separations, filtration, and centrifugation.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 305 [Min Grade: D] or CHE 331 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 371",
+            "Title": "Engineering Economics and Professional Practice",
+            "Number_of_credits": "Credits",
+            "Description": "Provides techniques for making engineering project decisions. Topics include the time value of money, key decision criteria, risk analysis, and ethical considerations and consequences of business decisions.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 211 [Min Grade: D] and CHE 220 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 372",
+            "Title": "Integrated Case Studies in Chemical Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "This course reviews selected cases (market, processes, equipment sets and incidents) from chemical engineering practice whose analysis requires integration of concepts from previous Chemical Engineering courses such as mass and energy transport, thermodynamics, separations and reaction engineering.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 342 [Min Grade: D] and CHE 343 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 373",
+            "Title": "The Brewing Process",
+            "Number_of_credits": "Credits",
+            "Description": "This course will focus on the critical process steps which make up the brewing process on any scale with special attention to the chemistry and biochemistry of the involved process steps. The lecture material includes the brewing process steps from raw materials to fill/finish including: raw materials, malting, mashing, lautering, boiling, hopping, fermentation, clarification (filtration/centrifugation/flocculation), and fill/finish, as well as a discussion of the fundamentals, impurities chemistry, health concerns and practical knowledge.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 242 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 381",
+            "Title": "Solutions to Climate Change",
+            "Number_of_credits": "Credits",
+            "Description": "Climate change will likely be the most important challenge of our time. Drawdown is the theoretical point in the future when greenhouse gas concentrations in the atmosphere peak and then begin to decline, reversing the trend of global warming. Can we get there? How? We will examine the potential impacts of dozens of top solutions to understand where our actions have the most leverage. Solutions range from technical (green energy, buildings, and transportation) to non-technical (food choices and education). The best solutions not only mitigate global warming but also lead to economic benefits and a more just and equitable society.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE 420",
+            "Title": "Process Systems Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the application of automatic control theory to chemical processes within the context of processes previously introduced.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(CHE 201 [Min Grade: D] or CHE 211 [Min Grade: D]) and (CHE 202 [Min Grade: D] or CHE 212 [Min Grade: D]) and CHE 303 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 424",
+            "Title": "Chemical Kinetics and Reactor Design",
+            "Number_of_credits": "Credits",
+            "Description": "Covers isothermal and non-isothermal reactor design, series and parallel reactions, and heterogeneous catalysis.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 304 [Min Grade: D] and (CHE 201 [Min Grade: D] or CHE 211 [Min Grade: D]) and (CHE 202 [Min Grade: D] or CHE 212 [Min Grade: D])"
+      },
+      {
+            "Identifier": "CHE 430",
+            "Title": "Introduction to Sustainable Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces students to sustainability in an engineering context. Sustainable engineering encompasses the relationships between technology, society, the environment, and economic prosperity. A variety of systematic approaches will be used for multivariable design and analysis of the sustainability of engineering systems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE 431",
+            "Title": "Fundamentals of Solar Cells",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on the fundamentals of solar cells. It will cover semiconductor materials, basic semiconductor physics, optical and electronic phenomena, and case studies of crystalline silicon, thin film, and nanostructured photovoltaics.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 200 [Min Grade: D] and CHEM 102 [Min Grade: D] and PHYS 102 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 432",
+            "Title": "Electrochemical Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces principles and application of electrochemical equilibria, kinetics, and transport processes.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 330 [Min Grade: D] and CHE 343 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 433",
+            "Title": "Introduction to Rheology",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces the concepts of how science defines and conceptualizes the behavior of \u201creal\u201d fluids. Covers concepts such as how to characterize, quantify, and simulate non-Newtonian behavior in real fluids.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 341 [Min Grade: D] or CHE 302 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 451",
+            "Title": "Safety Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Covers selected topics such as safeguarding systems, fault trees, risk analysis, explosions, fires, and building safety.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 482 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 452",
+            "Title": "Polymer Process Technology",
+            "Number_of_credits": "Credits",
+            "Description": "Covers chemistry of chain and stepwise polymerization, industrial reactor systems, polymer melt rheology, processing of thermoplastic resins, and plastics properties.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE 453   [WI]",
+            "Title": "Chemical Engineering Laboratory III",
+            "Number_of_credits": "Credits",
+            "Description": "Offers laboratory experience in chemical engineering processes, requiring both experimental design and analysis.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 362 [Min Grade: D] (Can be taken Concurrently)"
+      },
+      {
+            "Identifier": "CHE 460",
+            "Title": "Biochemical Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces underlying biological and engineering principles in an integrate fashion for biopharmaceutical production systems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE 461",
+            "Title": "Principles of Colloid Science",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on fundamental principles of colloid science from a biological perspective. It will cover surface active agents, thermodynamics of self-assembly of surfactants, surface chemistry and physics of monolayers and bilayers, microstructures and phase behavior, specific biological colloids (micelles, liposomes, and lipoproteins), and colloidal stability.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BIO 141 [Min Grade: C] or BIO 122 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CHE 464",
+            "Title": "Process Dynamics and Control",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the application of automatic control theory to chemical processes within the context of processes.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 210 [Min Grade: D] and CHE 212 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 466",
+            "Title": "Chemical Process Safety",
+            "Number_of_credits": "Credits",
+            "Description": "Covers selected topics such as safeguarding systems, fault trees, risk analysis, explosions, fires, and process safety.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 472 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 471",
+            "Title": "Process Design I",
+            "Number_of_credits": "Credits",
+            "Description": "Within the context of previously introduced processes, covers economic feasibility of projects and optimization of equipment and production in the design of process plants.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 331 [Min Grade: D], CHE 362 [Min Grade: D] (Can be taken Concurrently) and CHE 371 [Min Grade: D] and CHE 372 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 472   [WI]",
+            "Title": "Process Design II",
+            "Number_of_credits": "Credits",
+            "Description": "Within the context of previously introduced processes, covers execution of feasibility study and preliminary design of process plants.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 471 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 473   [WI]",
+            "Title": "Process Design III",
+            "Number_of_credits": "Credits",
+            "Description": "Within the context of previously introduced processes, covers completion of feasibility study and preliminary design of process plants.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 472 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 481",
+            "Title": "Process Design I",
+            "Number_of_credits": "Credits",
+            "Description": "Within the context of previously introduced processes, covers economic feasibility of projects and optimization of equipment and production in the design of process plants.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 304 [Min Grade: D] and CHE 308 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 482   [WI]",
+            "Title": "Process Design II",
+            "Number_of_credits": "Credits",
+            "Description": "Within the context of previously introduced processes, covers execution of feasibility study and preliminary design of process plants. This is a writing intensive course.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 481 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 483   [WI]",
+            "Title": "Process Design III",
+            "Number_of_credits": "Credits",
+            "Description": "Within the context of previously introduced processes, covers completion of feasibility study and preliminary design of process plants. This is a writing intensive course.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE 482 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE 498",
+            "Title": "Senior Thesis Research",
+            "Number_of_credits": "Credits",
+            "Description": "This course teaches students the ability to structure and write a thesis and defend their research.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHE I499 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHE I199",
+            "Title": "Independent Study in CHE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE I299",
+            "Title": "Independent Study in CHE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE I399",
+            "Title": "Independent Study in CHE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE I499",
+            "Title": "Independent Study in CHE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE T180",
+            "Title": "Special Topics in CHE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE T280",
+            "Title": "Special Topics in CHE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE T380",
+            "Title": "Special Topics in CHE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHE T480",
+            "Title": "Special Topics in CHE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

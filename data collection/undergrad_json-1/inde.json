@@ -1,0 +1,299 @@
+[
+      {
+            "Identifier": "INDE 240",
+            "Title": "Technology Economics",
+            "Number_of_credits": "Credits",
+            "Description": "Techniques for project decisions: benefit cost, present worth and annual worth analysis, rate of return, minimum attractive rate of return, capital budgeting, risk analysis, and depreciation.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INDE 300",
+            "Title": "Quality Management",
+            "Number_of_credits": "Credits",
+            "Description": "This is a course about managing quality. It will introduce quality concepts necessary for an organization to remain competitive in today's economy. Discussion will focus on the tools and techniques necessary to manage quality processes within an organization.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 122 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INDE 301",
+            "Title": "Health Systems Introduction",
+            "Number_of_credits": "Credits",
+            "Description": "Emphasis on the application of industrial engineering methodologies to analyze and solve health systems challenges. Critical evaluation of the utility of key industrial engineering concepts and tools for assessing and modeling health care problems and challenges in health care delivery.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INDE 331",
+            "Title": "Lean Manufacturing",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces the fundamental Lean Manufacturing principles that underlay modern continuous improvement approaches for industry, government and other organizations. The course will provide the student with an introduction to lean manufacturing describing the background behind its development and how evaluations and assessments of production systems are performed. Lean production tools and techniques such as flow, just- in-time, poka-yoke, inventory turns, standardized work, pull system, value streams, quick changeover, workplace organization, and visual controls will be described and in some cases demonstrated in simulation exercises.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INDE 340",
+            "Title": "Introduction to Decision Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "Overview of modeling techniques and methods used in decision analysis, including multiattribute utility models, decision trees, and Bayesian models. Psychological components of decision making are discussed. Elicitation techniques for model building are emphasized. Practical applications through real world model building are described and conducted.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "STAT 262 [Min Grade: D] and MATH 122 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INDE 350",
+            "Title": "Industrial Engineering Simulation",
+            "Number_of_credits": "Credits",
+            "Description": "Covers techniques and application of computer simulation of existing or proposed real world systems and processes. Models of such systems or processes are often complex, precluding traditional analytical techniques. Students will build simulation models and do simulations with commercial simulation software, analyze and interpret the results, and to plan simulation studies.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "STAT 201 [Min Grade: D] and MHT 226 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INDE 351",
+            "Title": "Intelligent Manufacturing Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Design and simulation of intelligent manufacturing systems with special emphasis on sensor-integrated robotic assembly tasks. Fundamentals of artificial intelligence, application of robotics, sensors, vision, network integration, and flexible assembly work cells. Industry based case studies and working examples.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INDE 361",
+            "Title": "Quality Control",
+            "Number_of_credits": "Credits",
+            "Description": "Covers theory and methods for design and analysis of quality control systems, including solutions to problems of product specifications, process control, acceptance inspection, and other means of quality assurance. Fall. Alternate years.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "STAT 201 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INDE 362",
+            "Title": "Operations Research for Engineering I",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces systems sciences, including linear programming and other linear optimization methods, simplex method, primal-dual solution methods, the transportation method, pert-cpm and other network techniques, and dynamic programming. Requires development and presentation of simulation term-project proposals. Winter.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 261 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INDE 363",
+            "Title": "Operations Research for Engineering II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers single and multi-episode probabilistic inventory models, queuing theory, single and multichannel systems, production scheduling and other assignment methods, Markov processes, Poisson processes and other stochastic systems, and replacement theory. Includes selected case studies. Applications: queuing, reliability, inventory, and finance. Requires development and presentation of term-project simulation models.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INDE 362 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INDE 365",
+            "Title": "Systems Analysis Methods I",
+            "Number_of_credits": "Credits",
+            "Description": "Provides an introduction to the concepts and techniques used in analysis of complex systems. Covers the origins and structure of modern systems and the step-wise development of complex systems and the organizations of system development projects. Systems Development Lifecycle (SDLC) from concept development, engineering development, post-development.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INDE 366",
+            "Title": "Systems Analysis Methods II",
+            "Number_of_credits": "Credits",
+            "Description": "OO (Object Oriented) Methodology and UML (Universal Modeling Language) modeling, within the SDLC (System Development Life Cycle) framework, are covered in this class. There are two components to OO systems Analysis and Design; The ORM (Object- Relationship Model) is a way to describe or represent objects, classes of objects, relationships between objects and classes, and memberships of the real world. The OBM (Object-Behavior Model) is a means of describing the behavior of objects.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INDE 365 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INDE 367",
+            "Title": "Data Processing",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the information ?based skills necessary for Industrial Engineers. It is a project based course. Particular attention is paid to real world database problems. This course explains data acquisition and database systems. The course focuses on designing databases for given problems. Students will use different database techniques. Introduction to SQL.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INDE 370",
+            "Title": "Industrial Project Management",
+            "Number_of_credits": "Credits",
+            "Description": "Provides an overview of the roles, responsibilities, and management methods of technology in project management. Emphasizes scheduling of various projects, monitoring, control and learning from projects. Three interrelated objectives of budget, schedule, and specifications are also introduced. The course assumes no prior knowledge in management techniques and is intended to teach students how to develop approaches and styles of management for service and manufacturing industry projects.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INDE 375",
+            "Title": "Quality Improvement by Experimental Design",
+            "Number_of_credits": "Credits",
+            "Description": "Methods for Design and analyzing industrial experiments. Blocking; randomization; multiple regression; factorial and fractional experiments; response surface methodology; Taguchi's robust design; split plot experimentation.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "STAT 261 [Min Grade: D] or STAT 201 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INDE 400",
+            "Title": "Designs of Program Evaluation Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Focus on evaluation broadly conceived to include evaluation of programs as well as within business organizations. The context of the class is evaluation in the health care sector, particularly long term care. Emphasis placed on the development of valid and practical models, and the identification and measurement of short-term and long-term intervention outcomes. Covers principles of research design, evaluation, and measurement issues.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "STAT 261 [Min Grade: D] or STAT 201 [Min Grade: D] or STAT 211 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INDE 420",
+            "Title": "Industrial Energy Systems",
+            "Number_of_credits": "Credits",
+            "Description": "The course enables students to understand the basics of energy supplies and uses, and how energy may be used more efficiently in industry. The course teaches students to use process integration methods and tools necessary for identifying and designing efficient industrial energy systems that contribute to sustainable development. The course addresses use of methods to identify the cost-optimal mix of different energy process technologies to satisfy a given process energy demand. Technical energy systems encountered in the course include electrical, thermal, and mechanical energy systems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "EET 202 [Min Grade: D] (Can be taken Concurrently)"
+      },
+      {
+            "Identifier": "INDE 461",
+            "Title": "Methods of Engineering and Measurement",
+            "Number_of_credits": "Credits",
+            "Description": "Covers fundamentals for developing methods improvements and measurement of these improvements through time study and standard data. Includes analysis and design of man-and-machine work systems and application to typical problems in work measurements. Fall. Alternate years.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "POM 311 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INDE 462",
+            "Title": "Industrial Plant Design",
+            "Number_of_credits": "Credits",
+            "Description": "Covers design of a product-oriented facility, including process design, materials handling, work area design, storage and warehousing, and service-area planning. Includes complete final plant layout and presentation of term project. Winter. Alternate years.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INDE 461 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INDE 463",
+            "Title": "Production Management",
+            "Number_of_credits": "Credits",
+            "Description": "Covers production planning and control systems, including materials, equipment, and manpower requirements; manufacturing planning and control, including production scheduling, inventory, and quality control; analytical methods for inventory control; and production planning and methods. Spring. Alternate years.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INDE 462 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INDE 467",
+            "Title": "Decision Processes",
+            "Number_of_credits": "Credits",
+            "Description": "Covers advanced methods of analyzing decision-making under uncertainty, including expected value concepts and criteria, decision tree analysis, preference theory concepts, probabilistic risk assessment, risk analysis using simulation techniques, and decisions to purchase imperfect information. Uses case studies relating to facility siting, resource exploration and development, and new technology deployment and market penetration. Fall. Alternate years.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 261 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INDE 468",
+            "Title": "Analysis of Experimental Data",
+            "Number_of_credits": "Credits",
+            "Description": "Covers use of linear and non-linear models to identify cause and estimate effect. Includes randomization and blocking with paired comparisons, significance testing and confidence intervals, factorial designs, least squares regression analysis, response surface methods, analysis of variance, and Box-Jenkins and other time series forecasting methods. Fall.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 261 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INDE 469",
+            "Title": "Organization Planning and Control",
+            "Number_of_credits": "Credits",
+            "Description": "Analyzes human, capital, and physical resource planning, allocation, and control, including human factors and man-machine interface, technological innovation, concepts of behavioral science, and structure and dynamics of industrial organizations. Uses a case study approach to situational analysis. Spring. Alternate years.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "POM E311 [Min Grade: D] and POM 461 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INDE 470",
+            "Title": "Engineering Quality Methods",
+            "Number_of_credits": "Credits",
+            "Description": "Methods for controlling and improving industrial processes. Control charts; process capability; multifactor experiments; screening experiments; robust designs. Understanding of the continuous quality improvement tied to a real life project improvement.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INDE 490",
+            "Title": "Senior Project Design",
+            "Number_of_credits": "Credits",
+            "Description": "Design methodology and engineering principles applied to open-ended design problems with inherent breadth and innovation. This course integrates the knowledge acquired in the various courses of the undergraduate curriculum to an open-ended design effort and applies the knowledge gained to the solution of contemporary engineering problem. Requires written and oral final reports, including oral presentations by each design team at a formal design conference open to the public and conducted in the style of a professional conference. Some or all pre-requisites may be taken as either a pre-requisite or co-requisite. Please see the department for more information.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INDE 470 [Min Grade: D] (Can be taken Concurrently)"
+      },
+      {
+            "Identifier": "INDE I199",
+            "Title": "Independent Study in INDE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INDE I299",
+            "Title": "Independent Study in INDE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INDE I399",
+            "Title": "Independent Study in INDE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INDE I499",
+            "Title": "Independent Study in INDE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INDE T180",
+            "Title": "Special Topics in INDE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INDE T280",
+            "Title": "Special Topics in INDE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INDE T380",
+            "Title": "Special Topics in INDE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INDE T480",
+            "Title": "Special Topics in INDE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

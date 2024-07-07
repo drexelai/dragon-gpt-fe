@@ -1,0 +1,146 @@
+[
+      {
+            "Identifier": "GSTD 100",
+            "Title": "Strategies for Academic Success",
+            "Number_of_credits": "Credit",
+            "Description": "This course explores the learning process to assist students in achieving academic success. Self-assessments, personal reflection, and relevant electronic resources are used to foster students\u2019 development as self-directed learners. Topics include: study skills, learning strategies, personal development, academic planning and tracking, visioning, and goal setting. The goal of this course is to help improve students\u2019 efficacy in the areas of academic self-management, self-direction, and resource utilization.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "GSTD 111",
+            "Title": "Learning Skills & Strategies",
+            "Number_of_credits": "Credits",
+            "Description": "This course prepares traditional undergraduate students for the expectations and challenges of college life.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "GSTD 200",
+            "Title": "Lifelong Learning Theory & Practice",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces theories and practical skills necessary for successful learning in a variety of environments. Covers self-efficacy development, autonomous learning, critical thinking, critical reading, learning to learn, effective researching and writing, goal setting theories, and practical strategies necessary to support learning in university, career, and personal contexts.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "GSTD 201   [WI]",
+            "Title": "Professional Applications of Emotional Intelligence",
+            "Number_of_credits": "Credits",
+            "Description": "This course will examine emotional intelligence as applied through interpersonal communication. Particular emphasis will be placed on emotional intelligence in the workplace and in leadership. The main objective is to make students aware that intelligence and technological expertise are not enough to be successful in the workplace.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "GSTD 302",
+            "Title": "Customer Service Theory & Practice",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on the theory of customer service and the practices that \"best in class\" companies apply to differentiate themselves from the competition. The course includes practical information and activities designed to teach students how to respond to customers, resolve problems, and provide quality customer service.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "GSTD 303",
+            "Title": "Client Relations Management",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces the skills that facilitate and enhance client relations management. Topics covered include building a trusting relationship, evaluating and managing expectations and needs, managing conflict, understanding the client's perspective, customer life cycle, consulting, serving public sector versus private sector clients, managing client relations managers, and ethical issues.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "GSTD 360",
+            "Title": "Applied Organizational Research",
+            "Number_of_credits": "Credits",
+            "Description": "This course presents a systematic approach to managerial methods of conducting organizational research and analysis. Students will undergo the management research process of specifying the problem; translating the problem into specific research questions; designing the data collection methodology; collecting, analyzing and interpreting data; and reporting the research results and recommendations.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "GSTD 491",
+            "Title": "Senior Project in General Studies",
+            "Number_of_credits": "Credits",
+            "Description": "The senior project covers planning and execution of a capstone project that integrates the academic and practical knowledge acquired in the student\u2019s course of study. Students will complete a research proposal, a research project or an integrative portfolio.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "GSTD I199",
+            "Title": "Independent Study in GSTD",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "GSTD I299",
+            "Title": "Independent Study in GSTD",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "GSTD I399",
+            "Title": "Independent Study in GSTD",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "GSTD I499",
+            "Title": "Independent Study in GSTD",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "GSTD T180",
+            "Title": "Special Topics in GSTD",
+            "Number_of_credits": "Credit",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Can be repeated 11 times for 12 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "GSTD T280",
+            "Title": "Special Topics in GSTD",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "GSTD T380",
+            "Title": "Special Topics in GSTD",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "GSTD T480",
+            "Title": "Special Topics in GSTD",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

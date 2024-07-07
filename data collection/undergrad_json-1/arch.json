@@ -1,0 +1,929 @@
+[
+      {
+            "Identifier": "ARCH 107",
+            "Title": "Foundation Design I",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces basic design principles through investigation of abstract and applied design projects using two-dimensional media. Exercises heighten observation and graphic skills.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ARCH 108",
+            "Title": "Foundation Design II",
+            "Number_of_credits": "Credits",
+            "Description": "Investigates basic design principles through abstract and applied design projects in two-dimensional and three-dimensional media. Design exercises will advance understanding of the design process by exploring conceptual ideas through graphic and oral communication.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 107 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ARCH 109",
+            "Title": "Foundation Design III",
+            "Number_of_credits": "Credits",
+            "Description": "Investigates basic design principles that emphasize the inter-relationship between the scale of the human body and its movement within three-dimensional space. More in-depth design exercises will address the design process, development of a conceptual idea and a higher-level graphic and oral presentation.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 108 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ARCH 118",
+            "Title": "Architectural Design Foundations I",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces basic architectural design principles. Elementary concepts of space, surface and form will be explored through investigation of abstract and applied design projects explored in two and three- dimensional abstract exercises. Exercises incorporate heightened observational analysis and graphic skills.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ARCH 119",
+            "Title": "Architectural Design Foundations II",
+            "Number_of_credits": "Credits",
+            "Description": "Investigates basic architectural design principles that emphasize the inter-relationship between the scale of the human body and its movement within three-dimensional space. Design exercises will advance the understanding of the design process, development of a conceptual idea and a higher-level graphic and oral presentation.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 118 [Min Grade: C] or ARCH 191 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ARCH 140",
+            "Title": "Appreciation of Architecture",
+            "Number_of_credits": "Credits",
+            "Description": "Historical survey of architecture from prehistory through today drawn from around the globe (and from Philadelphia) that considers broadly applicable topics including style, material, construction, and function. Intended for non-majors as an introduction to architecture and urbanism.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ARCH 141",
+            "Title": "Architecture and Society I",
+            "Number_of_credits": "Credits",
+            "Description": "This survey course examines the evolution of architectural and urban thought, form, space, and structure in light of changing human values and institutions. Particular attention is paid to materials, meaning, and use. It explores global built environments from the prehistoric era through the early Medieval period (9th century CE) in Europe, the Americas, Asia, and Africa.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ARCH 142",
+            "Title": "Architecture and Society II",
+            "Number_of_credits": "Credits",
+            "Description": "This survey course examines the evolution of architectural and urban thought and form in light of changing human values and institutions, with particular attention paid to materials, technology, meaning, and use. It explores global built environments from the early Medieval period (9th century CE) through the 18th century in Europe, the Americas, Asia, and Africa.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 141 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 143",
+            "Title": "Architecture and Society III",
+            "Number_of_credits": "Credits",
+            "Description": "This survey course examines the evolution of architectural and urban thought and form in light of changing human values and institutions, with particular attention paid to materials, technology, meaning, and use. It explores global modern built environments from the 18th century through the 21st century in Europe, the Americas, Asia, Australasia, and Africa.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 142 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 144",
+            "Title": "Architecture and Society IV",
+            "Number_of_credits": "Credits",
+            "Description": "Examines the evolution of architectural thought, form, space and structures in light of changing human values and institutions. Surveys the crucial buildings and thematic development of modern architecture and urbanism beginning in the late 19th C. through the mid-20th C.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 143 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 170",
+            "Title": "Architectural Technology I",
+            "Number_of_credits": "Credits",
+            "Description": "Introduction to the fundamental aspects of building technology with exposure to materials, structure and building systems that are frequently used in building construction. Provides a framework for the exploration of construction in the context of design.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 182 [Min Grade: C-] and (MATH 102 [Min Grade: C-] or MATH 183 [Min Grade: C-])"
+      },
+      {
+            "Identifier": "ARCH 172",
+            "Title": "Architectural Technology II",
+            "Number_of_credits": "Credits",
+            "Description": "Further exploration of materials, structure and building systems and their influence on passive systems and sustainable design principles. Begins the development of systematic thinking regarding architectural technology.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 170 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 173",
+            "Title": "Architectural Technology III",
+            "Number_of_credits": "Credits",
+            "Description": "Introduction to the technical building analysis including the organizing principles for materials, structure and systems. Includes envelope assembly, thermal comfort, structural and passive building systems.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 172 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 181",
+            "Title": "Architecture Studio 1A",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces basic architectural design principles. Elementary concepts of space, surface and form will be explored in two and three dimensional abstract exercises. Exercises incorporate observational analysis and graphic skills.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ARCH 182",
+            "Title": "Architecture Studio 1B",
+            "Number_of_credits": "Credits",
+            "Description": "Transitions from abstract design principles to simple architectural exercises, considering function, scale, user and ordering strategies in relation to form-making in three-dimensional space. Exercises heighten observation and graphic skills while developing an architectural vocabulary.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 181 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 183",
+            "Title": "Architecture Studio 1C",
+            "Number_of_credits": "Credits",
+            "Description": "Focuses on a series of basic architectural problems developed around issues of context and material use in relationship to the organization of space and human activity. Design exercises will cultivate the design process through developing a conceptual idea through graphic and oral communication.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 182 [Min Grade: C-] or INTR 233 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 191",
+            "Title": "Studio 1-AE",
+            "Number_of_credits": "Credits",
+            "Description": "Architectural engineering majors only. Covers basic design principles using three-dimensional abstract and applied projects. Exercises heighten observation skills.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ARCH 192",
+            "Title": "Studio 2-AE",
+            "Number_of_credits": "Credits",
+            "Description": "Architectural engineering majors only. ContinuesARCH\u00a0191. Uses design exercises to emphasize the nature of function, structure, and material and their impact on the design process.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 191 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ARCH 211",
+            "Title": "Architectural Representation I",
+            "Number_of_credits": "Credits",
+            "Description": "Introductory course that will provide a survey of drawing types with an emphasis on process and visual literacy.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ARCH 212",
+            "Title": "Architectural Representation II",
+            "Number_of_credits": "Credits",
+            "Description": "Emphasis on craft and composition in the architectural representation of the built environment.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 211 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 213",
+            "Title": "Architectural Representation III",
+            "Number_of_credits": "Credits",
+            "Description": "Exploration of digital representation with an emphasis on making combining process drawing, digital fabrication and analog craft to develop three-dimensional representation skills.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 212 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 221",
+            "Title": "Materials & Methods I",
+            "Number_of_credits": "Credit",
+            "Description": "Introduction to the fundamental aspects of building technology with exposure to materials and methods that are frequently used in building construction. Provides a framework for the exploration of construction in the context of design.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 183 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 222",
+            "Title": "Materials & Methods II",
+            "Number_of_credits": "Credit",
+            "Description": "Further exploration of materials, structure and building systems and their influence on passive systems and sustainable design principles. Begins the development of systematic thinking regarding architectural technology.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 221 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 223",
+            "Title": "Materials & Methods III",
+            "Number_of_credits": "Credit",
+            "Description": "Introduction to technical building analysis including the organizing principles for materials, structure and systems. Includes envelope assembly, thermal comfort, structural and passive building systems.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 222 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 224",
+            "Title": "Architectural Representation IV",
+            "Number_of_credits": "Credits",
+            "Description": "Emphasizes the communication of design through perspective, view-making and rendering. Through the use of digital and analog techniques, the ability to select the proper media to visually convey a design concept will be developed.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 213 [Min Grade: C-] and ARCH 183 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 225",
+            "Title": "Architectural Representation V",
+            "Number_of_credits": "Credits",
+            "Description": "Emphasizes the tools to complete a final quality architectural presentation in a variety of venues including portfolios, digital representations and online media.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 224 [Min Grade: C-] and ARCH 281 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 226",
+            "Title": "Architectural Representation VI",
+            "Number_of_credits": "Credits",
+            "Description": "Explores parametric thinking and the iterative design process while reinforcing critical skills in detailing and design development through various software programs.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 225 [Min Grade: C-] and ARCH 282 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 251",
+            "Title": "Structural Systems I",
+            "Number_of_credits": "Credit",
+            "Description": "Introduction to the fundamental aspects of structural systems with exposure to materials and methods that are frequently used in building construction. Develops skills needed for structural integration in building design.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 183 [Min Grade: C-] and PHYS 182 [Min Grade: C-] and (MATH 102 [Min Grade: C-] or MATH 173 [Min Grade: C-] or MATH 183 [Min Grade: C-])"
+      },
+      {
+            "Identifier": "ARCH 252",
+            "Title": "Structural Systems II",
+            "Number_of_credits": "Credit",
+            "Description": "Further introduction to the fundamental aspects of structural systems with exposure to materials and methods that are frequently used in building construction. Develops skills needed for structural integration in building design.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 251 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 253",
+            "Title": "Structural Systems III",
+            "Number_of_credits": "Credit",
+            "Description": "Introduction and intermediate aspects of structural systems with exposure to materials and methods that are frequently used in building construction. Develops skills needed for structural integration in building design.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 252 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 274",
+            "Title": "Architectural Technology IV",
+            "Number_of_credits": "Credits",
+            "Description": "Intermediate development of architectural technology with a focus on application of analysis of primary materials, structure and systems. Depth and range of analytical tools are addressed.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 173 [Min Grade: C-] and PHYS 183 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 275",
+            "Title": "Architectural Technology V",
+            "Number_of_credits": "Credits",
+            "Description": "Further development of analytical skills for building technology. Case studies and real world precedents examine materials, structure and systems in the support of larger architectural objectives.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 274 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 276",
+            "Title": "Architectural Technology VI",
+            "Number_of_credits": "Credits",
+            "Description": "Examination of technical analysis and design in support of iterative architectural concepts. Materials, structure and systems are utilized to develop strong design synergies.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 275 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 281",
+            "Title": "Architecture Studio 2A",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces issues of architectural form, site and programmatic concerns. Design exercises will explore simple issues of structure, building and material systems and sustainability.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 183 [Min Grade: C-] and (ARCH 213 [Min Grade: C-] or INTR 245 [Min Grade: C-])"
+      },
+      {
+            "Identifier": "ARCH 282",
+            "Title": "Architecture Studio 2B",
+            "Number_of_credits": "Credits",
+            "Description": "Covers architectural design problems of incremental complexity that emphasizes the nature of function, structure, and material and their impact on the design process.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "((ARCH 221 [Min Grade: C-] and ARCH 251 [Min Grade: C-]) or ARCH 170 [Min Grade: C-] or INTR 351 [Min Grade: C-], ) and ARCH 281 [Min Grade: C-] and (ARCH 224 [Min Grade: C-] or INTR 341 [Min Grade: C-])"
+      },
+      {
+            "Identifier": "ARCH 283",
+            "Title": "Architecture Studio 2C",
+            "Number_of_credits": "Credits",
+            "Description": "Explores architectural design problems that introduce the full range of challenges in the areas of organization, program, context, systems and formal expression.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "((ARCH 222 [Min Grade: C-] and ARCH 252 [Min Grade: C-]) or ARCH 170 [Min Grade: C-]) and ARCH 282 [Min Grade: C-] and ARCH 225 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 291",
+            "Title": "Building Systems I",
+            "Number_of_credits": "Credit",
+            "Description": "Introduction to architectural technology with a focus on application of analysis pertaining to environmental systems within the context of building design.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 283 [Min Grade: C-] and PHYS 182 [Min Grade: C-] and (MATH 102 [Min Grade: C-] or MATH 173 [Min Grade: C-] or MATH 183 [Min Grade: C-])"
+      },
+      {
+            "Identifier": "ARCH 292",
+            "Title": "Building Systems II",
+            "Number_of_credits": "Credit",
+            "Description": "Introduction to architectural technology with a focus on design impacts and analysis related to water within the context of building design.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 283 [Min Grade: C-] and PHYS 182 [Min Grade: C-] and (MATH 102 [Min Grade: C-] or MATH 173 [Min Grade: C-] or MATH 183 [Min Grade: C-])"
+      },
+      {
+            "Identifier": "ARCH 293",
+            "Title": "Building Systems III",
+            "Number_of_credits": "Credit",
+            "Description": "Introduction to architectural technology with a focus on design impacts and analysis related to lighting within the context of building design.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 283 [Min Grade: C-] and PHYS 182 [Min Grade: C-] and (MATH 102 [Min Grade: C-] or MATH 173 [Min Grade: C-] or MATH 183 [Min Grade: C-])"
+      },
+      {
+            "Identifier": "ARCH 315",
+            "Title": "Sustainable Built Environment I",
+            "Number_of_credits": "Credits",
+            "Description": "Provides an overview of contemporary sustainable design principles and systems involved to posit novel solutions to various design challenges. Combining theoretical knowledge, field trips and case studies enabling students to critically assess sustainability as it relates to the built environment through five key subsystems: materials, air, water, energy and life.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ARCH 320",
+            "Title": "Sustainable Built Environment II",
+            "Number_of_credits": "Credits",
+            "Description": "Students will examine the work of scientists, designers, authors, artists, architects, engineers, planners, etc to gain a deeper conceptual understanding of current and emerging strategies in sustainability and the complex and integrated systems approach to the built environment in the present and near future.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 315 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 324",
+            "Title": "Materials & Methods IV",
+            "Number_of_credits": "Credit",
+            "Description": "Advanced building technology concepts are explored through case studies and focused design examples. Materials, construction, methods, structure, systems and envelope are studied as integrated aspect of larger iterative design processes.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 173 [Min Grade: C-] or ARCH 223 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 325",
+            "Title": "Materials & Methods V",
+            "Number_of_credits": "Credit",
+            "Description": "Further exploration of advanced building technology concepts through case studies and focused design examples. Materials, construction, methods, structure, systems and envelope are studied as integrated aspect of larger iterative design processes.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 324 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 326",
+            "Title": "Materials & Methods VI",
+            "Number_of_credits": "Credit",
+            "Description": "Advanced integration of building technology concepts through design problems and examples. Materials, construction, methods, structure, systems and envelope are studied as integrated aspect of larger iterative design processes.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 325 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 335",
+            "Title": "Professional Practice I",
+            "Number_of_credits": "Credits",
+            "Description": "This seminar is the first of a two-course sequence that introduces students to varying topics related to architectural practice in today's society. It addresses the following issues: Community and Social Responsibility, Leadership, Ethics & Professional Judgment, Client Role in Architecture, Basic Principles of Architectural Practice.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 243 [Min Grade: C-] or ARCH 383 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 336",
+            "Title": "Professional Practice II",
+            "Number_of_credits": "Credits",
+            "Description": "This seminar is the second of a two-course sequence that introduces students to varying topics related to architectural practice in today\u2019s society. It addresses the following issues: Practice Management, Project Management, Financial Considerations, Legal Responsibilities, Ethics & Professional Judgment.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 335 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 340",
+            "Title": "American Architecture & Urbanism",
+            "Number_of_credits": "Credits",
+            "Description": "Surveys the development of American architecture and urbanism from its Native American origins through the arrival of early Modernism in the 1930s and 1940s.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 143 [Min Grade: C-] or ARCH 144 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 341   [WI]",
+            "Title": "Theories of Architecture I",
+            "Number_of_credits": "Credits",
+            "Description": "Seminar that examines theories and principles of Western architecture before 1700. History/theory elective.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 143 [Min Grade: C-] or ARCH 144 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 342   [WI]",
+            "Title": "Theories of Architecture II",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesARCH\u00a0341. Seminar that examines theories and principles of Western architecture from the Baroque era of the 17th century to the beginning of Modernism in the 20th century. History/theory elective.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 143 [Min Grade: C-] or ARCH 144 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 343",
+            "Title": "Theories of Architecture III",
+            "Number_of_credits": "Credits",
+            "Description": "Seminar that examines 20th-century theories of architecture, including analysis and discussion of current theoretical positions. History/theory elective. Spring.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 143 [Min Grade: C-] or ARCH 144 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 346   [WI]",
+            "Title": "History of Philadelphia Architecture",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the architecture of the city of Philadelphia from 1682, examining its architects, styles, and sources through lectures, walking tours, and student reports. History/theory elective. Fall. Alternate years.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 143 [Min Grade: C-] or ARCH 144 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 347   [WI]",
+            "Title": "Intensive Architectural Studies",
+            "Number_of_credits": "Credit",
+            "Description": "An intensive study tour of selected domestic and foreign destinations focusing on architecture and related design disciplines. Combines lecture, site visits, sketching and individual research. History/Theory Elective.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "ARCH 143 [Min Grade: C-] or INTR 200 [Min Grade: C-] or ARTH 103 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 348   [WI]",
+            "Title": "Studies in Vernacular Architecture",
+            "Number_of_credits": "Credits",
+            "Description": "A topical survey of world traditions of vernacular architecture, with emphasis on houses and dwelling environments. The survey topics include basics of shelter, construction methods, response to climate, patterns of settlement, social and economic organization, cultural expression, and methods of research and analysis.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 143 [Min Grade: C-] or ARCH 144 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 350",
+            "Title": "Contemporary Architecture",
+            "Number_of_credits": "Credits",
+            "Description": "Survey and analysis of significant developments in architecture and urbanism over the past 50+ years.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 143 [Min Grade: C-] or ARCH 144 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 354",
+            "Title": "Structural Systems IV",
+            "Number_of_credits": "Credit",
+            "Description": "Intermediate aspects of structural systems with exposure to materials and methods that are frequently used in building construction. Develops skills needed for structural integration in building design.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 173 [Min Grade: C-] or ARCH 253 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 355",
+            "Title": "Structural Systems V",
+            "Number_of_credits": "Credit",
+            "Description": "Intermediate structural analysis for architectural design. Develops skills needed for structural integration in building design.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 354 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 356",
+            "Title": "Structural Systems VI",
+            "Number_of_credits": "Credit",
+            "Description": "Intermediate structural analysis for architectural design with a focus on composite systems. Develops skills needed for structural integration in building design.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 355 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 361",
+            "Title": "Studio 6-1",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces problems of urban design. Case studies demonstrate the relationship between the manmade environment and the natural environment as well as the relationship between many buildings and other manmade environments and the natural environment. Fall.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 353 [Min Grade: D] and ARCH 263 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 362",
+            "Title": "Studio 6-2",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesARCH\u00a0361. A large urban-design project is undertaken to learn the design process required to solve problems of such magnitude. Winter.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 361 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ARCH 363",
+            "Title": "Studio 6-3",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesARCH\u00a0362. Requires students to develop architectural solutions for a portion of the problem addressed in Studio 6-2, demonstrating an understanding of the relationship between buildings and the exterior environment established in the previous course. Spring.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 362 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ARCH 377",
+            "Title": "Architectural Technology VII",
+            "Number_of_credits": "Credits",
+            "Description": "Advanced building technology concepts are explored through case studies and focused design examples. Materials, construction, methods, structure, systems and envelope are studied as integrated aspect of larger iterative design processes.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 276 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 378",
+            "Title": "Architectural Technology VIII",
+            "Number_of_credits": "Credits",
+            "Description": "Building technology and analysis are explored through design precedents and sketch problems to develop integrated design and analytical skills. Focuses on large and small scale elements that can become generative and performative aspects of major design decisions.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 377 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 379",
+            "Title": "Architectural Technology IX",
+            "Number_of_credits": "Credits",
+            "Description": "Advanced building technology design and analysis is utilized in iterative and integrated design methods to support comprehensive design processes. Materials, structure and systems are developed qualitatively and quantitatively through design and analysis exercises.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 378 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 381",
+            "Title": "Architecture Studio 3A",
+            "Number_of_credits": "Credits",
+            "Description": "Investigates the design relationship between man-made and the natural environment. Cultivates advanced analysis methods and the development of informed and resolved design solutions.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 283 [Min Grade: C] and ARCH 226 [Min Grade: C] and ARCH 223 [Min Grade: C] and ARCH 253 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ARCH 382",
+            "Title": "Architecture Studio 3B",
+            "Number_of_credits": "Credits",
+            "Description": "Studies the relationship between building, site and context. Architectural design problems emphasize concept development that translates careful analysis into the building ideas with a progressing understanding of architectural concerns.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 381 [Min Grade: C-] and ARCH 274 [Min Grade: C-] or (ARCH 291 [Min Grade: C-] and ARCH 354 [Min Grade: C-])"
+      },
+      {
+            "Identifier": "ARCH 383",
+            "Title": "Architecture Studio 3C",
+            "Number_of_credits": "Credits",
+            "Description": "Focuses on architectural problems with intermediate complexity. Integrates issues of context, site, program, function, and architectural systems into advanced design proposals.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 382 [Min Grade: C-] and ARCH 275 [Min Grade: C-] or (ARCH 292 [Min Grade: C-] and ARCH 355 [Min Grade: C-])"
+      },
+      {
+            "Identifier": "ARCH 394",
+            "Title": "Building Systems IV",
+            "Number_of_credits": "Credit",
+            "Description": "Intermediate study of architectural technology with a focus on design impacts and analysis related to mechanical systems within the context of building design.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 291 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 395",
+            "Title": "Building Systems V",
+            "Number_of_credits": "Credit",
+            "Description": "Intermediate study of architectural technology with a focus on design impacts and analysis related to acoustical design and energy consumption within the context of building design.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 394 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 396",
+            "Title": "Building Systems VI",
+            "Number_of_credits": "Credit",
+            "Description": "Intermediate study of architectural technology with a focus on design impacts and analysis related to lighting and electrical systems within the context of building design.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 293 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 421   [WI]",
+            "Title": "Environmental Psychology and Design Theory",
+            "Number_of_credits": "Credits",
+            "Description": "Examines the relationship between human behavior and architecture from the perspective of environmental psychology. Topics include aesthetics, environmental experience, social interaction, social organization, and culture. History/Theory Elective.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 143 [Min Grade: C-] or ARCH 144 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 431   [WI]",
+            "Title": "Architectural Programming",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces current techniques of building programming and their relationship to building design.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 353 [Min Grade: C-] or ARCH 483 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 432",
+            "Title": "The Development Process",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces the process of land development. Explores traditional and emerging development models (the architect as the equity participant and developer) in relation to new construction and rehabilitation. Covers various methods of initiating building projects and financing and tax issues. Professional elective. Spring.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ARCH 441",
+            "Title": "Urban Design Seminar",
+            "Number_of_credits": "Credits",
+            "Description": "Expands the concept of architecture to urban design scale and presents the principles of city planning through a series of case studies. History/Theory Elective.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 143 [Min Grade: C-] or ARCH 144 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 451",
+            "Title": "Advanced Drawing",
+            "Number_of_credits": "Credits",
+            "Description": "Covers advanced architectural rendering, concentrating on the effects of light, shade, and color using the techniques of water-color rendering. Professional elective. Spring.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 226 [Min Grade: C-] or INTR 341 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 455",
+            "Title": "Computer Applications in Architecture",
+            "Number_of_credits": "Credits",
+            "Description": "Covers two-dimensional and three-dimensional computer representations and applications. Professional elective.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 226 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 463",
+            "Title": "Case Studies in Architectural Technology",
+            "Number_of_credits": "Credits",
+            "Description": "A holistic study of design and construction technology of significant buildings by leading architects through case studies. This course offers a unique opportunity to engage the topic of meaning in architecture through the lenses of spatial understanding and methods of technology and construction.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 253 [Min Grade: C-] or INTR 451 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 464",
+            "Title": "Building Enclosure Design",
+            "Number_of_credits": "Credits",
+            "Description": "Examines the integrations of aesthetics, building science, and technology in the design of building enclosures. Professional Elective. Summer.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 253 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 465",
+            "Title": "Energy and Architecture",
+            "Number_of_credits": "Credits",
+            "Description": "Creates an awareness of the availability of energy resources and their effect on the built environment. Discusses alternative sources of energy. Professional elective.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 253 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 466",
+            "Title": "The Architectural Detail",
+            "Number_of_credits": "Credits",
+            "Description": "This seminar will explore architectural detail as a key to understanding of the craft and intrinsic nature of time, technology and cultural importance of the building.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 326 [Min Grade: C-] or INTR 350 [Min Grade: C-] or INTR 674 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 467",
+            "Title": "Introduction to Historic Preservation",
+            "Number_of_credits": "Credits",
+            "Description": "An introduction to historic preservation as it relates to the built environment. The goal of this course is to familiarize the student with the history and the legal, theoretical and policy underpinnings of the historic preservation movement.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 143 [Min Grade: C] or INTR 200 [Min Grade: C] and (ARCH 283 [Min Grade: C] or INTR 342 [Min Grade: C])"
+      },
+      {
+            "Identifier": "ARCH 481",
+            "Title": "Architecture Studio 4A",
+            "Number_of_credits": "Credits",
+            "Description": "Focuses on more complex architectural challenges through analysis of case studies that address the relationship between the man-made built environment and the natural environment.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 383 [Min Grade: C-] and ARCH 276 [Min Grade: C-] or (ARCH 356 [Min Grade: C-] and ARCH 293 [Min Grade: C-])"
+      },
+      {
+            "Identifier": "ARCH 482",
+            "Title": "Architecture Studio 4B",
+            "Number_of_credits": "Credits",
+            "Description": "Furthers the understanding of context and design and the application of solutions and strategies surrounding more complex architectural and environmental problems.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 481 [Min Grade: C-] and ARCH 377 [Min Grade: C-] or (ARCH 324 [Min Grade: C-] and ARCH 394 [Min Grade: C-])"
+      },
+      {
+            "Identifier": "ARCH 483",
+            "Title": "Architecture Studio 4C",
+            "Number_of_credits": "Credits",
+            "Description": "Challenges to develop and refine architectural solutions through an advanced understanding of the relationship between buildings and environment.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 482 [Min Grade: C-] and ARCH 378 [Min Grade: C-] or (ARCH 325 [Min Grade: C-] and ARCH 395 [Min Grade: C-])"
+      },
+      {
+            "Identifier": "ARCH 484",
+            "Title": "Specialized Studio",
+            "Number_of_credits": "Credits",
+            "Description": "This design studio is taught as a vertical studio combining students from multiple years. Sections of this studio focus on a variety of special issues in the broader realm of architecture, urbanism and design and may be taught as an interdisciplinary studio.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated 2 times for 12 credits",
+            "Prerequisites": "ARCH 382 [Min Grade: C-] or INTR 342 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 487",
+            "Title": "Architecture Studio 5A",
+            "Number_of_credits": "Credits",
+            "Description": "Addresses the complex relationship through analysis and synthesis of form, site, program, building technology and theory within specific building context.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 483 [Min Grade: C-] and ARCH 379 [Min Grade: C-] or (ARCH 326 [Min Grade: C-] and ARCH 356 [Min Grade: C-] and ARCH 396 [Min Grade: C-])"
+      },
+      {
+            "Identifier": "ARCH 488",
+            "Title": "Architecture Studio 5B",
+            "Number_of_credits": "Credits",
+            "Description": "Emphasizes complex architectural problems while demonstrating understanding and appropriate application.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 487 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 489",
+            "Title": "Architecture Studio 5C",
+            "Number_of_credits": "Credits",
+            "Description": "Integrates in-depth application and coordination of all architectural building criteria in a large scale and complex architectural problem.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 488 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 490",
+            "Title": "Capstone Project I",
+            "Number_of_credits": "Credits",
+            "Description": "This course is the first part of a two-term capstone project consistent with the student\u2019s curricular concentration, and relevant to their professional and academic goals. This course is devoted to the research and writing of a capstone research paper on architectural theory, technology and/or design that will lead to the capstone project in the second term.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated 1 times for 8 credits",
+            "Prerequisites": "ARCH 283 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 492",
+            "Title": "Capstone Project II",
+            "Number_of_credits": "Credits",
+            "Description": "This course is the second part of a two-term capstone project consistent with the student\u2019s curricular concentration, and relevant to their professional and academic goals. This course is devoted to the continued research in architectural theory, technology and/or design and the completion and presentation of a capstone project.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated 1 times for 8 credits",
+            "Prerequisites": "ARCH 490 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 493",
+            "Title": "Senior Project I",
+            "Number_of_credits": "Credits",
+            "Description": "Students develop a three-term capstone design project to pursue and explore architectural concepts in depth. Students take a project from concept, research, programming to complete design development. Part one of three.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(ARCH 363 [Min Grade: C-] or ARCH 489 [Min Grade: C-]) and ARCH 431 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 494",
+            "Title": "Senior Project II",
+            "Number_of_credits": "Credits",
+            "Description": "Students develop a three-term capstone design project to pursue and explore architectural concepts in depth. Students take a project from concept, research, programming to complete design development. Part two of three.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 493 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 495",
+            "Title": "Senior Project III",
+            "Number_of_credits": "Credits",
+            "Description": "Students develop a three-term capstone design project to pursue and explore architectural concepts in depth. Students take a project from concept, research, programming to complete design development. Part three of three.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 494 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 496",
+            "Title": "Thesis I",
+            "Number_of_credits": "Credits",
+            "Description": "An individually structured year-long design problem that enables students to work independently and explore complex issues in depth. Periodic individual review sessions are scheduled with faculty adviser. Fall.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 363 [Min Grade: D] and ARCH 143 [Min Grade: C-] and (ARCH 134 [Min Grade: C-] or ARCH 153 [Min Grade: C-] or ARCH 226 [Min Grade: C-]) and (ARCH 263 [Min Grade: C-] and ARCH 273 [Min Grade: C-]) or ARCH 379 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 497",
+            "Title": "Thesis II",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesARCH\u00a0496. Winter.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 496 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH 498",
+            "Title": "Thesis III",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesARCH\u00a0497. Spring.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 497 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "ARCH I199",
+            "Title": "Independent Study in Architecture",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ARCH I299",
+            "Title": "Independent Study in Architecture",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ARCH I399",
+            "Title": "Independent Study in Architecture",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ARCH I499",
+            "Title": "Independent Study in Architecture",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "ARCH 143 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ARCH T180",
+            "Title": "Special Topics in Architecture",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ARCH T280",
+            "Title": "Special Topics in Architecture",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ARCH T380",
+            "Title": "Special Topics in Architecture",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ARCH T480",
+            "Title": "Special Topics in Architecture",
+            "Number_of_credits": "Credit",
+            "Description": "Covers special topics in architectural history, theory, or technology that satisfy history/theory or professional elective requirements.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "ARCH 143 [Min Grade: C]"
+      }
+]

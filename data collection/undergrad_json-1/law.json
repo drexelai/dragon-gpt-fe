@@ -1,0 +1,209 @@
+[
+      {
+            "Identifier": "LAW 101",
+            "Title": "Law & Society",
+            "Number_of_credits": "Credits",
+            "Description": "This course analyzes \u201claw in action\u201d: how law works in the everyday lives of individuals and institutions by exploring the complex place of law and legal institutions in the United States. We will examine official legal institutions (such as courts and legislatures) and actors (including police, lawyers, judges) as well as the individuals whose lives are affected by law \u2014 those of us who come in contact with law as plaintiffs, witnesses, victims, or defendants. We will address the role that law plays in organizing contemporary life, including its influences on social and political interactions, how law constructs and responds to differences, and mediates, remedies, and reinforces unequal access to power.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LAW 102",
+            "Title": "Law Lab",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides opportunities for students to see how law operates in a variety of settings, from prisons to boutique law firms. Class meetings will include trips to museums, courtrooms, and legislatures, guest lectures by legal professionals, and other hands-on, experiential learning activities.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LAW 110",
+            "Title": "American Legal Systems",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides a comprehensive introduction to the American legal system and exposes students to the multiple forms of lawmaking and sources of legal and regulatory power present in America today. Students will learn to differentiate between common law created by judges, statutes and laws created by the legislature, and regulations promulgated by executive agencies. The class will explore the relationship between federal and state law, the role of federalism and the legal underpinnings of the checks and balances system that aims to keep equilibrium between the judicial, legislative, and executive branches. The course will also examine the American system of litigation and the structure of the court system, the jurisdiction of federal and state courts, and the litigation process.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LAW 135",
+            "Title": "Foundations of Legal Research",
+            "Number_of_credits": "Credits",
+            "Description": "The course offers a hands-on, skills-based approach to help students learn to conduct research on legal topics efficiently and effectively. The course will introduce students to electronic resources available through Drexel and the web, including databases of primary materials (including state and federal laws, administrative regulations, and judicial opinions) and secondary sources (especially scholarly and news materials) commonly used in legal research.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LAW 201",
+            "Title": "The Role of the Common Law in the American Legal System",
+            "Number_of_credits": "Credits",
+            "Description": "This class introduces students to the concept of common-law lawmaking, with focus on the areas of contract, tort (personal injury) and property. It will also address the history of how the common law developed from English law and provide a brief comparison to civil law systems used in other countries.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LAW 210",
+            "Title": "Public Law: Legislation and Regulation",
+            "Number_of_credits": "Credits",
+            "Description": "This course is intended to introduce the student to lawmaking through statutes and agency regulation in the modern regulatory state. The course will analyze how statutes are created and passed and provide students with an introduction to statutory interpretation. It will also introduce students to the administrative state, describing the relationship between administrative agencies and other branches of government and discussing the creation and enforcement of regulation.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LAW 211",
+            "Title": "Public Law II",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces students to foundational concepts in public law, such as the types of conflicts courts can adjudicate, how individuals and groups gain access to courts, identifying state actors, and the role of due process in legal proceedings.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LAW 215",
+            "Title": "Law & Religion in America Today",
+            "Number_of_credits": "Credits",
+            "Description": "Despite the official separation of church and state, religious questions often arise and need to be adjudicated in secular courts. This course explores which rights are protected by the Constitution\u2019s free exercise clause and examines the boundaries of religion and religious protections in a secular context. Specifically, the course examines the ways in which secular American courts handle issues that arise in communities that follow religious law but also use the civil courts to settle their disputes. Students will study the ways in which secular courts must decide questions from marriage and divorce to raising children and custody issues in a wide variety of faith communities and how those courts incorporate or distance themselves from the religious frameworks in which those disputes arise.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LAW 216",
+            "Title": "Regulating Families",
+            "Number_of_credits": "Credits",
+            "Description": "The course provides an introduction to the law and legal rights of family members. It explores family law issues such as how laws regulate marriage, divorce, and child custody. Students will be introduced to proceedings in family court as well as out-of-court alternatives for resolution of disputes.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LAW 217",
+            "Title": "Sex, Gender, Sexuality & the Law",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines US law, court decisions, and current controversies related to the rights\u2014and the denial of rights\u2014of people in the US based on sex, sexual conduct, sexual orientation, and gender identity and expression.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LAW 301   [WI]",
+            "Title": "Legal Reasoning",
+            "Number_of_credits": "Credits",
+            "Description": "This class introduces students to the study of legal reasoning, including topics such as: the basic forms of argument, reasoning and inference typically found in legal materials; the nature of precedent and the relationship of normative arguments in law to conceptions of justice.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LAW 304",
+            "Title": "Comparative Legal Institutions",
+            "Number_of_credits": "Credits",
+            "Description": "This course complements students\u2019 study of US law by expanding their understanding of international legal systems, institutions, and individual and group rights. Students will learn about judicial institutions in various nations and examine how similar issues are handled in countries with different legal structures and guarantees.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "LAW 110 [Min Grade: D] and PSCI 220 [Min Grade: D]"
+      },
+      {
+            "Identifier": "LAW 305",
+            "Title": "Mediation, Arbitration, and the Law of Alternate Dispute Resolution",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores the theory, practice and law of mediation and arbitration, with an emphasis on the roles that both non-lawyers and lawyers play in these processes. The course will include simulated mediations and arbitrations to foster a deeper understanding of the material and to develop skills in resolving disputes without litigation.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LAW 310",
+            "Title": "Environmental Law",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on how legal institutions have been used to respond to environmental problems. It provides a basic introduction to federal environmental laws relevant to air and water pollution, hazardous and solid waste and endangered species.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "LAW 201 [Min Grade: C] and LAW 210 [Min Grade: C]"
+      },
+      {
+            "Identifier": "LAW 312",
+            "Title": "Immigration Law",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines how the U.S. immigration system makes legal determinations about who is permitted to enter the United States, and who is forced to leave. Readings focus on statutes, court cases, and administrative regulations to understand how immigration law functions in theory and in practice.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LAW 315",
+            "Title": "Power, Professionalism, & the Law",
+            "Number_of_credits": "Credits",
+            "Description": "This course offers a critical perspective on the history, current status, and practices of the legal profession. It examines the roles attorneys and other professionals working in legal settings play in relation to clients, colleagues, and each other.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LAW 340",
+            "Title": "Regulating the Commons",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on the notion of the commons and how commonly owned resources should be regulated. It focuses on environmental regulation as the paradigm of commons regulation before turning to the notion of regulating the \u201ccybercommons\u201d.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "LAW 101 [Min Grade: C] and LAW 201 [Min Grade: C] and LAW 210 [Min Grade: C] and LAW 211 [Min Grade: C]"
+      },
+      {
+            "Identifier": "LAW 495   [WI]",
+            "Title": "Capstone Seminar in Law",
+            "Number_of_credits": "Credits",
+            "Description": "The capstone seminar is an opportunity for students to produce an independent paper on a topic of their choice. Students will work with the instructor to produce a paper suitable for use as a writing sample when applying for jobs and/or graduate programs.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LAW I299",
+            "Title": "Independent Study in Law",
+            "Number_of_credits": "Credit",
+            "Description": "Self-directed course within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LAW I399",
+            "Title": "Independent Study in Law",
+            "Number_of_credits": "Credit",
+            "Description": "Self-directed course within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LAW I499",
+            "Title": "Independent Study in Law",
+            "Number_of_credits": "Credit",
+            "Description": "Self-directed course within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LAW T280",
+            "Title": "Special Topics in Law",
+            "Number_of_credits": "Credit",
+            "Description": "This course will explore issues related to law. The topic will vary each time it is offered.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LAW T380",
+            "Title": "Advanced Special Topics in Law",
+            "Number_of_credits": "Credits",
+            "Description": "This course will explore advanced issues related to law. The topic will vary each time it is offered.",
+            "College/Department": "Thomas R. Kline School of Law",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

@@ -1,0 +1,326 @@
+[
+      {
+            "Identifier": "ECES 201",
+            "Title": "Introduction to Audio-Visual Signals",
+            "Number_of_credits": "Credits",
+            "Description": "This introductory engineering course will focus on the digital signal representations commonly used in prevailing entertainment media: audio, images, and video. It will explore how each medium is represented digitally and convey the signal processing concepts used in storing, manipulating, transmitting, and rendering such content. The goal of the course is to provide non-engineering students with a fundamental understanding of core digital signal processing methods.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 122 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECES 301",
+            "Title": "Signals and Systems I",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers time and frequency domain analysis of both continuous and discrete time signals and systems. Topics covered include a discussion of fundamental signals and basic system properties, convolution, the Fourier series, the Fourier transform, and introductory filtering. Students will learn to design and analyze the input output relationships of linear time-invariant signals, and will discuss applications in the field of electrical engineering.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECE 201 [Min Grade: D] and (ENGR 231 [Min Grade: D] or MATH 261 [Min Grade: D] or MATH 201 [Min Grade: D])"
+      },
+      {
+            "Identifier": "ECES 302",
+            "Title": "Transform Methods and Filtering",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the Fourier series and the Fourier transform, sinusoidal steady-state analysis and filtering, discrete-time systems and the Z-transform, discrete Fourier transform, network functions and stability, magnitude, phase, poles and zeroes, Nyquist criterion, the Nyquist plot and root loci, stability of one-ports, sensitivity, worst-case design and failure-tolerance.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(TDEC 221 [Min Grade: D] or ENGR 232 [Min Grade: D] or MATH 262 [Min Grade: D] or MATH 210 [Min Grade: D]) and ECE 201 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECES 303",
+            "Title": "Signals and Systems II",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces Laplace & Z-transforms & their corresponding region of convergence as extensions of Fourier transform (FT) to deal with signals & systems (continuous & discrete) with no FT. It also covers the fundamentals of the highly used discrete Fourier transforms (DFT) and its fast computation. The fast Fourier transform (FFT) is also presented to digitize the FT of discrete signals. Optimal, uniform, & compandor quantizer, which complements the sampler, are also introduced to discretize the signal\u2019s range for achieving full digitization of the signal (the digitizer). To close the loop, all FT, regular and generalized, continuous & discrete are tied together.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECE 361 [Min Grade: D], BMES 310 [Min Grade: D] (Can be taken Concurrently) or (ECES 301 [Min Grade: D] or ECES 302 [Min Grade: D])"
+      },
+      {
+            "Identifier": "ECES 304",
+            "Title": "Dynamic Systems and Stability",
+            "Number_of_credits": "Credits",
+            "Description": "Covers linear time-invariant circuits and systems; two-and multi-terminal resistors, operational-amplifier circuits, first-order circuits, linear and nonlinear second-order systems, state equation and state variables, eigenvalues and eigenvectors, zero-input response, qualitative behavior of x'=Ax (stability and equilibria), qualitative behavior of x'=f(x), phase portraits, equilibrium states.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECES 301 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECES 306",
+            "Title": "Analog & Digital Communication",
+            "Number_of_credits": "Credits",
+            "Description": "Covers signal sampling and reconstruction; modulation, angle modulation; digital communications systems, digital transmission.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(ECES 301 [Min Grade: D] or ECES 302 [Min Grade: D]) and ECE 361 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECES 352",
+            "Title": "Introduction to Digital Signal Process",
+            "Number_of_credits": "Credits",
+            "Description": "Covers discrete-time signals, analog-digital conversion, time and frequency domain analysis of discrete-time systems, analysis using Z-transform, introduction to digital filters, discrete-time Fourier transform, Discrete Fourier Transform (DFT), and Fast Fourier Transform (FFT).",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECES 301 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECES 354",
+            "Title": "Wireless, Mobile & Cellular Communications",
+            "Number_of_credits": "Credits",
+            "Description": "Covers concepts of wireless systems; propagation effects, including loss, dispersion, fading, transmission, and reception; mobile systems, including design of base units and mobile units; micro cells and pico cells; cell division, including frequency use and reuse; concepts of FDMA, TDMA, and CDMA; error rates and outage probability; and circuits and components for wireless and mobile systems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECES 306 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECES 356",
+            "Title": "Theory of Control",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the foundations of control theory. Includes experiments and demonstrations during lectures and labs that may be jointly held, taking advantage of multimedia and computer-controlled apparatus.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECES 304 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECES 358",
+            "Title": "Computer Control Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Reviews principles of applications of computer control systems to a variety of industries and technologies, including manufacturing processes, robotic cells, machine cells, chemical processes, network control, investment portfolio control, and real-time expert and learning systems for diagnostics and quality control.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECES 356 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECES 411",
+            "Title": "Convex Optimization in Engineering Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Covers fundamental of convex optimization including convex sets, convex functions, linear and nonlinear constraints, complementary slackness, Lagrange multipliers, Lagrangian duality, and quadralic programming. Focuses on applications (e.g., signal processing, communications, computer networking, and portfolio management). Focuses on use of Matlab or equivalent software.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECES 301 [Min Grade: D] and ECES 303 [Min Grade: D] and (ENGR 361 [Min Grade: D] or ECE 361 [Min Grade: D])"
+      },
+      {
+            "Identifier": "ECES 412",
+            "Title": "Simulation of Stochastic Engineering Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Covers algorithms for generation of pseudo-random numbers, generation of random variates using the inverse transform, acceptance rejection techniques, Monte Carlo simulation, basics of point and interval estimation and hypothesis testing. Coverage of Markov chains, Markov chain Monte Carlo, Metropolis algorithm, simulated annealing, as time permits. Applications include computer networks, statistical physics, derivative pricing. Focus on use of Matlab or equivalent software.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECES 301 [Min Grade: D] and ECES 303 [Min Grade: D] and (ENGR 361 [Min Grade: D] or ECE 361 [Min Grade: D])"
+      },
+      {
+            "Identifier": "ECES 413",
+            "Title": "Strategies for Repeated Games",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the gambler\u2019s ruin problem, optimality of bold play for subfair games, the Martingale betting system, Kelly betting and the maximum growth rate in superfair games, the multi-armed bandit and it generalizations, Parrondo\u2019s paradox for coupled subfair games, basics of auction theory. Focus on use of Matlab or equivalent software.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECES 301 [Min Grade: D] and ECES 303 [Min Grade: D] and (ENGR 361 [Min Grade: D] or ECE 361 [Min Grade: D])"
+      },
+      {
+            "Identifier": "ECES 421",
+            "Title": "Communications I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers analog communications, including linear modulation methods (AM, DSB, SSB), exponential modulation (FM, PM), and noise effects on analog communication systems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECES 306 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECES 422",
+            "Title": "Communications II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers analog (PAM, PPM) and digital (PCM, DM) pulse modulation systems, entropy, source coding, and channel coding.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECES 421 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECES 423",
+            "Title": "Communications III",
+            "Number_of_credits": "Credits",
+            "Description": "Covers digital transmission systems, baseband and passband, spread-spectrum communications, and basics of wireless and mobile systems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECES 422 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECES 434",
+            "Title": "Applied Digital Signal Processing",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores digital signal processing (DSP) concepts through the context of current applications, which range from video encoding to human genome analysis. Topics such as sampling, aliasing, and quantization, are considered in terms of the constraints of particular applications. Discrete-time linear systems, frequency-domain analysis, and digital filtering using Discrete Fourier Transform are examined in-depth and realized through application-specific lab projects.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECES 303 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECES 435",
+            "Title": "Recent Advances in Digital Signal Processing",
+            "Number_of_credits": "Credits",
+            "Description": "Digital signal processing algorithms once thought to be impractical are now implemented in devices, such as household appliances & mobile phones. This course explores the computationally-intensive DSP methods including short-time linear prediction, cepstral analysis, and complex phase reconstruction as well as alternative signal representations and transforms, including the Hilbert, Chirp, and Discrete Cosine Transforms. Laboratory projects will focus on the implementation of these methods.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECES 303 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECES 436",
+            "Title": "Multi-disciplinary Digital Signal Processing",
+            "Number_of_credits": "Credits",
+            "Description": "The applications of digital signal processing (DSP) span a wide range of problem domains and disciplines. This course explores the multi-disciplinary aspects of DSP by focusing on a core set of common methods applicable to problems in many fields, such as periodicity detection, signal and power spectrum estimation, and data modeling. Laboratory projects will utilize experiments drawn from a diversity of fields, including medicine, music analysis, image processing,voice/data communications and robotics.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECES 303 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECES 441",
+            "Title": "Bioinformatics",
+            "Number_of_credits": "Credits",
+            "Description": "This course will focus on developing the computational, algorithmic, and database navigational skills required to analyze genomic data that have become available with the development of high throughput genomic technologies. We will also illustrate statistical signal processing concepts such as dynamic programming, hidden markov models, information theoretic measures, and assessing statistical significance. The goals will be achieved through lecture and lab exercises that focus on genomic databases, genome annotation via hidden markov models, sequence alignment through dynamic programming, metagenomic analyses, and phylogenetics with maximum likelihood approaches.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECES 444",
+            "Title": "Systems and Control I",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on the state space approach to systems analysis and control for use in such applications as: Automated Equipment, Robotics, Motor Control, Process Control and Aerospace. A brief review of Classical Controls provides the seaway for state space modeling as well as state variable feedback and observer based state control. Optimal Control (Performance Index for gain selection) as well as System Identification techniques and Lagrangian Dynamics are introduced. The course includes a set of laboratory experiments where students get hands-on experience with the core theoretical material.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECES 356 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECES 445",
+            "Title": "Systems and Control II",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on Linear Quadratic Gaussian Control for use in such applications as: Automated Equipment, Robotics, Motor Control, Process Control and Aerospace. The course introduces the Kalman Filter as a stochastic observer and then extends on applying it to target tracking, system identification and use in control.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECES 356 [Min Grade: D] and ECE 361 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECES 446",
+            "Title": "Systems and Control III",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces nonlinear systems and some commonly used industrial non-linear control techniques relevant to such applications as: Automated Equipment, Robotics, Motor Control, Process Control and Aerospace. Foundation topics include: equilibrium and stability of nonlinear systems, analysis of limit cycles and region of attraction, Lyapounov stability, Nyquist stability for limit cycle analysis. Control techniques include topical solutions: Model Reference Adaptive control; Adaptive Disturbance Rejection Control, Robust and H-infinity Control, and Fuzzy Logic Control.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECES 356 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECES 450",
+            "Title": "Statistical Analysis of Metagenomics",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on developing the computational and database navigational skills required to analyze genomic data. The goals will be achieved through lecture and exercises on genomic databases, programming for importing and pre-processing genomic data, high performance programming for analysis of high-throughput metagenomic analyses, and use of high-performance computing for phylogenetic reconstruction.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECES 461",
+            "Title": "Medical Robotics",
+            "Number_of_credits": "Credits",
+            "Description": "This course reviews the emerging multidisciplinary field of Medical Robotics. The course, which runs as a seminar, will review the technological, clinical, ethical and market perspectives of this rapidly evolving area of robotics and automation. A large variety of recent, clinically proven, therapeutic, and diagnostic medical automation systems and tools will be introduced, demonstrated, and analyzed. A brief review of introductory robotics concepts, terminology and background will be provided during the first few weeks of this seminar/course.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECES 356 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECES 462",
+            "Title": "Medical Robotics II",
+            "Number_of_credits": "Credits",
+            "Description": "This course will review the emerging, multidisciplinary field of Medical Robotics. The course includes multiple site/field visits to observe Medical Robot systems demonstrations and interaction with the medical team and system manufacturers.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECES 461 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECES 497",
+            "Title": "Research in Systems Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Electrical engineering students only. Requires independent research in a topic approved by the faculty.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECES 499",
+            "Title": "Supervised Study in Systems Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Requires independent study in a topic approved by the faculty.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECES I199",
+            "Title": "Independent Study in ECES",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECES I299",
+            "Title": "Independent Study in ECES",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECES I399",
+            "Title": "Independent Study in ECES",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECES I499",
+            "Title": "Independent Study in ECES",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECES T180",
+            "Title": "Special Topics in ECES",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECES T280",
+            "Title": "Special Topics in ECES",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECES T380",
+            "Title": "Special Topics in ECES",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECES T480",
+            "Title": "Special Topics in ECES",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

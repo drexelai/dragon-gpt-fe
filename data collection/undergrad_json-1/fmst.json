@@ -1,0 +1,236 @@
+[
+      {
+            "Identifier": "FMST 101",
+            "Title": "Film History I: Emergence",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers the emergence and evolution of film narrative in the first half of the 20th Century, as well as the core concepts of film analysis that help us understand this process. We will focus on the artistic and institutional factors contributing to the rise and decline of Classical Hollywood Cinema.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FMST 102",
+            "Title": "Film History II: New Waves",
+            "Number_of_credits": "Credits",
+            "Description": "This course investigates the liberation of film aesthetics in the latter half of the 20th Century, and how filmmakers of this era redefined their medium. Particular emphasis is placed on the \"new waves\" of filmmaking in Western Europe and the \"New Hollywood\" revolution that soon followed.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FMST 101 [Min Grade: D] or FMST 105 [Min Grade: D]"
+      },
+      {
+            "Identifier": "FMST 105",
+            "Title": "Film History & Theory I",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers the emergence and evolution of film narrative in the first half of the 20th Century, as well as the core concepts of film analysis that help us understand this process. The focus will be on the artistic and institutional factors contributing to the rise and decline of Classical Hollywood Cinema as well as the major theories regarding film form.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FMST 203",
+            "Title": "Film History III: Trends",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores recent trends in domestic and international cinema, including the independent and multi-national filmmaking movements and ideologies that flourished around the turn of the 21st Century, as well as current developments in mainstream Hollywood cinema.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FMST 102 [Min Grade: D] or FMST 205 [Min Grade: D]"
+      },
+      {
+            "Identifier": "FMST 204",
+            "Title": "Film Voice and Style",
+            "Number_of_credits": "Credits",
+            "Description": "Imitation is the sincerest form of flattery; however, filmmakers also must develop their own unique voice and style. In this course students will undertake an in-depth study of a particular filmmaker, style, genre, or movement and submit a paper, film or project that will the summation of their research.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FMST 205",
+            "Title": "Film History & Theory II",
+            "Number_of_credits": "Credits",
+            "Description": "In this course, we will discuss the rise of Italian Neo-Realism, the French New Wave, and the so-called \u201cArt House\u201d film movements that contributed to the dramatic liberation of film aesthetics in the latter half of the 20th-century and to the rise of the \u201cNew Hollywood\u201d revolution of the late sixties and seventies. We will continue looking at key works through the lens of film theory.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FMST 105 [Min Grade: D] or FMST 101 [Min Grade: D]"
+      },
+      {
+            "Identifier": "FMST 250",
+            "Title": "Documentary Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Involves intensive study of major documentary film and video works. Covers topics including propaganda, documentary's relationship to social reality, documentary aesthetics, and the problem of \"thruth\" in documentary.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FMST 256",
+            "Title": "Films of Gus Van Sant",
+            "Number_of_credits": "Credits",
+            "Description": "In this course the work of Gus Van Sant, starting with his feature debut in 1986 through MILK in 2008, will be examined. Class will include some lecture, but largely be discussion-driven; students are required to do additional reading and reflection papers each week.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FMST 260",
+            "Title": "The Western",
+            "Number_of_credits": "Credits",
+            "Description": "Explores the genre of the classic American Western. Students analyze a selection of Westerns to acquire an understanding of the human and cimematic values they embody.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FMST 262",
+            "Title": "Film Comedy",
+            "Number_of_credits": "Credits",
+            "Description": "Examines a broad selection of film comedies in search of principles that underlie successful film comedy.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FMST 266",
+            "Title": "The Cinematographer's Art",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines the craft and style of some of the greatest feature film cinematographers.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FMST 273",
+            "Title": "Social Advocacy in Cinema",
+            "Number_of_credits": "Credits",
+            "Description": "This course will examine the use of film as a vehicle for social advocacy. The films screened will span decades, genres, and subject matter, and the methods of persuasion will range from the symbolic to the literal, but each film will offer significant social commentary relevant to the era in which they were made.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FMST 290",
+            "Title": "Hollywoodland I",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines the history, culture and mythology of Hollywood through ten films, ranging from the silent era to the present, which the entertainment industry has made about itself. Topics to be covered include the growth of Los Angeles as a city, perceptions of stars and producers, the coming of sound in 1927 and the intersection of entertainment and politics. Films to be shown include \"A Star is Born,\" \"Sunset Boulevard,\" \"The Front,\" \"A Face in the Crowd,\" and other lesser-known works. Readings: \"What Makes Sammy Run?,\" \"The Last Tycoon,\" \"The Day of the Locust,\" and \"Once in a Lifetime.\".",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FMST 291",
+            "Title": "Hollywoodland II",
+            "Number_of_credits": "Credits",
+            "Description": "This course continues to examine the history, culture and mythology of Hollywood through films the entertainment industry has made about itself. In this course, the films looked at are primarily from the 1980s on, including \"The Stunt Man,\" \"My Favorite Year,\" \"The Comedian\" and \"The Artist.\" Also discussed: the effect of television on the film industry, the breakup of the studio system in the late 40\u2019s-early 50\u2019s, the rise of programming created for HBO and other pay cable outlets, and changing perceptions of the business itself.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FMST 290 [Min Grade: D]"
+      },
+      {
+            "Identifier": "FMST 293",
+            "Title": "Japanese Cinema: Kurosawa",
+            "Number_of_credits": "Credits",
+            "Description": "This course will be a survey of some of the major films of Akira Kurosawa, who is widely heralded as one of the greatest filmmakers of the 20th century. His films will be looked at in the context of both Japanese cinema, especially the cinema that preceded him, and world cinema in general.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FMST 304",
+            "Title": "Film Voice and Style",
+            "Number_of_credits": "Credits",
+            "Description": "Imitation is the sincerest form of flattery; however, filmmakers also must develop their own unique voice and style. In this course students will undertake an in-depth study of a particular filmmaker, style, genre, or movement and submit a paper, film or project that will the summation of their research.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FMST 352",
+            "Title": "The Horror Film",
+            "Number_of_credits": "Credits",
+            "Description": "This course reviews the history of the horror film and its various sub-genres and analyzes the methods employed in the most successful films. Students dissect the representation of evil and the impact these films have on culture.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FMST 355",
+            "Title": "Contemporary Cinema",
+            "Number_of_credits": "Credits",
+            "Description": "Students interpret and assess contemporary film in light of film history and aesthetics. Includes viewing and analysis of a different current film each week.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FMST I199",
+            "Title": "Independent Study in Film Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FMST I299",
+            "Title": "Independent Study in Film Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FMST I399",
+            "Title": "Independent Study in Film Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FMST I499",
+            "Title": "Independent Study in Film Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FMST T180",
+            "Title": "Special Topics in Film Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FMST T280",
+            "Title": "Special Topics in Film Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FMST T380",
+            "Title": "Special Topics in Film Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FMST T480",
+            "Title": "Special Topics in Film Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

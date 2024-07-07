@@ -1,0 +1,119 @@
+[
+      {
+            "Identifier": "HBRW 101",
+            "Title": "Introduction to Hebrew I",
+            "Number_of_credits": "Credits",
+            "Description": "The goal of this course is to provide a thorough foundation in the Hebrew language. Small class size provides intensive practice in speaking, writing and listening comprehension.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "APHX N"
+      },
+      {
+            "Identifier": "HBRW 102",
+            "Title": "Introduction to Hebrew II",
+            "Number_of_credits": "Credits",
+            "Description": "The goal of this course is to provide a thorough foundation in the Hebrew language. Small class size provides intensive practice in speaking, writing and listening comprehension. ContinuesHBRW\u00a0101.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HBRW 101 [Min Grade: D]"
+      },
+      {
+            "Identifier": "HBRW 103",
+            "Title": "Introduction to Hebrew III",
+            "Number_of_credits": "Credits",
+            "Description": "The goal of this course is to provide a thorough foundation in the Hebrew language. Small class size provides intensive practice in speaking, writing and listening comprehension. ContinuesHBRW\u00a0102.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HBRW 102 [Min Grade: D]"
+      },
+      {
+            "Identifier": "HBRW 201",
+            "Title": "Hebrew IV",
+            "Number_of_credits": "Credits",
+            "Description": "This course includes listening, speaking, reading, and writing practice, with a focus on cultural competency and conversational skills. Builds onHBRW\u00a0103.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HBRW 103 [Min Grade: C]"
+      },
+      {
+            "Identifier": "HBRW 202",
+            "Title": "Hebrew V",
+            "Number_of_credits": "Credits",
+            "Description": "This course includes listening, speaking, reading, and writing practice, with a focus on cultural competency and conversational skills. Builds onHBRW\u00a0201.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HBRW 201 [Min Grade: C]"
+      },
+      {
+            "Identifier": "HBRW I199",
+            "Title": "Independent Study in HBRW",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HBRW I299",
+            "Title": "Independent Study in HBRW",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HBRW I399",
+            "Title": "Independent Study in HBRW",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HBRW I499",
+            "Title": "Independent Study in HBRW",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HBRW T180",
+            "Title": "Special Topics in Hebrew",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HBRW T280",
+            "Title": "Special Topics in Hebrew",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HBRW T380",
+            "Title": "Special Topics in Hebrew",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HBRW T480",
+            "Title": "Special Topics in HBRW",
+            "Number_of_credits": "Credits",
+            "Description": "",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

@@ -1,0 +1,209 @@
+[
+      {
+            "Identifier": "BLAW 201",
+            "Title": "Business Law I",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on the legal environment in which businesses operate with a special concentration on contracts. The course addresses various aspects of contract law, including formation, performance and remedies for breach and how contract law interacts with other areas of the law in the business environment.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BLAW 202",
+            "Title": "Business Law II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers sales, negotiable instruments, personal property, and bailments.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BLAW 320",
+            "Title": "Information Privacy, Data and the Law",
+            "Number_of_credits": "Credits",
+            "Description": "As technological advances continue to evolve, companies are often left to wonder what obligations they have to protect privacy. With the additional threats to privacy, legislatures and the courts are increasingly looking to protect personal data. This course will examine aspects of the evolving world of privacy and the law, including issues surrounding personal data of all forms (consumer, financial and biometric data; employment, health, education, social media and government records). Foundational privacy concepts and principles will be discussed, comparing the approaches to privacy domestically and abroad. At the end of the course, students will understand the core components of privacy, the cultural and legal variations in privacy law, and operational protections companies should give to privacy issues.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BLAW 321",
+            "Title": "Law of Business Organizations",
+            "Number_of_credits": "Credits",
+            "Description": "Covers agencies, partnerships, corporations, and limited-liability companies.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BLAW 330",
+            "Title": "Real Estate Law",
+            "Number_of_credits": "Credits",
+            "Description": "Covers real property laws and the various rights, obligations, and limitations pertaining to land ownership. Analyzes the problems, procedures, and documents involved in the acquisition, mortgaging, and transfer of real property.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BLAW 334",
+            "Title": "Labor Law",
+            "Number_of_credits": "Credits",
+            "Description": "Examines state and federal law regulating labor relations. Analyzes employment law and its impact on employment practices.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BLAW 338",
+            "Title": "Government Regulation and Business",
+            "Number_of_credits": "Credits",
+            "Description": "Examines constitutional questions regarding relationship between business and various levels of government in the United States.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BLAW 340",
+            "Title": "International Business Law",
+            "Number_of_credits": "Credits",
+            "Description": "Examines the law of international commercial transactions, trade, licensing, investments, and dispute resolution.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BLAW 342",
+            "Title": "Criminal Law",
+            "Number_of_credits": "Credits",
+            "Description": "Surveys state and federal criminal codes and procedures.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BLAW 343",
+            "Title": "Marketing Law",
+            "Number_of_credits": "Credits",
+            "Description": "Covers many of the areas of law that control and affect marketing decisions, including the U.S. Constitution; advertising and false/wrongful advertising; market shares and allocations; restraints of trade and other unfair competition under the antitrust laws; and warranties.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BLAW 346",
+            "Title": "Entrepreneurial Law",
+            "Number_of_credits": "Credits",
+            "Description": "This course is intended to address the various legal and ethical issues that confront individuals and companies in starting up new ventures, either within an existing company or a new start-up company.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BLAW 348",
+            "Title": "White Collar Crime",
+            "Number_of_credits": "Credits",
+            "Description": "Examines the current federal and local criminal codes as they apply specifically to managers and businesses and the enforcement process.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BLAW 356",
+            "Title": "Legal Issues in Corporate Governance",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines the current legal and regulatory environment of corporate governance in the United States. The principal actors in a corporation\u2019s governance structure (directors, officers and shareholders) and their roles and responsibilities will be examined. The sources of corporate governance, including laws and regulations, case law, and internal policies and procedures, are studied as well. The course also will analyze and consider the role and applicability of corporate governance in specific case studies and fact patterns, such as Enron and WorldCom.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BLAW 358",
+            "Title": "Employment Law",
+            "Number_of_credits": "Credits",
+            "Description": "This class introduces students to the laws of the workplace in order to provide familiarity with common legal issues that arise in the employment context. The course examines issues such as who is an employee versus an independent contractor, when and for what reasons an employer can fire an employee, what anti-discrimination laws regulate the workplace (including Title VII of the Civil Rights Act of 1964, the ADEA and the ADA) and privacy concerns in the workplace. The course informs students of their rights as employees in the workplace as well as their responsibilities as employers. At the conclusion of the course, students should have an understanding of the basic laws that protect employees and regulate employers in the workplace.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BLAW 360",
+            "Title": "Intellectual Property and Cyber Law",
+            "Number_of_credits": "Credits",
+            "Description": "This course presents an overview of the Law of Intellectual Property. It examines patents, copyrights, trademarks and trade secrets together with public policy issues including the Constitution and legislation. It also reviews current regulation and legislation relating to the Internet, including privacy and tort issues.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BLAW I199",
+            "Title": "Independent Study in Legal Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BLAW I299",
+            "Title": "Independent Study in Legal Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BLAW I399",
+            "Title": "Independent Study in Legal Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BLAW I499",
+            "Title": "Independent Study in Legal Studies",
+            "Number_of_credits": "Credit",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BLAW T180",
+            "Title": "Special Topics in Legal Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BLAW T280",
+            "Title": "Special Topics in Legal Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BLAW T380",
+            "Title": "Special Topics in Legal Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BLAW T480",
+            "Title": "Special Topics in Legal Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

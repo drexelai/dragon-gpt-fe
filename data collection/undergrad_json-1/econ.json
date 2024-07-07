@@ -1,0 +1,335 @@
+[
+      {
+            "Identifier": "ECON 201",
+            "Title": "Principles of Microeconomics",
+            "Number_of_credits": "Credits",
+            "Description": "What is produced in an economy? How is it produced? Who gets the product? When do markets succeed or fail? To answer these and many other fundamental questions related to the real-world behavior of consumers and firms, this course will teach you how to think like an economist. It will introduce you to economics and microeconomic theory with an emphasis on policy and empirical applications. You will develop skills, insights, and working knowledge of economics that are crucial for successful decisions by consumers, business executives, policymakers, entrepreneurs, and global leaders.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECON 202",
+            "Title": "Principles of Macroeconomics",
+            "Number_of_credits": "Credits",
+            "Description": "Examines measurement, growth, and fluctuation of aggregate economic activity. Includes national income accounting and explains determination of output, employment, and price level. Also provides an introduction to international economics, money and banking, and economic policy. Some or all pre-requisites may be taken as either a pre-requisite or co-requisite. Please see the department for more information.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECON 201 [Min Grade: D] (Can be taken Concurrently)"
+      },
+      {
+            "Identifier": "ECON 203   [WI]",
+            "Title": "Survey of Economic Policy",
+            "Number_of_credits": "Credits",
+            "Description": "This course will introduce students to the application of economic principles for a variety of policy-relevant topics covered in more advanced economics classes. Examples of applications may include the analysis of financial and economic crises, mergers, free trade agreements, social security, and unemployment.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECON 202 [Min Grade: D] (Can be taken Concurrently) and ECON 201 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECON 240",
+            "Title": "Economics of Health Care Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Examine the health care industry from an economic perspective, including demand, cost-benefit analysis, insurance, supply constraints, and the role of the government.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECON 248",
+            "Title": "Mathematical Models in Economics",
+            "Number_of_credits": "Credits",
+            "Description": "The purpose of the Mathematical Models in Economics course is to cover basic calculus optimization as applied in economics contexts to prepare students for intermediate level economics courses. While the main tools for the course are obviously math tools, they are math used in business and economic analysis, modeling, and research. The course will go over applications of unconstrained and constrained optimization to microeconomics, macroeconomics, and econometrics and make the connections between the tools we cover and their uses. That will also include both single and multi-variate calculus applications and the conditions for optimality. Economic interpretation of the math is more important than the math itself and the real focus of the course.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MATH 102 [Min Grade: C] or MATH 117 [Min Grade: C] or MATH 121 [Min Grade: C]) and ECON 201 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECON 250",
+            "Title": "Game Theory and Applications",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces the basic ideas of game theory with a minimum of mathematics; and discuses application to economics, politics, business, behavioral science, philosophy, population biology and engineering.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "STAT 201 [Min Grade: C] or STAT 205 [Min Grade: C] or MATH 107 [Min Grade: C] or MATH 310 [Min Grade: C] or MATH 311 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECON 260",
+            "Title": "Economics of Small Business",
+            "Number_of_credits": "Credits",
+            "Description": "Discusses economic topics relevant to the role and varieties of small businesses in industrialized economies, and to government policy with respect to small business.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECON 201 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECON 270",
+            "Title": "Using Big Data to Solve Economic and Social Problems",
+            "Number_of_credits": "Credits",
+            "Description": "This course shows how big data can be used to understand and address some of the most important social and economic problems of our time. The course introduces students to research questions and policy applications in economics and social science in a non-technical manner that does not require prior coursework in economics or statistics, making it suitable both for students exploring economics for the first time as well as for more advanced students. The course will cover topics such as equality of opportunity, education, innovation and entrepreneurship, health care, climate change, tax policy, globalization, and the COVID-19 pandemic. In the context of these topics, the course will also introduce the basics of data science, including regression, causal inference, and machine learning.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECON 301",
+            "Title": "Microeconomics",
+            "Number_of_credits": "Credits",
+            "Description": "Examines theory of the firm and theory of the consumer in a rigorous fashion. Also covers risk and uncertainty, price determination, market failures, and analysis of various government policies.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECON 201 [Min Grade: C] and ECON 202 [Min Grade: C] and (MATH 102 [Min Grade: C] or MATH 117 [Min Grade: C] or MATH 121 [Min Grade: C])"
+      },
+      {
+            "Identifier": "ECON 321",
+            "Title": "Macroeconomics",
+            "Number_of_credits": "Credits",
+            "Description": "Provides an in-depth introduction to dominant theories behind short-run economic fluctuations and long-run economic growth. Employs both mathematical and graphical tools to discuss determination of output, employment, and price level in the aggregate economy. Also covers effectiveness of monetary and fiscal policies in dealing with unemployment and inflation.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECON 201 [Min Grade: C] and ECON 202 [Min Grade: C] and ECON 301 [Min Grade: C] and (MATH 102 [Min Grade: C] or MATH 117 [Min Grade: C] or MATH 121 [Min Grade: C])"
+      },
+      {
+            "Identifier": "ECON 322   [WI]",
+            "Title": "Economics Seminar",
+            "Number_of_credits": "Credits",
+            "Description": "Requires research and writing of a scholarly paper on a topic in economics approved by an appointed faculty adviser.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECON 301 [Min Grade: C] and ECON 321 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECON 324",
+            "Title": "Economics of Happiness",
+            "Number_of_credits": "Credits",
+            "Description": "This course will discuss applications of survey studies of subjective well-being or \u201chappiness\u201d to economics and public policy, with some of the philosophic issues that arise from this.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECON 201 [Min Grade: D] and ECON 202 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECON 326   [WI]",
+            "Title": "Economic Ideas",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the history of economic thought and development of different schools of thinking in economics.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECON 201 [Min Grade: C] and ECON 202 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECON 330",
+            "Title": "Managerial Economics",
+            "Number_of_credits": "Credits",
+            "Description": "Covers applied economics relevant for decision-making processes. Emphasizes profit management, demand and cost analysis, pricing, and government policy.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECON 201 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECON 331",
+            "Title": "International Macroeconomics",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers fundamental issues in open economy macroeconomics. We will learn about how fiscal and monetary policy work when the economy is open to international trade in goods and services and to international capital flows. We will also study the effects of these policies on the current account and the exchange rate. The course treatment will be mainly theoretical. However, we will frequently refer to features of the international financial markets data, and we will use examples, case studies, readings, videos and policy applications to illustrate the findings of the theory and/or to try to bridge the gap between the predictions of theoretical models and real world developments.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECON 201 [Min Grade: C] and ECON 202 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECON 334",
+            "Title": "Public Finance",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores the role of government in the economy. Students will analyze the rationales for government policies as well as their implications for equity and efficiency. Much of the course will center on current policy issues related to the national debt, Social Security, education, environmental protection and taxation. Both theoretical applications and empirical findings will be discussed.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECON 201 [Min Grade: C] and (MATH 102 [Min Grade: C] or MATH 121 [Min Grade: C])"
+      },
+      {
+            "Identifier": "ECON 336",
+            "Title": "Labor Economics",
+            "Number_of_credits": "Credits",
+            "Description": "Develops an understanding of how labor institutions operate to determine wages and employment. Examines alternative policy questions involving unemployment and inflation, collective bargaining, investment in education and training, and other labor-related questions. Requires students to apply theoretical and empirical abilities to research a labor-related issue and improve the ability to think clearly and communicate effectively.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECON 201 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECON 338",
+            "Title": "Industrial Organization",
+            "Number_of_credits": "Credits",
+            "Description": "Examines observational studies of industries with respect to competitive or non-competitive structure, conduct, and performance. Considers implications of profitability, technological innovation, antitrust policy, and competitiveness in trade. Reviews problems of measurement and sources of data.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECON 201 [Min Grade: C] and (MATH 102 [Min Grade: C] or MATH 121 [Min Grade: C])"
+      },
+      {
+            "Identifier": "ECON 342",
+            "Title": "Economic Development",
+            "Number_of_credits": "Credits",
+            "Description": "Covers topics including driving forces of economic growth, economic planning, income distribution and poverty, labor migration, capital markets and saving, international debt problems and global economic crisis. Emphasizes underlying theories and realities of economic growth and development of less developed economies and emerging economies.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECON 201 [Min Grade: C] and ECON 202 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECON 344",
+            "Title": "Comparative Economic Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Covers theory and contemporary practices of capitalism, socialism, fascism, and the welfare state as economic systems.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECON 201 [Min Grade: C] and ECON 202 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECON 348",
+            "Title": "Mathematical Economics",
+            "Number_of_credits": "Credits",
+            "Description": "Discusses the application of mathematics in economic models, with extensive discussion of economic applications of linear algebra and calculus. Considers implications of the assumptions of maximization of profits and utility. Stresses mathematical models and techniques useful in statistical applications of economics.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECON 201 [Min Grade: C] and (MATH 102 [Min Grade: C] or MATH 121 [Min Grade: C])"
+      },
+      {
+            "Identifier": "ECON 350   [WI]",
+            "Title": "Applied Econometrics",
+            "Number_of_credits": "Credits",
+            "Description": "Applies statistics to economics, with emphasis on the special problems of statistical analysis of economic data, sources of data, and examples of applications and models. Covers forecasting the impacts of changing economic policy and of developments in industrial markets using economic-statistical models.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECON 201 [Min Grade: C] and ECON 202 [Min Grade: C] and (STAT 201 [Min Grade: C] or MATH 311 [Min Grade: C])"
+      },
+      {
+            "Identifier": "ECON 351",
+            "Title": "Resource and Environmental Economics",
+            "Number_of_credits": "Credits",
+            "Description": "Examines the microeconomic and quantitative aspects of markets for both renewable and exhaustible resources, and the interaction between the energy and resource sectors of the economy and between the productive sectors of the economy and the natural environment, with evaluation of major public policy initiatives and issues in these areas.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECON 201 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECON 354",
+            "Title": "Money and Banking",
+            "Number_of_credits": "Credits",
+            "Description": "This is a course about the role of money and financial intermediation in modern economies and therefore the environment in which businesses operate. The course is organized around three sets of questions. First, what is money and why is it necessary? How can seemingly worthless paper serve a key purpose in a market economy? Second, what is the role of banks, both historically and in the more complex financial system of today? What are the origins of banking panics such as those experienced at the onset of the Great Depression or during the 2007-08 financial crisis? Third, how do central banks conduct monetary policy and what types of policies should the Federal Reserve and other government agencies follow to prevent financial crises?.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECON 321 [Min Grade: C] or FIN 325 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECON 360",
+            "Title": "Time Series Econometrics",
+            "Number_of_credits": "Credits",
+            "Description": "Introduce time-series econometric models and provide tools for empirical analysis using time-series economic and financial data, with specific emphasis on application and forecasting.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECON 201 [Min Grade: D] and ECON 202 [Min Grade: D] and ECON 350 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECON 361",
+            "Title": "Health Economics",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers the economics of health and health care. Students will study how health is produced, how health insurance markets work, the government role in health care, cost benefit analysis, and the markets for medical education, pharmaceuticals and physician and hospital services. Students will learn to analyze health systems on grounds of efficiency and equity, and to assess the credibility of research in health economics and health policy. This course should be of interest to students who are interested in public policy issues surrounding health, health care, health in developing nations and health care reform.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECON 201 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECON 365",
+            "Title": "Behavioral Economics",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides a systematic introduction to behavioral economics, the field aimed at modeling and understanding how individuals make decisions based on psychological and experimental evidence. The course will introduce the main behavioral patterns underlying some of the most important areas of economic decision making. Examples include consumption and saving decisions, choice under risk, as well as social and strategic interactions. Students will also learn the models that try to explain these behaviors and their applications to policy making.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECON 201 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECON 366",
+            "Title": "Topics in Behavioral Economics",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers important topics in behavioral economics, the field aimed at modeling and understanding how individuals make decisions based on psychological and experimental evidence. The course focuses on behavioral insights about social and strategic interaction, behavioral industrial organization, behavioral economic policy and experimental economics. The course will also introduce students to empirical analysis of choice data and to the design and implementation of experiments.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECON 201 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECON 370",
+            "Title": "Experiments and Causality in Economics",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers state-of-the-art statistical techniques for identifying causal effects. Students will study these techniques by applying them to data used in published papers from a variety of fields in economics and social science (e.g. health, labor, environment, business, taxation).",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(STAT 201 [Min Grade: C] or MATH 311 [Min Grade: C]) and ECON 350 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECON I199",
+            "Title": "Independent Study in ECON",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECON I299",
+            "Title": "Independent Study in ECON",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECON I399",
+            "Title": "Independent Study in ECON",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECON I499",
+            "Title": "Independent Study in ECON",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECON T180",
+            "Title": "Special Topics in ECON",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECON T280",
+            "Title": "Special Topics in ECON",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECON T380",
+            "Title": "Special Topics in ECON",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECON T480",
+            "Title": "Special Topics in ECON",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

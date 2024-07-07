@@ -1,0 +1,443 @@
+[
+      {
+            "Identifier": "EDUC 101",
+            "Title": "Foundations in Education I: A Historical and Philosophical Perspective",
+            "Number_of_credits": "Credits",
+            "Description": "In this course students are introduced to pedagogical and philosophical concepts, theories, methods and procedures in the historical context of education in America. Students develop an understanding of how schools work and of the teaching/learning dynamic through required mentoring activities.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 104",
+            "Title": "Supporting Learners through Classroom Partnerships",
+            "Number_of_credits": "Credit",
+            "Description": "This 1-credit course works in partnership with local teachers to support Drexel students to work one-on-one and in small groups with K -12 students on particular learning goals. This course is repeatable for credit and requires background checks and clearances to work in schools.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 106",
+            "Title": "First Year Seminar: A Case of Schools and Cities",
+            "Number_of_credits": "Credit",
+            "Description": "In this course, students will examine the relationship between city school district and cities and the role of politics, race and poverty in school closings in a major US city.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 107",
+            "Title": "First Year Seminar: Exploring Pedagogies",
+            "Number_of_credits": "Credit",
+            "Description": "In this course, students will discuss the education landscape within and outside of the US focusing on the role of class, race and gender in perpetuating a range of structures and systems and the ways that many of those may not be designed to support all learners.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 108",
+            "Title": "First Year Seminar: Designing Learning Spaces",
+            "Number_of_credits": "Credit",
+            "Description": "In this course, students will examine how researchers design and implement learning activities and explore learning spaces as a way to foster engagement and youth empowerment.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 112",
+            "Title": "Integrative Instruction: Focus on World Geography",
+            "Number_of_credits": "Credits",
+            "Description": "Through the study of geography, encourages students to find a meaningful framework for understanding the system of human culture as it exists over the surface of Earth. Explores the use of technology in education.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 113",
+            "Title": "Organizational Structure of Secondary Schools",
+            "Number_of_credits": "Credits",
+            "Description": "Students will explore the organizational structure of high school programs and acquire competence in designing learner-oriented communities of practice in the classroom to foster student achievement and overall well-being.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 120",
+            "Title": "Child Development I: Typical Development",
+            "Number_of_credits": "Credits",
+            "Description": "This course addresses the multifaceted complexities of child development, through discussion of classic and emerging theories. Students will recognize and apply developmental domains of theory and research in the field of child development.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 121",
+            "Title": "Child Development II: Atypical Development",
+            "Number_of_credits": "Credits",
+            "Description": "Students will apply knowledge of typical growth and development in childhood to those children whose development is atypical. Key topics include newborn screening, patterns in development and cognitive testing. This course has a Stage 1-2 field component. Successful completion of the course and field component is required for recommendation for certification. See SoE Field Placement Office website for all clearance policy and field experience requirements.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "EDUC 120 [Min Grade: D]"
+      },
+      {
+            "Identifier": "EDUC 122",
+            "Title": "Development in Early Childhood Education",
+            "Number_of_credits": "Credits",
+            "Description": "This course addresses the multifaceted complexities of typical and atypical child development, through the discussion of classic and emerging theories. The readings and class assignments make use of research-based, real-world, and cross-cultural examples. In this course students will apply their knowledge of typical growth and development in childhood to those children whose development is atypical. The course places specific emphasis on how student develop and learn through play. An ecological systems approach will be taken to explain possible reasons for atypical and atypical developmental patterns. Systems include biological, environmental, and societal. This course has a required field experience.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 123",
+            "Title": "Adolescent Development",
+            "Number_of_credits": "Credits",
+            "Description": "This course addresses the complexities of adolescent development, through discussion of theories. It uses research-based, real-world, and cross-cultural examples. It aims to foster the student\u2019s ability to recognize and apply connections among developmental domains, theory, and research with the field of human development. This course also fosters an understanding of the organizational structure of middle and high school programs as related to the diverse set of developmental, cultural, social, and emotional needs of the adolescent learner. This course requires additional field experience hours. This course has a Stage 1-2 field component. Successful completion of the course and field component is required for recommendation for certification.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 205",
+            "Title": "Sophomore Pedagogy Seminar",
+            "Number_of_credits": "Credit",
+            "Description": "Education majors only. Builds on the freshman seminar and incorporates service learning as an instructional strategy.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated 3 times for 4 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 210",
+            "Title": "Early Language Development",
+            "Number_of_credits": "Credits",
+            "Description": "Provides preservice teachers an overview of language development in the early years of a child\u2019s life from birth to age five, in the home and school settings. Topics include; phonological awareness, acquisition of phonetic knowledge, semantic understanding and syntactic use. This course requires additional field experience hours.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 216",
+            "Title": "Diversity and Today's Teacher",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores major issues related to the increasing diversity of students in elementary and secondary classrooms in the United States. The multifaceted challenges of teaching heterogeneous student populations.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 223",
+            "Title": "Teaching the Middle School Child",
+            "Number_of_credits": "Credits",
+            "Description": "This course will explore the middle school environment, developmentally appropriate middle school programs, strategies for supporting students through the transition to middle school, and the impact of peer pressure on the middle school child. The course requires the candidate to apply theories learned inEDUC\u00a0123: Adolescent Development to the classroom setting.This course has a Stage 1-2 field component, successful completion of the field component is required for recommendation for certification. See SoE Field Placement Office website for all clearance policy and field experience requirements.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "EDUC 123 [Min Grade: D]"
+      },
+      {
+            "Identifier": "EDUC 236",
+            "Title": "Early Literacy I",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines research-validated literacy instruction and literacy interventions. Topics will include phonics, fluency, comprehension, vocabulary, and the reading-writing connection. Emphasis is placed on the scio-cultural aspects of reading. Focus is also placed on literacy instruction across the curriculum.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 305   [WI]",
+            "Title": "Junior Pedagogy Seminar",
+            "Number_of_credits": "Credit",
+            "Description": "Education majors only. Continues further exploration of relationships among service learning, content knowledge, pedagogy knowledge, learner characteristics utilizing generic influences, special needs students, and motivation techniques.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated 2 times for 3 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 306",
+            "Title": "Assessment of Young Children I",
+            "Number_of_credits": "Credits",
+            "Description": "Students will gain an understanding of the role of the assessment process in early education. Students will explore evaluation procedures and classroom-based data collection strategies for young children in inclusive education settings. Course covers 3 major functions of assessment: program planning, program monitoring and program evaluation.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 308",
+            "Title": "Creating a Positive Classroom Climate",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on the practical aspects of classroom management, school safety and other critical social issues that relate to providing a positive and productive learning environment, particularly in under-served classroom settings. Specific focus in this course will be dedicated \u201cknowing the learner\u201d, identifying individual student needs, building rapport and constructing a \u201cdemocratic classroom\u201d. Additional emphasis will be placed on teacher leadership and how each pre-service candidate will develop his/her own approach to leading and managing a PK-12 classroom.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 312",
+            "Title": "Educational Policy, Law & Advocacy",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces students to the complexities of the law and policy that shape public schooling in the U.S. Emphasis is placed on how education law and policy impact and are impacted by teachers\u2019 evolving roles, relationships, and practices. Additionally, the course provides students with foundational information and tools they will need in order to advocate, as teachers, for students and for themselves.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 314",
+            "Title": "Science Teaching Methods",
+            "Number_of_credits": "Credits",
+            "Description": "This course bridges theory and practice, providing hands-on experience in the application of constructivist learning theory to designing and delivering effective classroom experiences in the area of science.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 315",
+            "Title": "Secondary Science Teaching Methods",
+            "Number_of_credits": "Credits",
+            "Description": "Methods for teaching middle and secondary school science are explored including strategies and technologies to support student learning as defined by the state and national science standards. Inquiry-based model of learning and assessment emphasized. Theory and practice bridged to provide hands-on experiences in application of constructivist learning theory and effective classroom experiences. This course has a Stage 3 field component, successful completion of the field component is required for recommendation for certification. See SoE Field Placement Office website for all clearance policy and stage 3 field experience requirements.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 316",
+            "Title": "Teaching in Urban Contexts",
+            "Number_of_credits": "Credits",
+            "Description": "This course enables students to understand the complex conditions that have led to issues that impact urban education. The course will explore recent reform efforts focused on changing the organizational structure and curriculum. Specific emphasis will be placed on the teacher\u2019s disposition towards the learner, the impact of racism and knowledge and skills related to teaching in urban settings. This course will introduce historical references for the current condition of urban schools as well as the aspects of teaching that lead to a classroom of respect and rapport for the urban learner and his/her family.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 322",
+            "Title": "Evaluation of Instruction",
+            "Number_of_credits": "Credits",
+            "Description": "Permits students to acquire competence in new evaluation techniques, including portfolios, journals, performance assessments, individual and collaborative projects, and presentations. Covers qualitative and quantitative assessment used in measuring student achievement. Teaches techniques for grading and reporting pupils' classroom performance in cognitive, affective, and (where appropriate) motor tasks. The course is directed toward instruction in elementary and high school settings.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 324",
+            "Title": "Current Research in Curriculum & Instruction",
+            "Number_of_credits": "Credits",
+            "Description": "Examines the theories and assumptions underlying various approaches to instruction for elementary and high school teaching. Included are areas such as a) knowledge acquisition and critical reasoning in mathematics and science, b) teaching general and specific skills as related to content material, c) study skills and abilities to learn, and d) the roles of memory and metacognition in learning. Explores these processes of human cognition and learning with particular attention to how conditions that foster them might be built into materials, pedagogy, and learning environments.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 326   [WI]",
+            "Title": "Language Arts Processes",
+            "Number_of_credits": "Credits",
+            "Description": "Studies the nature of language, including phonetic, semantic, and syntactic aspects of language development, and theories of language development. Applies contemporary research to processes and problems in teaching oral and written communication. Assumes that listening, speaking, writing, and reading in the content area are integrated processes and should be taught as such.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 328",
+            "Title": "Language Arts Processes 4-8",
+            "Number_of_credits": "Credits",
+            "Description": "This course develops knowledge and competencies for teaching adolescent literacy in grades 4-8. Students will use supportive contexts, diverse texts, ongoing assessments, and technology to engage learners in developing self-directed, life-long literacy skills across all disciplines. This course has a Stage 1-2 field component, successful completion of the field component is required for recommendation for certification. See SoE Field Placement Office website for all clearance policy and field experience requirements.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 335",
+            "Title": "Engaging the Learner",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides multiple approaches to the critical linked processes of assessment, curriculum development, and inclusive instruction of all young children. Topics of study include: planning and preparation, using appropriate materials, scope and sequence and strategies for student-centered assessments.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 336",
+            "Title": "Early Literacy II",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on teaching strategies that are effective in developing students\u2019 writing abilities within a literacy rich environment. The interrelationship between reading and writing will be emphasized. This course has a Stage 3 field component. Successful completion of the course and field component is required for recommendation for certification. See SoE Field Placement Office website for all clearance policy and field experience requirements.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "EDUC 236 [Min Grade: D]"
+      },
+      {
+            "Identifier": "EDUC 338",
+            "Title": "Expressive Arts for PK-4",
+            "Number_of_credits": "Credits",
+            "Description": "The focus of this course is to teach educators to develop and incorporate relevant curriculum for the expressive arts (dance, music, theatre and visual arts) into the PK-4 classroom(s). Students will explore instructional strategies, modern technologies, stages of artistic development and multicultural art forms.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 355",
+            "Title": "Social Studies Teaching Methods",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on the effective, responsible and ethical teaching of social studies in the elementary classroom. Topics include; perspectives of social studies, curriculum standards, unit development, assessment design, integrated curriculum and technology, and teacher decision-making.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 356",
+            "Title": "Secondary Social Studies Methods",
+            "Number_of_credits": "Credits",
+            "Description": "Students will be able to identify content and appropriate pedagogy strategies for the various National Council for the Social Studies disciplinary standards for history, geography, civics, economics and psychology. Major curriculum movements and teaching diverse learners are also explored. Classroom-based experiences are required. This course has a Stage 3 field component. Successful completion of the course and field component is required for recommendation for certification. See SoE Field Placement Office website for all clearance policy and stage 3 field experience requirements.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 358",
+            "Title": "English Teaching Methods",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to support the development of pre-service teachers in the middle and secondary English/Language Arts classroom. Students will be provided opportunities to integrate and apply theories of learning, curriculum and pedagogy to instruction of English/Language Arts. Students will also be required to make connections between theory and current research to classroom instruction and examine best practices in working with struggling readers and writers in the secondary classroom. Classroom-based experiences are required. This course has a Stage 3 field component. Successful completion of the course and field component is required for recommendation for certification. See SoE Field Placement Office website for all clearance policy and stage 3 field experience requirements.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated 1 times for 6 credits",
+            "Prerequisites": "EDUC 101 [Min Grade: B]"
+      },
+      {
+            "Identifier": "EDUC 360",
+            "Title": "English/Language Arts Teaching Methods for the Middle Years",
+            "Number_of_credits": "Credit",
+            "Description": "The course prepares pre-service teachers to teach reading and writing to adolescents in middle years classrooms by providing knowledge of the literacy needs of middle level learners with emphasis on reading and writing development, methodology, assessment and accountability. The latest research findings are reflected in studies of how middle level learners require instructors to be adept at a breadth of instruction. Strategies and methods for assisting adolescents are provided as they become fluent readers and writers. This course has a Stage 3 field component, successful completion of the field component is required for recommendation for certification. See SoE Field Placement Office website for all clearance policy and stage 3 field experience requirements.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 361",
+            "Title": "Middle Years Science Methods",
+            "Number_of_credits": "Credit",
+            "Description": "This course examines the many aspects of the teaching of science in elementary schools today. The role of national and state standards (e.g., National Science Education Standards, the Next Generation of Science Standards, and the Pennsylvania State Standards) in curriculum development and reform is explored in depth. Topics covered include planning science instruction to include inquiry and integrated concepts, developing authentic assessments involving a variety of tools, creating and maintaining a safe laboratory and learning environment that meets the needs of diverse learners, and the integration of technology into science education. Successful completion of the Stage 3 field component is required for recommendation for certification. See FPO website for clearance policy and stage 3 field requirements.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 362",
+            "Title": "Middle Years Social Studies Methods",
+            "Number_of_credits": "Credit",
+            "Description": "This course prepares pre-service teachers with the skills to plan, design and teach adolescents a social studies curriculum with appropriate assessments based on national and state standards related to middle year social studies (e.g., National Council for Social Studies, PA Department of Education) encompassing geography, history, civics and government, and economics. Preparation includes exploration of adolescent development, subject matter pedagogy, assessment and intervention for students with disabilities and English Language Learners. This course has a Stage 3 field component. Successful completion of the course and field component is required for recommendation for certification. See SoE Field Placement Office website for all clearance policy and field experience requirements.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 365",
+            "Title": "Foundations in Instructing English Language Learners",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores principles and theory of second language and literacy acquisition, billingualism, academic language competence and linguistics, and instructional approaches based on these principles. This course has a Stage 1-2 field component. Successful completion of the course and field component is required for recommendation for certification. See SoE Field Placement Office website for all clearance policy and field experience requirements.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 405",
+            "Title": "Senior Pedagogy Seminar",
+            "Number_of_credits": "Credit",
+            "Description": "Education majors only. Focuses on the teacher as a researcher. Presents descriptions of collaborations between university faculty and faculty from K-12 schools and discusses student involvement in learning and pedagogy issues.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated 2 times for 3 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 409   [WI]",
+            "Title": "Student Teaching Seminar I",
+            "Number_of_credits": "Credits",
+            "Description": "This course is part one of a two-course requirement specifically aligned with the teacher candidate\u2019s full-time, twenty-four week Student Teaching experience. The course is designed to develop one\u2019s teaching knowledge and strengths through classroom practice, supervision and reflective practice. In this seminar, students will share experiences through reflective journaling, discuss best practices in instruction, learn about resources, reflect on what is being encountered in the field and begin to construct professional teaching portfolios. Through this course candidates will be evaluated according to the four domains of effective teaching and learning, which include; planning and preparation, instructional delivery, the classroom environment and professionalism. Clearances/Stage 4 Field Placement Appl. req'd.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 410   [WI]",
+            "Title": "Student Teaching",
+            "Number_of_credits": "Credits",
+            "Description": "The second 12-week stage 4 Student Teaching field experience that approximates full time classroom teaching and related activities; it is designed to allow the candidate to demonstrate competencies necessary for certification. See SoE Field Placement Office website for all clearance policy and stage 4 field experience requirements.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC 411",
+            "Title": "Family and Community Partnerships",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on the process of family assessment and intervention, issues of family and professional collaboration and diversity, and methods of promoting adult communication and management strategies. It applies knowledge of socio-cultural and political contexts as they relate to the family, culture and society.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC I199",
+            "Title": "Independent Study in EDUC",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC I299",
+            "Title": "Independent Study in EDUC",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC I399",
+            "Title": "Independent Study in EDUC",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC I499",
+            "Title": "Independent Study in EDUC",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC T180",
+            "Title": "Special topics in EDUC",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC T280",
+            "Title": "Special topics in EDUC",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC T380",
+            "Title": "Special topics in EDUC",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EDUC T480",
+            "Title": "Special topics in EDUC",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

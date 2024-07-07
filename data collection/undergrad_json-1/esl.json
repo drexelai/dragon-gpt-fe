@@ -1,0 +1,524 @@
+[
+      {
+            "Identifier": "ESL 001",
+            "Title": "Foundations of University Study",
+            "Number_of_credits": "Credits",
+            "Description": "High intermediate to advanced English as a second language course. This course provides ESL students with a foundation for University success through developing academic communication skills and strategies and promoting awareness of the academic and co-curricular culture of the American university.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 1 times for 0 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 002",
+            "Title": "Foundations of Academic Writing",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces ESL students to the academic essay and the process approach to writing as well as reading for different purposes.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 003",
+            "Title": "Foundations of Academic Reading",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces ESL students to the skills of critical reading for information, specifically summarizing and evaluating source material.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 004",
+            "Title": "International Gateway Foundations of Academic Writing for Chemistry 201",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides International Gateway students with support for success in theCHEM\u00a0201course through developing academic skills and strategies to participate in the sciences.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 010",
+            "Title": "Listening and Speaking I",
+            "Number_of_credits": "Credits",
+            "Description": "Low beginning English as a second language. Provides intensive instruction in the development of the following skills: speaking and listening in everyday situations, vocabulary, pronunciation, and grammatical functions. Placement testing is required. Offered all terms. 7.5-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 011",
+            "Title": "Reading and Writing I",
+            "Number_of_credits": "Credits",
+            "Description": "Low beginning English as a second language. Provides intensive instruction in the development of the following skills: reading comprehension, simple inferring, basic vocabulary development, sentence and paragraph writing, basic grammatical structures, and the ability to communicate ideas orally and in writing. Placement testing is required. Offered all terms. 7.5-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 012",
+            "Title": "English in Everyday Life",
+            "Number_of_credits": "Credits",
+            "Description": "Low beginning English as a second language. Prepares students who have trouble talking with and understanding native English speakers in everyday situations such as going to the store or the bank, asking for directions, using the telephone, etc. Placement testing is required. Offered all terms. 3-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 013",
+            "Title": "Beginning Grammar",
+            "Number_of_credits": "Credits",
+            "Description": "Beginning English as a second language. Provides instruction and practice in such areas of English grammar as simple verb tenses, sentence structure, modals, and irregular verbs. Placement testing is required. Offered all terms.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 020",
+            "Title": "Listening and Speaking II",
+            "Number_of_credits": "Credits",
+            "Description": "High beginning English as a second language. Provides intensive instruction in the development of the following skills: speaking and listening (participating actively in spoken interactions and responding appropriately), vocabulary related to topics in the course, pronunciation and intonation patterns, and grammatical functions. Placement testing is required. Offered all terms. 7.5-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 021",
+            "Title": "Reading and Writing II",
+            "Number_of_credits": "Credits",
+            "Description": "High beginning English as a second language. Provides intensive instruction in the development of the following skills: reading comprehension, inferring, vocabulary development, non-academic paragraph writing, basic grammatical structures and mechanics, and the ability to communicate ideas orally and in writing. Placement testing is required. Offered all terms. 7.5-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 022",
+            "Title": "Pronunciation and Conversation",
+            "Number_of_credits": "Credits",
+            "Description": "High beginning to low intermediate English as a second language. Emphasizes vocabulary, pronunciation, and idioms. Gives students a chance to improve and practice their spoken communication skills. Placement testing is required. Offered all terms. 3-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 023",
+            "Title": "Intermediate Grammar III",
+            "Number_of_credits": "Credits",
+            "Description": "Low intermediate English as a second language course. Provides instruction and practice in such areas as present, past, and future tense verbs, question structures, nouns and pronouns, and modals. Placement testing is required. Offered as needed. 3-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 024",
+            "Title": "Presentations with Stories & Legends",
+            "Number_of_credits": "Credits",
+            "Description": "Beginning to low intermediate. English as a second language. Provides instruction and practice in reading comprehension, writing, listening, and presentations using stories from a variety of sources. Placement testing is required.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 030",
+            "Title": "Listening and Speaking III",
+            "Number_of_credits": "Credits",
+            "Description": "Low intermediate English as a second language. Provides intensive instruction in the development of the following skills: pronunciation (sounds, stress, intonation), vocabulary, listening/speaking (participating and responding appropriately in discussions, following directions, completing listening activities), grammatical competence, and repair of communication breakdown. Placement testing is required. Offered all terms. 7.5-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 031",
+            "Title": "Reading and Writing III",
+            "Number_of_credits": "Credits",
+            "Description": "Low intermediate English as a second language. Provides intensive instruction in the development of the following skills: reading comprehension, inferring, vocabulary development, academic paragraph and essay format, grammatical structures and mechanics, and the ability to communicate ideas orally and in writing. Placement testing is required. Offered all terms. 7.5-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 032",
+            "Title": "English for Business Purposes",
+            "Number_of_credits": "Credits",
+            "Description": "Intermediate English as a second language. Provides communication skills needed to do business with English speakers. Topics include small talk and telephone skills, participation in business meeting, presentations, communication through business letters and memos, and business negotiation. Placement testing is required. Offered all terms. 3-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 034",
+            "Title": "Understanding the News Media",
+            "Number_of_credits": "Credits",
+            "Description": "Intermediate to advanced English as a second language. Emphasizes listening, discussion, and reading skills as students learn to read newspaper articles and listen to news from a variety of sources. Provides instruction on how the news is made and evaluated. Placement testing is required.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 035",
+            "Title": "Intermediate Vocabulary Development",
+            "Number_of_credits": "Credits",
+            "Description": "Intermediate English as a second language course. Provides strategies to improve academic, general, and technical vocabulary; to discover common roots in English words; and to improve reading skills. Placement testing is required. Offered all terms. 3-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 036",
+            "Title": "TOEFL iBT Listening & Speaking",
+            "Number_of_credits": "Credits",
+            "Description": "High intermediate to advanced English as a second language. Prepares students to take the Internet-based TOEFL (Test of English as a Foreign Language) for academic purposes. Provides instruction in the listening and speaking sections of the TOEFL. Placement testing is required.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 1 times for 6 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 037",
+            "Title": "Intermediate Grammar IV",
+            "Number_of_credits": "Credits",
+            "Description": "High intermediate English as a second language course. Provides instruction and practice in such areas as comparative structures, passive voice, gerunds and infinitives, and clause structures. Placement testing is required. Offered as needed. 3-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 038",
+            "Title": "Intermediate Exploring American Life & Language",
+            "Number_of_credits": "Credits",
+            "Description": "Intermediate English as a second language course. Students evaluate aspects of United States culture and history as presented in selected drama, literature, and music. Additional presentations and writing assignments support development of fluency in speaking and writing skills. Placement testing for this course is required. 3-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 040",
+            "Title": "Listening and Speaking IV",
+            "Number_of_credits": "Credits",
+            "Description": "High intermediate English as a second language. Provides intensive instruction in the development of the following skills: pronunciation/fluency (sounds, stress, intonation, linking, phrasing), vocabulary, listening/speaking (participate appropriately in spoken interactions, understand news, mini-lectures), repair of communication breakdown, and grammatical competence. Placement testing is required. Offered all terms. 7.5-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 041",
+            "Title": "Writing and Grammar 4",
+            "Number_of_credits": "Credits",
+            "Description": "Writing and Grammar level 4 is a low-intermediate English as a second language course (CEFR Level B1), which is designed to prepare students to write extended paragraphs in several common modes. This is the fourth course in an eight-course sequence on developing writing skills. Students have to complete level three or take a placement exam before taking this course. Successful completion of this course is necessary to enroll in the next level. Offered all terms. 7.5-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 042",
+            "Title": "Reading and Vocabulary 4",
+            "Number_of_credits": "Credits",
+            "Description": "Reading and Vocabulary level 4 is a low-intermediate English as a second language course (CEFR Level B1), which is designed to prepare students to read and comprehend adapted basic readings. This is the fourth course in an eight-course sequence on developing academic reading skills. Students have to complete level three or take a placement exam before taking this course. Successful completion of this course is necessary to enroll in the next level. Offered all terms. 6-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 3 times for 0 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 043",
+            "Title": "Intermediate Presentation Skills",
+            "Number_of_credits": "Credits",
+            "Description": "Intermediate English as a second language course. Provides instruction on preparing, delivering, and evaluating presentations. Explores ways to engage audience and improve performance. Builds confidence through speaking skill development. Placement testing is required. Offered all terms. 3-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 044",
+            "Title": "Skills for College Success",
+            "Number_of_credits": "Credits",
+            "Description": "High intermediate to advanced English as a second language. Addresses academic skills topics such as listening to lectures and note taking, reading textbooks and synthesizing information, conducting research, and expanding awareness of the United States academic environment. Placement testing is required. Offered all terms.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 1 times for 0 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 045",
+            "Title": "TOEIC Preparation 4-6",
+            "Number_of_credits": "Credits",
+            "Description": "High intermediate to advanced English as a second language. Introduces skills and strategies that are helpful in taking the TOEIC test. Improves listening and reading comprehension skills. Focuses on analyzing types of test questions commonly asked and learning strategies for answering the questions. Placement testing is required. Offered all terms. 3-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 048",
+            "Title": "TOEFL iBT  Reading & Writing",
+            "Number_of_credits": "Credits",
+            "Description": "High Intermediate to advanced English as a second language. Prepares students to take the Internet Based TOEFL (Test of English as a Foreign Language) for academic purposes. Provides instruction in the reading and writing sections of the TOEFL. Placement testing is required.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 049",
+            "Title": "Intermediate Pronunciation and Conversation",
+            "Number_of_credits": "Credits",
+            "Description": "Intermediate English as a second language course. Provides instruction on pronunciation, word stress, and intonation. Gives students a chance to improve and practice their spoken communication skills. Placement testing is required. Offered all terms. 3-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 050",
+            "Title": "Listening and Speaking V",
+            "Number_of_credits": "Credits",
+            "Description": "Low advanced English as a second language. Provides intensive instruction in the development of the following skills: pronunciation/fluency (ease, speed, smoothness of speaking), vocabulary, listening/speaking (participate appropriately in spoken interactions, understand news reports, lectures), repair of communication breakdown, and grammatical competence. Placement testing is required. Offered all terms. 7.5-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 051",
+            "Title": "Writing and Grammar 5",
+            "Number_of_credits": "Credits",
+            "Description": "Writing and Grammar level 5 is an intermediate English as a second language course (CEFR Level B1+), which is designed to prepare students to write multi-draft five-paragraph essays in several common modes. This is the fifth course in an eight-course sequence on developing writing skills. Students have to complete level four or take a placement exam before taking this course. Successful completion of this course is necessary to enroll in the next level. Offered all terms. 7.5-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 3 times for 0 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 052",
+            "Title": "Reading and Vocabulary 5",
+            "Number_of_credits": "Credits",
+            "Description": "Reading and Vocabulary level 5 is an intermediate English as a second language course (CEFR Level B1+), which is designed to prepare students to read and respond to adapted readings. This is the fifth course in an eight-course sequence on developing academic reading skills. Students have to complete level four or take a placement exam before taking this course. Successful completion of this course is necessary to enroll in the next level. Offered all terms. 6-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 3 times for 0 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 055",
+            "Title": "Strategies for Academic Reading",
+            "Number_of_credits": "Credits",
+            "Description": "Advanced English as a second language. Improves reading comprehension. Provides skills for defining and identifying main and supporting ideas, recognizing transitional words and their role in meaning, and finding organizational patterns. Explores the authors' purpose, opinion, and tone. Placement testing is required. Offered as needed. 3-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 056",
+            "Title": "GMAT Preparation 5-6",
+            "Number_of_credits": "Credits",
+            "Description": "Advanced English as a second language. Provides instruction for GMAT reading. Offers strategies to identify key parts of an argument and reviews grammatical and stylistic rules in the sentence correction section. Analyses arguments. Provides instruction for essay writing. Placement testing is required. Offered as needed. 3-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 057",
+            "Title": "Advanced Vocabulary and Idioms",
+            "Number_of_credits": "Credits",
+            "Description": "Advanced English as a second language. Provides strategies to improve idiomatic language using authentic sources from a variety of media. Placement testing is required.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 058",
+            "Title": "Advanced Exploring American Life & Language",
+            "Number_of_credits": "Credits",
+            "Description": "Advanced English as a second language course. Students evaluate aspects of United States culture and history as presented in selected drama, literature, and music. Additional presentations and writing assignments support development of fluency in speaking and writing skills. Placement testing for this course is required. 3-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 060",
+            "Title": "Listening and Speaking VI",
+            "Number_of_credits": "Credits",
+            "Description": "Advanced English as a second language. Provides intensive content-based instruction in the development of the following skills: pronunciation/fluency (ease, speed, smoothness of speaking), vocabulary, listening/speaking (participate appropriately in spoken interactions, understand news reports, lectures), grammatical competence, repair of communication breakdown. Placement testing is required. Offered all terms. 7.5-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 061",
+            "Title": "Writing and Grammar 6",
+            "Number_of_credits": "Credits",
+            "Description": "Writing and Grammar level 6 is an intermediate English as a second language course (CEFR Level B2), which is designed to prepare students to write extended multi-draft essays in a variety of different modes. This is the sixth course in an eight-course sequence on developing writing skills. Students have to complete level five or take a placement exam before taking this course. Successful completion of this course is necessary to enroll in the next level. Offered all terms. 7.5-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 3 times for 0 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 062",
+            "Title": "Reading and Vocabulary 6",
+            "Number_of_credits": "Credits",
+            "Description": "Reading and Vocabulary level 6 is an intermediate English as a second language course (CEFR Level B2), which is designed to prepare students to read and respond to adapted readings. This is the sixth course in an eight-course sequence on developing academic reading skills. Students have to complete level five or take a placement exam before taking this course. Successful completion of this course is necessary to enroll in the next level. Offered all terms. 6-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 3 times for 0 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 063",
+            "Title": "Advanced Grammar VI",
+            "Number_of_credits": "Credits",
+            "Description": "High advanced English as a second language course. Provides instruction and practice in such areas as usage of passive tense, noun clauses, adjective clauses, gerunds and infinitives, and conditional sentences. Placement testing is required. Offered all terms. 3-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 064",
+            "Title": "Advanced Presentation Skills",
+            "Number_of_credits": "Credits",
+            "Description": "Advanced English as a second language course. Provides instruction on preparing, delivering, and evaluating presentations. Explores ways to engage audience and improve performance. Builds confidence through speaking skill development. Placement testing is required. Offered all terms. 3-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 067",
+            "Title": "Language of Science Technology Engineering and Mathematics",
+            "Number_of_credits": "Credits",
+            "Description": "High intermediate to advanced English as a second language course. Provides instruction on building academic vocabulary, reading, and oral skills by incorporating authentic materials from a variety of STEM (Science, Technology, Engineering & Math) fields.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 068",
+            "Title": "Language of Media and Design",
+            "Number_of_credits": "Credits",
+            "Description": "High Intermediate-Advanced Listening & Speaking. Develops English as a second language communicative fluency in design-related concepts and vocabulary through the use of authentic materials and experiences.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 1 times for 0 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 069",
+            "Title": "Advanced Pronunciation and Conversation",
+            "Number_of_credits": "Credits",
+            "Description": "Advanced Intermediate English as a second language course. Provides instruction on pronunciation, word stress, and intonation. Gives students a chance to improve and practice their spoken communication skills. Placement testing is required. Offered all terms. 3-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 070",
+            "Title": "Listening and Speaking 7",
+            "Number_of_credits": "Credits",
+            "Description": "Listening and Speaking level 7 is a high-intermediate English as a second language course (CEFR Level B2+), which is designed to provide intensive instruction in the development of aural and oral skills necessary for academic discussions and presentations. This is the seventh course in an eight-course sequence on developing academic listening and speaking skills. Students have to complete level six or take a placement exam before taking this course. Successful completion of this course is necessary to enroll in the next level. Offered all terms. 7.5-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 3 times for 0 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 071",
+            "Title": "Writing and Grammar 7",
+            "Number_of_credits": "Credits",
+            "Description": "Writing and Grammar level 7 is a high-intermediate English as a second language course (CEFR Level B2+), which is designed to prepare students to transition into academic writing. This is the seventh course in an eight-course sequence on developing writing skills. Students have to complete level six or take a placement exam before taking this course. Successful completion of this course is necessary to enroll in the next level. Offered all terms. 7.5-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 3 times for 0 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 072",
+            "Title": "Reading and Vocabulary 7",
+            "Number_of_credits": "Credits",
+            "Description": "Reading and Vocabulary level 7 is a high-intermediate English as a second language course (CEFR Level B2+), which is designed to prepare students to read and analyze extended articles written for a general audience. This is the seventh course in an eight-course sequence on developing academic reading skills. Students have to complete level six or take a placement exam before taking this course. Successful completion of this course is necessary to enroll in the next level. Offered all terms.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 3 times for 0 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 073",
+            "Title": "Introduction to Business Research",
+            "Number_of_credits": "Credits",
+            "Description": "High-intermediate to advanced level English as a second language. Introduces students to the research process of business related topics and exposes them to American culture and conversation through interaction. Offered as needed. 7.5-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 074",
+            "Title": "IELTS Listening and Speaking",
+            "Number_of_credits": "Credits",
+            "Description": "High intermediate to advanced English as a second language. Prepares students to take the IELTS (International English Language Testing System) for academic and professional purposes. Provides instruction in the listening and speaking sections of the IELTS test. Placement testing is required.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 075",
+            "Title": "IELTS Reading and Writing",
+            "Number_of_credits": "Credits",
+            "Description": "High intermediate to advanced English as a second language. Prepares students to take the IELTS (International English Language Testing System) for academic and professional purposes. Provides instruction in the reading and writing sections of IELTS. Placement testing is required.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 076",
+            "Title": "IELTS (International English Language Testing System) Test Preparation All Skills",
+            "Number_of_credits": "Credits",
+            "Description": "High intermediate to advanced English as a second language. Prepares students to take the IELTS (International English Language Testing System) for academic and professional purposes. Provides instruction in the listening, speaking, reading, and writing sections of the IELTS test. Placement testing is required.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 1 times for 0 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 080",
+            "Title": "Listening and Speaking 8",
+            "Number_of_credits": "Credits",
+            "Description": "Listening and Speaking level 8 is an advanced English as a second language course (CEFR Level C1), which is designed to prepare students to acquire aural and oral skills for academic discussions and presentations at the undergraduate or graduate level. This is the final course in an eight-course sequence on developing listening and speaking skills. Students have to complete level seven or take a placement exam before taking this course. Successful completion of this course will result in the successful completion of the IEP listening and speaking. Offered all terms. 7.5-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 3 times for 0 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 081",
+            "Title": "Writing and Grammar 8",
+            "Number_of_credits": "Credits",
+            "Description": "Writing and Grammar level 8 is an advanced English as a second language course (CEFR Level C1), which is designed to prepare students to write at the undergraduate or graduate level. This is the final course in an eight-course sequence on developing writing skills. Students have to complete level seven or take a placement exam before taking this course. Successful completion of this course will result in completion of IEP writing and grammar. Offered all terms. 7.5-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 3 times for 0 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 082",
+            "Title": "Reading and Vocabulary 8",
+            "Number_of_credits": "Credits",
+            "Description": "Reading and Vocabulary level 8 is an advanced English as a second language course (CEFR Level C1), which is designed to prepare students to read academic texts for undergraduate and graduate study. This is the final course in an eight-course sequence on developing academic reading skills. Students have to complete level seven or take a placement exam before taking this course. Successful completion of this course will result in completion of IEP reading and vocabulary. Offered all terms. 6-0-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 3 times for 0 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 090",
+            "Title": "English for Medical Purposes",
+            "Number_of_credits": "Credits",
+            "Description": "High intermediate to advanced English as a second language. Develops participants' communication skills in medical context. Provides an overview of the American healthcare system and the dynamics of the different participants involved in the system. Placement testing is necessary. Offered as needed. 2.5-2.5-0.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 091",
+            "Title": "Special Topics in English Language & Culture",
+            "Number_of_credits": "Credits",
+            "Description": "This course is a beginning to advanced English as a second language course. The focus is on specific issues in English structure and usage. It includes issues of discourse, sociolinguistics, and culture. The course may run from 1 to 10 weeks depending on special program cohort needs. Topics may vary.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 110",
+            "Title": "Introduction to Academic Discourse",
+            "Number_of_credits": "Credits",
+            "Description": "The course prepares students for courses requiring English academic communication. The course provides a review of English grammar, an introduction to academic writing,reading, and academic support services. Opportunities to interact with other members of the university community are provided. By departmental approval only.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 1 times for 6 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESL 180",
+            "Title": "Topics in English for Academic Purposes",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on the academic discourse of a particular genre and/or content area in English for Specific Purposes or English for Academic Purposes.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 5 times for 12 credits",
+            "Prerequisites": "Null"
+      }
+]

@@ -1,0 +1,722 @@
+[
+      {
+            "Identifier": "ENVS 101",
+            "Title": "Introduction to Environmental Science",
+            "Number_of_credits": "Credits",
+            "Description": "Students will be introduced to a variety of disciplines and techniques necessary to effectively study local stream, marsh, lake, and terrestrial ecosystems. Students will examine the physical, chemical, and biological elements with these ecosystems with an emphasis on biological elements. Some of the field experiences will include learning how to sample algae, higher plants, invertebrates, fish and salamanders, and methods for surveying and monitoring marshes and selected physical and chemical measurements.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS 102",
+            "Title": "Natural History, Research and Collections",
+            "Number_of_credits": "Credits",
+            "Description": "Students will learn about the scope, nature and uses of the specimen collection, methods of collection care, maintenance and growth for different taxonomic groups. Students will learn how biodiversity research questions and projects are conceived and implemented. Students will observe and collect specimens and data, and begin to learn analyses and publication of results. Students will gain an appreciation for the role of natural history collections in modern research.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS 108",
+            "Title": "Excel for Ecological Data Analysis",
+            "Number_of_credits": "Credit",
+            "Description": "This is a basic course in the use of Excel for data management and analysis. Assuming little prior knowledge of Excel, the course focuses on analyses typically performed by environmental scientists and biologists. Lectures, exercises, and all graded materials will focus on using Excel on laptops.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS 160",
+            "Title": "Environment in the News",
+            "Number_of_credits": "Credits",
+            "Description": "This course is an examination of how environmental topics are covered by popular news media. Students will learn the science that is being discussed by current news outlets. Topics will vary by term but may include: natural disasters, environmental policy and regulation, global warming and climate change, habitat loss, species extinction. Students will review and discuss current news articles and relevant scientific publications.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS 169",
+            "Title": "Environmental Science",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an introduction to environmental problems and their causes, cultural changes, worldviews, ethics and environment. It covers such topics as science, matter and energy, ecosystems and how they work, air and air pollution, climate, global warming, and ozone loss, waste minerals and soil, solid, toxic and hazardous wastes, protecting food sources and energy resources.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS 201",
+            "Title": "Practical Identification of Plants and Animals",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides instruction and hands on experience in using print and online taxonomic keys, field guides and reference collections of real specimens for identification of plants, animals and fungi. The emphasis is on the flora and fauna of the Philadelphia region and learning how to use identification tools in the field and lab. The main objective is to have students understand the importance of accurate identification of organisms and to develop basic knowledge and skills that can be extended and applied to organisms widely.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BIO 124 [Min Grade: D] or BIO 132 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 202",
+            "Title": "Tree of Life",
+            "Number_of_credits": "Credits",
+            "Description": "This course reviews the diversity of life in the context of phylogenetic history as the organizing principle. The course emphasizes recent discoveries of living and fossil taxa, breakthroughs and controversies in resolving relationships, and the key evolutionary innovations in eukaryotes, such as multicellularity, major shifts in habitat, parasitism, symbiosis, and complex morphological novelties.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BIO 124 [Min Grade: D] or BIO 132 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 203",
+            "Title": "The Watershed Approach",
+            "Number_of_credits": "Credits",
+            "Description": "Students will integrate several disciplines of study to compare an urbanized to a non-urbanized stream ecosystem. All elements of the stream ecosystem and its watershed will be examined. Field experience will include learning how to assess the physical properties of a stream, measure and monitor water quality, sample invertebrates and vertebrates.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVS 101 [Min Grade: D] or BIO 126 [Min Grade: D] or BIO 133 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 212",
+            "Title": "Evolution",
+            "Number_of_credits": "Credits",
+            "Description": "Aspects of the fact of evolution are discussed in class, including early evolutionary thought, pivotal moments in the history of life, and evidences for evolution from fossils, genetics, and living organisms. Key concepts include natural selection, speciation, adaptation, vicariance, inclusive fitness, and evodevo. Non-scientific arguments pertaining to evolution are refuted.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BIO 100 [Min Grade: D] or BIO 101 [Min Grade: D] or BIO 107 [Min Grade: D] or BIO 109 [Min Grade: D] or BIO 124 [Min Grade: D] or BIO 132 [Min Grade: D] or BIO 141 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 223",
+            "Title": "Foraging for Edible Plants",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores the historical and contemporary reasons why humans forage for edible plants. There will be discussion about modern diets in a global agricultural world, and common pervasive myths about the dangers of foraging for wild plants. During this course, students will learn about how to identify species of edible plants, and recognize poisonous plants of the region.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS 226",
+            "Title": "Discoveries in Animal Behavior",
+            "Number_of_credits": "Credits",
+            "Description": "The course explores the incredible diversity of animal behavior using specially selected examples of recent research findings. It focuses on the adaptiveness of behavior: how animals solve problems posed by their physical and social environments. We will consider implications of research on other species for understanding our own (human) behavior. Non-majors only.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS 230",
+            "Title": "General Ecology",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines how organisms interact with the biological and physical world and bridges the natural sciences with the social sciences. Using evolutionary theory as its basis, this course will cover topics spanning multiple levels of organization within the science of ecology.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BIO 126 [Min Grade: D] or BIO 141 [Min Grade: D] or BIO 101 [Min Grade: D] or BIO 109 [Min Grade: D] or BIO 133 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 247",
+            "Title": "Native Plants and Sustainability",
+            "Number_of_credits": "Credits",
+            "Description": "Plants are an integral part of our daily lives in nearly every way, directly or indirectly. Increasingly, our landscapes are becoming dominated with species that are introduced from other parts of the world (intentionally or by accident), displacing many of the species that were once key components of our ecosystems. The impacts of the loss of native plants are profound. This course will give students an overview of the many reasons why native plants are critically important to us, and the problems that arise when non-native plants replace them. There will be discussions about topics ranging from evolutionary theory, conservation, agriculture, public health, nutrition, and more.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS 254",
+            "Title": "Invertebrate Morphology and Physiology",
+            "Number_of_credits": "Credits",
+            "Description": "Provides comparative study of the major invertebrate groups, relationships between physiology and organismal structure, phylogenetic relationships and classification, development, and life histories.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BIO 100 [Min Grade: D] or BIO 101 [Min Grade: D] or BIO 107 [Min Grade: D] or BIO 109 [Min Grade: D] or BIO 124 [Min Grade: D] or BIO 133 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 255",
+            "Title": "Invertebrate Morphology and Physiology Lab",
+            "Number_of_credits": "Credits",
+            "Description": "This laboratory course provides a comparative study of the morphology of representative species from the major invertebrate groups. How their structural features relate to their physiology and behavior is emphasized. Identification of species, examining phylogenetic relationships, and understanding life histories will relate organisms to their ecological roles.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS 260",
+            "Title": "Environmental Science and Society",
+            "Number_of_credits": "Credits",
+            "Description": "This course is a multidisciplinary introduction to the range of disciplines that make up the environmental sciences. The aim of this course is to provide an understanding of basic physical, ecological and social sciences that focus on the study on the natural environment and its interaction with human society.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS 275",
+            "Title": "Global Climate Change",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides a multidisciplinary introduction to the science of global climate change. It focuses on the scientific evidence for climate change, its impact on natural systems, and actions that can be taken to mitigate climate change.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS 284",
+            "Title": "Physiological and Population Ecology",
+            "Number_of_credits": "Credits",
+            "Description": "Examines the role of physiological adaptation in the ecology of plants and animals and the principles of population biology as applied to biological systems.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BIO 126 [Min Grade: D] or BIO 133 [Min Grade: D] or ENVS 230 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 286",
+            "Title": "Community and Ecosystem Ecology",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces the principles of community and ecosystem ecology. Emphasizes the role of community structure and ecosystem organization in the ecology of plants and animals.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BIO 126 [Min Grade: D] or BIO 133 [Min Grade: D] or ENVS 230 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 289",
+            "Title": "Global Warming, Biodiversity and Your Future",
+            "Number_of_credits": "Credits",
+            "Description": "Human induced global warming is changing the physical environment, ecological systems, and human systems around the world. We will explore causes, effects, and consequences of global warming using NASA satellite information and current scientific and semi-popular writings. Students will understand the implications of global climate change for their futures.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS 302",
+            "Title": "Environmental Chemistry Laboratory",
+            "Number_of_credits": "Credits",
+            "Description": "In this curse students will learn basic techniques for chemical analysis of environmental samples, including biological material, water and soil. Students will also learn to utilize more manual methods but will also use electronic data acquisition systems and further develop their scientific writing skills.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 103 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 304",
+            "Title": "Energy and the Environment: Iceland",
+            "Number_of_credits": "Credits",
+            "Description": "This course studies how an economy and culture changes when it switches from fossil to alternative energy. In the last 30 years Iceland has switched from a poor country fueled by fossil fuels to one of the wealthiest nations in Europe, with only 20 percent of its energy coming from fossil fuels. In this class students will synthesize data/knowledge into flow diagrams of the economy of Iceland and then use the synthesis to understand the impacts of energy development and extraction on the environment and society.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS 305",
+            "Title": "Iceland Intensive: Green Energy",
+            "Number_of_credits": "Credit",
+            "Description": "Students will attend an intensive course in Iceland on energy plants and their impact on the environment. The course in Iceland will bring students to various energy facilities to examine their operation and better understand how these facilities impact the environment and serve society. Before each tour of a power plant students will attend a lecture at Reykjavik University on power production and its role in fueling economies and its potential impacts on the environment.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS 308",
+            "Title": "GIS and Environmental Modeling",
+            "Number_of_credits": "Credits",
+            "Description": "Students will learn how to write computer programs to read data directly from digital maps and then perform various spatial analyses and modeling tasks. The class will include an introduction to spatial- and geo-statistics; techniques for determining ecological riches of organisms; methods for modeling basic forcing factors such as solar radiation, water temperature; approaches for modeling the flow of water in a landscape; and ultimately, combining these techniques to model or simulate ecosystems.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS 310",
+            "Title": "Introduction to Environmental Chemistry",
+            "Number_of_credits": "Credits",
+            "Description": "This course uses a topic-based approach to the chemistry of the environment. Students in this course are expected to have a minimal/some knowledge of chemistry, with a desire of applying this knowledge to the environment. Topics of interest include environmental chemistry of water, water pollution, water treatment, geochemistry, atmospheric chemistry, air pollution, hazardous materials and resources.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 103 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 312",
+            "Title": "Systematic Biology",
+            "Number_of_credits": "Credits",
+            "Description": "This is an introduction to systematic biology. The primary tasks of systematics are 1) the discovery, description, and classification of biodiversity to construct a general reference system for life on Earth; 2) the reconstruction of the \"tree of life\": the descent relationships among units of biodiversity at multiple hierarchic levels from genes to phyla; and 3) the application of reconstructions of decent relationships to the study of evolution. Phylogenetic systematics, concerned with units of biodiversity at the species level and above, will be emphasized.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVS 202 [Min Grade: D] or BIO 126 [Min Grade: D] or BIO 133 [Min Grade: D] or BIO 141 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 315",
+            "Title": "Plant Animal Interactions",
+            "Number_of_credits": "Credits",
+            "Description": "Plant-animal interactions provide us with some of the most remarkable examples of adaptation and co-evolution. They are also key determinants of ecosystem functions. This course will provide a survey of the diversity of plant-animal interactions, the multidisciplinary approaches used to understand their ecology and evolution, and their importance to ecosystem services that sustain human societies.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVS 230 [Min Grade: D] or BIO 126 [Min Grade: D] or BIO 133 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 322",
+            "Title": "Tropical Ecology",
+            "Number_of_credits": "Credits",
+            "Description": "This is a course in the ecology of tropical rain forests and dry forests. Tropical ecology will explore the physical and biological factors that result in the formation of the forest, the effect of human impact, the effectiveness of management, and the future of these forests.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVS 230 [Min Grade: D] or BIO 126 [Min Grade: D] or BIO 133 [Min Grade: D] or BIO 141 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 323",
+            "Title": "Tropical Field Studies",
+            "Number_of_credits": "Credits",
+            "Description": "This is a study abroad course focusing on the ecology of tropical forest ecosystems. We will visit and compare forest ecosystems in several ecological life zones. The course will combine lectures, natural history surveys, faculty-led field research problems, and learning experiences with local residents to explore the biological diversity and function of tropical forests, including the effects of human impacts. Some background in Biology or Ecology is useful.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS 326",
+            "Title": "Molecular Ecology",
+            "Number_of_credits": "Credits",
+            "Description": "Through a combination of lecture, discussion, and computational exercises, students will learn how molecular tools have been used to study genetic variation. They will then learn how these studies have provided answers to previously unanswered questions in fields including ecology, evolution, behavior, conservation, and forensics.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVS 230 [Min Grade: D] or ENVS 284 [Min Grade: D] or BIO 211 [Min Grade: D] or BIO 218 [Min Grade: D] or BIO 141 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 327",
+            "Title": "Molecular Ecology Laboratory",
+            "Number_of_credits": "Credits",
+            "Description": "Through a combination of laboratory and computational exercises, students will develop a toolkit for applied molecular studies of ecology and evolution. The course will focus on initiating or continuing a novel research project relating to one of several topics within the field of molecular ecology.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVS 230 [Min Grade: D] or ENVS 284 [Min Grade: D] or BIO 211 [Min Grade: D] or BIO 218 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 328",
+            "Title": "Conservation Biology",
+            "Number_of_credits": "Credits",
+            "Description": "This course we will detail the loss of biodiversity and explore related issues, including the theories and practices of conservation biology and the solutions currently and the solutions currently being formulated to enhance the preservation of species on our planet. The course will explore potential limitations to these strategies and provide an appreciation of the relevance of ethics, economics and politics to biodiversity conservation while promoting the potential for individual action to influence conservation efforts.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVS 230 [Min Grade: D] or BIO 126 [Min Grade: D] or BIO 133 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 330",
+            "Title": "Aquatic Ecology",
+            "Number_of_credits": "Credits",
+            "Description": "Studies the relationships between aquatic plants and animals and their environment. Introduces the study of the ecology of lakes, rivers, ponds, and streams.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVS 230 [Min Grade: D] or BIO 126 [Min Grade: D] or BIO 133 [Min Grade: D] or BIO 141 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 333",
+            "Title": "Wetland Ecology",
+            "Number_of_credits": "Credits",
+            "Description": "Examination of the structure, function, and dynamics of wetland ecosystems. Topics include geomorphology, hydrology, biogeochemistry, plant and animal adaptations to wetland environments, and wetland policy.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVS 230 [Min Grade: D] or BIO 126 [Min Grade: D] or BIO 133 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 335",
+            "Title": "Aquatic Insects and Water Quality",
+            "Number_of_credits": "Credits",
+            "Description": "Healthy water quality has always been an essential part of human survival and culture. This course outlines the importance of using aquatic macroinvertebrates (principally insects) for assessing water quality and its wide use by government, consulting businesses and citizen groups. Nearly 90 groups of aquatic macroinvertebrates used in stream assessment and in sampling will be identified.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BIO 126 [Min Grade: D] or BIO 133 [Min Grade: D] or ENVS 230 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 341",
+            "Title": "Equatorial Guinea: Society & Environment",
+            "Number_of_credits": "Credits",
+            "Description": "A lecture and community outreach course based at the National University of Equatorial Guinea that combines instruction in mankind's relationship with the natural environment (human population, natural resources, environmental degradation, pollution, biodiversity loss and climate change) with environmental outreach activities specific to Equatorial Guinea.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS 342",
+            "Title": "Equatorial Guinea: Natural Resource Economics",
+            "Number_of_credits": "Credits",
+            "Description": "A lecture course based a the National University of Equatorial Guinea that combines instruction in the economic implications of natural resources (renewable and non-renewable resources, efficient utilization, market performance, government controls, sustainability and discounting) with a university-wide guest lecture series addressing local issues.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS 343",
+            "Title": "Equatorial Guinea: Field Methods",
+            "Number_of_credits": "Credits",
+            "Description": "A lecture and field excursion course based at the University of Equatorial Guinea combining instruction in standard methods for studying rainforest communities (expedition planning; GPS and mapping, forest diversity and productivity; wildlife population monitoring) with multi-day field experiences in Bioko Island's remote protected areas.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS 344",
+            "Title": "Equatorial Guinea: Field Research",
+            "Number_of_credits": "Credits",
+            "Description": "An intensive research course that takes advantage of the unspoiled rainforest adjacent to the Moka Wildlife Center, a university-affiliated research station located in the highlands of Bioko Island, Equatorial Guinea (Central/West Africa). Opportunities exist for student research on topics including primates, antelope, birds, chameleons, butterflies and plants.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 1 times for 6 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS 345",
+            "Title": "Equatorial Guinea: Conservation Biology",
+            "Number_of_credits": "Credits",
+            "Description": "The goal of this course is to introduce the field of conservation biology, with a special emphasis on biodiversity conservation on Bioko Island, Equatorial Guinea. The course is an experiential learning course that focuses on the ways that the Bioko Biodiversity Protection Program (BBPP) uses keystone concepts in conservation science to implement research, education, outreach and sustainable livelihood programs to support the conservation of wildlife and wilderness in Equatorial Guinea.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS 352",
+            "Title": "Ornithology",
+            "Number_of_credits": "Credits",
+            "Description": "Birds are among the most ubiquitous, diverse, and charismatic animals and we know a great deal about their biology. This course aims to teach students who are enthusiastic about natural history about the biology of birds and covers a variety of topics including evolution, ecology, behavior, conservation, and diversity of birds and uses the world renowned specimen collections housed in the Academy of Natural Sciences of Drexel University.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BIO 126 [Min Grade: D] or BIO 133 [Min Grade: D] or BIO 109 [Min Grade: D] or BIO 141 [Min Grade: D] or ENVS 230 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 353",
+            "Title": "Field Ornithology Lab",
+            "Number_of_credits": "Credits",
+            "Description": "The Delaware Valley is the cradle of North American Ornithology. This course aims to give students a hands on lab and field experience in identifying birds found in the Delaware Valley. Half of the classes are held outside at local parks and refuges and the remainder are in the lab where specimens from the world renowned collections housed at the Academy of Natural Sciences of Drexel University will be studied.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS 354",
+            "Title": "Ichthyology",
+            "Number_of_credits": "Credits",
+            "Description": "This course will explore fish and the link between their diversity in form and ecological function. This combined lecture-lab course will cover the basic systematics, evolutionary relationships, biogeography, structure, physiology, life history, and ecology of fishes and lampreys.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BIO 126 [Min Grade: D] or BIO 133 [Min Grade: D] or ENVS 230 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 355",
+            "Title": "Biogeography",
+            "Number_of_credits": "Credits",
+            "Description": "This course is a survey of the field of Biogeography, the study of biological diversity across space and time. Factors and evolutionary history that influence both the ecology and evolution of organismal diversity will be covered. Topics will range from how species distributions arise to how we define species and how we reconstruct the influence and importance of both ecology and evolutionary history on their distributions.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BIO 126 [Min Grade: D] or BIO 133 [Min Grade: D] or ENVS 212 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 360",
+            "Title": "Evolutionary Developmental Biology",
+            "Number_of_credits": "Credits",
+            "Description": "Evolutionary Developmental Biology (Evo-Devo) compares developmental processes between organisms to determine how these mechanisms evolved in light of ancestral relationships. Topics include \u201cyour inner fish,\u201d how to \u201cbuild\u201d a dinosaur, and the reducibly simple evolution of the eye. Also explored are developmental controls such as environmental factors and molecular mechanisms.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVS 212 [Min Grade: D] or BIO 217 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 362",
+            "Title": "Urban Ecology",
+            "Number_of_credits": "Credits",
+            "Description": "This course seeks to understand urban areas as meaningful ecological and socio-ecological systems. This acknowledges that humans are biological organisms that are not only members of ecological communities, but also organisms that are unique in their ability to alter and influence the nature of their interactions with the environment. This course examines the study of ecology in urban landscapes, as well as how organisms respond to and influence the abiotic and biotic nature of urban areas.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BIO 109 [Min Grade: D] or BIO 126 [Min Grade: D] or BIO 133 [Min Grade: D] or BIO 141 [Min Grade: D] or ENVS 230 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 364",
+            "Title": "Animal Behavior",
+            "Number_of_credits": "Credits",
+            "Description": "The mechanisms, ecology and evolution of the activities of animals in relation to their natural environment. Topics include development and control (neural and hormonal) of behavior, adaptations for survival, feeding, and predator avoidance, strategies of habitat selection, communication, reproduction, and social behavior.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVS 212 [Min Grade: D] or BIO 126 [Min Grade: D] or BIO 133 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 372",
+            "Title": "Environmental Assessment",
+            "Number_of_credits": "Credits",
+            "Description": "This course will introduce students to the types of ecological and environmental assessments commonly used to predict and determine environmental impacts. The importance of environmental regulation as it relates to the design, implementation, analysis and interpretation of environmental studies will be discussed. Content topics include environmental assessment of water, soil, and vegetation, as well as considerations that must be accounted for in preparing environmental assessments and analyses including land use, scale, economic factors, public health, and historic & archeological resources.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 102 [Min Grade: D] and (GEO 101 [Min Grade: D] or CAEE 212 [Min Grade: D] or ENVS 203 [Min Grade: D])"
+      },
+      {
+            "Identifier": "ENVS 376",
+            "Title": "Environmental and Ecological Remediation",
+            "Number_of_credits": "Credits",
+            "Description": "Many sites have been contaminated by past activities, including both intentional and accidental releases of chemicals and toxic wastes. As such, these sites are generally assessed and characterized for risk and health hazards of contaminants to both humans and the environment. This course examines legislative/regulatory mechanisms and strategies for the \u2018clean-up\u2019 and remediation of sites for future safe utilization.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS 382",
+            "Title": "Field Botany of the New Jersey Pine Barrens",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on plant identification skills that are necessary to conduct scientific botanical surveys. The vascular flora of the New Jersey Pine Barrens, including rare plant species, is emphasized with special reference to habitat and community analysis. Non-vascular species are examined but not emphasized.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS 383",
+            "Title": "Ecology of the New Jersey Pine Barrens",
+            "Number_of_credits": "Credits",
+            "Description": "Course focuses on the ecology of the New Jersey Pine Barrens. Students learn field methods, identify index species (flora and fauna), perform community analyses, and use equipment for measuring abiotic variables (soil and water). Field exercises focus on key aspects of the regional ecology: fire, soil and water.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BIO 133 [Min Grade: D] or BIO 126 [Min Grade: D] or ENVS 230 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 385",
+            "Title": "Systems Ecology",
+            "Number_of_credits": "Credits",
+            "Description": "Systems Ecology will provide the tools to integrate and synthesize disciplines of sciences to understand the development, disruption, and dynamics of ecosystems. Students will learn general systems theory about how elements of an ecosystem interact with other parts of the system and how exogenous or external variables drive ecosystem processes. The course will show how to combine field data with simple mathematics in step by step calculations to describe, study, and emulate complex systems.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BIO 126 [Min Grade: D] or BIO 133 [Min Grade: D] or BIO 141 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 387",
+            "Title": "Restoration Ecology",
+            "Number_of_credits": "Credits",
+            "Description": "Ecological restoration is an intentional activity that initiates or accelerates the recovery of an ecosystem with respect to its health, integrity or sustainability. Using a combination of lectures, readings, field trips, and project work, this course covers conceptual and theoretical foundations that underlie restoration efforts, and link these to the real-world application of principles used in past and ongoing restoration projects.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS 388",
+            "Title": "Marine Field Methods",
+            "Number_of_credits": "Credits",
+            "Description": "Course focus is on the ecology of local marine environments. Students learn marine field survey methods, identification of marine organisms, habitat analyses, and use of equipment for measuring abiotic variables. Students sample fish, plankton and invertebrate species aboard the Drexel 25 foot Research Vessel Peter Kilham.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BIO 133 [Min Grade: D] or BIO 126 [Min Grade: D] or ENVS 230 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 390",
+            "Title": "Marine Ecology",
+            "Number_of_credits": "Credits",
+            "Description": "This course studies major processes in the marine environment, especially relationships between organisms and the factors that influence their abundance.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BIO 133 [Min Grade: D] or BIO 126 [Min Grade: D] or BIO 141 [Min Grade: D] or ENVS 230 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 391",
+            "Title": "Freshwater and Marine Algae",
+            "Number_of_credits": "Credits",
+            "Description": "Origin and evolution of various algal groups, principles and methods of algal systematics, algal ecology, and use of algae as environmental indicators. Field trips to local streams, ponds and wetlands where students will collect algal samples and record environmental data. Lab work will include sample processing and algal identification.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BIO 124 [Min Grade: D] or BIO 132 [Min Grade: D] or BIO 141 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 393",
+            "Title": "Entomology",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces students to some of the major topics in the field of entomology.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BIO 124 [Min Grade: D] or BIO 132 [Min Grade: D] or BIO 141 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 394",
+            "Title": "Entomology Laboratory",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces students to some of the major practical topics in the field of entomology. The course consists of lab work, collecting trips, and creation of an insect collection.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BIO 124 [Min Grade: D] or BIO 132 [Min Grade: D] or BIO 141 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 401",
+            "Title": "Chemistry of the Environment",
+            "Number_of_credits": "Credits",
+            "Description": "Covers principles of physical and organic chemistry applicable to the study and evaluation of environmental conditions, especially the pollution of air, water, and soil (including chemical changes and reactions in the environment).",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 102 [Min Grade: D] or CHEM 122 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 405",
+            "Title": "Atmospheric Chemistry",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces the principles of atmospheric physics and photochemical kinetics as a prelude to understanding the atmospheric chemical system. Examines the chemistry of the natural atmosphere to prepare for the understanding of how pollutants interact with natural species. Considers pollution of the stratosphere and the troposphere.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 102 [Min Grade: D] or CHEM 122 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 409",
+            "Title": "Environmental Surveying and GIS",
+            "Number_of_credits": "Credits",
+            "Description": "This course is a field intensive course that gives students hands on training on state-of-the-art surveying gear. Students will learn the principals of surveying used by field ecologists or geoscientists, including types of surveying gear, how to use it in the field, and how to analyze collected data.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS 410",
+            "Title": "Physiological Ecology",
+            "Number_of_credits": "Credits",
+            "Description": "Examines mechanisms by which physiological factors affect and limit the distribution and abundance of animals, including physiological and behavioral thermoregulation, heat and cold tolerance, acclimation, metabolism, osmoregulation and dehydration tolerance, feeding strategies, digestion and feeding patterns, energy and water budges, toxins and optimality theory.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BIO 133 [Min Grade: D] or BIO 126 [Min Grade: D] or BIO 141 [Min Grade: D] or ENVS 230 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 412",
+            "Title": "Biophysical Ecology",
+            "Number_of_credits": "Credits",
+            "Description": "Covers energy balances and methods of heat transfer in organisms, including convection, conduction, radiation, evaporation, and metabolism and steady-state and transient energy balances, including mass balances, water uptake and evaporation.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MATH 239 [Min Grade: D] or MATH 123 [Min Grade: D]) and (PHYS 153 [Min Grade: D] or PHYS 102 [Min Grade: D])"
+      },
+      {
+            "Identifier": "ENVS 415",
+            "Title": "Advanced Environmental GIS",
+            "Number_of_credits": "Credits",
+            "Description": "This course is structured to build upon techniques and skills learned in an introductory level GIS class. This advanced course is technically oriented and will introduce high-level geospatial analyses in an environmental science context. Provides instruction and theory of geospatial modeling, mapping, and future trends.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVS 308 [Min Grade: D] or ENVE 455 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 417",
+            "Title": "Stream Assessment",
+            "Number_of_credits": "Credits",
+            "Description": "Most stream and river ecosystems are stressed by human activities, and aquatic ecologists are frequently called upon to assess problems, make scientific evaluations and provide management recommendations. A main goal of this course is to provide problem-solving experiences in stream assessment based on example real-world environmental questions. The assessments will provide students opportunities to address issues they may face as ecologists, engineers, managers and policy makers.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BIO 133 [Min Grade: D] or BIO 126 [Min Grade: D] or BIO 141 [Min Grade: D] or ENVS 230 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 418",
+            "Title": "Coastal Biogeochemistry",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers fundamental biogeochemical and ecological concepts necessary to critically examine influential and current relevant literature. Topics include eutrophication, hypoxia, ocean acidification, climate change, and greenhouse gas exchange in nearshore coastal waters such as estuaries, coastal rivers and watersheds, mangroves, seagrasses, salt marshes, wetlands, mud and sand flats, and coral reefs. Analytical tools such as stable isotopes, ecosystem models, and process measurements will be used.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 101 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 438",
+            "Title": "Biodiversity",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores major patterns of biodiversity that biologists have documented across the planet. The course begins with an overview of major types of biodiversity, focusing on species diversity, and methods for measuring and analyzing biodiversity. Next it explores major patterns of biodiversity that are fundamental to ecology and conservation, and theories for the causes of biodiversity patterns.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BIO 124 [Min Grade: D] or ENVS 230 [Min Grade: D] or BIO 132 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 441   [WI]",
+            "Title": "Issues in Global Change I: Seminar",
+            "Number_of_credits": "Credits",
+            "Description": "Discusses and evaluates topics such as records of climate change, atmospheric chemistry and global warming, the greenhouse effect, ozone depletion, acid rain, decreased biodiversity, desertification, deforestation, and sea-level rise.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS 442",
+            "Title": "Issues in Global Change II: Research",
+            "Number_of_credits": "Credits",
+            "Description": "Requires students to focus on a particular change topic or issue in order to analyze it, prepare a research report, and present a final seminar.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVS 441 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 443",
+            "Title": "Issues in Global Change III: Synthesis",
+            "Number_of_credits": "Credits",
+            "Description": "The purpose of this course is to provide seniors in Environmental Science and Ecology with an opportunity to make an in-depth examination of the factors causing global change in the 21st century, to analyze their own data as well as that in the literature, to synthesize new ideas and to report orally and in writing on their findings.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENVS 442 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 470",
+            "Title": "Advanced Topics in Evolution",
+            "Number_of_credits": "Credits",
+            "Description": "Discusses and evaluates selected topics such as population and quantitative genetics, genomics in evolutionary analysis, fitness concepts and modes of selection, species concepts and modes of speciation, evolution of development and complex adaptations, biological diversification over space and time, adaptive radiation and extinction, historical biogeography. Topics for each term will be selected based on current research and interest.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 3 times for 12 credits",
+            "Prerequisites": "ENVS 212 [Min Grade: D] or BIO 217 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENVS 497",
+            "Title": "Research",
+            "Number_of_credits": "Credits",
+            "Description": "Provides guided research in ecology, earth science and environmental science.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS I199",
+            "Title": "Independent Study in ENVS",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS I299",
+            "Title": "Independent Study in ENVS",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS I399",
+            "Title": "Independent Study in ENVS",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS I499",
+            "Title": "Independent Study in ENVS",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS T180",
+            "Title": "Special Topics in Environmental Science",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS T280",
+            "Title": "Special Topics in Environmental Science",
+            "Number_of_credits": "Credits",
+            "Description": "Special topics offered in biodiversity, earth and environmental science. Topics include recent multidisciplinary areas of environmental concern.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS T380",
+            "Title": "Special Topics in Environmental Science",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENVS T480",
+            "Title": "Special Topics in Environmental Science",
+            "Number_of_credits": "Credits",
+            "Description": "Special topics offered in environmental science. Topics include recent multidisciplinary areas of environmental concern.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

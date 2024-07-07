@@ -1,0 +1,587 @@
+[
+      {
+            "Identifier": "CHEM 100",
+            "Title": "Chemistry",
+            "Number_of_credits": "Credits",
+            "Description": "Chemistry and its significance to industry and life, with discussions revolving around synthesis and use of polymers and biologically significant molecules.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 101",
+            "Title": "General Chemistry I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers fundamental principles of chemistry, stoichiometry, atomic and molecular structure, chemical bonding, states of matter, thermochemistry, and periodicity.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "APCH 12 or CHEM 111 [Min Grade: D] or APCH50 P"
+      },
+      {
+            "Identifier": "CHEM 102",
+            "Title": "General Chemistry II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers chemical equilibrium, including acid-base equilibria in solution; electrochemistry; organic chemistry; polymers; and petroleum.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 101 [Min Grade: D] or CHEM 121 [Min Grade: D] or CHEM 161 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHEM 103",
+            "Title": "General Chemistry III",
+            "Number_of_credits": "Credits",
+            "Description": "Covers organic functional groups, biochemistry, inorganic and coordination compounds, chemical kinetics, thermodynamics, and nuclear chemistry.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 102 [Min Grade: D] or CHEM 122 [Min Grade: D] or CHEM 108 [Min Grade: D] or (CHEM 162 [Min Grade: D] and CHEM 164 [Min Grade: D])"
+      },
+      {
+            "Identifier": "CHEM 108",
+            "Title": "Health Chemistry I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers physical and chemical properties of substances used in medical areas and related principles: atomic structure, bonding, gases, solutions, acids and bases, oxidation-reduction and the chemistry of hydrocarbon compounds and polymers. Examples are taken from pharmacology, nutrition and other allied health fields.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 110",
+            "Title": "Environmental Chemistry",
+            "Number_of_credits": "Credits",
+            "Description": "Chemistry of the environment; the ecological aspects. Discussion of problems related to the pollution of the atmosphere, natural waters, and soil from a chemist's point of view.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 111",
+            "Title": "General Chemistry I",
+            "Number_of_credits": "Credits",
+            "Description": "Not open to engineering or science majors. Introduces the principles of general chemistry. Covers SI units, unit factor calculations, states of matter, elements and compounds, energy, atoms, electronic configurations, ionic and covalent bonds, Lewis dot structures, shapes of molecules, chemical equations, stoichiometry, molarity, gas laws, nuclear chemistry, equilibrium between different states of matter, and some colligative properties of solutions.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 112",
+            "Title": "General Chemistry II",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces organic chemistry. Covers some classes of organic compounds from alkanes to amines, basic reactions of important functional groups, uses of some compounds, stereochemistry, synthetic and natural polymers (carbohydrates, protein, DNA), and briefly acids and bases.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 111 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHEM 113",
+            "Title": "General Chemistry I Laboratory",
+            "Number_of_credits": "Credit",
+            "Description": "Covers chemical and physical properties and techniques for inorganic, organic, and polymeric compounds, including distillation, crystallization, chromatography, separation.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 111 [Min Grade: D] (Can be taken Concurrently)"
+      },
+      {
+            "Identifier": "CHEM 114",
+            "Title": "General Chemistry II Laboratory",
+            "Number_of_credits": "Credit",
+            "Description": "Continuation ofCHEM\u00a0113.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 112 [Min Grade: D] (Can be taken Concurrently)"
+      },
+      {
+            "Identifier": "CHEM 121",
+            "Title": "Majors Chemistry I",
+            "Number_of_credits": "Credits",
+            "Description": "Part I in an introductory sequence for chemistry majors. Covers fundamental principles of atomic and molecular nature of matter, electronic structure, physic-chemical properties, periodicity, chemical reactions, stoichiometry, thermochemistry, chemical bonding, properties of gases, and nuclear chemistry. Course includes weekly lab experiments.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "APCH 12 or CHEM 111 [Min Grade: D] or APCH50 P"
+      },
+      {
+            "Identifier": "CHEM 122",
+            "Title": "Majors Chemistry II",
+            "Number_of_credits": "Credits",
+            "Description": "Part II in an introductory sequence for chemistry majors. Covers physical properties of liquids and solids, kinetics, equilibrium, solutions, acids and bases, thermodynamics, and electrochemistry. Course includes weekly lab experiments.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 101 [Min Grade: C-] or CHEM 121 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "CHEM 123",
+            "Title": "Majors Chemistry III",
+            "Number_of_credits": "Credits",
+            "Description": "Part III in an introductory sequence for chemistry majors. Course covers physical and chemical properties of substances used in consumer products through an introduction to fundamental structures, nomenclature and properties of hydrocarbons, organize functional groups, polymers and biomolecules. Course includes weekly lab experiments.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 102 [Min Grade: C-] or CHEM 122 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "CHEM 151",
+            "Title": "Applied Chemistry",
+            "Number_of_credits": "Credits",
+            "Description": "For business majors. Covers physical and chemical properties of substances used in consumer products. Provides qualitative introduction to required principles, including atomic structure and the elements, bonding and compounds, and the chemistry of carbon compounds and polymers. Uses examples from the areas of food and nutrition, pharmacology, and the petrochemical industry.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 161",
+            "Title": "General Chemistry I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers atomic structure, stoichiometry, gases, valence theory, and thermochemistry.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 003 [Min Grade: D] or (MATH 001 [Min Grade: D] and MATH 002 [Min Grade: D])"
+      },
+      {
+            "Identifier": "CHEM 162",
+            "Title": "General Chemistry II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers solutions, colligative properties, chemical equilibrium, and electrochemistry. Introduces organic chemistry.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 161 [Min Grade: D] or CHEM 101 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHEM 163",
+            "Title": "General Chemistry III",
+            "Number_of_credits": "Credits",
+            "Description": "Continues organic chemistry. Introduces thermodynamics, molecular biology, inorganic chemistry, chemical kinetics, and nuclear chemistry.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 164 [Min Grade: D] and CHEM 162 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHEM 164",
+            "Title": "General Chemistry Laboratory I",
+            "Number_of_credits": "Credits",
+            "Description": "Involves experiments demonstrating the principles of gas behavior, thermochemistry, colligative properties, chemical equilibrium, and electrochemistry. Some or all pre-requisites may be taken as either a pre-requisite or co-requisite. Please see the department for more information.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 162 [Min Grade: D] (Can be taken Concurrently)"
+      },
+      {
+            "Identifier": "CHEM 165",
+            "Title": "General Chemistry Laboratory II",
+            "Number_of_credits": "Credits",
+            "Description": "Involves experiments illustrating the principles of organic separations, transition metal chemistry, complex ions, chemical kinetics, and qualitative analysis. Some or all pre-requisites may be taken as either a pre-requisite or co-requisite. Please see the department for more information.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 163 [Min Grade: D] (Can be taken Concurrently)"
+      },
+      {
+            "Identifier": "CHEM 201",
+            "Title": "Why Things Work: Everyday Chemistry",
+            "Number_of_credits": "Credits",
+            "Description": "Course will cover chemical explanations of everyday materials and phenomena. The focus will be conceptual understanding, as opposed to a detailed quantitative treatment.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 230",
+            "Title": "Quantitative Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "Covers chemical analysis and data treatment, including chemical equilibrium, acid-base and redox reactions, and applications to gravimetric and titrimetric methods.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 102 [Min Grade: D] or CHEM 122 [Min Grade: D] or (CHEM 162 [Min Grade: D] and CHEM 164 [Min Grade: D])"
+      },
+      {
+            "Identifier": "CHEM 231   [WI]",
+            "Title": "Quantitative Analysis Laboratory",
+            "Number_of_credits": "Credits",
+            "Description": "Provides laboratory studies in quantitative analysis. Some or all pre-requisites may be taken as either a pre-requisite or co-requisite. Please see the department for more information.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 230 [Min Grade: D] (Can be taken Concurrently)"
+      },
+      {
+            "Identifier": "CHEM 241",
+            "Title": "Organic Chemistry I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers structure, reactions, and stereochemistry of organic compounds, especially alkanes, cycloalkanes, haloalkanes, and alkenes. Also covers SN1, SN2, E1, and E2 compound.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 102 [Min Grade: D] or CHEM 122 [Min Grade: D] or (CHEM 162 [Min Grade: D] and CHEM 164 [Min Grade: D])"
+      },
+      {
+            "Identifier": "CHEM 242",
+            "Title": "Organic Chemistry II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers structure, reactivity, and stereochemistry of organic compounds, especially alkanes, alkynes, alcohols, ethers, dienes, and aromatic compounds. IR, MS, and NMR spectral techniques are introduced and applied to the identification of organic compounds.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 241 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHEM 243",
+            "Title": "Organic Chemistry III",
+            "Number_of_credits": "Credits",
+            "Description": "Covers structure, preparation, reactivity, and stereochemistry of organic compounds, especially substituted aromatics, aldehydes, ketones, carboxylic acids, carboxylic acid halides, anhydrides, amides, polypeptides, esters, amines, phenols, and carbohydrates.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 242 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHEM 244",
+            "Title": "Organic Chemistry Laboratory I",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces simple recrystallization, distillation, extraction, and chromatography techniques and applies them to several organic reactions illustrative of topics covered inCHEM\u00a0241andCHEM\u00a0242. Provides opportunity to take and interpret IR and GC spectra.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 242 [Min Grade: D] (Can be taken Concurrently) and CHEM 241 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHEM 245",
+            "Title": "Organic Chemistry Laboratory II",
+            "Number_of_credits": "Credits",
+            "Description": "Provides experiments illustrating a number of organic reactions covered inCHEM\u00a0242as well as more advanced organic techniques. Provides opportunity to take and interpret IR and GC scans. Some or all pre-requisites may be taken as either a pre-requisite or co-requisite. Please see the department for more information.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 242 [Min Grade: D] (Can be taken Concurrently) and CHEM 244 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHEM 246",
+            "Title": "Organic Chemistry for Majors I",
+            "Number_of_credits": "Credits",
+            "Description": "This course offers a basic foundation for modern organic chemistry. Lecture topics include: the chemistry of alkanes, cycloalkanes, alkyl halides, alkenes, cycloalkenes, and alkynes, free radical substitution, nucleophilic substitution, elimination, ionic addition, and free radical addition reactions. Lab topics include recrystallization, distillation, chromatography, liquid-liquid extraction, and simple chemical reactions, including an elimination reaction to prepare an alkene and several substitution reactions to prepare alkyl halides. Introduction to the use of IR and 1-H NMR as structure identification tools.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 103 [Min Grade: D] or CHEM 123 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHEM 248",
+            "Title": "Organic Chemistry for Majors II",
+            "Number_of_credits": "Credits",
+            "Description": "This course continues developing the basic foundation of modern organic chemistry started inCHEM\u00a0246. Lecture topics include the chemistry of alcohols, ethers, conjugated systems, aromatic compounds and thiols. The principles of IR, MS, 1-H and 13-C NMR will be taught in lecture and put to use in identifying products in the lab. Other lab topics include the preparation of alcohols, a Grignard synthesis, an alkene addition reaction, an aromatic nitration, a Friedel-Crafts reaction, the preparation of ferrocene, and how to safely handle water-sensitive chemicals.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 246 [Min Grade: D] or (CHEM 241 [Min Grade: D] and CHEM 244 [Min Grade: D])"
+      },
+      {
+            "Identifier": "CHEM 249",
+            "Title": "Organic Chemistry for Majors III",
+            "Number_of_credits": "Credits",
+            "Description": "This course completes development of the basic foundation of modern organic chemistry started inCHEM\u00a0246. Lecture topics include the chemistry of aldehydes, ketones, amines, carboxylic acids & their derivatives, carbohydrates, organometallic compounds, and multi-step organic synthesis. Asymmetric synthesis and C,C-bond forming reactions will also be covered. Lab topics include the multi-step syntheses of benzocaine and DEET, stereochemical inversion, diazonium coupling, Aldol condensation, sequential Diels-Alder and lactonization reactions, and the principles of functional group protection.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 248 [Min Grade: D] or (CHEM 242 [Min Grade: D] and CHEM 245 [Min Grade: D])"
+      },
+      {
+            "Identifier": "CHEM 251",
+            "Title": "Physical Chemistry I",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces physical chemistry. Topics include quantum chemistry, operators, the uncertainty principle, deBroglie wavelength, particle in a box, hydrogen-like atoms, aufbau principle, commutators, normalization, LCAO-MO, variation principle, diatomic molecules, Heckel approximation, harmonic oscillator, conjugated systems, electronic and vibrational spectroscopy, and selection rules.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(CHEM 102 [Min Grade: D] and MATH 200 [Min Grade: D]) or TDEC 121 [Min Grade: D] or (CHEM 162 [Min Grade: D] and CHEM 164 [Min Grade: D])"
+      },
+      {
+            "Identifier": "CHEM 253",
+            "Title": "Thermodynamics and Kinetics",
+            "Number_of_credits": "Credits",
+            "Description": "Covers gas properties, gas laws, state functions, first, second, and third laws of thermodynamics, phase transformations, phase diagrams, chemical equilibrium, spontaneous reactions, Gibbs free energy, molecular motion, diffusion, rates of chemical reactions, rate laws, molecular reaction dynamics, transition states, electron transfer.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 102 [Min Grade: D] or CHEM 122 [Min Grade: D] or (CHEM 162 [Min Grade: D] and CHEM 164 [Min Grade: D]) and MATH 200 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHEM 256",
+            "Title": "Physical Chemistry for Biological Sciences",
+            "Number_of_credits": "Credits",
+            "Description": "Covers elementary chemical thermodynamics and homogeneous reaction kinetics as bases for experiment and phenomenology in biology and biochemistry, including properties of molecules in solution.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 102 [Min Grade: D] or CHEM 122 [Min Grade: D] or (CHEM 162 [Min Grade: D] and CHEM 164 [Min Grade: D])"
+      },
+      {
+            "Identifier": "CHEM 270",
+            "Title": "Software Skills for Chemists",
+            "Number_of_credits": "Credits",
+            "Description": "Course covers mathematical, computational, and professionals skills useful to chemists. Representation of chemical problems in mathematical language; use of software to: solve mathematical problems that arise in chemistry; process, analyze and present data; visualize and analyze molecular structures. Also covers the American Chemical Society guidelines for professionalism in chemistry.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 102 [Min Grade: D] or CHEM 122 [Min Grade: D] and (PHYS 201 [Min Grade: D] or PHYS 211 [Min Grade: D])"
+      },
+      {
+            "Identifier": "CHEM 346",
+            "Title": "Qualitative Organic Chemistry",
+            "Number_of_credits": "Credits",
+            "Description": "Covers identification of pure organic compounds, physical constants, solubilities by semi-micro techniques, infrared and nuclear magnetic resonance spectroscopy, and separation and identification of mixtures.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 249 [Min Grade: D] or (CHEM 243 [Min Grade: D] and CHEM 245 [Min Grade: D])"
+      },
+      {
+            "Identifier": "CHEM 355",
+            "Title": "Physical Chemistry IV",
+            "Number_of_credits": "Credits",
+            "Description": "Computational methods of modeling molecules; Covers potential energy functions and surfaces, molecular conformations, failures of classical physics, the quantum hypothesis, the classical wave equation and the origins of the Schrodinger equation, particle-in-a-box, linear variation functions, molecular orbitals from linear combinations of atomic orbitals, Pauli principle, molecular calculations and their interpretation.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(CHEM 253 [Min Grade: D] or CHEC 352 [Min Grade: D]) and (CHEM 270 [Min Grade: D] or PHYS 160 [Min Grade: D]) and (MATH 201 [Min Grade: D] or MATH 210 [Min Grade: D])"
+      },
+      {
+            "Identifier": "CHEM 356",
+            "Title": "Physical Chemistry Laboratory",
+            "Number_of_credits": "Credits",
+            "Description": "Provides experiments in physical chemistry for engineering students. Some or all pre-requisites may be taken as either a pre-requisite or co-requisite. Please see the department for more information.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 241 [Min Grade: D] (Can be taken Concurrently)"
+      },
+      {
+            "Identifier": "CHEM 357   [WI]",
+            "Title": "Physical Chemistry Laboratory I",
+            "Number_of_credits": "Credits",
+            "Description": "This laboratory course reinforces thermodynamics and kinetics topics. Experiments focus on the characterization of liquids, solute-solvent systems (e.g., polymers in solution), phase transitions, diffusion processes and binary mixtures of liquids.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 253 [Min Grade: D] and (PHYS 211 [Min Grade: D] or PHYS 201 [Min Grade: D]) or CHEC 352 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHEM 358",
+            "Title": "Physical Chemistry Laboratory II",
+            "Number_of_credits": "Credits",
+            "Description": "This laboratory course focuses on optical spectroscopy, kinetics and adsorption processes. The spectroscopy part of the course involves absorption and fluorescence measurements. Experiments also have thermodynamic components. Students are encouraged to completeCHEM\u00a0355andCHEM\u00a0359before enrolling in this course.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 357 [Min Grade: D] and (CHEM 253 [Min Grade: D] or CHEC 352 [Min Grade: D])"
+      },
+      {
+            "Identifier": "CHEM 359",
+            "Title": "Atomic and Molecular Spectroscopy",
+            "Number_of_credits": "Credits",
+            "Description": "Emission and absorption of light, laser principles, optical spectrometers, atomic spectroscopy. LS-coupling, Zeeman effect, magnetic resonance spectroscopy, EPR, NMR, ENDOR, molecular spectroscopy of diatomic and polyatomic molecules, rotational, vibrational and electronic, fluorescence spectroscopy, two-photon spectroscopy, time resolved spectroscopy, photo-electron spectroscopy.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 355 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHEM 361",
+            "Title": "Advanced Organic Chemistry Laboratory",
+            "Number_of_credits": "Credits",
+            "Description": "Emphasizes experimental design, data collection, and interpretation in such areas as reaction mechanism and molecular structure determination. Not offered every year.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 249 [Min Grade: D] or (CHEM 243 [Min Grade: D] and CHEM 245 [Min Grade: D])"
+      },
+      {
+            "Identifier": "CHEM 364",
+            "Title": "Spectroscopic Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "Covers interpretation of spectra for the determination of structure of organic molecules. Stresses use of infrared, nuclear magnetic resonance, and mass spectrometry. Fall. Not offered every year.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 249 [Min Grade: D] or CHEM 243 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHEM 367",
+            "Title": "Chemical Information Retrieval",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines methods for retrieving literature information, via standard tabulations, journals, and abstracts, using both hard-copy and electronic sources. Includes techniques for online searching of databases such as Chemical Abstracts, Beilstein, and crystallographic depositories.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 371",
+            "Title": "Chemistry of Biomolecules",
+            "Number_of_credits": "Credits",
+            "Description": "This course is a chemistry-based approach to understanding the basic structure, chemical reactivity, and biological function of biomolecules \u2013 including amino acids, peptides, proteins, carbohydrates, nucleic acids, and lipids. A special emphasis will be given to topics in the frontiers of biomolecular research at the interface between chemistry and biology.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 243 [Min Grade: D] or CHEM 249 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHEM 375",
+            "Title": "The Chemistry Behind Drugs: Fundamentals of Medicinal Chemistry",
+            "Number_of_credits": "Credits",
+            "Description": "Covers basic concepts of general and organic chemistry that constitute the foundation of medicinal chemistry. Focuses on applications and problem-solving through active-learning. Offers a comprehensive overview of potential roles for science majors on a medicinal chemistry team. Students will make interdisciplinary connections, while applying nomenclature, stereochemistry and physicochemical properties of functional groups (e.g., water/lipid solubility, electronic effects, acidity/basicity, ionization and salt formation at physiological pH) to predict drug-target and drug-drug interactions, as well as drug metabolic pathways. Using structure-activity relationships and retrosynthetic analysis, students will then design ligands and prodrugs with virtually improved pharmacological action and bioavailability.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 243 [Min Grade: D], CHEM 249 [Min Grade: D] (Can be taken Concurrently) or CHEM 245 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHEM 420",
+            "Title": "Molecular Symmetry and Group Theory Applied Chemistry",
+            "Number_of_credits": "Credits",
+            "Description": "Applies the principles of simple group theory to molecular structure and to electronic and motional properties of molecules, including crystal field and molecular orbital methods.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 421 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHEM 421",
+            "Title": "Inorganic Chemistry I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers crystal, atomic, and molecular structure; modern chemical bonding; and magnetic properties of inorganic systems.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 253 [Min Grade: D] (Can be taken Concurrently) or ENGR 210 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHEM 422",
+            "Title": "Inorganic Chemistry II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers organometallic and coordination compounds, substitution mechanisms, and bio-inorganic chemistry.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 420 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHEM 424",
+            "Title": "Special Chemistry Problems",
+            "Number_of_credits": "Credits",
+            "Description": "Allows theoretical and laboratory investigations of a particular problem of interest to the individual student. A written report may be required.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 425",
+            "Title": "Inorganic Chemistry Laboratory",
+            "Number_of_credits": "Credits",
+            "Description": "Covers synthesis of properties of inorganic compounds, magnetic measurements, spectroscopic properties, and interpretations of complex ion structure. Some or all pre-requisites may be taken as either a pre-requisite or co-requisite. Please see the department for more information.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 422 [Min Grade: D] (Can be taken Concurrently)"
+      },
+      {
+            "Identifier": "CHEM 430",
+            "Title": "Analytical Chemistry I",
+            "Number_of_credits": "Credits",
+            "Description": "Provides an introduction to statistics (particularly the development and use of analytic calibration curves), basic electronics, and the principles of spectroscopic methods of analysis, including the interaction of light with matter and basic instrument design.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 253 [Min Grade: D] (Can be taken Concurrently) and CHEM 230 [Min Grade: D] and (CHEM 248 [Min Grade: D] or CHEM 242 [Min Grade: D]) or CHEC 352 [Min Grade: D])"
+      },
+      {
+            "Identifier": "CHEM 431   [WI]",
+            "Title": "Analytical Chemistry II",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesCHEM\u00a0430. Covers principles of chromatographic methods of analysis. Lab includes experiments on atomic absorption, fluorescence, infrared absorption, UV/visible absorption, gas chromatography, high performance liquid chromatography, basic electronics, and potentiometry/coulometry.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 430 [Min Grade: D] or ENGR 210 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHEM 465",
+            "Title": "Synthetic Polymer Chemistry",
+            "Number_of_credits": "Credits",
+            "Description": "Explores scope of polymer science; structure-property relations; step, free radical, cationic, group-transfer, metathesis, coordination, and ring-opening polymerizations; and stereochemistry of polymerizations and reactions of polymers.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 242 [Min Grade: D] or CHEM 248 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHEM 466",
+            "Title": "Physical Chemistry of Polymers",
+            "Number_of_credits": "Credits",
+            "Description": "Covers kinetics and thermodynamics of polymerizations; control of polymerization processes; gelation theory; copolymerization; and determination of polymer molecular weight and distribution by membrane osmometry, light-scattering, solution viscosity, and other techniques.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(CHEM 242 [Min Grade: D] or CHEM 248 [Min Grade: D]) and CHEM 253 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHEM 467",
+            "Title": "Polymer Chemistry III",
+            "Number_of_credits": "Credits",
+            "Description": "Covers spectroscopy of polymers; rubber elasticity; morphology; viscoelasticity; thermal analysis; computational methods; testing, fabrication, and processing; and magnetic and mechanical properties of polymers.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 253 [Min Grade: D] or CHEC 352 [Min Grade: D] or ENGR 210 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CHEM 493",
+            "Title": "Senior Research Project",
+            "Number_of_credits": "Credits",
+            "Description": "Provides individualized research with a faculty member in any number of chemical disciplines. Requires written report. May be repeated three times for credit.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 3 times for 12 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM 497",
+            "Title": "Research",
+            "Number_of_credits": "Credits",
+            "Description": "Covers research problems in several areas of chemistry. Requires written report.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM I199",
+            "Title": "Independent Study in CHEM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM I299",
+            "Title": "Independent Study in CHEM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM I399",
+            "Title": "Independent Study in CHEM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM I499",
+            "Title": "Independent Study in CHEM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM T180",
+            "Title": "Special Topics in Chemistry",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 3 times for 15 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM T280",
+            "Title": "Special Topics in Chemistry",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 3 times for 20 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM T380",
+            "Title": "Special Topics in Chemistry",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 3 times for 15 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CHEM T480",
+            "Title": "Special Topics in Chemistry",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 3 times for 15 credits",
+            "Prerequisites": "Null"
+      }
+]

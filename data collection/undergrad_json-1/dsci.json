@@ -1,0 +1,20 @@
+[
+      {
+            "Identifier": "DSCI 351",
+            "Title": "Recommender Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Recommender systems are electronic commerce information filtering systems to predict items that the users may have interest in. The goal of this course is to provide an overview of recommender systems, including content-based and collaborative algorithms for recommendation, programming of recommender systems, and evaluation and metrics for recommender systems. The course introduces all relevant topics of Recommender Systems: overview, non-personalized recommendation, content-based recommending, neighborhood-based collaborative filtering, recommender system evaluation and advanced topics. Students will gain hands-on experiences with assignments and a term project.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INFO 212 [Min Grade: D]"
+      },
+      {
+            "Identifier": "DSCI 471",
+            "Title": "Applied Deep Learning",
+            "Number_of_credits": "Credits",
+            "Description": "The goals of this course are to introduce basic theory of deep learning in data science applications, to understand how deep learning algorithms work at a high level, and to apply deep learning algorithms to key data science problems in different disciplines. The course introduces all relevant topics in deep learning: neural networks, backpropagation, convolution neural networks, recurrent neural networks and deep reinforcement learning. Students will be exposed to various representative algorithms in the concept level and learn their trade-offs. Students will gain hands-on experiences with assignments and a term project. Students will be prepared to attack new problems using various deep learning methods.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INFO 213 [Min Grade: D] and MATH 201 [Min Grade: D]"
+      }
+]

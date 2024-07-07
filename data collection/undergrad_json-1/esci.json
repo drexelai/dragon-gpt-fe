@@ -1,0 +1,110 @@
+[
+      {
+            "Identifier": "ESCI 101",
+            "Title": "Foundations of Exercise Science",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to provide students with basic knowledge, understandings and approaches to living a physically active lifestyle. Health-related fitness and general health issues that affect people and their communities are addressed, with particular emphasis on making healthy lifestyle choices for long-term health and well-being.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESCI 201",
+            "Title": "Introduction to Exercise Science",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces students to the field of exercise science. Students enrolled in the course learn about the scientific and historical origins of exercise science and sports medicine, and are informed about the professions\u2019 scope of practice, career opportunities and certifications, critical issues, and biases. Students also gain exposure in the major\u2019s sub-disciplines, which include but are not limited to exercise physiology, nutrition, epidemiology, kinesiology/biomechanics, and behavioral, psychological, and social dimensions of exercise science.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESCI 210",
+            "Title": "Health and Wellness Throughout the Lifespan",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to provide students with a survey of health and wellness topics using a life course approach. The course will blend concepts from sociology, psychology, and physiology to explore developmental topics and the impact on wellness throughout the lifespan. Topics will incorporate an ecological perspective, including health factors at the individual, social, environmental, and policy level. Students will learn to identify threats to wellness imposed by prior events and experiences. This approach will include examining health inequities and the influence on developmental changes in behavior or function across the entire course of life.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESCI 315",
+            "Title": "Concepts & Practices in Inclusive Physical Activity",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to develop student\u2019s knowledge and skills related to the fitness and wellness needs of diverse populations of individuals, including consideration for developmental and other disabilities linked to physical, emotional, or cognitive impairments. Students will develop fitness and wellness programming that considers the practical, ethical, legal, and human aspects of inclusion.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ESCI 201 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ESCI 320",
+            "Title": "Technological Advancements and Integrations in Exercise Science",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides students with opportunities to examine current and developing technologies, and their integrations, in exercise science. Students learn about top health and fitness trends that leverage and integrate virtual, online and wearable technologies. Students also gain experience in the study of strategic engagement with digital modalities, addressing challenges people may face alone and/or in group settings, and explore innovations and emerging trends in digital wearable technologies and applications that measure variables such as vital signs, oxygen saturation and electrocardiograms, and other health information with accelerometer-generated and GPS services.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ESCI 201 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ESCI 330",
+            "Title": "Physical Growth and Motor Behavior",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to provide students with an opportunity to examine the growth and development of motor skills throughout the life span. Students will study motor performance physical growth patterns and biological maturity changes from childhood through older adulthood. Students will explore an overview of lifespan human motor development and movement related to exercise science and health-related fields. Analysis of the sequential progression of fundamental motor skills. Course topics include the relationship between motor development, skill acquisition, and performance with self-concept, physical fitness, and developmental delay.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 152 [Min Grade: D] and HSCI 103 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ESCI 340",
+            "Title": "Exercise Physiology II",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers advanced theory and application exercise physiology. Knowledge of physiological responses and adaptations associated with exercise in various conditions, across lifespan, and between sexes will be addressed.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HSCI 325 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ESCI 370",
+            "Title": "Electrocardiogram Interpretation & Graded Exercise Testing",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to instruct students in the acquisition and interpretation of resting and exercise electrocardiograms. Students learn how to identify various cardiac dysrhythmias and administer a graded exercise test according to the ACSM and AACVPR Guidelines.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HSCI 425 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ESCI 410",
+            "Title": "Aging and Exercise",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to provide students with an applied understanding of exercise physiology in aging populations. Students learn about core theories and processes of human aging, including structural and functional changes, that can influence longevity, the onset of chronic diseases, and quality of life. Students also apply the principles of exercise physiology (acute responses, long-term adaptations) and identify the positive effects of physical activity and exercise for human health and wellness.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HSCI 325 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ESCI 415",
+            "Title": "Pharmacology & Ergogenic Aids in Exercise Science",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to provide students with an opportunity to explore the science of pharmaceutical products, nutritional supplements, and ergogenic aids used to enhance human health and fitness, manage weight, enhance well-being, and boost athletic performance. Students will study the physical/physiologic, financial, social, sport, and ethical issues surrounding use of these products.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "NFS 100 [Min Grade: D] and NFS 101 [Min Grade: D] and ESCI 325 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ESCI 420",
+            "Title": "Wellness and Fitness Program Management",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to provide theoretical knowledge and practical skills in leading and managing safe and effective wellness and fitness programs. Students will study concepts related to facilitating exercise in athletic programs, physical education programs, intramural sports programs, and fitness businesses. Students will examine various health promotion programs while learning how to plan, implement, and evaluate them. Program management topics will include marketing/promotion, recruiting/enrollment, policy development, legal and ethical considerations, budgeting, personnel, programming, facilities.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ACCT 110 [Min Grade: D] or (ACCT 120 [Min Grade: D] or FIN 150 [Min Grade: D] or BUSN 105 [Min Grade: D] or SMT 110 [Min Grade: D]) and ESCI 201 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ESCI 435",
+            "Title": "Exercise is Medicine: A Campus Experience",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to provide students with opportunities to engage in interprofessional, practice, education and research with an emphasis on the American College of Sports Medicine\u2019s Exercise is Medicine initiative. Students learn about Exercise is Medicine as a global health initiative in making physical activity assessment and promotion a vital sign in standard clinical care, for people everywhere and of all abilities.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      }
+]

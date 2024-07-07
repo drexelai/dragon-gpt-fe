@@ -1,0 +1,317 @@
+[
+      {
+            "Identifier": "HSCI 101",
+            "Title": "Anatomy and Physiology I",
+            "Number_of_credits": "Credits",
+            "Description": "This course is a general study of the structures and physiology of the human body. Fundamental concepts of microscopic tissue structure, gross structures of organs and body system organization are taught. The course consists of both lecture and lab material. The lecture portion deals with the general principles. In the lab, the student participates with practical examination of microscopic sections, tissues and organs, and the anatomical layout of human cadavers. The cell, tissues and musculoskeletal system will be covered in this course, as well as muscle and nerve physiology.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HSCI 102",
+            "Title": "Anatomy and Physiology II",
+            "Number_of_credits": "Credits",
+            "Description": "This course is a continuation ofHSCI\u00a0101. This course is a general study of the structures & physiology of the human body. Fundamental concepts of microscopic tissue structure, gross structures of organs and body system organization are taught. The course consists of both lab and lecture material. The lecture deals with the general principles. In the lab, the student participates with practical examination of microscopic sections, tissues and organs, and the anatomical layout of various animal cadavers. The nervous, endocrine and digestive system will be covered in this course.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HSCI 101 [Min Grade: D]"
+      },
+      {
+            "Identifier": "HSCI 103",
+            "Title": "Anatomy and Physiology III",
+            "Number_of_credits": "Credits",
+            "Description": "This is the third in a series of three lecture and laboratory courses that present a general study of human anatomy and physiology, including microscopic and gross anatomy. The course is designed as a foundational course for students pursing health professions. In laboratory/recitation sessions students examine anatomical models and materials from human cadavers and apply knowledge in a small group discussion format. Topics include: the cardiovascular, lymphatic, respiratory, urinary and reproductive systems.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HSCI 102 [Min Grade: D]"
+      },
+      {
+            "Identifier": "HSCI 125",
+            "Title": "Medical Terminology",
+            "Number_of_credits": "Credits",
+            "Description": "This course is an introduction to the language of medicine intended as foundational for future study and professional practice. Students will study the basic vocabulary of medicine as well as the structure underlying that vocabulary in order to enhance future study and education.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HSCI 201",
+            "Title": "Health Assessment through the Lifespan",
+            "Number_of_credits": "Credits",
+            "Description": "Course focuses on health assessment across the lifespan. The focus is on the development of interviewing skills, assessment of health status, and physical examination skills for the beginning health professional student.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HSCI 103 [Min Grade: D]"
+      },
+      {
+            "Identifier": "HSCI 202",
+            "Title": "Regional Anatomy",
+            "Number_of_credits": "Credits",
+            "Description": "This course reviews human anatomy of the head, neck, thorax, abdomen, pelvis and extremities. Relationships of surface and internal structures from different bodily systems are emphasized. The analysis is supported by anatomical illustrations, radiological images, and cadaver photographs.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HSCI 205",
+            "Title": "Strategies for Academic Success",
+            "Number_of_credits": "Credit",
+            "Description": "This course helps students to explore the learning process, to gain essential skills needed to achieve academic success and to develop the ability to make effective use of university resources. Discussion, personal reflection, and relevant electronic resources are used to foster students\u2019 development as self-directed learners. Specific attention will be given to the following topics: study skills, learning strategies, time management, academic planning, test-taking techniques, and goal-setting. The goal of this course is to help improve students\u2019 efficacy in the areas of academic self-management, self-direction, and resource utilization.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HSCI 303",
+            "Title": "Pharmacology for Health Sciences",
+            "Number_of_credits": "Credits",
+            "Description": "This course presents a general study of basic pharmacology in which principles underlying the actions of drugs are presented, including pharmacokinetics, drug-receptor interactions, and drug metabolism. Classes of drugs are presented as groups with \u201cprototype\u201d drugs in each group.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HSCI 103 [Min Grade: D] or (BIO 201 [Min Grade: D] and BIO 202 [Min Grade: D])"
+      },
+      {
+            "Identifier": "HSCI 310",
+            "Title": "Introduction to Research Methods",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides a comprehensive introduction to the principals and practices underlying health-related research. Topics to be covered include: the protection of human subjects; scientific misconduct; developing research questions; conducting literature searches; research designs; qualitative, quantitative, and mixed methods; critical appraisal of the health literature; and evidence-based practice.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HSCI 313",
+            "Title": "Clinical Trials Protocols",
+            "Number_of_credits": "Credits",
+            "Description": "Students learn to design and implement a clinical trial protocol. Topics include experimental design, research team member roles and management of clinical trials. Special research techniques for special populations are considered. Means of preventing scientific misconduct through proper monitoring are discussed.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HSCI 310 [Min Grade: D] and COM 320 [Min Grade: D] and (STS 350 [Min Grade: D] or HSCI 350 [Min Grade: D])"
+      },
+      {
+            "Identifier": "HSCI 315",
+            "Title": "Current Issues in Health Sciences",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to discuss current issues and controversies in health science, with a focus on health-related issues attracting media attention. Topics may include: ethical dilemmas; how research informs healthcare policy; how research impacts healthcare practice; how interprofessional practice impacts patient safety and the patient experience in a culture of evidence-based practice; and cultural diversity, equity, and inclusion for underserved populations.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "COM 320 [Min Grade: D] (Can be taken Concurrently) and HSCI 310 [Min Grade: D]"
+      },
+      {
+            "Identifier": "HSCI 320",
+            "Title": "Physiology",
+            "Number_of_credits": "Credits",
+            "Description": "Presentation of organ function with emphasis on the integration of neural and humoral control mechanisms.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HSCI 101 [Min Grade: D] and HSCI 102 [Min Grade: D] and HSCI 103 [Min Grade: D] or (BIO 201 [Min Grade: D] and BIO 202 [Min Grade: D])"
+      },
+      {
+            "Identifier": "HSCI 325",
+            "Title": "Exercise Physiology",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines the acute and chronic effects of exercise on human physiology. Topical areas include neuromuscular physiology, cardiopulmonary, energy metabolism, nutrition, exercise evaluation, body composition, exercise prescription, and influence of environmental factors and clinical conditions on response to exercise.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(HSCI 101 [Min Grade: D] and HSCI 102 [Min Grade: D] and HSCI 103 [Min Grade: D]) or (BIO 201 [Min Grade: D] and BIO 202 [Min Grade: D])"
+      },
+      {
+            "Identifier": "HSCI 326",
+            "Title": "Applied Anatomy and Kinesiology",
+            "Number_of_credits": "Credits",
+            "Description": "This course applies the foundations of anatomy and physiology to the study of human movement, with emphasis on normal motions of the musculoskeletal system. Topical areas include musculoskeletal anatomy, neuroanatomy, biomechanics, lever systems, and the influence of musculoskeletal disease and injury in normal movement.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(HSCI 101 [Min Grade: D] and HSCI 102 [Min Grade: D]) or (BIO 201 [Min Grade: D] and BIO 202 [Min Grade: D])"
+      },
+      {
+            "Identifier": "HSCI 337",
+            "Title": "Genetics and Health",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers the fundamentals of human genetics from a healthcare perspective. The course presents concepts of classical genetics, outlines molecular mechanisms of heredity, and explores the evolving technological advances in DNA modifications and analysis. The course emphasizes the importance of the health professional in enhancing patient understanding of the impact of genetic technology in healthcare decisions. Additional topics include genetic counseling, assisted reproductive technologies and personal genomics.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BIO 122 [Min Grade: D]"
+      },
+      {
+            "Identifier": "HSCI 345",
+            "Title": "Statistics for Health Sciences",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to provide students with a foundation of basic statistical knowledge to aid in reading and understanding research results in the health science literature. Topics will include: variable types, sampling, scales of measurement, reliability and validity of measurement, study designs, descriptive statistics, classical statistical inference, correlation, chi-square, parametric and nonparametric tests for group comparisons.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HSCI 350",
+            "Title": "Advanced Statistics for the Health Sciences",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to provide students with an understanding of advanced statistical procedures and their applications to research designs in the health science literature. Topics include: one-way, two-way, repeated measure, and mixed factorial analyses of variance (ANOVAs); analysis of covariance (ANCOVA); multivariate analysis of variance (MANOVA); correlation; bivariate, multivariate, and logistic regressions; odds/risk ratios; exploratory factor analysis; and meta-analytic techniques.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "STS 345 [Min Grade: D] or HSCI 345 [Min Grade: D]"
+      },
+      {
+            "Identifier": "HSCI 375",
+            "Title": "Fundamentals of Toxicology",
+            "Number_of_credits": "Credits",
+            "Description": "Toxicology is an applied science that studies the adverse effects of toxins on the human body. This course is an upper level elective that introduces students to the basic principles of toxicology. The concepts covered in the course include toxicokinetics (toxin absorption, distribution, metabolism and excretion), toxicodynamics (toxin site and mechanism of action), carcinogenesis, and environmental toxicology.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HSCI 101 [Min Grade: D] and HSCI 102 [Min Grade: D] and HSCI 103 [Min Grade: D] or (BIO 201 [Min Grade: D] and BIO 202 [Min Grade: D])"
+      },
+      {
+            "Identifier": "HSCI 380",
+            "Title": "Strength and Conditioning",
+            "Number_of_credits": "Credits",
+            "Description": "This course addresses the selection and implementation of strength, power, speed, agility, endurance, and hypertrophy training methods with an emphasis on periodization programs. Components of the course include discussion of physiological principles and strength assessment as they relate to resistance exercise training.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 3 times for 16 credits",
+            "Prerequisites": "HSCI 101 [Min Grade: D] and HSCI 102 [Min Grade: D] and HSCI 103 [Min Grade: D] or (BIO 201 [Min Grade: D] and BIO 202 [Min Grade: D])"
+      },
+      {
+            "Identifier": "HSCI 381",
+            "Title": "Exercise for Clinical Populations",
+            "Number_of_credits": "Credits",
+            "Description": "This course builds upon the foundational principles of exercise testing and prescription in clinical populations living with various forms of cardiovascular, metabolic, and inflammatory chronic diseases and health conditions. The impacts of exercise on each condition are examined, along with the special considerations required when prescribing exercise for people in the discussed conditions.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HSCI 325 [Min Grade: D]"
+      },
+      {
+            "Identifier": "HSCI 382",
+            "Title": "Pathophysiology for Health Professions",
+            "Number_of_credits": "Credits",
+            "Description": "Building on a foundation of normal physiology, students are exposed to the major disturbances of normal function and the basic mechanisms involved in diseases of the major organ systems. The course includes discussion of the general aspects of the common human pathophysiological conditions and syndromes.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HSCI 103 [Min Grade: D] or BIO 201 [Min Grade: D]"
+      },
+      {
+            "Identifier": "HSCI 410",
+            "Title": "Psychology of Physical Activity",
+            "Number_of_credits": "Credits",
+            "Description": "The course is designed to introduce students to the psychology of physical activity by providing a broad overview of theoretical foundations, current research applications, and implications for health and exercise practitioners.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PSY 101 [Min Grade: D]"
+      },
+      {
+            "Identifier": "HSCI 415",
+            "Title": "Musculoskeletal Pathophysiology",
+            "Number_of_credits": "Credits",
+            "Description": "Introduction to the study of diseases, disorders and injuries of the musculoskeletal system. The biomechanics of connective tissue and basic science of inflammation, repair, regeneration and fibrosis are discussed. Students learn the pathogenesis, pathophysiology and clinical presentation of selected musculoskeletal disorders. The concepts of epidemiology and risk factors are considered.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HSCI 101 [Min Grade: D] and HSCI 102 [Min Grade: D] and HSCI 103 [Min Grade: D] or (BIO 201 [Min Grade: D] and BIO 202 [Min Grade: D])"
+      },
+      {
+            "Identifier": "HSCI 420",
+            "Title": "Advanced Anatomy",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces the fundamentals of Gross Anatomy. Students will expand upon their introductory Anatomy and Physiology education by studying the human body through a regional, rather than systems approach. Topics will include the head and neck, upper and lower extremities, thorax, abdomen and pelvis.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HSCI 103 [Min Grade: D] or BIO 201 [Min Grade: D]"
+      },
+      {
+            "Identifier": "HSCI 425",
+            "Title": "Exercise Testing and Prescription",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers the fundamental principles of exercise testing and prescription with an emphasis on the health-related components of physical fitness that include body composition, cardiorespiratory fitness, muscular strength, muscular endurance, and flexibility. Students use these principles to develop appropriate exercise prescriptions for healthy and selected clinical populations. Laboratory experiences provide students with opportunities to engage in exercise testing and apply exercise prescription principles in health, fitness, and sport.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HSCI 325 [Min Grade: D]"
+      },
+      {
+            "Identifier": "HSCI 430",
+            "Title": "Developmental Anatomy",
+            "Number_of_credits": "Credits",
+            "Description": "This course expands upon the student's knowledge of anatomy by describing the events involved in the formation of organ systems in the developing human. The laboratory portion of the course examines congenital defects of the systems and discusses possible causes and treatments form a clinical perspective.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HSCI 101 [Min Grade: D] and HSCI 102 [Min Grade: D] and HSCI 103 [Min Grade: D] or (BIO 201 [Min Grade: D] and BIO 202 [Min Grade: D])"
+      },
+      {
+            "Identifier": "HSCI 435",
+            "Title": "Neuroscience",
+            "Number_of_credits": "Credits",
+            "Description": "This course builds on students\u2019 basic knowledge of anatomy and physiology and provides a strong foundation in the structure and function of the nervous system. Clinical correlations are used throughout the course to help students understand the neuroanatomical and neurophysiological basis for the presentation of selected neurological pathologies commonly seen in clinical practice.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HSCI 102 [Min Grade: D] or (BIO 201 [Min Grade: D] and BIO 202 [Min Grade: D])"
+      },
+      {
+            "Identifier": "HSCI 440",
+            "Title": "Emerging Technologies in Healthcare",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores recent developments in the emerging fields of regenerative medicine, genomics and nanomedicine. Through lectures and assigned readings students will be introduced to fundamental concepts of stem cell biology, tissue engineering, genomic testing, and nanobiotechnology. Emphasis will be placed on clinical applications of these technologies, as well as their impact on the changing role of healthcare providers.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HSCI 450",
+            "Title": "Undergraduate Research Experience",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to provide students matriculated in the undergraduate health and exercise science majors with a cumulative undergraduate research experience. Students leverage knowledge gained in prerequisite coursework, employ skills gained from laboratory-based courses and integrate their abilities to successfully design, implement and disseminate a scholarship research project.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "COM 320 [Min Grade: D] and HSCI 310 [Min Grade: D] and HSCI 345 [Min Grade: D]"
+      },
+      {
+            "Identifier": "HSCI 470",
+            "Title": "Readings in Health Sciences",
+            "Number_of_credits": "Credit",
+            "Description": "This course is designed to allow upper-class student to pursue specialized interests in specific topics in the health sciences. May be repeated twice for credit.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 2 times for 12 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HSCI 490",
+            "Title": "Senior Research Project",
+            "Number_of_credits": "Credits",
+            "Description": "In this course, the student, with faculty supervision, selects a topic for a term project that integrates the academic and practical knowledge the student has acquired in his/her curriculum. The student develops objectives relevant to the project, critiques the literature, presents a plan for implementation, and completes the term project.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HSCI T180",
+            "Title": "Special Topics in Health Sciences",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HSCI T280",
+            "Title": "Special Topics in Health Sciences",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HSCI T380",
+            "Title": "Special Topics in Health Sciences",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HSCI T480",
+            "Title": "Special Topics in Health Sciences",
+            "Number_of_credits": "Credit",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 4 times for 24 credits",
+            "Prerequisites": "Null"
+      }
+]

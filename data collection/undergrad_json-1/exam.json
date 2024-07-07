@@ -1,0 +1,29 @@
+[
+      {
+            "Identifier": "EXAM 080",
+            "Title": "Common Exam Period - I",
+            "Number_of_credits": "Credits",
+            "Description": "",
+            "College/Department": "University Courses",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EXAM 081",
+            "Title": "Common Exam Period - II",
+            "Number_of_credits": "Credits",
+            "Description": "",
+            "College/Department": "University Courses",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "EXAM 082",
+            "Title": "Common Exam Period - III",
+            "Number_of_credits": "Credits",
+            "Description": "",
+            "College/Department": "University Courses",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

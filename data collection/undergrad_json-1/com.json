@@ -1,0 +1,650 @@
+[
+      {
+            "Identifier": "COM 101",
+            "Title": "Human Communication",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores the elements of basic human communication - what does it mean to communicate? What makes communication good or bad? What is the nature of verbal and non-verbal messages? What does it mean to communicate in a group? How does culture affect communication?.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 111",
+            "Title": "Principles of Communication",
+            "Number_of_credits": "Credits",
+            "Description": "Explores the importance of communication in organizational settings. Includes assessment of appropriate modes of communication, including written, spoken, and electronic.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 150",
+            "Title": "Mass Media and Society",
+            "Number_of_credits": "Credits",
+            "Description": "Provides an overview of the history, economic structure, regulation, and impact of the mass media in the United States.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 160   [WI]",
+            "Title": "Introduction to Journalism",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to acquaint students with various forms of basic newswriting and interview techniques. Students will learn how to write leads and short articles under deadline pressure. Although writing is the main emphasis of this class, students also will learn newsroom organization, ethics and press law.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 181",
+            "Title": "Public Relations Principles and Theory",
+            "Number_of_credits": "Credits",
+            "Description": "This course presents students with an overview of the PR industry, fundamental practices, and its key players, including journalists, PR practitioners, and different types of publics. It introduces students to both theory and practice of PR through the use of real-life materials and situations.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 200",
+            "Title": "Current Events in Media and Communication",
+            "Number_of_credits": "Credits",
+            "Description": "Media are not only the channels through which we learn about current events\u2014they are also, often, event makers themselves. This course will explore the collaborative relationships between media and current events, while exploring the topics of contemporary interest from the last 4-6 months.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 4 times for 15 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 210",
+            "Title": "Theory and Models of Communication",
+            "Number_of_credits": "Credits",
+            "Description": "Surveys historical and contemporary attempts to understand the process of human communication, using examples from the literature of interpersonal, group, organizational, and mass communication.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 211",
+            "Title": "Children and Media",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines the effects of media on the well-being and development of children and adolescents from a number of perspectives, including: emotional, intellectual, and physical. Through research, discussion and writing, students consider the effects of not only the \u201clegacy\u201d media (television, radio, music and print), but also those of \u201cnew\u201d media, including social media.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 215   [WI]",
+            "Title": "Communication Resources for Media Studies",
+            "Number_of_credits": "Credits",
+            "Description": "The powerful combination of internet and video technologies has led to a kind of revolution in how humans express and share their experiences. This course provides a grounding in how this communication revolution involves new forms of meaning making resources that tap into the combination of text, image, and sound, and their circulation in contemporary life. Each week involves the study of a major approach to theorizing and interpreting media and its messages. By developing a final longer piece of their own, students generate more overt awareness of how persuasion, interpretation, and analysis function in mediated and multimodal messages.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 216",
+            "Title": "Sourcing Challenges in Journalism",
+            "Number_of_credits": "Credits",
+            "Description": "The major challenges faced by journalists as they source and write their stories and how those challenges manifest themselves in coverage will be explored. Topics include how misrepresentation deepens marginalization of social groups, \u201cboth sides-ism,\u201d collaborations with public relations professionals on content, the blurred boundary between news and advertising, and how to handle \u201calternative facts\u201d and conspiracy theories in a supposedly post-truth society. Through readings, critical thinking exercises, and written assignments, we will examine the media\u2019s dominant notion of \u201cobjectivity\u201d and the role it plays in perpetuating bias. Students will study how newsroom decisions\u2014what to cover, how to frame a story, and how to correctly source and shape social and political narratives about diverse communities.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "COM 160 [Min Grade: D]"
+      },
+      {
+            "Identifier": "COM 220",
+            "Title": "Qualitative Research Methods",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides a detailed investigation of the nature, application, analysis and write up of qualitative research in communication and the social sciences, including such topics as ethnography, in-depth interviews, focus groups, participant observation, and narrative analysis.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 221",
+            "Title": "Quantitative Research Methods in Communication",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces students to quantitative methods used in the study of communication. The course will help student develop techniques to understand research problems in communication settings. Students will consider applications, including survey research, content analysis, usability testing, and experimental design, and will discuss procedures for developing, operationalizing, and testing questions within communication environments.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 222",
+            "Title": "Interpersonal Communication",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to acquaint students with a more thorough understanding of the dynamics of interpersonal communication. This will be done through both a review of scholarly writing on the subject, as well as direct observations and analysis. By the end of this course, students should have a much deeper appreciation of the complexities of interpersonal communication, their own capacities as a communicator, as well as increased interpersonal communication skills.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "COM 101 [Min Grade: D] or COM 111 [Min Grade: D]"
+      },
+      {
+            "Identifier": "COM 230",
+            "Title": "Techniques of Speaking",
+            "Number_of_credits": "Credits",
+            "Description": "A workshop course in improving public speaking skills. Provides experience in speeches of explanation, persuasion, and argument.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 102 [Min Grade: D] or ENGL 105 [Min Grade: D] or ENGL 112 [Min Grade: D]"
+      },
+      {
+            "Identifier": "COM 240",
+            "Title": "New Technologies In Communication",
+            "Number_of_credits": "Credits",
+            "Description": "Provides an overview and survey of the changes taking place in the technologies of information production, distribution, storage, and display, including the interaction of these changes with legal, social, cultural, and communications systems.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 246",
+            "Title": "Media and Identity",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on the central role that identity plays in popular culture, exploring how media reflect diverse identities and how, in turn, we use media to construct our own identities.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 247",
+            "Title": "Strategic Social Media Communication",
+            "Number_of_credits": "Credits",
+            "Description": "Students learn research-based best practices for strategic social media communication by brands and organizations across a range of platforms. Working in teams, students develop social media campaigns with content calendars, potential influencers and evaluation plans utilizing analytic tools. Students earn a professional social media certification credential.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 248",
+            "Title": "Reputation Management in Public Relations",
+            "Number_of_credits": "Credits",
+            "Description": "Successful PR management includes contributing to an organization's bottom line through effective reputation management. In this course, students will gain knowledge of the PR strategies and tactics needed to promote, maintain and manage organizational reputation. Focus areas will include organizational reputation development and assessment, Corporate Social Responsibility (CSR) for community building, issues and crisis management, as well as media coaching from a PR standpoint.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 250",
+            "Title": "Diversity in Media",
+            "Number_of_credits": "Credits",
+            "Description": "Students are invited to examine how ideas about diversity and diverse peoples in America and other places are created and experienced through media. The class will center around questions such as who creates and controls major images and ideas of diversity, and who consumes those ideas and why? How are social and ethnic groups recognized and how does that recognition change historically through various media? How do micro- and macro- politics of diversity play out in media and how do producers and consumers of media affect mainstream and non-mainstream ideas of diversity?.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 251",
+            "Title": "Language and Cultural Diversity in the USA",
+            "Number_of_credits": "Credits",
+            "Description": "This course will explore the history and current dynamics of language-based cultural diversity in the USA. Through an examination of communication patterns of men and women, language diversity of African Americans, and the cultural production of various immigrant groups, we will explore the predominance of a rich array of languages and cultures pertaining to most periods of American history. The Yiddish language-based immigrant culture of American Jews will be treated as a case study, dwelling on the rich Yiddish literature created, as well as language-based cultural institutions, such as the press, theater, radio, klezmer music, and film.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 255",
+            "Title": "Fans, Fandom, and Audiences",
+            "Number_of_credits": "Credits",
+            "Description": "This course will introduce students to theories and concepts in the study of popular culture related to fans, fandoms, and audiences. Through readings, discussions, videos, etc. this course will examine issues around fans and fandoms, taste and consumption, fan production, and diversity in fandoms.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 261   [WI]",
+            "Title": "Advanced Journalism",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed for students interested in advancing their knowledge of news reporting and writing. Students will learn how to cover meetings, speeches, public affairs, such as courts, and to write for digital media. In addition, students will learn how to write human-interest stories, called features.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "COM 160 [Min Grade: D]"
+      },
+      {
+            "Identifier": "COM 263",
+            "Title": "Multiplatform Journalism",
+            "Number_of_credits": "Credits",
+            "Description": "Merging traditional media with a more contemporary \u201cone-person band\u201d approach to reporting, you will act as reporter, videographer, and storyteller, recognizing that journalism today is practiced largely outside the newsroom. Students will immerse themselves in a community of their choosing to find stories that have not received attention \u2013 individuals with fascinating backstories, undiscovered histories, and unexplored issues facing residents. Students will be equipped to perform all the functions involved in the construction of coherent, incisive multimedia journalistic narratives.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "COM 160 [Min Grade: D]"
+      },
+      {
+            "Identifier": "COM 265",
+            "Title": "Audio Journalism",
+            "Number_of_credits": "Credits",
+            "Description": "This course will familiarize students with the creation of audio news and editorial content that is used not only in traditional radio broadcasting, but also in web-delivered programming such as podcasts and streamed audio. Students will learn the unique characteristics of audio journalism, practice \u201cwriting for the ear\u201d and will record and edit digital audio.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "COM 160 [Min Grade: D] or COM 260 [Min Grade: D]"
+      },
+      {
+            "Identifier": "COM 266",
+            "Title": "Copy Editing for the Media",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to acquaint students with the necessary skills to prepare written materials for the media. It will cover traditional print media, magazines and online media, such as websites and blogs. The importance of accuracy, consistency, and credibility in handling written copy will be emphasized. Skills to write captivating headlines, captions and other accompaniments to visuals will be a large focus of this class.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "COM 160 [Min Grade: D] or COM 260 [Min Grade: D]"
+      },
+      {
+            "Identifier": "COM 270   [WI]",
+            "Title": "Business Communication",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the writing of business letters, resumes, memos, proposals, and reports.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 102 [Min Grade: D] or ENGL 112 [Min Grade: D]"
+      },
+      {
+            "Identifier": "COM 282   [WI]",
+            "Title": "Public Relations Writing in the Digital Age",
+            "Number_of_credits": "Credits",
+            "Description": "In this course, students develop professional-level writing and pitching skills expected of public relations practitioners. The objectives include an understanding of PR writing styles and genres as a persuasive influence and learn how to write internal and external PR materials for both print and digital media.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "COM 181 [Min Grade: D]"
+      },
+      {
+            "Identifier": "COM 284",
+            "Title": "Public Relations Research, Measurement and Evaluation",
+            "Number_of_credits": "Credits",
+            "Description": "Scientific research is the first essential element in the process of Public Relations. This course predominantly focuses on quantitative research methods most widely used to evaluate an organization's public relations efforts and scientifically measure public opinion. Students get hands-on experience of designing surveys, analyzing media content, and learning about focus groups.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "COM 181 [Min Grade: D]"
+      },
+      {
+            "Identifier": "COM 286",
+            "Title": "Public Relations Strategies and Tactics",
+            "Number_of_credits": "Credits",
+            "Description": "In this course, students develop skills to understand advanced concepts, strategies, and tactics for public relations management. Using current and historical cases, students learn to apply core theoretical ideas and practices to manage public relations efforts.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "COM 282 [Min Grade: D]"
+      },
+      {
+            "Identifier": "COM 290",
+            "Title": "Sports and the Mass Media",
+            "Number_of_credits": "Credits",
+            "Description": "To explore the interrelationships between professional and college sports and the mass media. Students will look at how news media coverage has changes sports, the conventions found in sports journalism, promotion and marketing of sports teams and leagues, and how sponsorship of sporting events changes the nature of these events.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 102 [Min Grade: D] or ENGL 112 [Min Grade: D]"
+      },
+      {
+            "Identifier": "COM 305",
+            "Title": "Sports Journalism",
+            "Number_of_credits": "Credits",
+            "Description": "To gain a deeper appreciation for and understanding of the meaning- making power of sports journalism. We will explore the history of sports journalism, review and critique examples of historically significant sports writing and write game stories and columns based on actual coverage of local and on-campus sporting events.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "COM 260 [Min Grade: D] or COM 160 [Min Grade: D]"
+      },
+      {
+            "Identifier": "COM 310   [WI]",
+            "Title": "Technical Communication",
+            "Number_of_credits": "Credits",
+            "Description": "Develops skills in communicating with a technical focus. The course emphasizes technical genres such as proposals, reports, and instructions, as well as associated shorter documents, graphics and presentations optimized for print and online environments. Offers extensive application of the writing process, including creating drafts, receiving feedback, applying feedback in revising.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 102 [Min Grade: C] or ENGL 112 [Min Grade: C]"
+      },
+      {
+            "Identifier": "COM 315   [WI]",
+            "Title": "Investigative Journalism",
+            "Number_of_credits": "Credits",
+            "Description": "Mastery of investigative reporting tactics and strategies enables student to explore and write about issues of great importance to the community.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "COM 260 [Min Grade: D] or COM 261 [Min Grade: D]"
+      },
+      {
+            "Identifier": "COM 316",
+            "Title": "Campaigns for Health & Environment",
+            "Number_of_credits": "Credits",
+            "Description": "This seminar-style course explores theories and practical aspects of environmental and health campaigns and community-based social marketing campaigns. This course has a strong applied component.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 317   [WI]",
+            "Title": "Environmental Communication",
+            "Number_of_credits": "Credits",
+            "Description": "This reading and writing intensive course will explore communication about environmental issues. Topics can include advocacy campaigns, social marketing, environmental journalism, media coverage of environmental issues, green marketing, the environment in popular culture, risk communication, and public participation.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 318",
+            "Title": "Film, Celebrity and the Environmental Movement",
+            "Number_of_credits": "Credits",
+            "Description": "Using the framework of mass media and behavioral change theories, we will look at the environmental movement through the lends of \u201ceco celebrities\u201d and mainstream environmental films and will discuss how Hollywood shapes our perceptions of the environment and whether this has helped or hurt the environmental movement.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 320   [WI]",
+            "Title": "Science Writing",
+            "Number_of_credits": "Credits",
+            "Description": "A workshop course in writing on scientific subjects. Includes analysis of the current market for science writing; examination of exemplary pieces of science writing; instruction in finding article ideas, interviewing, and working with editors; and production of feature-length articles.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HUM 103 [Min Grade: D] or HUM 105 [Min Grade: A] or HUM 108 [Min Grade: D] or ENGL 103 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "COM 325",
+            "Title": "Celebrity and Authenticity",
+            "Number_of_credits": "Credits",
+            "Description": "In this course, we explore how the phenomenon of celebrity is constructed and who plays key roles in its construction: the celebrity, the entourage (industry representatives), the media, and audiences. Especially crucial is the notion of authenticity, an idea which guides media and fans in their appreciation of celebrity. Once we have established these key parameters, we discuss the role of mediated communication about celebrity among audiences and how celebrity and celebrities represent issues in society around intersections like race, age and gender.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 326",
+            "Title": "Public Relations for Science",
+            "Number_of_credits": "Credits",
+            "Description": "Public relations in the service of science poses special challenges. Perhaps the biggest challenge arises from the tension between science\u2019s search for truth and public relations\u2019 work for advocacy. This course explores this tension and ways of resolving it through a combination of readings in recent practice and scholarship in the field, analyses of recent case studies, and conversations with area professionals in public relations for science.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 330",
+            "Title": "Professional Presentations",
+            "Number_of_credits": "Credits",
+            "Description": "A workshop course in the theory and practice of making effective professional presentations for the technical and business professional. Provides a systems approach to the planning, production, and presentation of visual/aural programs.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "COM 230 [Min Grade: D]"
+      },
+      {
+            "Identifier": "COM 335   [WI]",
+            "Title": "Digital Publishing",
+            "Number_of_credits": "Credits",
+            "Description": "Digital Publishing gives students applied and theoretical knowledge of professional digital publishing. Students will learn and apply best practices relating to writing and integrating text and graphics to create audience-specific branded websites and/or blogs. Students will also apply credibility and usability standards to evaluate websites.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 102 [Min Grade: D] or ENGL 112 [Min Grade: D]"
+      },
+      {
+            "Identifier": "COM 340",
+            "Title": "Modern Desktop Publishing",
+            "Number_of_credits": "Credits",
+            "Description": "Covers production of publications using desktop publishing software, including planning, writing, designing, and budgeting of institutional magazines, newsletters, manuals, and brochures. Requires students to design several pieces (letterheads and flyers).",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 102 [Min Grade: D] or ENGL 112 [Min Grade: D]"
+      },
+      {
+            "Identifier": "COM 341",
+            "Title": "Communication Past and Present",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines the history of communication in depth, drawing on major studies and theories of creating and interpreting world events across the globe and across the span of recorded history. In that examination, technologies of communication are conceived broadly as both material and ideational modes. Students will read signature works by Communication historians and discuss both evidence and argument, as well as how the various transitions in human society affect and are affected by forms of communication. Attention will also be paid to social movements and the role of communication in marshalling social power and influence.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 342",
+            "Title": "English Worldwide",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an overview of the spread of English globally, by examining English as a language of trade, diplomacy, and education, as well as its status as an aesthetic and market force. For a final project, students research how English is utilized for social, economic, and political purposes in a single area of the world.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 102 [Min Grade: D] or ENGL 112 [Min Grade: D]"
+      },
+      {
+            "Identifier": "COM 345",
+            "Title": "Intercultural Communication",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces students to the theory and practice of intercultural communication. Drawing from traditions in anthropology and communication, intercultural communication is the study of the effect of differing cultural norms and beliefs upon communication between speakers. Through a wide range of readings, journal writing assignments, and participative and experiential activities, students will develop both their understanding of and skills in inter-cultural communication. A final project and presentation draws together participative experiences and the readings and class discussions.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 350   [WI]",
+            "Title": "Document Design and Evaluation",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces the principles and practice of designing documents and measuring their effectiveness with audiences.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 351",
+            "Title": "Computer Mediated Communication",
+            "Number_of_credits": "Credits",
+            "Description": "We focus on practices and affordances of Computer Mediated Communication (CMC). We consider how computer technology is used in social interaction and its practical consequences. We focus on social practices and uses of technology. We use qualitative methods of analysis to understand the practices of CMC.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "COM 220 [Min Grade: D]"
+      },
+      {
+            "Identifier": "COM 355",
+            "Title": "Ethnography of Communication",
+            "Number_of_credits": "Credits",
+            "Description": "Examines theories and methods of qualitative language and communication studies. Topics include story telling, greetings, gossip, self-presentation in talk, language of ritual and religion, men and women's roles in communication, and communicative events and competence. Case student in literature will be analyzed and will form a basis for the students' own ethnographic fieldwork.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "HUM 103 [Min Grade: D] or HUM 105 [Min Grade: A] or HUM 108 [Min Grade: D] or ENGL 103 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "COM 360",
+            "Title": "Strategic International Communication",
+            "Number_of_credits": "Credits",
+            "Description": "The course will explain the significance of strategic international communication in the contemporary globalized and digitized world. To a large extent, nations are brands and the images of those brands are strategically shaped by different agents \u2013 private and political interests, as well as state and business actors. The arsenal of tools they are using is huge \u2013 media, literature, movies, arts, history lessons, philosophy, religion, etc. Students will explore this process of strategic international image formation through the historical context, theoretical concepts, and the economic and structural aspects of strategic international communication. In each area, students will identify the key developments and large issues at stake rather than merely acquiring information.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 362",
+            "Title": "International Negotiations",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to give students a comprehensive overview of the field including different theoretical points of view on the process of international negotiations; the role of perceptions in this process; the role of internal politics and cultural variables in the process of international negotiations.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 363",
+            "Title": "Event Planning",
+            "Number_of_credits": "Credits",
+            "Description": "This course will provide the student with the theoretical and practical fundamentals in understanding the complexities of producing Special Events across all major industries. Special Events addresses all elements of the communication process.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 365",
+            "Title": "Journalists, the Courts, and the Law",
+            "Number_of_credits": "Credits",
+            "Description": "Students explore and apply techniques for covering the court system, and explore case law and recent key legal developments that have reshaped how journalists do their jobs.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "COM 260 [Min Grade: D] or COM 160 [Min Grade: D]"
+      },
+      {
+            "Identifier": "COM 375   [WI]",
+            "Title": "Grant Writing",
+            "Number_of_credits": "Credits",
+            "Description": "Students explore the grant writing process, from the development of an idea and researching appropriate contributors, to writing a fully realized grant proposal, complete with budget. Course topics also include surveying the political and social climate before developing an idea, assessing an organization's capabilities to handle a project, and performing through literature reviews.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "COM 270 [Min Grade: D] or COM 310 [Min Grade: D] or SOC 260 [Min Grade: D] or SOC 355 [Min Grade: D]"
+      },
+      {
+            "Identifier": "COM 376",
+            "Title": "Nonprofit Communication",
+            "Number_of_credits": "Credits",
+            "Description": "The nonprofit sector is vital to today\u2019s complex society, uniquely supporting education, social services, advocacy and activism, political engagement, medical services, and much more. Studying this dynamic sector and its organizations through a communication perspective can help us gain deeper insights for more effective nonprofit work. This course introduces students to the strategic ways nonprofits communicate with a broad range of audiences and stakeholders, as well as the ways researchers have examined these practices. Through a combination of scholarly readings, case studies, and interviews, students will study and practice effective nonprofit communication strategies and skills across many nonprofit contexts.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 377",
+            "Title": "Communication for Civic Engagement",
+            "Number_of_credits": "Credits",
+            "Description": "Extremist rhetoric and divisive politics seem to go hand-in-hand in today\u2019s public deliberations. The media so often pair the word rhetoric itself with the pejorative adjectives mere, empty, and deceptive, that anything rhetorical becomes vilified. This course draws from the ancient accounts of rhetoric and the contemporary studies on rhetoric to rehabilitate it as a way to inform our efforts towards a more civil public discourse. This course also will host guest speakers from local civic and political organizations who engage in rhetorical practices in the service of civic engagement, which includes the discourse both of people who exercise political power and of citizens who debate over public policies and cultural identity.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 378",
+            "Title": "Public Service Campaigns",
+            "Number_of_credits": "Credits",
+            "Description": "Public communication campaigns are a familiar and essential part of American civic culture. Campaign topics range from personal issues, such as health, to social issues, such as equal opportunity, energy conservation, and environmental protection. Campaigns are regarded as public service programs if their goals are widely supported by the public and policymakers. If their goals are controversial, however, then they are regarded as advocacy strategies.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 379",
+            "Title": "Focus Groups",
+            "Number_of_credits": "Credits",
+            "Description": "This advanced qualitative research methods course will discuss the use of focus groups to collect data for social science inquiry from both an academic and a consumer research perspective. We will take an in-depth look at how to plan, implement, and analyze data collected through a focus group process, including: purposes and uses of focus group interviews, human subjects research considerations, participant recruitment, sampling, question design, facilitation techniques, recording options, transcription, analysis, and reporting of data.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 384",
+            "Title": "Free Speech & Censorship",
+            "Number_of_credits": "Credits",
+            "Description": "In this course, students will explore the various forms --some obvious, some not-- that censorship takes. Also explored will be what those who hold dissenting views endure as they try to contribute to the national dialogue. Historical and legal perspective on censorship will also be considered.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 385",
+            "Title": "Media Effects",
+            "Number_of_credits": "Credits",
+            "Description": "Some people believe that the mass media rule our lives, making us fat, violent, sexist, etc. Some think that media are irrelevant. Of course these arguments are extreme and simplifications. In this course, we ask: What are the facts regarding media effects research?.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM 386",
+            "Title": "Public Relations Campaign Planning",
+            "Number_of_credits": "Credits",
+            "Description": "This capstone course focuses on the application of public relations strategies and tactics. Students learn how to analyze, plan, and conduct successful public relations campaigns systematically and scientifically. Students will assess and define campaign objectives and create full-scale PR campaigns for their \"real-world clients.\".",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "COM 284 [Min Grade: D] and COM 286 [Min Grade: D] and COM 248 [Min Grade: D]"
+      },
+      {
+            "Identifier": "COM 391",
+            "Title": "Critiques of Journalism and News Media",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines the role of journalism and news media in the social construction of our world. Focusing on key topics like framing and agenda setting in media research, we will critically consider how stories are routinely emphasized, excluded, organized, made sense of, and accumulate, plus more. We will discuss such topics in regard to various media (from newspapers to new media), various methods (qualitative and quantitative), and various public issues (including politics, music, sports, and representation of race/gender/sexuality/etc.).",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "COM 150 [Min Grade: D]"
+      },
+      {
+            "Identifier": "COM 400",
+            "Title": "Seminar in Communication",
+            "Number_of_credits": "Credits",
+            "Description": "This is an upper-level seminar in various topics in Communication, including but not limited to Rhetoric. Students will undertake an in-depth examination of critical texts or themes in Communication. The course is intended for upper-level majors in Communication and can be repeated for credit with a different topic.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 4 times for 12 credits",
+            "Prerequisites": "COM 210 [Min Grade: D]"
+      },
+      {
+            "Identifier": "COM 491",
+            "Title": "Senior Project in Communication I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers planning and execution of a professional project that integrates the academic and practical knowledge the student has acquired in his or her major.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "COM 210 [Min Grade: D] and (COM 220 [Min Grade: D] or SOC 250 [Min Grade: D])"
+      },
+      {
+            "Identifier": "COM 492",
+            "Title": "Senior Project in Communication II",
+            "Number_of_credits": "Credits",
+            "Description": "Requires completion and evaluation of the project begun inCOM\u00a0491.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "COM 491 [Min Grade: D]"
+      },
+      {
+            "Identifier": "COM I199",
+            "Title": "Independent Study in COM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM I299",
+            "Title": "Independent Study in COM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM I399",
+            "Title": "Independent Study in COM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM I499",
+            "Title": "Independent Study in COM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM T180",
+            "Title": "Special Topics in Communication Theory",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM T280",
+            "Title": "Special Topics in Communication Theory",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM T380",
+            "Title": "Special Topics in Communication Theory",
+            "Number_of_credits": "Credit",
+            "Description": "Provides advanced communication studies covering various subjects in interpersonal, group, organizational, and mass communication. May be taken for credit twice.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COM T480",
+            "Title": "Special Topics in Communication Theory",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

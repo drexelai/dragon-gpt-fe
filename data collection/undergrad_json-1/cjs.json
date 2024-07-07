@@ -1,0 +1,488 @@
+[
+      {
+            "Identifier": "CJS 100",
+            "Title": "Freshman Seminar in Crime and Justice",
+            "Number_of_credits": "Credits",
+            "Description": "This is an entry level course for CJS freshman that introduces them to the norms of academic writing and comprehension in the disciplines of criminology and criminal justice. During the course students will read a combination of classic and current volumes in criminology to initiate them into the academic discipline. The course will be mostly seminar-style, which means students will engage in active learning through reading, writing, and discussion.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 101",
+            "Title": "Introduction to Criminal Justice",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides a survey of the criminal justice system with the primary goal of conveying an understanding of America's formal response to crime. We confront the long-standing struggle to balance due process with crime control through the lenses of the police, courts and corrections -- the core elements of the Criminal Justice system. We also examine major crime control paradigms (historic and current), and the tenuous relationship between race and justice. The course offers a variety of educational approaches in an effort to match (as much as is reasonable) students' individual learning styles and needs.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 180",
+            "Title": "Serial Killers",
+            "Number_of_credits": "Credits",
+            "Description": "This course discusses serial killers; the group of individuals that fascinate all of us given the heinous nature of their crimes. We will explore the various types of serial killers, the pathology behind their killings, the victims of serial killings and how we (society and law enforcement) respond to serial killers/killings.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 200",
+            "Title": "Criminology",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines the myriad factors that explain crime and criminal behavior. The course describes prevalences of different crime types across various populations and geographic areas to help students understand how and why crime often clusters within certain settings. The Course reviews major theories of crime developed over the past two hundred years to help explain crime and the labeling of criminal offenders. The course will draw on references from popular culture to help provide a context for crime and crime causation.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 210",
+            "Title": "Race, Crime, and Justice",
+            "Number_of_credits": "Credits",
+            "Description": "This course considers how race affects the behaviors of the major institutions of the justice process, as well as how the justice process affects social perceptions of race and crime. The course also describes the relationships among race, criminal offending, and victimization; and it explores how justice-\u00ad\u2010related outcomes are often influenced by the quality and behaviors of local schools, access to housing, economic investment in majority-\u00ad\u2010minority communities, crime control strategies, and the perceived fairness of the justice process itself.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 220",
+            "Title": "Crime and the City",
+            "Number_of_credits": "Credits",
+            "Description": "This course reviews the nature of crime and disorder in cities from the urban industrial revolution through the so-called \"Crime Drop\" of the early 2000s. The course opens with an overview of urbanization, contrasting the \u201cbest\u201d with the \u201cworst\u201d aspects of the industrial revolution on human life. It then examines urban drug markets, violence, and policing before moving into a discussion of the crime \"peak\" of 1992. The course then follows the ensuing crime drop, examining demographic, economic, and cultural factors that may explain the national crime decline. The course then focuses on violence as a public health issue and on how crime, incarceration, health, housing, and education are all tied to urban crime policy.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 230",
+            "Title": "Police and Society",
+            "Number_of_credits": "Credits",
+            "Description": "Policing is the only institution in America with the general right to use coercive force to accomplish its mandate. This class focuses on the benefits and social costs of policing, examining the evolution of the police role, the paramilitary structure of police organizations, and the recruitment and training paradigms that have shaped the identities of police officers. The course also critiques American policing and proposes a reimagined police role that deemphasizes crime fighting and coercive control in favor of protecting life. Throughout the course, students will consider and reconsider the question: If coercion is the defining feature of the police, does every interaction between the police and public have to be coercive?.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 240",
+            "Title": "Seminar in Justice Informatics",
+            "Number_of_credits": "Credits",
+            "Description": "Justice Informatics. Digital Justice. Data Justice. These are the theoretical and ethical contexts that frame our discussions of how the government and other entities create, use, and archive data they have gathered about members of our society. Many people are familiar with predictive policing; we have heard the terms \u201cracist algorithms\u201d and \u201cartificial intelligence.\" But few people actually know how these activities and concepts apply to our institutions of criminal justice, and how they often conflict with society's desire to secure privacy in a data-driven world. This seminar explores Justice Informatics as a subfield of Criminology and Justice Studies. Students will learn how to conceptualize justice informatics as that intersection of information science, AI, justice, and criminal justice.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 250",
+            "Title": "Research Methods & Analytics I",
+            "Number_of_credits": "Credits",
+            "Description": "This is the first of three integrated methods and analysis courses for CJS students that introduces them to the fundamentals of research design, the benchmarks of scientific quality, sampling, modes of observation, and units of measurement. The course also introduces students to the most relevant analytical procedures often used at each stage in the methodological process, such as developing a data set, performing descriptive (univariate) analyses, examining bivariate relationships, and testing hypotheses using both parametric and non-parametric statistical tests. The course culminates with students writing a research proposal that includes the major components of most grant applications: Statement of the Problem, Literature Review, Research Questions, and Research Methodology/Analytical Procedures.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 260",
+            "Title": "Justice in Our Community",
+            "Number_of_credits": "Credits",
+            "Description": "This course is a seminar style community-based learning course that will begin with an introduction to justice in urban communities and examine problems unique to cities. The course format will include lectures and on-site work with our community partners at UConnect. The synthesis of scholarship and community classroom experience will provide a holistic lens in which to explore issues in our urban community. Topics include urban economies, access to education and health care, digital divides and crime. Students who take this course will also register for one recitation section ofCJS\u00a0260.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 261",
+            "Title": "Prison, Society and You",
+            "Number_of_credits": "Credits",
+            "Description": "This course utilizes the Inside-\u00ad\u2010Out Prison Exchange Program to explore the relationship between individuals and the prison system. The Inside-\u00ad\u2010Out Exchange Program is an evolving set of projects that creates opportunities for dialogue between those on the outside and those on the inside of the nation\u2019s correctional facilities. The program demonstrates the potential for dynamic collaborations between institutions of higher education and correctional institutions. Most importantly, through this unique exchange, Inside-Out, this course seeks to deepen the conversation and transform ways of thinking about crime and justice (Crabbe, Pompa, 2004).",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 262",
+            "Title": "Places of Justice",
+            "Number_of_credits": "Credits",
+            "Description": "We often debate the theory and praxis of justice and do not analyze the very places and spaces that encourage (or discourage) justice. Throughout this course students will practice justice by engaging with faculty, students, and community. This course will begin by analyzing classic and contemporary theories of justice. Upon the development of a theoretical foundation, students will explore and engage with the built environment and other social structures which support justice or create unjust places and practices. Topics include the built environment and infrastructure, climate, housing, education, and correctional facilities.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 263",
+            "Title": "Crime, Violence, and Climate Change",
+            "Number_of_credits": "Credits",
+            "Description": "An undergraduate course that explores the impacts of climate change on crime and violence, both at the global and local levels. The course begins with an overview of climate change as both a scientific and social construct, then examines the primary theoretical model that links climate change with crime and violence. The course then focuses on the primary contexts within which climate change affects crime and violence, including mass migrations of refugees, droughts, major water events (e.g., monsoons), destruction of habit, and urban heat islands. The course culminates an a local examination of how urban heat has influenced shooting victimizations in Philadelphia since 2016, finally examining the state security implications of global warming.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 266",
+            "Title": "Crime Prevention Planning",
+            "Number_of_credits": "Credits",
+            "Description": "The course will explore the role of places and environments on criminal opportunities. By analyzing residential and business layouts, street networks, and routine activities of individuals, the course will seek ways in which situational crime prevention methods may then be applied for preventing criminal behavior in both the public and private settings.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 267",
+            "Title": "Introduction to Security Studies",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines the private security industry. Substantive topics of interest include the historical development of the industry; its linkage to public forms of security (law enforcement and the regulatory state); its legal underpinnings; management issues; and the nature of internal and external threats faced by facilities and organizations. The philosophical and analytic paradigm for security -- risk analysis and prevention -- offers a framework for the study of problem solving models used in the field. This framework, along with the analytic models utilized by security professionals will be explored in depth.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 268",
+            "Title": "Electronic Fraud Investigations",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines the most common types of financial crimes that occur in contemporary society. It also explores how law enforcement authorities and private sector investigators collaborate to solve these crimes. The course opens with a history of US financial regulations, particularly pre-9/11, and shows how the events of September 11 led to changes in the regulations that govern the collective financial industry. The course includes case studies on terrorist financing schemes and Anti- Money Laundering investigations and teaches students to use IBM\u2019s i2 software to conduct, interpret, and write reports on, link analysis - a primary method for investigating electronic crime. The course concludes with an examination of how offenders use \u201cdark web\u201d as an illegal online marketplace to commit financial crime.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 270",
+            "Title": "Crime Analysis Using Open Data",
+            "Number_of_credits": "Credits",
+            "Description": "We live a data rich world and \u201copen data\u201d initiatives have made unprecedented amounts of crime, criminal justice, demographic, and land use data available to academics, professionals, and citizens alike. The data are not useful unless we know what is available, how to access it, and what tools to use to make sense of it. Students will gain competence in each of these areas as we investigate: Why is open data, particularly related to crime and justice, so important? How can the availability of such data increase citizen participation in civil society? How might open data help us move toward a more just society? Should we become advocates for using the data? Students will conduct weekly exercises that focus on finding data and then getting actual and actionable information out of it and a final project.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 273",
+            "Title": "Surveillance, Technology, and the Law",
+            "Number_of_credits": "Credits",
+            "Description": "This course will examine current surveillance technologies used by criminal justice agencies and private sector organizations and the laws that regulate government surveillance and protect privacy.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 274",
+            "Title": "Sex, Violence, & Crime on the Internet",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores how offenders are adopting computers to commit traditional crimes in a high-tech manner. Specific attention will be paid to the following types of crime: cyberstalking, online harassment, cyberbullying, sexting, and computer-facilitated sexual exploitation of children. Related legislation and current law enforcement practices to address these crimes will be examined.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 276",
+            "Title": "Introduction to Computer Crime",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an overview of computer crime. Emphasis will be placed on the legislative responses and policy issues related to computer intrusions and cyberfraud. Issues encountered when informing laws in cyberspace and the public/private sector initiatives for dealing with computer crime will also be explored.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 277",
+            "Title": "Introduction to Correctional Practices",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides insight into the Correctional component of the Criminal Justice System. Students will learn and understand correctional theory, over view of correctional facilities management and practice and contemporary issues in the field of corrections, including re-entry and alternatives to incarceration. Emphasis will be placed on actual real world experiences based upon the Philadelphia Prison System. Course material will be presented through the required textbook, court opinions from legal cases, handouts, classroom lecture and discussion, on-site visits and tours of the various Philadelphia Prison System facilities and guest lectures and demonstrations.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 278",
+            "Title": "Introduction to Law Enforcement",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines the implications of maintaining an armed police force in a democratic society whose mandate requires it to enforce laws under the tacit threat of coercion. The course explores different styles of policing that are commonly found in urban, rural, and suburban locations; and it examines the rise and consequences of historic crime control paradigms, such as the War on Drugs, and the War on Terrorism. It offers an overview of Supreme Court decisions that have most affected police functions and authority. And it will highlight the police use of technology for the purposes of coercion, surveillance, and communication.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 280",
+            "Title": "Communities and Crime",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces students to the ecological study of crime. Crime varies in time, space, and populations as it reflects neighborhood structures and the routine social interactions that occur in daily life. Concentrations of crime can be found among locations, with antisocial activities like assaults and theft occurring at higher rates because of the demographic make-up of people (e.g., adolescents) or conflicts (e.g., competing gangs), for reasons examined by ecological criminology. We examine variations in socio-demographic structures (age, education ratios, and the concentration of poverty) and the physical environment (housing segregation, density of bars, street lighting) predicts variations between neighborhoods in the level of crime and disorder.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 289",
+            "Title": "Terrorism",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines the varying types and purposes of terrorism and its application. It will discuss the problems with definitions, worldviews and ideologies, and how these affect both the perceptions and responses to terrorist events.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 290",
+            "Title": "Crime and Public Policy",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on criminal justice and non-criminal justice policies used to combat crime. Students will use the most recent crime data and explanatory theories on crime to evaluate current policy. A multi-disciplinary approach will be used to develop new policies designed to have a long-lasting impact on crime.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 300",
+            "Title": "Research Methods and Analytics II",
+            "Number_of_credits": "Credits",
+            "Description": "This course builds on (and reviews) the fundamentals of research design introduced in Methods and Analysis I with the specific aim of teaching students how to construct, and analyze data generated from, surveys. Students will learn the \u201cmechanics\u201d of survey design, such as where to place demographic questions, as well as how to identify and include validated scales on the instrument, and how to avoid misleading or debilitative items (e.g., \u201cdouble-barreled\u201d questions, biased/leading questions, non-mutually exclusive or exhaustive response categories. Students will also learn the process (and importance) of pre-testing the survey prior to implementing it; and they will be trained to analyze survey results using SPSS and other software packages as needed.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CJS 250 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CJS 301",
+            "Title": "Methods and Analytics III",
+            "Number_of_credits": "Credits",
+            "Description": "The course focuses on the development of a community needs assessment as a platform for giving students the opportunity to work as part of a research team in the field, creating a data collection instrument, collecting and analyzing data, and reporting the findings. The course integrates the community needs assessment methodology with the urban disorder literature to educate students in the modes of observation required to reliably measure crime, disorder, surveillance gaps, and other sources of community risk. Students will map community demographic features, develop an assessment tool, make field observations, and analyze the findings as part of their culminating experience.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CJS 300 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CJS 302",
+            "Title": "Advanced Criminological Theorizing",
+            "Number_of_credits": "Credits",
+            "Description": "This course offers a detailed examination of several major theories of crime. Whereas CJS200/CJ204-Criminology represents a survey of many criminological theories, this advanced course focuses on three major perspectives in criminology: Life-course, genetics/bio-social, social disorganization (and specifically, subculture of violence) theories. The course also helps students understand how different criminological theories might integrate with each other to offer broad perspectives the causes of crime.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CJS 200 [Min Grade: C] or CJ 204 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CJS 303",
+            "Title": "Applications of Justice",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines different aspects of justice -- distributional; procedural; retributive; and restorative \u2013 as they relate to crime, the criminal justice system and society more broadly. After introductory background history on this topic, each week will examine concrete cases pertaining to one of the various aspects of justice along with readings reflecting on the cases theoretically.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 304",
+            "Title": "Mental Illness and the Criminal Justice System",
+            "Number_of_credits": "Credits",
+            "Description": "The increasing number of individuals with mental health and substance use conditions in the criminal justice system has enormous fiscal, health, and human costs. Within this course we will explore the shared tools needed to understand the interface between the criminal justice system and the mental health system. Through online lectures, discussions, and applied learning we will review the history and etiology of mental health, stakeholders in both systems and community considerations.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 305",
+            "Title": "Crime and Popular Media",
+            "Number_of_credits": "Credits",
+            "Description": "Turning on the news, streaming a popular crime show, listening to a podcast or viewing political memes sends a clear message and creates an often-inaccurate fear of crime. As a result, misinformed citizens may draw erroneous conclusions about crime, people who commit crime, and crime policies. Mass media and pop culture often misrepresent the complexity of crime and reality of those involved in the criminal justice system. Students will view popular media outlets and evaluate the legitimacy and efficacy of the sources while analyzing the accuracy of criminogenic factors and the criminal justice system as portrayed in movies, memes, podcast, and television shows.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 310",
+            "Title": "Crime Prediction Using Open Data",
+            "Number_of_credits": "Credits",
+            "Description": "Information technologies have increased the amount of data researchers and practitioners have at their disposal for analysis. This data is valuable for predicting criminal behavior and the criminogenic factors present in certain geographical areas. These predictions are in turn used to support everything from policy decisions to sentencing guidelines. This course will examine the tools used for crime prediction and the impact of their use on individuals and communities. Students will learn the logic behind the algorithms used for crime prediction so they can understand the ethical implications of crime prediction tools and methodologies. We will learn R through edX so we have some hands on knowledge of one of the post popular tools being used in data science \u2013 focused on criminal justice.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 320",
+            "Title": "Comparative Justice Systems",
+            "Number_of_credits": "Credits",
+            "Description": "This course offers students a transnational perspective on crime and justice institutions. As the world increasingly globalizes, it becomes increasingly important to understand how countries outside the United States undertake the processes of detecting crime, labeling people \u201ccriminal,\u201d and adjudicating criminal offenders. Is there a common threshold in other countries for determining guilt? Is there a universal standard that governs the presumption or guilt or innocence at the onset of the criminal justice process? How many other countries still use the death penalty? These are questions the course will address in addition to others related to policing, courts, and corrections.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 330",
+            "Title": "Crime Mapping I Using Geographic Information Systems",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces students to the fundamentals of crime mapping through both lecture and the use of geospatial software. The course opens with a history of crime mapping, then moves to an examination of several place-based theories of criminology that help explain why crime events often cluster in time and space. The course then uses scenario-based exercises to teach students to work with and manage geospatial data, conduct select spatial analyses, interpret the results of such analyses within the contexts of different criminological theories, and create maps that illustrate spatial patterns and relationships across different units of geography.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 331",
+            "Title": "Crime Mapping II Using Geographic Information Systems",
+            "Number_of_credits": "Credits",
+            "Description": "This course takes up where Crime Mapping I leaves off by teaching students some of the intermediate to advanced techniques of crime mapping using geospatial software. The course opens with a brief review of the fundamentals of crime mapping, then moves into some of the more advanced mapping/software applications that support complex analyses and visualizations. Students will learn to manipulate attribute tables, select by spatial locations, create spatial buffer and distance surfaces, convert vector data to raster data, and assess for spatial autocorrelation and clustering. They will also learn to detect and work with spatial outliers.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CJS 330 [Min Grade: C]"
+      },
+      {
+            "Identifier": "CJS 360",
+            "Title": "Juvenile Justice",
+            "Number_of_credits": "Credits",
+            "Description": "Students will learn about the history, development and current status of the juvenile justice system. Philosophical, sociological, psychological, legal and political factors contributing to the changes in the manner in which society processes children and youth who violate social norms will be explored in research articles, legal decision, and theoretical analyses.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 362",
+            "Title": "Gender, Crime, and Justice",
+            "Number_of_credits": "Credits",
+            "Description": "This term will explore the historical roots of crime and how we study crime specifically; we will critically analyze female crime trends and statistics, gender and the law, and female offending. After laying a strong foundation, we will connect gender and crime by exploring rape, pornography, and domestic violence, sex trafficking and female gangs.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 365",
+            "Title": "Computer Investigations and the Law",
+            "Number_of_credits": "Credits",
+            "Description": "This course will examine the techniques used to investigate Internet crimes and extract evidence from digital storage devices. Specific attention will be paid to the procedural laws that govern digital forensic techniques and investigations involving electronic evidence.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 366",
+            "Title": "Technology and the Justice System",
+            "Number_of_credits": "Credits",
+            "Description": "This course will examine past and current technologies adopted in the field of criminal justice to assess their usefulness in identifying and preventing crime and advancing justice. We will also discuss technologies on the horizon that are likely to be adopted by criminal justice agencies. Additionally, methods for evaluating technology use will be examined.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 372",
+            "Title": "Death Penalty - An American Dilemma",
+            "Number_of_credits": "Credits",
+            "Description": "Capital punishment is one of the most complex issues in Criminal Justice and one of the most controversial facing America. Everyone has an opinion about the death penalty but rarely is it grounded in hard evidence. This course will examine the history of the use of capital punishment in America by reviewing the relevant case law in this area and will explore in-depth the issues which rise from the use of the Death Penalty in this country. Is it ethical? Is it fairly administered? Is it effective? Should it be reformed? Can it be reformed?.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 373",
+            "Title": "Environmental Crime",
+            "Number_of_credits": "Credits",
+            "Description": "The objective of this course is to provide students with an introduction to and overview of the federal criminal enforcement program concerning the criminal prosecution of certain types of violations of federal environmental laws and regulations. Although the focus of the course will be on the federal government\u2019s environmental crimes program that is administered by the United States Environmental Protection Agency, general concepts concerning criminal law and procedure will also be discussed. More specifically, topics to be covered will include, among other things: the history of the federal environmental crimes program; the role of EPA-CID Special Agents and federal prosecutors in the investigation and prosecution of environmental crimes; environmental offenses under the federal Federal Acts.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 375",
+            "Title": "Criminal Procedure",
+            "Number_of_credits": "Credits",
+            "Description": "A solid understanding of constitutional criminal procedure is essential to any career in the law or law enforcement. Further, as America seeks to protect itself from terrorism, every citizen should understand the constitutional protections that Americans have historically enjoyed which have been and continue to be diminished by the courts and the legislature.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 376",
+            "Title": "Sentencing",
+            "Number_of_credits": "Credits",
+            "Description": "We explore the theoretical basis for sentencing, including the purposes of sentencing, and determination of the just sentence, including the consideration of the crime, as well as the offender\u2019s background and criminal history. We cover contemporary issues like prosecutorial misconduct, plea bargaining, sentencing guidelines, mandatory minimums, truth in sentencing and the impact of racial and gender disparities. We also spend time investigating special issues within the field such as the sentencing of juveniles and capital sentencing procedures.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 377",
+            "Title": "Intellectual Property Theft in the Digital Age",
+            "Number_of_credits": "Credits",
+            "Description": "This seminar focuses on the changing nature of intellectual property theft, piracy, and copyright infringement in the Digital Age. Attention will be paid to legislative and technical solutions for protecting copyrighted goods (including music, movies, and software) and the challenges faced when investigating the theft of intellectual property. Additionally, theoretical explanations to account for intellectual property theft will be explored.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 403",
+            "Title": "Policing: Theory and Practice",
+            "Number_of_credits": "Credits",
+            "Description": "This is course examines contemporary issues in policing, representing a unique collaboration between the Department of Criminology and Justice Studies and the Drexel University Police Department. The course offers both a classroom component that grounds students in the academics of policing, as well as a Citizen Police Academy experience to teach certain aspects of policing through practice. Each week, students will study a policing topic in class and then participate in a simulated police activity hosted by Drexel police officers. These simulated activities include car stops, shoot-don't-shoot scenarios, responding to mass shooting events, and drug seizures. Ultimately, this course hopes to integrate two aspects of American policing that are typically separated: How we teach policing, and how we do policing.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS 405",
+            "Title": "Data-Driven Investigations and Crime",
+            "Number_of_credits": "Credits",
+            "Description": "Crime, security, and intelligence analysts are faced with an increasing amount of data and sources to draw data from that can help detect, solve, and prevent crime and better understand criminality. In this course, students will build competencies in database design, Structured Query Language, and the Python programming language to support the collection, use, and analysis of data connected to criminal investigations and intelligence operations. Classroom activities and lab exercises will give students valuable hands-on experience with the latest methods and tools used by analysts in the criminal justice, security, and intelligence communities.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS I199",
+            "Title": "Independent Study in Criminology & Justice Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS I299",
+            "Title": "Independent Study in Criminology & Justice Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS I399",
+            "Title": "Independent Study in Criminology & Justice Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Provides a course of independent study in Criminology and Justice Studies. Topics for study must be approved in advance of registration by the advisor and the instructor involved.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS I499",
+            "Title": "Independent Study in Criminology & Justice Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS T180",
+            "Title": "Special Topics in Criminology & Justice Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS T280",
+            "Title": "Special Topics in Criminology & Justice Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS T380",
+            "Title": "Special Topics in Criminology & Justice Studies",
+            "Number_of_credits": "Credits",
+            "Description": "This course will explore current issues and interests in Criminology and Justice Studies. The topic will vary each term.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "CJS T480",
+            "Title": "Special Topics in Criminology & Justice Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

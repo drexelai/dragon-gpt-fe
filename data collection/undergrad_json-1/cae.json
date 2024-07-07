@@ -1,0 +1,29 @@
+[
+      {
+            "Identifier": "CAE 491   [WI]",
+            "Title": "Senior Design Project I",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces the design process, including information retrieval, problem definition, proposal writing, patents, and design notebooks. Includes presentations on problem areas by experts from industry, government, and education.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(CIVE 330 [Min Grade: D] and CIVE 303 [Min Grade: D]) or (AE 391 [Min Grade: D] and CIVE 303 [Min Grade: D]) or (CIVE 330 [Min Grade: D] and CIVE 312 [Min Grade: D]) or (CIVE 303 [Min Grade: D] and CIVE 312 [Min Grade: D]) or (AE 391 [Min Grade: D] and CIVE 330 [Min Grade: D])"
+      },
+      {
+            "Identifier": "CAE 492   [WI]",
+            "Title": "Senior Design Project II",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesCAE\u00a0491. Requires written and oral progress reports.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CAE 491 [Min Grade: D]"
+      },
+      {
+            "Identifier": "CAE 493   [WI]",
+            "Title": "Senior Design Project III",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesCAE\u00a0492. Requires written and oral final reports, including oral presentations by each design team at a formal Design Conference open to the public and conducted in the style of a professional conference.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CAE 492 [Min Grade: D]"
+      }
+]

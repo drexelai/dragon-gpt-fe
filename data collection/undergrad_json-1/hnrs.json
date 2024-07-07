@@ -1,0 +1,227 @@
+[
+      {
+            "Identifier": "HNRS 200",
+            "Title": "Introduction to Honors Program",
+            "Number_of_credits": "Credits",
+            "Description": "Offers intensive discussion of a subject of significant intellectual interest. Subjects vary from section to section and are meant to engage entering Honors students with one another under the guidance of Drexel's best faculty. Different sections may be taken for credit.",
+            "College/Department": "Pennoni Honors College",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HNRS 201",
+            "Title": "Honors Seminar",
+            "Number_of_credits": "Credit",
+            "Description": "This course provides a forum for students to engage with Drexel faculty and Visiting Scholars across a variety of topics and issues. These courses often combine multiple disciplines.",
+            "College/Department": "Pennoni Honors College",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HNRS 203",
+            "Title": "Honors Seminar in Civic Engagement",
+            "Number_of_credits": "Credit",
+            "Description": "This course will focus on central ideas such as justice, community, systems of power and the role of the citizen.",
+            "College/Department": "Pennoni Honors College",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HNRS 210",
+            "Title": "Mentorship I",
+            "Number_of_credits": "Credit",
+            "Description": "Students will receive an overview of what it means to be a leader and how to support the first year student experience including: preparing for Honors Student Orientation, mentor programming and best practices.",
+            "College/Department": "Pennoni Honors College",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HNRS 220",
+            "Title": "Mentorship II",
+            "Number_of_credits": "Credit",
+            "Description": "Students will survey leadership models and explore topics including group dynamics, maintaining successful interpersonal relationships and conflict resolution.",
+            "College/Department": "Pennoni Honors College",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HNRS 301",
+            "Title": "Honors Colloquium",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides a forum for students to engage with Drexel faculty and Visiting Scholars across a variety of topics and issues. These courses often combine multiple disciplines.",
+            "College/Department": "Pennoni Honors College",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HNRS 302",
+            "Title": "The Symposium",
+            "Number_of_credits": "Credits",
+            "Description": "The Symposium is an interdisciplinary course series sponsored by the Pennoni Honors College and is open to all students throughout Drexel. Its intent is to explore subjects of the broadest possible interest and greatest societal impact. Individual course topics will change from term to term, but each course focuses on developing in students the active skills of interdisciplinary inquiry: critical thinking, methodological creativity, synthesis of information across fields, communication and collaboration among disciplines, and application of knowledge.",
+            "College/Department": "Pennoni Honors College",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HNRS 303",
+            "Title": "Honors Colloquium: Arts and Culture",
+            "Number_of_credits": "Credits",
+            "Description": "This variable topics Honors colloquium draws upon creative, expressive, and/or cultural fields. This course provides a forum for students to engage with Drexel faculty and visiting scholars about issues pertaining to the fields of literature, art, creative expression, and cultural studies, among others, to promote critical intellectual reflection and exchange of ideas among students across different disciplines.",
+            "College/Department": "Pennoni Honors College",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HNRS 304",
+            "Title": "Honors Colloquium: STEM",
+            "Number_of_credits": "Credits",
+            "Description": "This variable topics Honors colloquium draws upon scientific, technological, and mathematical fields. This course provides a forum for students to engage with Drexel faculty and visiting scholars about issues pertaining to the fields of the natural sciences, engineering, mathematics, and technology, among others, to promote critical intellectual reflection and exchange of ideas among students across different disciplines.",
+            "College/Department": "Pennoni Honors College",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HNRS 305",
+            "Title": "Honors Colloquium: Sociological and Behavior Studies",
+            "Number_of_credits": "Credits",
+            "Description": "This variable topics Honors colloquium draws upon sociological and behavioral fields. This course provides a forum for students to engage with Drexel faculty and visiting scholars about issues pertaining to the fields of social systems, politics, psychological and behavioral sciences, among others, to promote critical intellectual reflection and exchange of ideas among students across different disciplines.",
+            "College/Department": "Pennoni Honors College",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HNRS 306",
+            "Title": "Honors Colloquium: History and Philosophy",
+            "Number_of_credits": "Credits",
+            "Description": "This variable topics Honors colloquium draws upon ethical, historical, and humanistic fields. This course provides a forum for students to engage with Drexel faculty and visiting scholars about issues pertaining to the fields of ethics and philosophy, history, and religion, among others, to promote critical intellectual reflection and exchange of ideas among students across different disciplines.",
+            "College/Department": "Pennoni Honors College",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HNRS 307",
+            "Title": "Honors Colloquium: Business",
+            "Number_of_credits": "Credits",
+            "Description": "This variable topics Honors colloquium draws upon business, management and financial fields. This course provides a forum for students to engage with Drexel faculty and visiting scholars to promote critical intellectual reflection and exchange of ideas among students across different disciplines.",
+            "College/Department": "Pennoni Honors College",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HNRS 400",
+            "Title": "Honors Thesis Proposal Workshop",
+            "Number_of_credits": "Credit",
+            "Description": "This course is the proposal workshop for students preparing to embark on their Honors thesis. Available to students who are pursuing Honors with Distinction.",
+            "College/Department": "Pennoni Honors College",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HNRS 410",
+            "Title": "Mentorship Practicum I",
+            "Number_of_credits": "Credit",
+            "Description": "Students will participate in the Honors Mentor Program and complete mentorship programming requirements that will support first year students through academic and social initiatives.",
+            "College/Department": "Pennoni Honors College",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "HNRS 210 [Min Grade: B]"
+      },
+      {
+            "Identifier": "HNRS 420",
+            "Title": "Mentorship Practicum II",
+            "Number_of_credits": "Credit",
+            "Description": "Students will participate in the Honors Super Mentor Program and complete mentorship programming requirements that will support first year students through academic and social initiatives as well as initiatives to oversee other upperclassmen mentors.",
+            "College/Department": "Pennoni Honors College",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "HNRS 220 [Min Grade: B]"
+      },
+      {
+            "Identifier": "HNRS 430",
+            "Title": "Community Engagement",
+            "Number_of_credits": "Credit",
+            "Description": "Students will explore community based initiatives and will unpack what community means to them in the context of Drexel, Philadelphia and the world around them.",
+            "College/Department": "Pennoni Honors College",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HNRS 499",
+            "Title": "Honors Thesis",
+            "Number_of_credits": "Credits",
+            "Description": "Available to students who are pursuing Honors with Distinction.",
+            "College/Department": "Pennoni Honors College",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "HNRS 400 [Min Grade: B-]"
+      },
+      {
+            "Identifier": "HNRS I199",
+            "Title": "Independent Study in HNRS",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Pennoni Honors College",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HNRS I299",
+            "Title": "Independent Study in HNRS",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Pennoni Honors College",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HNRS I399",
+            "Title": "Independent Study in HNRS",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Pennoni Honors College",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HNRS I499",
+            "Title": "Independent Study in HNRS",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Pennoni Honors College",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HNRS T180",
+            "Title": "Special Topics in HNRS",
+            "Number_of_credits": "Credit",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Pennoni Honors College",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HNRS T280",
+            "Title": "Special Topics in HNRS",
+            "Number_of_credits": "Credit",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Pennoni Honors College",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HNRS T380",
+            "Title": "Special Topics in HNRS",
+            "Number_of_credits": "Credit",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Pennoni Honors College",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "HNRS T480",
+            "Title": "Special Topics in HNRS",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Pennoni Honors College",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

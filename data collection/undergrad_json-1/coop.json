@@ -1,0 +1,38 @@
+[
+      {
+            "Identifier": "COOP 001",
+            "Title": "Co-op Essentials",
+            "Number_of_credits": "Credits",
+            "Description": "Co-op Essentials is an accelerated version of the required course for co-op students,COOP\u00a0101. It is designed for non-traditional students with significant work history. The course covers all of the essential job development topics including, introduction to the Steinbright Career Development Center and SCDConline, resumes, interviewing, and workplace issues. The emphasis of Co-op Essentials is on integrating and adapting the student\u2019s previous experience to a co-op environment.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COOP 101",
+            "Title": "Career Management and Professional Development",
+            "Number_of_credits": "Credit",
+            "Description": "Prepares new students to achieve success, personally and academically, in their first co-operative education experience. Topics covered include career exploration, resume development, interview techniques, job search strategies, success in the workplace, and professionalism.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COOP 201",
+            "Title": "Co-op Experience",
+            "Number_of_credits": "Credits",
+            "Description": "",
+            "College/Department": "University Courses",
+            "Repeat Status": "Can be repeated 6 times for 96 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "COOP 250",
+            "Title": "Professional Skills Enrichment",
+            "Number_of_credits": "Credits",
+            "Description": "Professional Skills Enrichment is designed to enable the student to hone their job search skills. Taught as a series of workshops, each class focuses on a different career-related topic including Networking, Utilizing Social Networking Sites, and Mastering the Interview. Students are required to attend a mock interview and participate in a mock networking event.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      }
+]

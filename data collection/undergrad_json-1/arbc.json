@@ -1,0 +1,164 @@
+[
+      {
+            "Identifier": "ARBC 101",
+            "Title": "Arabic I",
+            "Number_of_credits": "Credits",
+            "Description": "Introductory Arabic includes listening, speaking, reading and writing. Offered all terms.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ARBC 102",
+            "Title": "Arabic II",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesARBC\u00a0101. Offered all terms.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARBC 101 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ARBC 103",
+            "Title": "Arabic III",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesARBC\u00a0102. Offered all terms.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARBC 102 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ARBC 201",
+            "Title": "Arabic IV",
+            "Number_of_credits": "Credits",
+            "Description": "This course includes listening, speaking, reading, and writing practice, with a focus on cultural competency and conversational skills. Builds on Arabic 103.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARBC 103 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ARBC 202",
+            "Title": "Arabic V",
+            "Number_of_credits": "Credits",
+            "Description": "This course includes listening, speaking, reading, and writing practice, with a focus on cultural competency and conversational skills. Builds on Arabic 201.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARBC 201 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ARBC 310",
+            "Title": "Advanced Writing and Speaking",
+            "Number_of_credits": "Credits",
+            "Description": "Provides advanced practice in written and oral communication, including journalistic, professional and creative writing. Examines contemporary cultural contexts through media and news. Taught in Arabic.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARBC 202 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ARBC 320",
+            "Title": "Introduction to Language for the Professions",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers Introduction to Arabic communication skills in areas such as contemporary business, health, and law in a culturally sensitive fashion. The content of this course may change every term it is offered and is repeatable for credit. Taught in Arabic.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 27 credits",
+            "Prerequisites": "ARBC 310 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ARBC 410",
+            "Title": "Advanced Grammar and Translation",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides advanced grammar instruction and fosters translation and communication skills within a contemporary cultural context. The content of this course may change every term it is offered and is repeatable for credit. Taught in Arabic.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 27 credits",
+            "Prerequisites": "ARBC 310 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ARBC 420",
+            "Title": "Advanced Studies in Language for the Professions",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides advanced communication skills in areas such as contemporary business, health, and law in a culturally sensitive fashion. The content of this course may change every term it is offered and is repeatable for credit. Taught in Arabic.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 27 credits",
+            "Prerequisites": "ARBC 310 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ARBC 450",
+            "Title": "Advanced Studies in Language, Media, and Society",
+            "Number_of_credits": "Credits",
+            "Description": "Advanced analysis of the role of language and media in society, including sociolinguistics, gender, media studies, and communication. Taught in Arabic.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 27 credits",
+            "Prerequisites": "ARBC 310 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ARBC I199",
+            "Title": "Independent Study in Arabic",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ARBC I299",
+            "Title": "Independent Study in Arabic",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ARBC I399",
+            "Title": "Independent Study in Arabic",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ARBC I499",
+            "Title": "Independent Study in Arabic",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ARBC T180",
+            "Title": "Special Topics in Arabic",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ARBC T280",
+            "Title": "Special Topics in Arabic",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ARBC T380",
+            "Title": "Special Topics in Arabic",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ARBC T480",
+            "Title": "Special Topics in Arabic",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

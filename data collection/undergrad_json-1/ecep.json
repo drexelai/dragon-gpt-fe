@@ -1,0 +1,317 @@
+[
+      {
+            "Identifier": "ECEP 352",
+            "Title": "Electric Motor Control Principles",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces machinery principles, magnetic circuits, three-phase circuits, the electrical and economic structure of the power industry, ac and dc machine fundamentals, and power electronic converters and their interfaces with electric motors. Some or all pre-requisites may be taken as either a pre-requisite or co-requisite. Please see the department for more information.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEE 302 [Min Grade: D], ECE 370 [Min Grade: D] (Can be taken Concurrently) or (ECE 201 [Min Grade: D] or ECES 211 [Min Grade: D])"
+      },
+      {
+            "Identifier": "ECEP 354",
+            "Title": "Energy Management Principles",
+            "Number_of_credits": "Credits",
+            "Description": "Covers principles of power engineering, including the electrical and economic structure of the power industry (distribution, subtransmission, and bulk transmission levels; environmental issues; the electrical system analysis; the thermal system analysis; links between electromechanics and thermodynamics; and safety issues). Some or all pre-requisites may be taken as either a pre-requisite or co-requisite. Please see the department for more information.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEE 302 [Min Grade: D] (Can be taken Concurrently) or (ECE 201 [Min Grade: D] or ECES 211 [Min Grade: D])"
+      },
+      {
+            "Identifier": "ECEP 371",
+            "Title": "Introduction to Nuclear Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces the student to the fundamental topic of nuclear engineering. This course should be the first course for students interested in the nuclear engineering minor, as all of the topics will be discussed in greater detail in other courses. Topics include atomic and nuclear structure, binding energy, reaction kinetics and energetics, and radioactive decay.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 201 [Min Grade: C] or PHYS 115 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECEP 372",
+            "Title": "Radiation Detection and Measurement",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces students to the fundamentals of radiation detection, and applications of radiation detection equipment.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 201 [Min Grade: D] or PHYS 115 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECEP 380",
+            "Title": "Introduction to Renewable Energy",
+            "Number_of_credits": "Credits",
+            "Description": "Introduction to Renewable Energy is an undergraduate survey course for engineers, scientists and others interested in energy systems and applications. The course introduces students to the mix of current major electric power sources and the pressures that are forcing a transition to renewable sources. Wind and solar energy will be studied in detail, with others as time allows. Course culminates with an integrating off-grid energy system design.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 122 [Min Grade: D] and (PHYS 102 [Min Grade: D] or PHYS 115 [Min Grade: D] or PHYS 154 [Min Grade: D])"
+      },
+      {
+            "Identifier": "ECEP 402",
+            "Title": "Theory of Nuclear Reactors",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces students to atomic and nuclear physics, radiation interaction with matter, components of nuclear reactors, neutron diffusion and moderation, nuclear reactor theory, and heat removal from nuclear reactors.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(PHYS 201 [Min Grade: D] or PHYS 115 [Min Grade: D]) and (ENGR 232 [Min Grade: D] or MATH 210 [Min Grade: D] or MATH 262 [Min Grade: D])"
+      },
+      {
+            "Identifier": "ECEP 403",
+            "Title": "Nuclear Power Plant Design & Operation",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces students to the design of nuclear power plants. Topics covered include electrical transmission, non-nuclear related equipment, fluid flow, heat transfer, thermodynamics, heat exchangers, pump, valves, piping and nuclear reactor design. Course includes a final project which is the design of a nuclear power plant.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 201 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECEP 404",
+            "Title": "Introduction to Nuclear Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces the fundamental scientific, technical, social and ethical issues in nuclear engineering; nuclear reactions and readiation, radiation protection and control, nuclear energy production and utilization, nuclear fuel cycle, nuclear fuel cycle, nuclear materials, controlled fusion and thermonuclear plasma systems, basics of plasma physics and plasma chemistry, nuclear waste management, nuclear reactor safety, analysis of severe nuclear accidents, risk assessment and related issues of engineering ethics.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 201 [Min Grade: D] and (ENGR 210 [Min Grade: D] or CHE 206 [Min Grade: D])"
+      },
+      {
+            "Identifier": "ECEP 406",
+            "Title": "Introduction to Radiation Health Principles",
+            "Number_of_credits": "Credits",
+            "Description": "This course is intended to impart radiation safety knowledge to the nuclear engineering student. A fundamental knowledge of radiation safety is critical for all nuclear engineers.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 201 [Min Grade: D] or PHYS 115 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECEP 411",
+            "Title": "Power Systems I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers steady state generator, transformer and transmission line modeling used for balanced steady state power system analysis including three-phase to single-phase model conversion, per-unit analysis, generator and line loadability, transformer and transmission line voltage regulation and reactive compensation.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEP 352 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECEP 412",
+            "Title": "Power Systems II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers y-bus based analysis of power systems including steady-state power-flow models and algorithms, economic dispatch of power generation, load-frequency control and introduction to transient stability analysis including time-domain simulation and equal area criterion.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEP 411 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECEP 413",
+            "Title": "Power Systems III",
+            "Number_of_credits": "Credits",
+            "Description": "Covers Z-bus-based analysis of power systems including symmetrical component networks of generators, transformers, transmission lines and loads, symmetrical and unbalanced three-phase bus and line faults, and an introduction to power system protection.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEP 412 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECEP 421",
+            "Title": "Modeling and Analysis of Electric Power Distribution Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Introduction to power distribution systems; balanced and unbalanced systems, component and load modeling, radial and weekly meshed topologies; algorithms for unbalanced power studies including radial and general structure solver.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEP 352 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECEP 422",
+            "Title": "Power Distribution Automation and Control",
+            "Number_of_credits": "Credits",
+            "Description": "Focuses on distribution management systems and their application: including optimizing network operation - capacitor placement and control, network reconfiguration, service restoration. Modern solution technologies are addressed.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEP 421 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECEP 423",
+            "Title": "Service and Power Quality Distribution Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Focus on power distribution systems: service and power quality assessment including stat estimation, voltage quality, trouble call analysis, service restoration, component and system reliability assessment.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEP 422 [Min Grade: C]"
+      },
+      {
+            "Identifier": "ECEP 431",
+            "Title": "Advanced Electromagnetic Energy Conversion I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers theory and operation of alternating current machinery, with emphasis on design alternatives and the effects of design on performance. Includes construction of machine models from laboratory measurements.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEP 352 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECEP 432",
+            "Title": "Advanced Electromagnetic Energy Conversion II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers dynamic behavior and transient phenomena of rotating machines and the mathematical models used to describe them, generalized machine theory, measurement of parameters for the mathematical models, and measurement of dynamic and transient behavior.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEP 431 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECEP 441",
+            "Title": "Protective Relaying",
+            "Number_of_credits": "Credits",
+            "Description": "Covers operating principles of electromechanical and static relays, fault clearance, and protection of individual parts of a power system. Some or all pre-requisites may be taken as either a pre-requisite or co-requisite. Please see the department for more information.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEP 411 [Min Grade: D] (Can be taken Concurrently) and ECEP 352 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECEP 451",
+            "Title": "Power Electronic Converter Fundamentals",
+            "Number_of_credits": "Credits",
+            "Description": "Fundamentals of power electronics that include waveforms, basic power switch properties and magnetic circuits. Introduction to basic power electronic converter circuits: diode and phase-controlled rectifies and inverters; switch-mode converters. Applications to DC and AC power supply systems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEP 352 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECEP 452",
+            "Title": "Experimental Study of Power Electronic Converters",
+            "Number_of_credits": "Credits",
+            "Description": "Experimental study of common power electronic converters: diode rectifiers, phase-controlled rectifies, switch-mode inverters. Both hardware and software studies. Additional lectures on: Study of DC-DC switch-mode converters.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEP 451 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECEP 453",
+            "Title": "Applications of Power Electronic Converters",
+            "Number_of_credits": "Credits",
+            "Description": "Provides a first look at various power electronic applications in residential, commercial and industrial sites. Examples include utility application such as static var compensators (SVC), thyristor switch capacitors (TSC), high voltage direct-current (HVDC) transmission systems among others. In addition, fundamentals of motor drives and their controls are covered. Examples include induction, DC synchronous and specialized motors.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEP 451 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECEP 461",
+            "Title": "High Voltage Laboratory",
+            "Number_of_credits": "Credit",
+            "Description": "Requires students to perform four basic experiments to become familiar with high-voltage techniques and then do a high-voltage design project of their own choosing.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEP 352 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECEP 471",
+            "Title": "Power Seminar I",
+            "Number_of_credits": "Credits",
+            "Description": "Discusses current developments in power system operation and research, concentrating on current and future energy sources.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEP 472",
+            "Title": "Power Seminar II",
+            "Number_of_credits": "Credits",
+            "Description": "Discusses current developments in power system operation and research, concentrating on generating stations, transmission lines, and substations.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEP 473",
+            "Title": "Power Seminar III",
+            "Number_of_credits": "Credits",
+            "Description": "Discusses current developments in power system operation and research, concentrating on distribution, security, and economics.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEP 480",
+            "Title": "Solar Energy Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Covers design of grid-connected and battery backup grid-connected photovoltaic systems. Both electrical and mechanical aspects are included. Topics include system components (solar cells, charge controllers, maximum power point trackers, inverters, etc.), system economics, computer and web-based design aids, electrical codes and standards, externalities of PV systems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ECEE 302 [Min Grade: D] or ECEE 352 [Min Grade: D] or CHE 431 [Min Grade: D] or ECEP 380 [Min Grade: D] or ECE 370 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ECEP 497",
+            "Title": "Research in Power Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Requires independent study in a topic approved by the faculty.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEP I199",
+            "Title": "Independent Study in ECEP",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEP I299",
+            "Title": "Independent Study in ECEP",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEP I399",
+            "Title": "Independent Study in ECEP",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEP I499",
+            "Title": "Independent Study in ECEP",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEP T180",
+            "Title": "Special Topics in ECEP",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEP T280",
+            "Title": "Special Topics in ECEP",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEP T380",
+            "Title": "Special Topics in ECEP",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ECEP T480",
+            "Title": "Special Topics in ECEP",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

@@ -1,0 +1,74 @@
+[
+      {
+            "Identifier": "BSAN 160",
+            "Title": "Business Analytics and Data Visualization",
+            "Number_of_credits": "Credits",
+            "Description": "The field of business analytics is concerned with managing and analyzing complex, high-dimensional data to support business decisions and improve firm performance. Data visualization is emerging as an essential complement to business analytics that greatly facilitates managerial understanding and decisions. This course introduces state-of-the-art techniques for data management, analysis and visualization in business contexts. It will emphasize practical challenges involving complex, real-world data and include several case studies and hands-on exercises with leading data analysis and visualization software.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BSAN 260",
+            "Title": "Introduction to Business Analytics",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces mathematical models that can be used to improve decision- making within an organization. Topics will include analytical tools such as optimization, simulation, and Visual Basic for Applications (VBA) for problem solving and decision support in all areas of business, including supply chain networks, operations, finance, economics, and marketing. Students will make extensive use of Excel and several spreadsheet based add-ins to solve real business problems, improve business processes, and help make important business decisions.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BSAN 360",
+            "Title": "Programming for Data Analytics",
+            "Number_of_credits": "Credits",
+            "Description": "The mission of this course is to immerse students in the technical challenges associated with contemporary data analytics as applied to business processes and data-driven decision making. To achieve this mission, the course will introduce modules covering the state of the art in the areas of R programming as applied to data analysis for business problems.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(STAT 202 [Min Grade: C-] or STAT 206 [Min Grade: C-]) and (BSAN 260 [Min Grade: C-] or BUSN 260 [Min Grade: C-] or BSAN 160 [Min Grade: C-])"
+      },
+      {
+            "Identifier": "BSAN 460",
+            "Title": "Business Analytics Senior Project",
+            "Number_of_credits": "Credits",
+            "Description": "The senior project serves as a capstone for business analytics majors. The course provides an opportunity for students to develop a project that draws on their skills in the areas of data management, mathematical modeling, and statistical analysis to support data driven decision-making processes. Students often choose a project in the area of their second major (marketing, finance, etc.) and thus the project provides deeper insight into organizational decision-making in a functional area of business.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(BSAN 160 [Min Grade: C-] or BSAN 260 [Min Grade: C-] or BUSN 260 [Min Grade: C-]) and (BSAN 360 [Min Grade: C-] or BUSN 360 [Min Grade: C-])"
+      },
+      {
+            "Identifier": "BSAN T180",
+            "Title": "Special Topics in BSAN",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BSAN T280",
+            "Title": "Special Topics in BSAN",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BSAN T380",
+            "Title": "Special Topics in BSAN",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BSAN T480",
+            "Title": "Special Topics in BSAN",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

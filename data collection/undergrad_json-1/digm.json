@@ -1,0 +1,209 @@
+[
+      {
+            "Identifier": "DIGM 100",
+            "Title": "Digital Design Tools",
+            "Number_of_credits": "Credits",
+            "Description": "Students learn the basics of visual design within the digital realm. Software tools such as Adobe Photoshop and Illustrator are utilized.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "DIGM 105",
+            "Title": "Overview of Digital Media",
+            "Number_of_credits": "Credits",
+            "Description": "Surveys the history, theory, practice, technologies, and related social issues associated with the growth of digital media.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "DIGM 250",
+            "Title": "Professional Practices",
+            "Number_of_credits": "Credits",
+            "Description": "Provides a professional orientation to the field through an exploration of a variety of digital media projects. In addition to lecture and discussions, allows students to take active part in role plays and presentations to achieve an understanding of the importance of team building, team work, and team management in all phases of digital media production from proposals to product delivery.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "DIGM 308   [WI]",
+            "Title": "Digital Cultural Heritage",
+            "Number_of_credits": "Credits",
+            "Description": "Digital Cultural Heritage is a growing pursuit including Digital Media, Digital Humanities, Computer Science, and Archeology. It has components in academic research, museology, tourism, economic development as well as new media technology development and applications. This class will investigate this emerging and exciting field and explore its possibilities in the context of Philadelphia\u2019s cultural heritage.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "DIGM 350   [WI]",
+            "Title": "Digital Storytelling",
+            "Number_of_credits": "Credits",
+            "Description": "By surfing the internet and playing computer games, by lectures, assigned readings, class screening, and research projects, this class explores the impact of digital media on art, design and daily living.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "DIGM 355",
+            "Title": "Overview of Immersive Media",
+            "Number_of_credits": "Credits",
+            "Description": "Provides a broad overview and introduction to Immersive media in all its forms including narrative (video and animation) and interactactive (game engine, user roams free and interacts/changes what they see). In addition to these two broad categories, this course also covers many of the commonly used delivery methods for these experiences including head-set VR, head-set AR, mobile screen AR, fulldome projection.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ANIM 211 [Min Grade: D]"
+      },
+      {
+            "Identifier": "DIGM 359",
+            "Title": "Immersive Media Production & Post",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces production and post-poduction of narrative immersive media such as 360\u00b0 photos and video (monoscopic and stereoscopic), as well as CGI animated works. Production involves the use of cameras and lighting to capture the real world, or CGI animation to create imagined worlds. Viewers of this type of media \"experience\" stories unfolding all around them within headsets or in fulldome projection, but are not able to change or move through the environment the way a video game player would inside a video game.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "DIGM 355 [Min Grade: D]"
+      },
+      {
+            "Identifier": "DIGM 365",
+            "Title": "Interactive Immersive Media",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces immersive media experiences that are fully interactive, allowing the viewer/user to manipulate and navigate through the experience rather than view it passively. Rather than using camera or rendered animation, this form of immersive media is created using interactive game engines like Unity or Unreal, but can also involve custom code development similar to interactive digital media such as web and mobile applications.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "DIGM 355 [Min Grade: D]"
+      },
+      {
+            "Identifier": "DIGM 451   [WI]",
+            "Title": "Explorations in New Media",
+            "Number_of_credits": "Credits",
+            "Description": "Through class presentations, field trips, discussions, readings, screenings and guest speakers; this class bridges artistic and technical aspects of new media in theory and practice.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "DIGM 475   [WI]",
+            "Title": "Seminar: The Future of Digital Media",
+            "Number_of_credits": "Credits",
+            "Description": "Focuses on current and anticipated issues in digital media. Involves reading and discussion of news, product announcements, articles, and predictions related to digital media. Provides a comprehensive and up-to-date understanding of digital media, including its likely directions in the immediate future and long-term possibilities.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "IDM 371 [Min Grade: D] (Can be taken Concurrently) or DIGM 451 [Min Grade: D]"
+      },
+      {
+            "Identifier": "DIGM 490",
+            "Title": "Digital Media Senior Project",
+            "Number_of_credits": "Credits",
+            "Description": "In this course students produce professional-level media assets for a team based senior project in a simulated real-world production environment. It requires a project that demonstrates the integration of the academic and practical knowledge the student has acquired in the overall field as well as in one or more specializations. Students will refine their understanding of the production, delivery and presentation of quality digital media production through implementation of professional best practices, and practice and perfect written, oral, and visual presentation skills through the power of collaboration, teamwork and shared missions.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated 2 times for 9 credits",
+            "Prerequisites": "(ANIM 378 [Min Grade: D] or GMAP 377 [Min Grade: D] or IDM 372 [Min Grade: D] or VRIM 320 [Min Grade: D]) and (DIGM 451 [Min Grade: D] or DIGM 475 [Min Grade: D])"
+      },
+      {
+            "Identifier": "DIGM 491",
+            "Title": "Digital Media Senior Project Studio",
+            "Number_of_credits": "Credit",
+            "Description": "In this course Digital Media senior project teams will meet with an appointed advisor on the technical details of their specific project requirements.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated 2 times for 3 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "DIGM 492",
+            "Title": "Senior Project in Digital Media I",
+            "Number_of_credits": "Credits",
+            "Description": "The first of a two-course sequence. Requires a project that demonstrates the integration of the academic and practical knowledge the student has acquired in the overall field as well as in one or more specializations.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "DIGM 493",
+            "Title": "Senior Project in Digital Media II",
+            "Number_of_credits": "Credits",
+            "Description": "The second of a two-course sequence.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "DIGM 492 [Min Grade: D]"
+      },
+      {
+            "Identifier": "DIGM 494",
+            "Title": "Senior Project in Digital Media III",
+            "Number_of_credits": "Credits",
+            "Description": "The third of a three-course sequence. Requires a project that demonstrates the integration of the academic and pratical knowledge the student has acquired in the over all field as well as in one or more specializations.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "DIGM 493 [Min Grade: D]"
+      },
+      {
+            "Identifier": "DIGM I199",
+            "Title": "Independent Study in Digital Media",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "DIGM I299",
+            "Title": "Independent Study in Digital Media",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "DIGM I399",
+            "Title": "Independent Study in Digital Media",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "DIGM I499",
+            "Title": "Independent Study in Digital Media",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "DIGM T180",
+            "Title": "Special Topics in Digital Media",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "DIGM T280",
+            "Title": "Special Topics in Digital Media",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "DIGM T380",
+            "Title": "Special Topics in Digital Media",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "DIGM T480",
+            "Title": "Special Topics in Digital Media",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

@@ -1,0 +1,542 @@
+[
+      {
+            "Identifier": "ENGL 101",
+            "Title": "Composition and Rhetoric I: Inquiry and Exploratory Research",
+            "Number_of_credits": "Credits",
+            "Description": "Develops students\u2019 abilities to use writing as a tool for inquiry. Introduces genre theory, writing as a process, revision, and strategies of primary and secondary research. Reviews grammar, style, and documentation conventions. Engages students in reflection and promotes positive attitudes toward writing.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGL 102",
+            "Title": "Composition and Rhetoric II: Advanced Research and Evidence-Based Writing",
+            "Number_of_credits": "Credits",
+            "Description": "Advances students\u2019 development in the writing processes. Promotes a critical evaluation and integration of information into their own writing as they research complex and open-ended issues. Identifies the relationships between rhetorical situations, the status of claims, and the need for evidence and warrants. Continues review of grammar, style, and documentation conventions. Encourages collaboration and effective search strategies of the Internet and library resources. Promotes students\u2019 reflective analysis and a positive attitude toward writing.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 101 [Min Grade: D] or AP36 4 or AP37 4"
+      },
+      {
+            "Identifier": "ENGL 103",
+            "Title": "Composition and Rhetoric III: Themes and Genres",
+            "Number_of_credits": "Credits",
+            "Description": "Advances students' development in the writing and research processes and their understanding of how genres of writing shape meaning. Some courses may focus on the student's academic and discipline-specific experiences; Others may be based on literary or social themes. Promotes a critical reading of texts, reflective analysis, and a positive attitude toward writing.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 102 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENGL 105",
+            "Title": "Honors Freshman English",
+            "Number_of_credits": "Credits",
+            "Description": "Develops students' abilities to read and write expository and persuasive academic discourse. Teaches students the components of the writing process and strategies to think and read critically and to present a written argument. Requires students to write expository and persuasive essays and research papers and to keep a journal to express their responses to the material read and studied in the course.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGL 111",
+            "Title": "English Composition I",
+            "Number_of_credits": "Credits",
+            "Description": "Equivalent to the university requirement ofENGL\u00a0101. Develops multilingual (non-native speakers of English) students' abilities to use writing as a tool for research and reflection. Introduces the concept of genre, writing as a process, reflection on students\u2019 own and others\u2019 work, revision, and approaches to primary and secondary research. Reviews grammar, organization, style, and documentation conventions. Promotes positive attitudes toward writing.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "APE 2 or ESL 110 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENGL 112",
+            "Title": "English Composition II",
+            "Number_of_credits": "Credits",
+            "Description": "Equivalent to the university requirement ofENGL\u00a0102. Advances multilingual (non-native speakers of English) students\u2019 abilities to use of writing as a tool for research and reflection and their understanding of writing as a process. Develops the critical evaluation and integration of information into students\u2019 own writing as they research social, political, and educational open-ended issues. Continues review of grammar, organization, style, and documentation conventions. Enhances effective strategies for secondary research and collaboration skills. Promotes positive attitude towards writing.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 111 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENGL 113",
+            "Title": "English Composition III",
+            "Number_of_credits": "Credits",
+            "Description": "Equivalent to the university requirement ofENGL\u00a0103. Advances multilingual (non-native speakers of English) students' development in the reading, writing, and research processes. Some courses may focus on the student's academic and discipline-specific experiences, while others may be based on literary or social themes. Enhances multilingual students\u2019 ability to read texts critically and to reflect on their own and others\u2019 writing, scholarly and literary works, and social events. Promotes a positive attitude toward writing.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 112"
+      },
+      {
+            "Identifier": "ENGL 195",
+            "Title": "English Freshman Seminar",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces freshman majors to the practice and study of the English major. It is a foundation for further study as well as a course about how we learn. It prepares the student to be successful in upper-division courses and to become familiar with the basic tools of the discipline. It encourages the creative and critical thinking that is a hallmark of the English major.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGL 200   [WI]",
+            "Title": "Classical to Medieval Literature",
+            "Number_of_credits": "Credits",
+            "Description": "A survey of Greek and Roman literature (Homer, Aeschylus, Euripides, Virgil and Cicero), up to and including the Medieval period (Aquinas, Cavalcanti, Chaucer, and Dante).",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 201",
+            "Title": "Renaissance to the Enlightenment",
+            "Number_of_credits": "Credits",
+            "Description": "A survey of Western literature from the Renaissance to the Enlightenment, focusing on works by Cervantes, Erasmus, Rabelais, Petrarch, Voltaire, Rousseau, Swift and Pope.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 202   [WI]",
+            "Title": "Romanticism to Modernism",
+            "Number_of_credits": "Credits",
+            "Description": "A survey of Western literature of the 19th and 20th centuries focusing on the major periods of Romanticism (Blake, Coleridge and Keats), Realism (Balzac and Ibsen), and Modernism (Kafka, Borges and Woolf).",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 203   [WI]",
+            "Title": "Survey of World Literature",
+            "Number_of_credits": "Credits",
+            "Description": "A survey of nonwestern literatures produced before the modern era in Asia, Africa, and the Middle East, representing the more important periods and genres.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 204",
+            "Title": "Post-Colonial Literature",
+            "Number_of_credits": "Credits",
+            "Description": "A survey of nonwestern literatures written since the 20th century by writers from Asia, Africa, and the Middle East, and focusing on the effects of social, aesthetic and contemporary events on artistic creation.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 205   [WI]",
+            "Title": "American Literature I",
+            "Number_of_credits": "Credits",
+            "Description": "A survey of American literature from Colonial times through the Civil War, including works by such writers as Anne Bradstreet, Emily Dickinson, Frederick Douglass, Cotton Mather, Ralph Waldo Emerson, Nathaniel Hawthorne, Herman Melville, Henry David Thoreau and Walt Whitman.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 206   [WI]",
+            "Title": "American Literature II",
+            "Number_of_credits": "Credits",
+            "Description": "A survey of American literature from the Civil War through the 21st century, including works by such writers as Kate Chopin, W.E.B. Du Bois, T.S. Eliot, William Faulkner, F. Scott Fitzgerald, Henry James, Philip Roth, Mark Twain and John Updike.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 207   [WI]",
+            "Title": "African American Literature",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces students to African-American Literature, from the mid-18th century to the present. Provides a basic understanding of social, political and cultural influences and an awareness of the African-American literary tradition.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 211   [WI]",
+            "Title": "British Literature I",
+            "Number_of_credits": "Credits",
+            "Description": "A historical survey of British literature from its beginning to the end of the eighteenth century. Students will read texts selected to represent major authors, forms and thematic material that illustrates the development of English literature through the medieval and Renaissance periods and seventeenth and eighteenth centuries.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 212",
+            "Title": "British Literature II",
+            "Number_of_credits": "Credits",
+            "Description": "A historical survey of British literature from the turn of the nineteenth century to the present; students will read texts selected to represent major authors, forms and thematic material of the Romantic, Victorian and modern periods.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 214",
+            "Title": "Readings in Fiction",
+            "Number_of_credits": "Credits",
+            "Description": "A basic course, which focuses on fiction as a genre through the study of a variety of short stories and fiction, organized by theme, period or form. One of three genre courses.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 215   [WI]",
+            "Title": "Readings in Poetry",
+            "Number_of_credits": "Credits",
+            "Description": "A basic course which focuses on poetry as a genre through the study of a variety of poems organized by theme, period or form. One of three genre courses.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 216   [WI]",
+            "Title": "Readings in Drama",
+            "Number_of_credits": "Credits",
+            "Description": "A basic course which focuses on drama as a genre through the study of a variety of plays organized by theme, period or form. One of three genre courses.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 220",
+            "Title": "LGBT Literature and Culture",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines writing in English by lesbian, gay, bisexual, transgender (LGBT), and sexual minority authors. Learning from LGBT literature in a variety of forms and genres will help students cultivate sophisticated knowledge about sexual orientation, gender identity and expression, homoeroticism and homophobia, HIV/AIDS, the relationship of art and politics, and the intersections of sexuality, gender, race, class, and nation.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 300   [WI]",
+            "Title": "Literature & Science",
+            "Number_of_credits": "Credits",
+            "Description": "This course studies the impact of scientific and technological change on works of literature and art produced in various historical periods.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 301",
+            "Title": "English Major Colloquium",
+            "Number_of_credits": "Credit",
+            "Description": "This 1-credit variable topics course for English majors explores specialized issues in literature and writing such as: an author or major work; a significant moment in the history of writing, literature, or criticism; or a controversial or debated issue in writing or literary studies. English majors must take 3 differentENGL\u00a0301colloquium topics as part of their major requirements.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 5 times for 6 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGL 302",
+            "Title": "Environmental Literature",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores the relatively recent discipline of Ecocriticism and considers the literary relationship between human beings and the natural environment--both altered and unaltered by human activity. The approach is interdisciplinary in its investigation of the relationships among science, culture, and personal observation. Students will read a selection of seminal texts of American environmental literature.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 303",
+            "Title": "Science Fiction",
+            "Number_of_credits": "Credits",
+            "Description": "Provides reading and discussion of works illustrating the development of modern science fiction.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 304",
+            "Title": "Young Adult Fiction",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces students to young adult (YA) fiction and to secondary sources useful for the appreciation of it. Topics discussed include: young adults as an audience, the genres of YA fiction, keeping up with YA fiction, literary and psychological theory applied to YA fiction.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 305   [WI]",
+            "Title": "The Mystery Story",
+            "Number_of_credits": "Credits",
+            "Description": "A study of the mystery story, from its inception as a genre in the 19th century to the present, through short stories and novels.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 306",
+            "Title": "Literature of Baseball",
+            "Number_of_credits": "Credits",
+            "Description": "An examination of novels, short stories, and poetry about our \"national pastime\" that illuminate American ideals and values, history and culture from 1845 to the present. A study of how the game's symbols and rituals, its history and mythology help us understand American belief systems and ideologies.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 307",
+            "Title": "Literature of Genocide",
+            "Number_of_credits": "Credits",
+            "Description": "Genocide is defined as \u201cacts committed with intent to destroy, in whole or in part, a national, ethnical, racial or religious group\u201d (U. N. Office on Genocide Prevention). This course will feature literature, film, and articles, by survivors themselves, historians and other writers, about major genocides and their perpetrators. Topics may include cases from any part of the world or century up to the present.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 1 times for 6 credits",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 308   [WI]",
+            "Title": "The Literature of Business",
+            "Number_of_credits": "Credits",
+            "Description": "In this advanced reading course, students read literary works about business and work and write analytically about these works, grounding that analysis in nonfiction readings from business publications. Course writing assignments ask students to respond to problems and issues raised in the texts.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(ENGL 101 [Min Grade: D] and ENGL 102 [Min Grade: D] and ENGL 103 [Min Grade: D]) or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 310   [WI]",
+            "Title": "Period Studies",
+            "Number_of_credits": "Credits",
+            "Description": "This is a variable topics course, focusing on the literature of a particular period (i.e., Classical Literature; Victorian Literature; the Harlem Renaissance).",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 312",
+            "Title": "Research Project Development",
+            "Number_of_credits": "Credit",
+            "Description": "A seminar-style course in which students work on a research or creative project of their own choosing. They acquire knowledge and skills related to the development of researchable original ideas in the domains of humanities areas like literature and philosophy, or social science areas like communication, history or psychology, or a creative work or portfolio.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 3 times for 12 credits",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENGL 315   [WI]",
+            "Title": "Shakespeare",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on Shakespeare's major plays and sonnets, providing the historical and cultural contexts that gave rise to his work.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 320   [WI]",
+            "Title": "Major Authors",
+            "Number_of_credits": "Credits",
+            "Description": "A course focused on intensive study of one or more authors, for example: Jane Austen; Joseph Conrad; Hemingway, Faulkner and Fitzgerald; Writers of the Harlem Renaissance; Carlos Fuentes and Gabriel Garcia Marquez.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 1 times for 6 credits",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 323",
+            "Title": "Literature and Other Arts",
+            "Number_of_credits": "Credits",
+            "Description": "A variable topics course which studies relationships between literature and one or more of the visual arts, theater or music (i.e., Surrealism; Memoir and Documentary Film; The Faust Legend). May be repeated for credit.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 1 times for 6 credits",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENGL 325",
+            "Title": "Topics in World Literature",
+            "Number_of_credits": "Credits",
+            "Description": "A variable topics course which focuses on a particular national or regional literature within its cultural, historical and political contexts (i.e., African Literature; French Literature; Latin American Literature). May be repeated for credit.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 1 times for 6 credits",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 330",
+            "Title": "The Bible as Literature",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides a close reading of selected books of the Old and New Testaments alongside selected literary works to discover both the literary qualities of these texts and their influence on literature.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 335",
+            "Title": "Mythology",
+            "Number_of_credits": "Credits",
+            "Description": "This course investigates the specific forms mythological stories have taken in the literature, art and ritual of some or all of the following: Greece, Rome, Iceland, Mesopotamia and Native American and European cultures in the United States.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 340   [WI]",
+            "Title": "Classical Rhetoric",
+            "Number_of_credits": "Credits",
+            "Description": "A study in the theory and practical application of Greek and Roman rhetorical strategies in composition. Focuses on influential figures, terminology, the five canons, and the ancient composition processes known as \u201cprogymnasmata\u201d to look at historical texts, the rhetoric of popular media, and the students\u2019 writing.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 101 [Min Grade: D] and ENGL 102 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENGL 345",
+            "Title": "American Ethnic Literature",
+            "Number_of_credits": "Credits",
+            "Description": "A variable topics course which studies the literature of one or more of the United States ethnic populations within their historical and cultural contexts. May be repeated for credit.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 350",
+            "Title": "Jewish Literature and Civilization",
+            "Number_of_credits": "Credits",
+            "Description": "Focuses on the Jewish Bible, a classic literary document of Western civilization, deemed by many people of the world as fundamental to their religion; stresses aspects of cultural diversity and awareness.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 355   [WI]",
+            "Title": "Women and Literature",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on literature written by, and/or about women and considers issues relating to women's place in literary history.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 360   [WI]",
+            "Title": "Literature and Society",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines the relationship between literature and the society it reflects and helps shape.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 365",
+            "Title": "Topics in African American Literature",
+            "Number_of_credits": "Credits",
+            "Description": "A variable topics course designed to further develop the ideas first presented in the African American Literature survey by exploring, in much more depth, significant authors, periods, and genres within the African American literary and cultural tradition. Topics include Science and Technology in African American Literature; the Slave Narrative; and Black Travel Writing.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 2 times for 9 credits",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 370",
+            "Title": "Topics in Literature and Medicine",
+            "Number_of_credits": "Credits",
+            "Description": "This is a variable topics course which focuses on aspects of illness, healing, care-giving, aging, grief, and mortality as presented in narrative. Exploration of how literary construction and analysis affect understanding of these experiences. Topics include 'Illness and Healing in Literature' and 'The Physician in Literature and Film.'.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 3 times for 12 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGL 380",
+            "Title": "Literary Theory",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines literary theoretical thinking, and focuses on twentieth century structuralism, post-structuralism, and contemporary theory. We will examine the ways in which language is conceived and reconceived by major theoretical writers and the implications of this rethinking for conceptualizations of history, politics, ideology, sexuality, and trauma, among others.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(ENGL 101 [Min Grade: C] or ENGL 111 [Min Grade: C]) and (ENGL 102 [Min Grade: C] or ENGL 112 [Min Grade: C]) and (ENGL 202 [Min Grade: C] or ENGL 203 [Min Grade: C] or ENGL 204 [Min Grade: C] or ENGL 205 [Min Grade: C] or ENGL 206 [Min Grade: C] or ENGL 211 [Min Grade: C] or ENGL 212 [Min Grade: C] or ENGL 214 [Min Grade: C])"
+      },
+      {
+            "Identifier": "ENGL 395   [WI]",
+            "Title": "Special Studies in Literature",
+            "Number_of_credits": "Credits",
+            "Description": "This is a variable topics course, providing intense literary study on a specific theme.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 113 [Min Grade: D] or ENGL 105 [Min Grade: A]"
+      },
+      {
+            "Identifier": "ENGL 470",
+            "Title": "Capstone Seminar in Health and Medical Humanities",
+            "Number_of_credits": "Credits",
+            "Description": "This seminar gives students the opportunity to synthesize, contextualize, and deepen their understanding of how disciplines in the humanities and the social sciences approach the experiences and implications of illness, aging, mortality and healing. Regular guest lecturers, discussion of assigned readings, student presentations, and written projects.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGL 103 [Min Grade: D] or ENGL 105 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENGL 490",
+            "Title": "Seminar in English and American Literature",
+            "Number_of_credits": "Credits",
+            "Description": "An advanced course with variable topics in British or American Literature stressing textual analysis, cultural and historical contexts and research; provides students with intensive preparation for advanced and professional studies.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 2 times for 9 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGL 492",
+            "Title": "Seminar in World Literature",
+            "Number_of_credits": "Credits",
+            "Description": "An advanced course with variable topics in World Literature stressing textual analysis, cultural and historical contexts and research; provides students with intensive preparations for advanced and professional studies.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 2 times for 9 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGL 495",
+            "Title": "Senior Project in Literature",
+            "Number_of_credits": "Credits",
+            "Description": "Open to English Majors only, the senior project in literature should reflect the student's interest in a specific subject, author or theme and should demonstrate the student's research, critical and analytical expertise at an advanced, pre-professional level.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGL I199",
+            "Title": "Independent Study in ENGL",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGL I299",
+            "Title": "Independent Study in ENGL",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGL I399",
+            "Title": "Independent Study in ENGL",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGL I499",
+            "Title": "Independent Study in ENGL",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGL T180",
+            "Title": "Special Topics in English",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGL T280",
+            "Title": "Special Topics in English",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGL T380",
+            "Title": "Special Topics in English",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGL T480",
+            "Title": "Special Topics in English",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

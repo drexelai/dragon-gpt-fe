@@ -1,0 +1,38 @@
+[
+      {
+            "Identifier": "FYE 102",
+            "Title": "Academic Exploration and Planning",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to introduce students to career planning and work environments outside the classroom. Through active involvement in this class, students will begin assessing career paths as well as preparing for appropriate and constructive participation in workplace and community cultures. Students will examine published literature and learn from accomplished professionals to better understand the conventions, challenges, and expectations of the working world.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FYE 103",
+            "Title": "Career Exploration and Planning",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to introduce students to career planning and work environments outside the classroom. Through active involvement in this class, students will begin assessing career paths as well as preparing for appropriate and constructive participation in workplace and community cultures. Students will examine published literature and learn from accomplished professionals to better understand the conventions, challenges, and expectations of the working world.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FYE 211",
+            "Title": "FYES Peer Leadership Practicum",
+            "Number_of_credits": "Credit",
+            "Description": "The goal of this course is to prepare students for being leaders by serving as mentors to first-year students to help them succeed as part of the First-Year Exploratory Studies (FYES) Program and support the program outcomes of FYES. This course covers the fundamental skills students will need to be supportive resources to first year students. This seminar will focus on developing the necessary leadership and communication skills that will be useful in their mentoring role as well as in other settings.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FYE T280",
+            "Title": "Special Topics in First-Year Exploratory Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Specific topics and foci for this course will be decided upon by faculty and will vary from term to term.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

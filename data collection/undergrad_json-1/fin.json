@@ -1,0 +1,272 @@
+[
+      {
+            "Identifier": "FIN 150",
+            "Title": "Financial Literacy",
+            "Number_of_credits": "Credits",
+            "Description": "Financial literacy is designed to help students understand their personal financial lives. Students will be exposed to how to make everyday decisions (e.g., rent/buy a house or lease/own a car) as well as understand credit cards, student loans, consumer purchasing decisions, insurance, and other financial decisions.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FIN 301",
+            "Title": "Introduction to Finance",
+            "Number_of_credits": "Credits",
+            "Description": "Covers financial structure of a corporation, short-and long-term financial policies, sources and uses of capital funds, asset valuation, capital budgeting, and corporate growth.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ACCT 115 [Min Grade: D] or ACCT 110 [Min Grade: D]"
+      },
+      {
+            "Identifier": "FIN 302",
+            "Title": "Intermediate Corporate Finance",
+            "Number_of_credits": "Credits",
+            "Description": "Provides an in-depth treatment of long-term financing decisions, including estimation of the cost of capital, financial leverage, dividend policy, and working capital analysis.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 301 [Min Grade: C] and (STAT 201 [Min Grade: C] or STAT 205 [Min Grade: C])"
+      },
+      {
+            "Identifier": "FIN 321",
+            "Title": "Investment Securities & Markets",
+            "Number_of_credits": "Credits",
+            "Description": "Covers stocks, bonds, other investment vehicles, and operation and regulation of the stock market.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 301 [Min Grade: C] and (STAT 202 [Min Grade: C] or STAT 206 [Min Grade: C])"
+      },
+      {
+            "Identifier": "FIN 323",
+            "Title": "Risk Management",
+            "Number_of_credits": "Credits",
+            "Description": "Provides a fundamental understanding of risk and return, modern portfolio theory, asset pricing models, performance evaluation, and the use of derivatives to hedge and manage risk.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 321 [Min Grade: C] and (STAT 202 [Min Grade: C] or STAT 206 [Min Grade: C])"
+      },
+      {
+            "Identifier": "FIN 325",
+            "Title": "Financial Institutions and Markets",
+            "Number_of_credits": "Credits",
+            "Description": "Covers understanding of the financial system from the money-creation process to the functioning of the Federal Reserve System to the role and management of financial institutions.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 301 [Min Grade: C] and (STAT 201 [Min Grade: C] or STAT 205 [Min Grade: C])"
+      },
+      {
+            "Identifier": "FIN 330",
+            "Title": "Derivative Securities",
+            "Number_of_credits": "Credits",
+            "Description": "The analysis and pricing of derivative securities including futures and options: applications to risk management and portfolio management.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 323 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN 332",
+            "Title": "Investment Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces investment analysis, with particular emphasis on financial statement analysis.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 321 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN 335",
+            "Title": "Entrepreneurial Finance",
+            "Number_of_credits": "Credits",
+            "Description": "The purpose of the course is to bring financial management decision, tools and techniques typically applied in corporate contexts into the realm of entrepreneurship. This course presents the importance of understanding and applying entrepreneurial finance methods and tools to help ensure a successful venture.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 301 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN 338",
+            "Title": "Money and Capital Markets",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the organization and operation of the money and capital markets and key institutional financial intermediaries.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 325 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN 339",
+            "Title": "Fintech",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines the growing FinTech industry, which is short-hand for Financial Technology. FinTech is defined as the set of new technologies and innovations in the delivery of financial services. The course will compare these innovations to their more traditional counterparts considering both the benefits of these FinTech innovations, as well as their limitations.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 301 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN 340",
+            "Title": "Seminar in Finance",
+            "Number_of_credits": "Credits",
+            "Description": "Covers current topics and selected cases in finance.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 302 [Min Grade: C] and FIN 321 [Min Grade: C] and FIN 325 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN 341",
+            "Title": "Applied Portfolio Management",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers topics related to portfolio management. Students will learn how to analyze industries, select securities for inclusion in investment portfolios, and analyze portfolio performance. Students will participate in the management of a real investment portfolio for the duration of the course.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 321 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN 342",
+            "Title": "Advanced Portfolio Management",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers advanced topics related to portfolio management. Students will learn how to analyze industries and the investment potential of individual securities in depth. They will also learn advanced methods for analyzing portfolio performance and investment strategy. Students will participate in the management of a real investment portfolio for the duration of the course.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 341 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN 345",
+            "Title": "Mergers & Acquisitions",
+            "Number_of_credits": "Credits",
+            "Description": "The purpose of this course is to guide students to a better understanding of mergers (forming a new company by combining with another firm) and acquisitions (purchasing another firm) from the perspective of a corporation. Students will analyze the process in which one firm identifies potential other firms to take over and how to calculate the value of these firms. Further, student will be exposed to additional issues that arise when corporations undertake mergers and acquisitions.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 301 [Min Grade: C] and FIN 302 [Min Grade: C] and FIN 321 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN 346",
+            "Title": "Global Financial Management",
+            "Number_of_credits": "Credits",
+            "Description": "Examines the investment and financing strategies of multinational corporations. Covers topics including capital acquisition in the international environment, international investment borrowing, international corporate restructuring, currency swaps and recapitalizations, hedging techniques, and international risk-management instruments.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 301 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN 348",
+            "Title": "Corporate Financial Reporting to Executives",
+            "Number_of_credits": "Credits",
+            "Description": "Provides decision support to the corporate executive leadership team in visualizing the short-term and long-term financial picture of the firm.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 301 [Min Grade: C] and ACCT 115 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN 350",
+            "Title": "Personal Finance",
+            "Number_of_credits": "Credits",
+            "Description": "Covers key personal financial documents, taxes, credit, insurance, and investments.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FIN 360",
+            "Title": "Private Equity",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers the foundation, mechanics and strategies for Private Equity (PE) and Venture Capital transactions. Private equity is a form of intermediation that takes investors\u2019 capital and deploys it directly in a portfolio of private companies. Once the investment is made, the PE firm takes an active role in managing and monitoring the company prior to \u201cexiting\u201d that is, selling the firm at a premium to maximize returns of the initial shareholders (investors). The course covers the operations and organization of a PE firm from the fund formation to exit. It describes in considerable details the steps required for a successful implementation ofsourcing,funding,evaluating/investing and exiting a deal. The course outlines how private equity fits into the architecture of the financial/investment world.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 321 [Min Grade: C] and FIN 325 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN 420",
+            "Title": "Emerging Industry Analysis: Finance Perspective",
+            "Number_of_credits": "Credits",
+            "Description": "This course will be a seminar in analyzing a selected emerging industry from a finance perspective. It will require students to apply cross-disciplinary knowledge and skills to study the industry from historical, economic, social, and legal viewpoints. The course will use an experiential approach and apply financial analysis to analyze this industry through case studies, robust class discussions, and in-depth research.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 301 [Min Grade: D]"
+      },
+      {
+            "Identifier": "FIN 440",
+            "Title": "Credit Risk Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "The course focuses on the firm\u2019s credit worthiness. It is designed to allow students to experience the responsibilities of a credit analyst. Students will learn to interpret financial statements, identify a firm\u2019s financial vulnerabilities and complete a full credit risk analysis. Upon course completion, students should be able to evaluate financial statements, determine the credit strength of the firm and answer the question \u201cdo you feel comfortable lending the company money.\u201d.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 301 [Min Grade: C] and FIN 302 [Min Grade: C] and FIN 321 [Min Grade: C] and FIN 325 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN 450",
+            "Title": "Personal Wealth Management",
+            "Number_of_credits": "Credits",
+            "Description": "The focus of this course will be on the logic and principles underlying personal financial management as well as implementing tools and techniques for achieving sound financial goals. Topics include: investment decision analysis, consumer credit, tax planning, actuarial opportunities, financial investment strategies, and retirement planning.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 302 [Min Grade: C] and FIN 321 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN I199",
+            "Title": "Independent Study in FIN",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FIN I299",
+            "Title": "Independent Study in FIN",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FIN I399",
+            "Title": "Independent Study in FIN",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FIN I499",
+            "Title": "Independent Study in FIN",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FIN T180",
+            "Title": "Special Topics in Finance",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FIN T280",
+            "Title": "Special Topics in Finance",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FIN T380",
+            "Title": "Special Topics in Finance",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "FIN 301 [Min Grade: C]"
+      },
+      {
+            "Identifier": "FIN T480",
+            "Title": "Special Topics in Finance",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "FIN 301 [Min Grade: C]"
+      }
+]

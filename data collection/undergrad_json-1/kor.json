@@ -1,0 +1,173 @@
+[
+      {
+            "Identifier": "KOR 101",
+            "Title": "Korean I",
+            "Number_of_credits": "Credits",
+            "Description": "Introductory Korean. Includes listening, speaking and writing, with individual audio-video practice.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "APKX N"
+      },
+      {
+            "Identifier": "KOR 102",
+            "Title": "Korean II",
+            "Number_of_credits": "Credits",
+            "Description": "Introductory Korean. Includes listening, speaking and writing, with individual audio-video practice. Builds on Korean 101.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "KOR 101 [Min Grade: D]"
+      },
+      {
+            "Identifier": "KOR 103",
+            "Title": "Korean III",
+            "Number_of_credits": "Credits",
+            "Description": "Introductory Korean. Includes listening, speaking and writing, with individual audio-video practice. Builds on Korean 102.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "KOR 102 [Min Grade: D]"
+      },
+      {
+            "Identifier": "KOR 201",
+            "Title": "Korean IV",
+            "Number_of_credits": "Credits",
+            "Description": "This course includes listening, speaking, reading, and writing practice, with a focus on cultural competency and conversational skills. Builds onKOR\u00a0103.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "KOR 103 [Min Grade: D]"
+      },
+      {
+            "Identifier": "KOR 202",
+            "Title": "Korean V",
+            "Number_of_credits": "Credits",
+            "Description": "This course includes listening, speaking, reading, and writing practice, with a focus on cultural competency and conversational skills. Builds onKOR\u00a0201.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "KOR 201 [Min Grade: D]"
+      },
+      {
+            "Identifier": "KOR 310",
+            "Title": "Advanced Writing & Speaking",
+            "Number_of_credits": "Credits",
+            "Description": "Provides advanced practice in written and oral communication, including journalistic, professional, and creative writing. Examines contemporary cultural contexts through media and news. Taught in Korean.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "KOR 202 [Min Grade: C]"
+      },
+      {
+            "Identifier": "KOR 320",
+            "Title": "Introduction to Language for the Professions",
+            "Number_of_credits": "Credits",
+            "Description": "Introduction to communication skills in areas such as contemporary business, health, and law in a culturally sensitive fashion. Taught in Korean.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 27 credits",
+            "Prerequisites": "KOR 310 [Min Grade: C]"
+      },
+      {
+            "Identifier": "KOR 350",
+            "Title": "Introduction to Language, Media, and Society",
+            "Number_of_credits": "Credits",
+            "Description": "Introduction to the role of language and media in society, including sociolinguistics, gender, media studies, and communication. Taught in Korean.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 27 credits",
+            "Prerequisites": "KOR 310 [Min Grade: C]"
+      },
+      {
+            "Identifier": "KOR 410",
+            "Title": "Advanced Grammar and Translation",
+            "Number_of_credits": "Credits",
+            "Description": "Provides advanced grammar instruction and fosters translation and communication skills within a contemporary cultural context. Taught in Korean.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 27 credits",
+            "Prerequisites": "KOR 310 [Min Grade: C]"
+      },
+      {
+            "Identifier": "KOR 420",
+            "Title": "Advanced Studies in Language for the Professions",
+            "Number_of_credits": "Credits",
+            "Description": "Advanced communication skills in areas such as contemporary business, health, and law in a culturally sensitive fashion. Taught in Korean.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 27 credits",
+            "Prerequisites": "KOR 310 [Min Grade: C]"
+      },
+      {
+            "Identifier": "KOR 450",
+            "Title": "Advanced Topics in Language, Media, and Society",
+            "Number_of_credits": "Credits",
+            "Description": "Advanced analysis of the role of language and media in society, including sociolinguistics, gender, media studies, and communication. Taught in Korean. Topics will vary according to the instructor's expertise.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 27 credits",
+            "Prerequisites": "KOR 310 [Min Grade: C]"
+      },
+      {
+            "Identifier": "KOR I199",
+            "Title": "Independent Study in KOR",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "KOR I299",
+            "Title": "Independent Study in KOR",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "KOR I399",
+            "Title": "Independent Study in KOR",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "KOR I499",
+            "Title": "Independent Study in KOR",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "KOR T180",
+            "Title": "Special Topics in Korean",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "KOR T280",
+            "Title": "Special Topics in Korean",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "KOR T380",
+            "Title": "Special Topics in Korean",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "KOR T480",
+            "Title": "Special Topics in Korean",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

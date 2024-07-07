@@ -1,0 +1,119 @@
+[
+      {
+            "Identifier": "BET 301",
+            "Title": "Healthcare Technology",
+            "Number_of_credits": "Credits",
+            "Description": "An overview of medical equipment used in hospitals and other medical environments to diagnose and treat patients. Sensors and physiological signals will be explained. Equipment found in various hospital departments and medical specialties will also be discussed. Patient safety and regulations will be emphasized.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "EET 201 [Min Grade: D] and EET 202 [Min Grade: D]"
+      },
+      {
+            "Identifier": "BET 302",
+            "Title": "Biomedical Electronics",
+            "Number_of_credits": "Credits",
+            "Description": "This course is an introduction to the fundamentals of analog electronics with an emphasis on biomedical applications. Students will be introduced to solid state devices including diodes, transistors, operational amplifiers, oscillators, and mixers and their use in power supplies, amplifiers and active filters.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "EET 201 [Min Grade: D] and EET 202 [Min Grade: D]"
+      },
+      {
+            "Identifier": "BET 303",
+            "Title": "Medical Imaging Systems",
+            "Number_of_credits": "Credits",
+            "Description": "The fundamentals of medical imaging equipment will be explored. The principles of x-ray, computed tomography, ultrasonic, and magnetic resonance imaging systems will be discussed. Focus will be on principles of operation, applications, safety, and quality.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BET 301 [Min Grade: D]"
+      },
+      {
+            "Identifier": "BET 305",
+            "Title": "Clinical Laboratory Equipment",
+            "Number_of_credits": "Credits",
+            "Description": "Clinical laboratory instrumentation and automation is described with emphasis on the demands of clinicians for diagnostic information. Special attention is given to reliability, ease of training, and cost effectiveness.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "EET 201 [Min Grade: D] and EET 202 [Min Grade: D] and BET 301 [Min Grade: D]"
+      },
+      {
+            "Identifier": "BET 307",
+            "Title": "Applied Biomedical Instrumentation",
+            "Number_of_credits": "Credits",
+            "Description": "The course introduces students to the engineering design process and provides design experience through hands-on design and implementation of biomedical instruments. Using a generalized step-by-step approach that consists of (1) understanding the physiological sources, (2) selecting appropriate transducers, (3) designing analog processing electronics, and (4) implementing digital signal processing, student will gain extensible knowledge and skills to design and implement various biomedical instruments.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "EET 201 [Min Grade: D] and EET 202 [Min Grade: D] and BET 301 [Min Grade: D] and BMES 391 [Min Grade: D]"
+      },
+      {
+            "Identifier": "BET I199",
+            "Title": "Independent Study in Biomedical Engineering Tech",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BET I299",
+            "Title": "Independent Study in Biomedical Engineering Tech",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BET I399",
+            "Title": "Independent Study in Biomedical Engineering Tech",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BET I499",
+            "Title": "Independent Study in Biomedical Engineering Tech",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BET T180",
+            "Title": "Special Topics in Biomedical Engineering Tech",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BET T280",
+            "Title": "Special Topics in Biomedical Engineering Tech",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BET T380",
+            "Title": "Special Topics in Biomedical Engineering Tech",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "BET T480",
+            "Title": "Special Topics in Biomedical Engineering Tech",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

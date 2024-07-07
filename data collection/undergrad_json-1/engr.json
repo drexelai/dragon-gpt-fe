@@ -1,0 +1,263 @@
+[
+      {
+            "Identifier": "ENGR 100",
+            "Title": "Beginning Computer Aided Drafting for Design",
+            "Number_of_credits": "Credit",
+            "Description": "Introduces students to computer-aided graphics techniques and the use of a state-of-the-art, computer-aided design/drafting package. Students will learn 2-D and 3-D modeling techniques to support the design process. All students will be required to take a competency quiz on 4 of 6 available AutoCAD labs.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGR 102",
+            "Title": "Engineering Design Laboratory II",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces students to engineering design and practice. Emphasis is placed on the synthesis of knowledge, skills and the methodologies that are the heart of the profession. The course is designed to integrate core scientific foundations into an engineering perspective through the use of team-based projects, computer tools and technical writing. This is the second part of the three term freshman design experience.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGR 103",
+            "Title": "Engineering Design Laboratory III",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces students to engineering design and practice. Emphasis is placed on the synthesis of knowledge, skills and the methodologies that are the heart of the profession. The course is designed to integrate core scientific foundations into an engineering perspective through the use of team-based projects, computer tools and technical writing. This is the third part of the three term freshman design experience.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGR 104",
+            "Title": "Engineering Design Laboratory for Transfers",
+            "Number_of_credits": "Credits",
+            "Description": "Individualized course specially designed for transfer students. Provides selected educational experiences in engineering design, experimental techniques, and computer skills to round out the student's previous course of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGR 111",
+            "Title": "Introduction to Engineering Design & Data Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces students to engineering design and concepts in data collection, analysis, modeling, and presentation that are central to all fields of engineering. Students will gain exposure to a variety of engineering disciplines through introduction of problems and experiments from different fields.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGR 113",
+            "Title": "First-Year Engineering Design",
+            "Number_of_credits": "Credits",
+            "Description": "In this course, students will focus on applying the engineering design process to problems of particular interest in the various engineering fields. A key component of the course is a term-long project where students will work in teams to solve an engineering problem.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGR 111 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENGR 121",
+            "Title": "Computation Lab I",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces computation and programming through the use of a mathematical computation system, such as MATLAB. Programming techniques and algorithmic problem solving are introduced in the context of data analytics, basic calculus, modeling, simulation, and visualization. The course also illustrates the strengths and limitations of the scientific software in solving mathematical, engineering and scientific problems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGR 122",
+            "Title": "Computation Lab II",
+            "Number_of_credits": "Credit",
+            "Description": "Introduces physics-based simulations through the use of a mathematical computation system, such as MATLAB. Mathematical modeling and simulation of physical processes (static and dynamic) are used as a platform for numerical integration and differentiation.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGR 121 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENGR 131",
+            "Title": "Introductory Programming for Engineers",
+            "Number_of_credits": "Credits",
+            "Description": "An introduction to the fundamentals of programming and algorithmic problem solving with applications in engineering. Emphases include (a) producing clear, robust, and efficient code, and (b) conceptualizing and designing computational algorithms to solve engineering problems. Upon completion, students will possess the programming skills necessary to perform computational analysis in any engineering discipline. This course is designed for students without any prior programming experience.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGR 132",
+            "Title": "Programming for Engineers",
+            "Number_of_credits": "Credits",
+            "Description": "An introduction to the fundamentals of programming and algorithmic problem solving with applications in engineering. Emphases include (a) producing clear, robust, and efficient code, and (b) conceptualizing and designing computational algorithms to solve engineering problems. Upon completion, students will possess the programming skills necessary to perform computational analysis in any engineering discipline. This course is designed for students with some high-school Computer Science or programming experience in any language.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGR 199",
+            "Title": "Preparation for the Engineering Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Preparation for the Engineering Core Curriculum through intensive, coordinated work in three areas: pre-calculus mathematics, effective study methods, and career evaluation and selection. Topics include: algebra, trigonometry, geometry, note-taking, exam preparation, time management, evaluation of engineering and other career paths. (This course does not count toward graduation requirements ).",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGR 210",
+            "Title": "Introduction to Thermodynamics",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces thermodynamics from a classical point of view. Covers work, heat, entropy, thermodynamic properties, equations of state, and first and second law analysis of closed systems, control volumes, and selected thermodynamic cycles.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 122 [Min Grade: D] and PHYS 101 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENGR 220",
+            "Title": "Fundamentals of Materials",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces materials and their properties; atomic view and architecture of solids; atomic motion in solids, mechanical, magnetic, electrical and optical properties of materials. Corrosion and degradation of solids.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 101 [Min Grade: D] and MATH 122 [Min Grade: D] and PHYS 101 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENGR 231",
+            "Title": "Linear Engineering Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Provides an overview of systems and modeling; specifically using linear algebra as the model. Specific emphasis will be placed on developing models of engineering systems and the use of computational tools for solutions of the problems. The focus of the lab will be the use of MATLAB for solution of contemporary engineering problems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 122 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENGR 232",
+            "Title": "Dynamic Engineering Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Provides an overview of dynamic systems and modeling; specifically using differential equations as a model. Specific emphasis will be placed on developing models of dynamic systems and the use of computational tools for solutions of the problems. The focus of the lab will be the use of MATLAB for solution of contemporary engineering problems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGR 231 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENGR 280",
+            "Title": "Introduction to Global Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces students to a broad range of contemporary issues (economic, political, and cultural) engineers face in meeting the challenges of globalization. In addition to responding to weekly presentations, students will engage in and report on an in-depth case study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGR 361",
+            "Title": "Statistical Analysis of Engineering Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Probability, random variables, reliability, quality control, design of experiments, regression/correlation, ANOVA and related topics, hypothesis testing.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGR 370",
+            "Title": "Vertically Integrated Projects",
+            "Number_of_credits": "Credits",
+            "Description": "The Vertically-Integrated Projects (VIP) Program will operate in a research and development context. Undergraduate students who join VIP teams will earn academic credit for their participation in design/discovery efforts that assist faculty and graduate students with research and development issues in their areas of expertise. Permission of the instructor required.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated 9 times for 40 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGR 491",
+            "Title": "Senior Project Design I",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces the design process, including information retrieval, problem definition, proposal writing, patents, and design notebooks. Includes presentations on problem areas by experts from industry, government, and education.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGR 492",
+            "Title": "Senior Project Design II",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesENGR\u00a0491. Requires written and oral progress reports.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 491 [Min Grade: D]"
+      },
+      {
+            "Identifier": "ENGR 493",
+            "Title": "Senior Project Design III",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesENGR\u00a0492. Requires written and oral final reports, including oral presentations by each design team at a formal Design Conference open to the public and conducted in the style of a professional conference.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGR I199",
+            "Title": "Independent Study in Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGR I299",
+            "Title": "Independent Study in Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGR I399",
+            "Title": "Independent Study in Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGR I499",
+            "Title": "Independent Study in Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGR T180",
+            "Title": "Special Topics in Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGR T280",
+            "Title": "Special Topics in Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGR T380",
+            "Title": "Special Topics in Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ENGR T480",
+            "Title": "Special Topics in Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

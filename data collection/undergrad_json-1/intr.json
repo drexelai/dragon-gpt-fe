@@ -1,0 +1,380 @@
+[
+      {
+            "Identifier": "INTR 160",
+            "Title": "Visualization I: Computer Imaging",
+            "Number_of_credits": "Credits",
+            "Description": "An introductory course that explores the use of proprietary computer applications for communications and the preparation of visual materials in Interior Design. The course introduces and reinforces classic design principles for expert visual communication of ideas through digital techniques from an Interior Design perspective.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INTR 200",
+            "Title": "History of Modern Architecture and Interiors",
+            "Number_of_credits": "Credits",
+            "Description": "Covers development of modern architecture and interiors in the 19th and 20th centuries. Develops a vocabulary for discussing architecture; an understanding of how various factors affect design; and a familiarity with names, movements, and buildings that are part of historical development.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INTR 211",
+            "Title": "Textiles for Interiors",
+            "Number_of_credits": "Credits",
+            "Description": "This course is a comprehensive introduction to textiles and their use in the interior design profession.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INTR 220",
+            "Title": "Visualization II: Orthographic",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores design communication skills through hand drawing and model building exercises. Orthographic drawing skills are developed through investigation of plan, section, elevation and three dimensional drawings.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INTR 225",
+            "Title": "Environmental Design Theory",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces design students to the relationship between people and the build environment. Understanding how people perceive, interact with, and are affected by their surroundings through readings and design exercieses make evident the significance of the psychological, pyshicological, social and cultural concepts of environmental behavior as an integral part of the designed environment.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INTR 231",
+            "Title": "Structure",
+            "Number_of_credits": "Credits",
+            "Description": "Investigates structure as an organizing principle in design by man and nature. Explores the basic objective and subjective relationships between form and function. Includes professionally juried presentations.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "VSST 103 [Min Grade: C-] or VSST 106 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "INTR 232",
+            "Title": "Interior Studio I",
+            "Number_of_credits": "Credits",
+            "Description": "Primary spatial course. Involves conscious recognition of the manipulability of space or spaces within a given volume and small-scale environmental orientation. Includes professionally juried presentations.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "VSST 103 [Min Grade: C-] or VSST 106 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "INTR 233",
+            "Title": "Interior Studio II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers diagramming program requirements, designing for complex spatial requirements with an awareness of building systems (e.g., partitions, heating/ventilating/cooling, lighting), and furniture. Includes professionally juried presentations.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INTR 232 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "INTR 241",
+            "Title": "Visualization III: Digital",
+            "Number_of_credits": "Credits",
+            "Description": "An intensive introduction to two and three dimensional drawing and visualization through the computer. This course explores orthographic and perspective drawing conventions and techniques from a digital perspective.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INTR 232 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "INTR 245",
+            "Title": "Visualization IV: 3D Modeling",
+            "Number_of_credits": "Credits",
+            "Description": "An intensive introduction to advanced modeling and rendering software. Students will explore lighting, materiality, advanced form and spatial experience through realistic three-dimensional digital models.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INTR 241 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INTR 250",
+            "Title": "Interior Materials",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces basic construction materials and how they may be used successfully by the interior designer. Includes sample materials, visual aids, and guest speakers.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INTR 300   [WI]",
+            "Title": "Visual Culture: Interiors",
+            "Number_of_credits": "Credits",
+            "Description": "Visual Culture: Interiors addresses the interior environment by studying the role history, economics, culture, materials and technological developments, impact decisions made by designers on interior spaces. While comparing historical context with specific knowledge, this course will enable the student to be a more articulate designer by a comprehensive examination of the interiors.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INTR 305   [WI]",
+            "Title": "Visual Culture: Furniture",
+            "Number_of_credits": "Credits",
+            "Description": "An overview of furniture in relationship to interiors, and its influences reaching from the roots of antiquity to the impact of technology in today's products. It is the study of artifacts from various time periods and cultures in relation to social and political developments, life and work styles, visual arts, and economic influences.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INTR 310",
+            "Title": "Sustainability: History, Theory and Critic",
+            "Number_of_credits": "Credits",
+            "Description": "Course examines the meaning and implications of sustainable design to develop an informed interpretation and working assessment of this movement. Concepts and methodologies are explored through assigned readings, class discussion, feild trips and team research.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INTR 322",
+            "Title": "Interior Studio I",
+            "Number_of_credits": "Credits",
+            "Description": "Foundation spatial course: Involves conscious recognition of the manipulation of space or spaces within a given volume and with a small-scale environmental orientation. Includes professionally juried presentations.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "VSST 103 [Min Grade: C-] or VSST 106 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "INTR 323",
+            "Title": "Interior Studio II",
+            "Number_of_credits": "Credits",
+            "Description": "Primary spatial course. Involves conscious recognition of the manipulation of space or spaces within a given volume and small-scale environmental orientation. Includes professionally juried presentations.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INTR 232 [Min Grade: C-] or INTR 311 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "INTR 331",
+            "Title": "Residential Design Studio",
+            "Number_of_credits": "Credits",
+            "Description": "Provides experience with extensive real space. Emphasizes recognizing its aesthetic quality and maximizing its potential to meet the requirements of the inhabitants, by stylistic quality and elaboration in the selection and application of furniture finishes and accessories. Includes professionally juried presentations.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INTR 233 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "INTR 340",
+            "Title": "Community Studio",
+            "Number_of_credits": "Credits",
+            "Description": "Covers research, diagramming, site considerations, and program requirements for a specific user group; designing for complex spatial requirements with integration of interior components and furniture. Includes professionally juried presentations.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INTR 331 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "INTR 341",
+            "Title": "Visualization V: Methods",
+            "Number_of_credits": "Credits",
+            "Description": "An advanced course in visualization for Interior Design. Hybrid representation strategies and specialized topics in digital and hand rendering will be covered.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INTR 241 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INTR 342",
+            "Title": "Hospitality Design Studio",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers the design of commercial hospitality interiors. The studio project addresses program research and diagramming, site specificity, and designing for complex requirements with an awareness of vertical circulation, light, view, and enclosure. This course requires students to develop the ceiling plane and to create a visual identity for the design of restaurant interiors. This studio includes professionally juried presentations.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INTR 323 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "INTR 350",
+            "Title": "Interior Detailing",
+            "Number_of_credits": "Credits",
+            "Description": "Covers basic considerations of interior construction and detailing and their application.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INTR 250 [Min Grade: D] and INTR 233 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "INTR 351",
+            "Title": "Interior Lighting",
+            "Number_of_credits": "Credits",
+            "Description": "This course analyzes human needs and the perceptual responses of both general and special populations. It introduces the lighting design theory and principles and explores methods of creating mood and atmosphere with light. It develops vocabulary, documentation methods and understanding of energy conservation, lighting standards, and safety.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INTR 350 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INTR 410",
+            "Title": "Collaborative Research in Sustainability",
+            "Number_of_credits": "Credits",
+            "Description": "This cumulative course is the advanced students' opportunity to participate in a collaborative, interdisciplinary team in which the students will be applying sustainable technical and conceptual education in the context of 3rd party competitions, internally defined design challenges or applied research.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ARCH 320 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "INTR 430",
+            "Title": "Commercial Design Studio",
+            "Number_of_credits": "Credits",
+            "Description": "Covers design of institutional-commercial interiors, including space planning, selection of materials and furnishings toward a synthesized environment, and development of specifications. Includes professionally juried presentations.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INTR 342 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "INTR 440",
+            "Title": "Health & Wellness ID Studio",
+            "Number_of_credits": "Credits",
+            "Description": "This studio addresses program and design requirements for a specific demographic community. It will prepare students to tackle the complex design problems that face the growing healthcare industry. The course focuses on an interdisciplinary approach to complex problems in the interior environment for the practice areas of health, healing, and well-being. Precedent studies, programming briefs, literature reviews, and collaborative teamwork are used to create evidence-based design solutions that incorporate creativity, human factors data, user-centered design approach, life-safety codes, and building codes. This studio includes professionally juried presentations.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INTR 430 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "INTR 441",
+            "Title": "Furniture Design",
+            "Number_of_credits": "Credits",
+            "Description": "Covers design of environmental elements, simultaneous concerns with craftsmanship and the application of materials to ideas, and development of prototypes. A lab fee is required for this course.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated 2 times for 13 credits",
+            "Prerequisites": "VSST 203 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INTR 442",
+            "Title": "Hospitality Design Studio",
+            "Number_of_credits": "Credits",
+            "Description": "Covers design of commercial hospitality interiors, including spatial layout, custom furnishings, lighting, selection of materials, and code requirements. Includes professionally juried presentations.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INTR 430 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "INTR 445",
+            "Title": "Contract Documentation for Interior Design",
+            "Number_of_credits": "Credits",
+            "Description": "Provides an understanding of the basic procedures and techniques for the development of construction drawings and furniture documentation. Requires students to use case studies to produce a set of drawings representative of current interior design industry standards.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INTR 245 [Min Grade: D] and INTR 430 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "INTR 450   [WI]",
+            "Title": "Professional Practice",
+            "Number_of_credits": "Credits",
+            "Description": "Surveys contemporary business methods, practices, and procedures in the operation of a design firm, including legal and ethical implications. Examines these practices through case studies and lectures by design professionals.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INTR 331 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "INTR 451",
+            "Title": "Interior Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces building systems, mechanical, electrical, ceiling and furniture systems, and their effect on the interior environment. Includes visual aids and guest speakers.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INTR 350 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INTR 470",
+            "Title": "Competition Studio",
+            "Number_of_credits": "Credits",
+            "Description": "Competition opportunities from regional to international from professional to philanthropic allow for investigations of diverse contemporary issues surrounding the built environment. Students work under direction of a faculty member(s) to discuss, explore and develop solutions for entry into noteworthy competitions.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated 1 times for 6 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INTR 491",
+            "Title": "Senior Project I",
+            "Number_of_credits": "Credits",
+            "Description": "Part one of the 3-term senior project where students develop a capstone independent design project from concept, research and programming to complete design development.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INTR 430 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "INTR 492",
+            "Title": "Senior Project II",
+            "Number_of_credits": "Credits",
+            "Description": "Part two of the 3-term senior project where students develop a capstone independent design project from concept, research and programming to complete design development.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INTR 491 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "INTR 493",
+            "Title": "Senior Project III",
+            "Number_of_credits": "Credits",
+            "Description": "Part three of the 3-term senior project where students develop a capstone independent design project from concept, research and programming to complete design development.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INTR 492 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "INTR I199",
+            "Title": "Independent Study in Interior Design",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INTR I299",
+            "Title": "Independent Study in Interior Design",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INTR I399",
+            "Title": "Independent Study in Interior Design",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INTR I499",
+            "Title": "Independent Study in Interior Design",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INTR T180",
+            "Title": "Special Topics in Interior Design",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INTR T280",
+            "Title": "Special Topics in Interior Design",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INTR T380",
+            "Title": "Special Topics in Interior Design",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INTR T480",
+            "Title": "Special Topics in Interior Design",
+            "Number_of_credits": "Credit",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

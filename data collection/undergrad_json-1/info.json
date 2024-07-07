@@ -1,0 +1,326 @@
+[
+      {
+            "Identifier": "INFO 101",
+            "Title": "Introduction to Computing and Security Technology",
+            "Number_of_credits": "Credits",
+            "Description": "Explores the infrastructure that makes current information and communication technology possible. Introduces foundational concepts of servers, networks, databases, and the Web. Addresses security and usability considerations that cut across all computing technology. Approaches computing technology from the perspective of system administrators who plan, manage, operate, and monitor large scale computing infrastructure. Covers emerging technologies including pervasive computing, continuous integration, virtualization, and the Internet of things. Explores professional opportunities in this high demand area.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INFO 102",
+            "Title": "Introduction to Information Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces students to major types of information systems and their development and their use in organizations. Emphasizes ways in which information systems can be used to help individuals and organizations meet their goals. Assumes basic knowledge of computing concepts.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INFO 103",
+            "Title": "Introduction to Data Science",
+            "Number_of_credits": "Credits",
+            "Description": "A first course in data science. Introduces data science as a field, describes the roles and services that various members of the community play and the life cycle of data science projects. Provides an overview of common types of data, where they come from, and the challenges that practitioners face in the modern world of \u201cBig Data.\u201d Provides an introduction to the interdisciplinary mixture of skills that the practice requires.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INFO 110",
+            "Title": "Introduction to Human-Computer Interaction",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces the field of human-computer interaction, with a broad scope that exposes students to a variety of approaches for conceptualizing, designing, and evaluating user interfaces and user experiences. Focuses on using design thinking to define problems and solutions, and developing skills for critiquing interactive systems. Topics include interaction design principles, user experience research, usability evaluation, and novel interaction paradigms.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INFO 150",
+            "Title": "Introduction to Ubiquitous Computing",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces the field of ubiquitous computing, which refers to the modern era of computers embedded into everything we do, everywhere we are. From smartphones to smart homes, students will explore what makes an object or device \u201csmart\u201d. Topics include privacy, interfaces, location, and context-awareness. Engages students of any background in reflecting on the role of ubiquitous computing in everyday life, and thinking critically about impacts of present and future technologies.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INFO 151",
+            "Title": "Web Systems and Services I",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces technologies used to build leading-edge application systems and services on the World Wide Web. Coverage includes a selection of Web components such as mark-up and scripting languages, and server components of Web applications. Introduces Web programming using pair or small team programming activities.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INFO 152",
+            "Title": "Web Systems and Services II",
+            "Number_of_credits": "Credits",
+            "Description": "Explores techniques used to build leading-edge application systems on the World Wide Web. Topics include Web server components of Web applications, and basic database processing. Includes Web programming using pair or small team programming activities.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INFO 151 [Min Grade: D] or CS 140 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INFO 153",
+            "Title": "Applied Data Management",
+            "Number_of_credits": "Credits",
+            "Description": "Explores technologies used to gather, organize, store, and retrieve data in various forms. Focuses on using databases and various file formats in software systems. Topics include file and database access, data munging and management, and data structures. Includes data management software development using pair or small team programming activities.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INFO 152 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INFO 200",
+            "Title": "Systems Analysis I",
+            "Number_of_credits": "Credits",
+            "Description": "Study of the principles, practices, methods and tools of systems analysis. Emphasis on learning pragmatic aspects of working as a systems analyst to perform the steps of analyzing problem, value, root cause, features, use cases, user stories, and dataflow diagrams.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INFO 101 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INFO 202",
+            "Title": "Data Curation",
+            "Number_of_credits": "Credits",
+            "Description": "This class explores the full range of data curation lifecycle activities, from the design of good data through metadata creation, ingest, data management, access, implementation, and reuse. It will help students develop a foundation in the curation of digital information (including data), and will enable students to understand the role and objectives of curation for organizations and projects that use data to analyze, share and provide access and re-use to collections of their digital information.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INFO 103 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INFO 210",
+            "Title": "Database Management Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Focuses on how to design databases for given problems, and how to use database systems effectively. Topics include database design techniques using the entity-relationship approach, techniques of translating the entity-relationship diagram into a relational schema, relational algebra, commercial query languages, and normalization techniques.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INFO 101 [Min Grade: D] or SE 210 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INFO 212",
+            "Title": "Data Science Programming I",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces the main tools and ideas in the data scientist\u2019s toolbox. Focuses writing interactive and programming code for extracting, cleansing, wrangling, transforming, reshaping, and analyzing data. Covers practical tools and ideas including Linux command line, version control, git, and interactive programming. Studies various Python packages for high performance data analysis.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INFO 153 [Min Grade: D] or CS 172 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INFO 213",
+            "Title": "Data Science Programming II",
+            "Number_of_credits": "Credits",
+            "Description": "Discusses the latest analytic and predictive techniques to solve real world business problems. Focuses on practice rather than theory by using existing Python libraries and tools to produce solutions. Covers practical Python implementations of the basic concepts in mathematics and statistics that are at the core of data science. Introduces Python libraries for the most common models and techniques for data analytics such as clustering, classification, regression, and decision trees.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INFO 212 [Min Grade: D] and (STAT 201 [Min Grade: D] or MATH 311 [Min Grade: D])"
+      },
+      {
+            "Identifier": "INFO 215",
+            "Title": "Social Aspects of Information Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces social issues involved in information systems design and use, e.g., personal computing, telecommuting, computers in education, the privacy and security of stored and transmitted information, and information ownership. Explores the interaction of high technology, employment, and class structure.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INFO 250",
+            "Title": "Information Visualization",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces the foundation and the state of the art of information visualization. Explores and reflects on the design, application, and evaluation of a diverse range of information systems. Demonstrates how a number of common types of information can be visually, intuitively and interactively represented. Provides a first-hand experience of visualizing a variety of realistic data types.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INFO 300",
+            "Title": "Information Retrieval Systems",
+            "Number_of_credits": "Credits",
+            "Description": "The theoretical underpinnings of information retrieval are covered to give the student a solid base for further work with retrieval systems. Emphasis is given to the process of textual information for machine indexing and retrieval. Aspects of information retrieval covered include document description, query formulation, retrieval algorithms, query matching, and system evaluation.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(INFO 153 [Min Grade: D] or CS 172 [Min Grade: D]) and INFO 102 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INFO 310",
+            "Title": "Human-Centered Design Process & Methods",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces the student to the process of human-centered design of interactive user interfaces. Teaches some of the basic approaches to design and evaluation of interactive user interfaces. Delivers practical advice on interaction design challenges. Applies human-centered design principles in the design of the user interface to an interactive computer system.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INFO 110 [Min Grade: D] or INFO 151 [Min Grade: D] or CS 171 [Min Grade: D] or ECE 105 [Min Grade: D] or ECE 203 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INFO 315",
+            "Title": "Advanced Database Management Systems",
+            "Number_of_credits": "Credits",
+            "Description": "This course will cover advanced database systems and concepts necessary in understanding modern database technologies beyondINFO\u00a0210(Database Management Systems). Major topics include database programming in PL/SQL, including stored procedures, functions, triggers and packages, business intelligence, data warehouses, OLAP, ETL, data lake, big data architectures, and principles & practices of NoSQL databases.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INFO 210 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INFO 323",
+            "Title": "Cloud Computing and Big Data",
+            "Number_of_credits": "Credits",
+            "Description": "Provides overview and insights into technologies, opportunities, and challenges related to cloud computing and big data. Covers concepts of scalable data analysis, predictive modeling, and graph analysis through specific cloud computing platforms. Introduces the components and tools in cloud computing ecosystems associated with big data solutions as well as NoSQL databases. Through hands-on instructions and assignments, students will develop working knowledge of practical tools and strategies of processing massive data sets using the map/reduce framework.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INFO 103 [Min Grade: D] and INFO 210 [Min Grade: D] and INFO 212 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INFO 324   [WI]",
+            "Title": "Team Process and Product",
+            "Number_of_credits": "Credits",
+            "Description": "Provides hands-on experience with working in small teams to apply processes and produce products typical of current best practices in computing and information technology organizations. Allows students to develop an integrated understanding of project life cycle phases. Examines issues of team organization and operation, problem solving, and communication.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(INFO 153 [Min Grade: D] or CS 172 [Min Grade: D]) and INFO 200 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INFO 332",
+            "Title": "Exploratory Data Analytics",
+            "Number_of_credits": "Credits",
+            "Description": "In this course students learn the essential exploratory techniques for summarizing and analyzing data. The course discusses how to install and configure software necessary for a statistical programming environment. It covers practical issues in statistical computing, which includes programming in R and how to use R for effective data analysis. The course covers the plotting systems in R and some of the basic principles of constructing data graphics.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INFO 103 [Min Grade: D] and (STAT 201 [Min Grade: D] or PBHL 211 [Min Grade: D])"
+      },
+      {
+            "Identifier": "INFO 355",
+            "Title": "Systems Analysis II",
+            "Number_of_credits": "Credits",
+            "Description": "A project-oriented course that discusses software engineering and advanced techniques of requirements modeling, prototyping and software design, particularly utilizing object-oriented techniques. The course builds upon Systems Analysis I, requiring students to apply their knowledge of systems analysis tools and techniques.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INFO 210 [Min Grade: D] and INFO 200 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INFO 365",
+            "Title": "Database Administration I",
+            "Number_of_credits": "Credits",
+            "Description": "Database Administration is a continuation of Database Management Systems, and includes the following: advanced ERD techniques, database management system internals and advanced elements of the SQL language, as well as stored procedures and triggers, specifically as demonstrated in the Oracle implementation.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INFO 210 [Min Grade: D] and (CS 171 [Min Grade: D] or CS 175 [Min Grade: D] or INFO 152 [Min Grade: D] or SE 102 [Min Grade: D])"
+      },
+      {
+            "Identifier": "INFO 366",
+            "Title": "Database Administration II",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces the principles and practices of database administration, particularly as they apply to commercial-grade relational database management systems. The course will include, but not be limited to, installation, systems tuning, application tuning, security, user management, backup and recovery. To this end, internals of RDBMSs will be discussed, using major commercial RDBMSs as examples. Distributed database issues will also be discussed. As time permits, other advanced issues will be addressed, such as issues of object and object-relational databases.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INFO 365 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INFO 371",
+            "Title": "Data Mining Applications",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces students to basic data mining approaches using machine learning tools. Focuses on machine learning algorithms for information inference and knowledge discovery from data. Covers major applications in data/text/web processing, analysis and mining.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "STAT 201 [Min Grade: D] or PBHL 211 [Min Grade: D] or MATH 311 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INFO 375",
+            "Title": "Introduction to Information Systems Assurance",
+            "Number_of_credits": "Credits",
+            "Description": "Introduction to the problem of security for modern information systems. Provides an overview of threats, both human and computer, to the security of an organization's data and information resources. Explores how systems may be made less vulnerable and how to respond. Examines issues of personal security in an electronic world.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INFO 200 [Min Grade: D] and CT 140 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INFO 405",
+            "Title": "Social and Collaborative Computing",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an introduction to the ways that computing systems support social interaction and productive collaboration. Students will learn concepts from social science theory and research and use these concepts to analyze systems and imagine novel systems designs that meet the needs of groups and organizations. Students will spend time examining, using, and participating in social and collaborative computing environments such as collaboration tools, crowdwork platforms, social media, and various online communities.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INFO 310 [Min Grade: D] or INFO 110 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INFO 420",
+            "Title": "Software Project Management",
+            "Number_of_credits": "Credits",
+            "Description": "The objective of this course is to study project management in the context of software systems development. The course will cover the processes, contexts, metrics, planning and management concerns of managing projects for modern software systems.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(INFO 200 [Min Grade: D] or SE 210 [Min Grade: D]) and (CS 172 [Min Grade: D] or CS 265 [Min Grade: D] or INFO 152 [Min Grade: D] or SE 103 [Min Grade: D] or CS 176 [Min Grade: D])"
+      },
+      {
+            "Identifier": "INFO 432",
+            "Title": "Advanced Data Analytics",
+            "Number_of_credits": "Credits",
+            "Description": "Focuses on data analytic techniques that aim to understand data, discover knowledge, and learn from data. Presents the fundamentals of statistical inference and data analytic techniques in a practical approach. Provides methods on how to effectively collect data, analyze, understand data, and estimate some important quantities. Covers the key ideas in advanced functionality available in the R packages for conducting data analytics.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INFO 332 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INFO 440",
+            "Title": "Social Media Data Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "Explores data analytic methods for analyzing, understanding, and visualizing emerging trends on social media from social, organizational and cultural perspectives. Students will analyze various content materials and activities on social media to discern the relationship between online behavior and underlying social phenomena.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INFO 212 [Min Grade: D] or CS 172 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INFO 442",
+            "Title": "Data Science Projects",
+            "Number_of_credits": "Credits",
+            "Description": "This course is a capstone course that provides an opportunity for students to apply a data science approach to solve domain problems. Students form a team and challenge a real-world project of their choices. Each team selects a domain and a data set, and then applies a data science approach to actual situations for real-world decision making. Each team is required to come up with a scientific question with a business value, perform an explorative data analysis, develop a data science model, evaluate the results, and communicate the results with audience.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "INFO 213 [Min Grade: D] and INFO 332 [Min Grade: D]"
+      },
+      {
+            "Identifier": "INFO I199",
+            "Title": "Independent Study in INFO",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INFO I299",
+            "Title": "Independent Study in INFO",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INFO I399",
+            "Title": "Independent Study",
+            "Number_of_credits": "Credits",
+            "Description": "Requires approval of advisor, supervising faculty member and college. BSIS majors may take a maximum of 6 credits of independent study. Any exception to this maximum must be approved in advance by the student's advisor. Independent study on a topic selected by the student. Independent study is supervised by a faculty member and guided by a plan of study developed by the student in a term prior to the term in which the independent study is pursued.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INFO I499",
+            "Title": "Independent Study in INFO",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "INFO T480",
+            "Title": "Special Topics in Information Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Selected topics of interest to students in information systems. May be repeated for credit if topic varies.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

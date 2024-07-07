@@ -1,0 +1,209 @@
+[
+      {
+            "Identifier": "GER 101",
+            "Title": "German I",
+            "Number_of_credits": "Credits",
+            "Description": "Introductory German. Includes listening, reading, writing, and speaking. Offered all terms. Entrance exam required.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "APGX N or APWGR 0"
+      },
+      {
+            "Identifier": "GER 102",
+            "Title": "German II",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesGER\u00a0101. Offered all terms.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "GER 101 [Min Grade: D] or APWGR 231"
+      },
+      {
+            "Identifier": "GER 103",
+            "Title": "German III",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesGER\u00a0102. Offered all terms.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "GER 102 [Min Grade: D]"
+      },
+      {
+            "Identifier": "GER 201",
+            "Title": "German IV",
+            "Number_of_credits": "Credits",
+            "Description": "Intermediate German. Includes grammar review, listening, speaking, and reading. Recommended for students who wish to attain oral competence. Offered all terms.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "GER 103 [Min Grade: D]"
+      },
+      {
+            "Identifier": "GER 202",
+            "Title": "German V",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesGER\u00a0201. Offered all terms.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "GER 201 [Min Grade: D]"
+      },
+      {
+            "Identifier": "GER 310   [WI]",
+            "Title": "Advanced Writing and Speaking",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides advanced practice in written and oral communication, including journalistic, professional, and creative writing. Examines contemporary cultural contexts through media and news. Taught in German.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "GER 202 [Min Grade: C]"
+      },
+      {
+            "Identifier": "GER 320",
+            "Title": "Introduction to Language for the Professions",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an introduction to communication skills in areas such as contemporary business, health, and law in a culturally sensitive fashion. Taught in German.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 27 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "GER 330",
+            "Title": "Introduction to Identities and Communities",
+            "Number_of_credits": "Credits",
+            "Description": "This courses provides an introduction to the analysis of individual and collective identities, including issues of gender, sexual orientation, race, ethnicity, class, nationality, and religion. The content of this course may change every term it is offered and is repeatable for credit. Taught in German.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 27 credits",
+            "Prerequisites": "GER 310 [Min Grade: C]"
+      },
+      {
+            "Identifier": "GER 340",
+            "Title": "Introduction to Power and Resistance",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an introduction to the analysis of power relations and issues of (in)equality rooted in contemporary political and socio-economic systems. The content of this course may change every term it is offered and is repeatable for credit. Taught in German.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 27 credits",
+            "Prerequisites": "GER 310 [Min Grade: C]"
+      },
+      {
+            "Identifier": "GER 350",
+            "Title": "Introduction to Language, Media, and Society",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an introduction to the role of language and media in society, including sociolinguistics, gender, media studies, and communication. The content of this course may change every term it is offered and is repeatable for credit. Taught in German.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 27 credits",
+            "Prerequisites": "GER 310 [Min Grade: C]"
+      },
+      {
+            "Identifier": "GER 410   [WI]",
+            "Title": "Advanced Grammar and Translation",
+            "Number_of_credits": "Credits",
+            "Description": "German 410 provides advanced grammar instruction and fosters translation and communication skills within a contemporary cultural context. The content ofGER\u00a0410may change every term it is offered and is repeatable for credit. Taught in German.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 27 credits",
+            "Prerequisites": "GER 310 [Min Grade: C] and (GER 320 [Min Grade: C] or GER 330 [Min Grade: C] or GER 340 [Min Grade: C] or GER 350 [Min Grade: C])"
+      },
+      {
+            "Identifier": "GER 420",
+            "Title": "Advanced Studies in Language for the Professions",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides advanced communication skills in areas such as contemporary business, health, and law in a culturally sensitive fashion. The content of this course may change every term it is offered and is repeatable for credit. Taught in German.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 27 credits",
+            "Prerequisites": "GER 310 [Min Grade: D]"
+      },
+      {
+            "Identifier": "GER 430",
+            "Title": "Advanced Studies in Identities and Communities",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an advanced analysis of individual and collective identities, including issues of gender, sexual orientation, race, ethnicity, class, nationality, and religion. The content of this course may change every term it is offered and is repeatable for credit. Taught in German.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 27 credits",
+            "Prerequisites": "GER 310 [Min Grade: D]"
+      },
+      {
+            "Identifier": "GER 440",
+            "Title": "Advanced Studies in Power and Resistance",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an advanced analysis of power relations and issues of (in)equality rooted in contemporary political and socio-economic systems. The content of this course may change every term it is offered and is repeatable for credit. Taught in German.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 27 credits",
+            "Prerequisites": "GER 310 [Min Grade: D]"
+      },
+      {
+            "Identifier": "GER 450",
+            "Title": "Advanced Studies in Language, Media, and Society",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an advanced analysis of the role of language and media in society, including sociolinguistics, gender, media studies, and communication. The content of this course may change every term it is offered and is repeatable for credit. Taught in German.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 27 credits",
+            "Prerequisites": "GER 310 [Min Grade: D]"
+      },
+      {
+            "Identifier": "GER I199",
+            "Title": "Independent Study in GER",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "GER I299",
+            "Title": "Independent Study in GER",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "GER I399",
+            "Title": "Independent Study in GER",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "GER I499",
+            "Title": "Independent Study in GER",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "GER T180",
+            "Title": "Special Topics in German",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "GER T280",
+            "Title": "Special Topics in Germany",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "GER T380",
+            "Title": "Special Topics in German",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "GER T480",
+            "Title": "Special Topics in German",
+            "Number_of_credits": "Credits",
+            "Description": "Recommended for German minors and for students with proficiency status.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 24 credits",
+            "Prerequisites": "Null"
+      }
+]

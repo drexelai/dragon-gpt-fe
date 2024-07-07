@@ -1,0 +1,209 @@
+[
+      {
+            "Identifier": "FREN 101",
+            "Title": "French I",
+            "Number_of_credits": "Credits",
+            "Description": "Introductory French. Includes listening, speaking, reading, and writing. Offered all terms.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "APFX N or APWFR 0"
+      },
+      {
+            "Identifier": "FREN 102",
+            "Title": "French II",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesFREN\u00a0101. Offered all terms.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FREN 101 [Min Grade: D] or APWFR 180"
+      },
+      {
+            "Identifier": "FREN 103",
+            "Title": "French III",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesFREN\u00a0102. Offered all terms.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FREN 102 [Min Grade: D] or APWFR 251"
+      },
+      {
+            "Identifier": "FREN 201",
+            "Title": "French IV",
+            "Number_of_credits": "Credits",
+            "Description": "Intermediate French. Includes grammar review, listening, speaking, and reading, with individual audiolingual practice. Offered all terms.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FREN 103 [Min Grade: D] or APWFR 331"
+      },
+      {
+            "Identifier": "FREN 202",
+            "Title": "French V",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesFREN\u00a0201. Offered all terms.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FREN 201 [Min Grade: D]"
+      },
+      {
+            "Identifier": "FREN 310   [WI]",
+            "Title": "Advanced Writing and Speaking",
+            "Number_of_credits": "Credits",
+            "Description": "French 310 provides advanced practice in written and oral communication, including journalistic, professional, and creative writing. Examines contemporary cultural contexts through media and news. Taught in French.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FREN 202 [Min Grade: D]"
+      },
+      {
+            "Identifier": "FREN 320",
+            "Title": "Introduction to Language for the Professions",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an introduction to communication skills in areas such as contemporary business, health, and law in a culturally sensitive fashion. The content of this course may change every term it is offered and is repeatable for credit. Taught in French.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 36 credits",
+            "Prerequisites": "FREN 310 [Min Grade: D]"
+      },
+      {
+            "Identifier": "FREN 330",
+            "Title": "Introduction to Identities and Communities",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an introduction to the analysis of individual and collective identities, including issues of gender, sexual orientation, race, ethnicity, class, nationality, and religion. The content of this course may change every term it is offered and is repeatable for credit. Taught in French.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 36 credits",
+            "Prerequisites": "FREN 310 [Min Grade: D]"
+      },
+      {
+            "Identifier": "FREN 340",
+            "Title": "Introduction to Power and Resistance",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an introduction to the analysis of power relations and issues of (in)equality rooted in contemporary political and socio-economic systems. The content of this course may change every term it is offered and is repeatable for credit. Taught in French.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 36 credits",
+            "Prerequisites": "FREN 310 [Min Grade: D]"
+      },
+      {
+            "Identifier": "FREN 350",
+            "Title": "Introduction to Language, Media, and Society",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an introduction to the role of language and media in society, including sociolinguistics, gender, media studies, and communication. The content of this course may change every term it is offered and is repeatable for credit. Taught in French.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 36 credits",
+            "Prerequisites": "FREN 310 [Min Grade: D]"
+      },
+      {
+            "Identifier": "FREN 410   [WI]",
+            "Title": "Advanced Grammar and Translation",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides advanced grammar instruction and fosters translation and communication skills within a contemporary cultural context. The content of this course may change every term it is offered and is repeatable for credit. Taught in French.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 36 credits",
+            "Prerequisites": "FREN 310 [Min Grade: D]"
+      },
+      {
+            "Identifier": "FREN 420",
+            "Title": "Advanced Studies in Language for the Professions",
+            "Number_of_credits": "Credits",
+            "Description": "French 420 provides advanced communication skills in areas such as contemporary business, health, and law in a culturally sensitive fashion. The content ofFREN\u00a0420may change every term it is offered and is repeatable for credit. Taught in French.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 36 credits",
+            "Prerequisites": "FREN 310 [Min Grade: D]"
+      },
+      {
+            "Identifier": "FREN 430",
+            "Title": "Advanced Studies in Identities and Communities",
+            "Number_of_credits": "Credits",
+            "Description": "French 430 provides an advanced analysis of individual and collective identities, including issues of gender, sexual orientation, race, ethnicity, class, nationality, and religion. The content ofFREN\u00a0430may change every term it is offered and is repeatable for credit. Taught in French.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 36 credits",
+            "Prerequisites": "FREN 310 [Min Grade: D]"
+      },
+      {
+            "Identifier": "FREN 440",
+            "Title": "Advanced Studies in Power and Resistance",
+            "Number_of_credits": "Credits",
+            "Description": "French 440 provides an advanced analysis of power relations and issues of (in)equality rooted in contemporary political and socio-economic systems. The content ofFREN\u00a0440may change every term it is offered and is repeatable for credit. Taught in French.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 36 credits",
+            "Prerequisites": "FREN 310 [Min Grade: D]"
+      },
+      {
+            "Identifier": "FREN 450",
+            "Title": "Advanced Studies in Language, Media, and Society",
+            "Number_of_credits": "Credits",
+            "Description": "French 450 provides an advanced analysis of the role of language and media in society, including sociolinguistics, gender, media studies, and communication. The content ofFREN\u00a0450may change every term it is offered and is repeatable for credit. Taught in French.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 36 credits",
+            "Prerequisites": "FREN 310 [Min Grade: D]"
+      },
+      {
+            "Identifier": "FREN I199",
+            "Title": "Independent Study in FREN",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FREN I299",
+            "Title": "Independent Study in FREN",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FREN I399",
+            "Title": "Independent Study in FREN",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FREN I499",
+            "Title": "Independent Study in FREN",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FREN T180",
+            "Title": "Special Topics in French",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FREN T280",
+            "Title": "Special Topics in French",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FREN T380",
+            "Title": "Special Topics in French",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "FREN T480",
+            "Title": "Special Topics in French",
+            "Number_of_credits": "Credits",
+            "Description": "Recommended for French minors and for students with proficiency status.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 96 credits",
+            "Prerequisites": "Null"
+      }
+]

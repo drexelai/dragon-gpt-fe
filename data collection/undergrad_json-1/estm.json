@@ -1,0 +1,182 @@
+[
+      {
+            "Identifier": "ESTM 201",
+            "Title": "DragonsTeach: Step 1",
+            "Number_of_credits": "Credit",
+            "Description": "This course is an introduction to mathematics, computer science, and science teaching as a career. Discussions include standards-based lesson design and various teaching and behavior management strategies. Fieldwork consists of planning and teaching two inquiry-based lessons to students in local elementary schools. Fieldwork in local schools is required.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESTM 210",
+            "Title": "DragonsTeach: Step 2",
+            "Number_of_credits": "Credit",
+            "Description": "Topics include routes to teacher certification in mathematics, computer science, and science teaching; various teaching methods that are designed to meet instructional goals; and learner outcomes. Students develop and teach two inquiry-based lessons in their field in a middle school, and participate in peer coaching. Fieldwork in local schools is required.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ESTM 201 [Min Grade: B]"
+      },
+      {
+            "Identifier": "ESTM 301",
+            "Title": "Knowing and Learning in Mathematics and Science",
+            "Number_of_credits": "Credits",
+            "Description": "The course focuses on what it means to know and learn mathematics and science, how this knowledge changes over time and how it develops in learners. Topics include foundations of STEM education; problem solving in mathematics and science education utilizing technology; principles of expertise and novice understanding of subject matter. The course also serves to set the stage for field experiences inESTM\u00a0302and will involve fieldwork in local schools.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ESTM 210 [Min Grade: B] (Can be taken Concurrently) and ESTM 201 [Min Grade: B]"
+      },
+      {
+            "Identifier": "ESTM 302",
+            "Title": "Classroom Interactions",
+            "Number_of_credits": "Credits",
+            "Description": "Classroom Interactions builds on previous DragonsTeach courses and continues the process of preparing students to teach mathematics and science in upper elementary and secondary settings by providing opportunities to see how theories explored in Knowing and Learning play out in instructional settings. Students design and implement instructional activities informed by their own understanding of what it means to know and learn mathematics and science, and then evaluate the outcomes of those activities on the basis of student artifacts (i.e., what students say, do, or create). The course will involve fieldwork in local schools.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ESTM 301 [Min Grade: B]"
+      },
+      {
+            "Identifier": "ESTM 303",
+            "Title": "Research and Practice in Science and Mathematics Education",
+            "Number_of_credits": "Credits",
+            "Description": "The course focuses on research and practice in science and mathematics education and supports students as they connect the two in the context of their classroom. Typical topics include assessment and evaluation, technology, equitable STEM instruction and learning environments and additional current topics in STEM Education. Students will gain experience as practitioner-researchers through observation and fieldwork in local schools.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ESTM 302 [Min Grade: B]"
+      },
+      {
+            "Identifier": "ESTM 335",
+            "Title": "Teaching Secondary Computer Science",
+            "Number_of_credits": "Credits",
+            "Description": "This course emphasizes the major issues in learning and teaching computer science in the secondary school. Topics will include instructional practices, learning theories, philosophies of assessment, and curriculum in the secondary school. Throughout the course, emphasis will be placed on issues of equity and inclusion.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESTM 342",
+            "Title": "Teaching Engineering Concepts to Children",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to provide elementary educators with the background knowledge and experiences that will enhance their ability to teach engaging, effective, and meaningful engineering lessons. These include: trends and issues in 21st century engineering education; best practices pedagogies in engineering education; connections and integration between engineering curriculum and other content areas; engineering design practices; planning, managing, implementing, and assessing engineering lessons; safety in engineering classrooms; the use of technology to enhance engineering instruction; and how to engage all learners in positive classroom engineering experiences.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESTM 350",
+            "Title": "Project-Based Instruction",
+            "Number_of_credits": "Credits",
+            "Description": "Project-based instruction engages learners in exploring authentic, important, and meaningful questions of real concern to students. Through a dynamic process of investigation and collaboration and using the same processes and technologies that scientists, mathematicians, and engineers use, students work in teams to formulate questions, make predictions, design investigations, collect and analyze data, make products and share ideas. Students learn fundamental concepts and principles that they apply to their daily lives. Project-based instruction promotes equitable and diverse participation and engages students in learning. In this class you will develop a complete unit as opposed to individual lessons in preparation for apprentice teaching. This course involves fieldwork in local schools.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ESTM 302 [Min Grade: B] (Can be taken Concurrently) and ESTM 201 [Min Grade: B] and ESTM 210 [Min Grade: B]"
+      },
+      {
+            "Identifier": "ESTM 362",
+            "Title": "Perspectives in Science and Mathematics Education",
+            "Number_of_credits": "Credits",
+            "Description": "In this course, students will gain expertise in how to incorporate the history of science (defined as the life and physical sciences and mathematics) into primary and secondary education curricula. Based on a survey of the major transitions and examples in the history of science from the Renaissance to Modernity, students will gain a unique perspective on historical methodology, the content of science, and creativity in scientific research. These lessons will support student teachers in developing unique Science and Mathematics courses that are founded on their new historical perspective.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESTM 364",
+            "Title": "Methods of Research and Inquiry in Science and Mathematics",
+            "Number_of_credits": "Credits",
+            "Description": "This course is an introduction to analysis of current topics in science and engineering and serves as an introduction to teaching and learning research-based courses. The intended audience is undergraduate students from all STEM areas and particularly those interested in STEM Education. Through quantitative analysis, the students will experience first-hand the societal, environmental, financial, economic, and technological impacts of scientific, engineering and business processes. The course requires procuring data, analyzing large-scale data sets using statistical software applications, synthesizing qualitative information using quantitative results, presentation of research, results, conclusions, and developing instruction that supports students' engagement in similar practices.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESTM 409",
+            "Title": "Student Teaching Seminar",
+            "Number_of_credits": "Credits",
+            "Description": "This seminar course is designed to compliment the Student Teaching capstone, field experience by developing the pre-service teacher's teaching knowledge and strengths throughout their field placement, supervision, and reflective practice. The goal of the seminar is to create reflective practitioners by providing a forum for collaborative, critical inquiry based on the field experience.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESTM 410",
+            "Title": "DragonsTeach Student Teaching",
+            "Number_of_credits": "Credits",
+            "Description": "DragonsTeach Student Teaching is the capstone course of the DragonsTeach program, providing the opportunity for STEM majors to earn both their degree and Pennsylvania Instructional I certification to teach at the secondary level (middle or high school). Student teaching allows will experience the day-to-day responsibilities of the professional middle or high school math or science teacher and demonstrate the competencies needed for certification. In addition to extensive fieldwork, student teachers meet as a group for a weekly seminar.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ESTM 350 [Min Grade: B]"
+      },
+      {
+            "Identifier": "ESTM I199",
+            "Title": "Independent Study in ESTM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESTM I299",
+            "Title": "Independent Study in ESTM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESTM I399",
+            "Title": "Independent Study in ESTM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESTM I499",
+            "Title": "Independent Study in ESTM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESTM T180",
+            "Title": "Special topics in ESTM",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESTM T280",
+            "Title": "Special topics in ESTM",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESTM T380",
+            "Title": "Special topics in ESTM",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "ESTM T480",
+            "Title": "Special topics in ESTM",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]
