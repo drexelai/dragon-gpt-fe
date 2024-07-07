@@ -1,0 +1,20 @@
+[
+      {
+            "Identifier": "VRIM 538",
+            "Title": "Motion Capture I",
+            "Number_of_credits": "Credits",
+            "Description": "Students learn to use motion capture systems for full-body, human performance capture, as well as the processing and use of the resulting data in character animation and real-time/game engine applications. This class further incorporates the use of these principles and tools in live, real-time interaction and performance settings.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "VRIM 539",
+            "Title": "Motion Capture II",
+            "Number_of_credits": "Credits",
+            "Description": "Students learn to use advanced motion capture systems and the data output from these systems. This course combines the use of full-body capture along with facial performance capture as well as the processing and use of the resulting data in character animation and real-time/game engine applications. This class further incorporates the use of these principles and tools in live, real-time interaction and performance settings.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "VRIM 538 [Min Grade: B]"
+      }
+]

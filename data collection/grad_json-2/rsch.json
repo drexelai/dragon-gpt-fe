@@ -1,0 +1,164 @@
+[
+      {
+            "Identifier": "RSCH 503",
+            "Title": "Research Methods and Biostatistics",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an exploration of research concepts, literature searches, research methods, designs, data collection, analysis, and interpretation techniques. This course is designed to provide graduate students with the skills necessary to evaluate the relationship between practice and published research.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "RSCH 504",
+            "Title": "Evaluation and Translation of Health Research",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides specific approaches to the evaluation of the quality and translation of relevant research. The student will learn to conduct efficient literature searches, evaluate the quality of that research through the appraisal of research design, methodology, and data analysis. Each student will develop and evaluate a plan for the translation of the research into their practice.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "RSCH 503 [Min Grade: B]"
+      },
+      {
+            "Identifier": "RSCH 519",
+            "Title": "Introduction to Biostatistics",
+            "Number_of_credits": "Credits",
+            "Description": "This is an introductory course which focuses on the fundamentals of biostatistics for health sciences graduate students. Excel-based and SPSS assignments will be used to supplement the content.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "RSCH 700",
+            "Title": "Foundations in Quantitative Research",
+            "Number_of_credits": "Credits",
+            "Description": "This course is a survey of quantitative research methodology for the health and rehabilitation sciences. Doctoral students completing the course will develop skills to understand, evaluate, and apply quantitative research across the sciences and the health professions. This course emphasizes why a particular methodology is suited to a particular research agenda and introduces students to measurement theory and psychometric properties of quantitative measures.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "RSCH 714",
+            "Title": "Qualitative Research Methods I",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides students foundation knowledge in inductive inquiry, including philosophical assumptions, interpretive frameworks, and common approaches to qualitative research. Students will learn basic skills in qualitative design, data collection, and data analysis.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "RSCH 715",
+            "Title": "Qualitative Research Methods II",
+            "Number_of_credits": "Credits",
+            "Description": "This is an advanced seminar course for doctoral students in qualitative research methods. Through assigned readings, experiential exercises, and class discussions, students will engage in in-depth discussions of philosophical, theoretical, ethical and practical aspects of qualitative research methodologies. Using existing data sets as well as those collected during the course, students will demonstrate skills in qualitative research with particular emphasis on identifying and aligning analytical strategies compatible with their research topics.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "RSCH 714 [Min Grade: B]"
+      },
+      {
+            "Identifier": "RSCH 720",
+            "Title": "Foundations of Biostatistics",
+            "Number_of_credits": "Credits",
+            "Description": "This is an introductory course that focuses on the fundamentals of biostatistics for nursing and health sciences graduate students. Excel-based and SPSS assignments are used to supplement the content. May be repeated once for credit.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 1 times for 6 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "RSCH 721",
+            "Title": "Intermediate Statistics in Health I",
+            "Number_of_credits": "Credits",
+            "Description": "This is an advanced level statistics course focusing on general linear models and selected multivariate statistical tests used in the rehabilitation and health sciences and biomedical engineering.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "RSCH 720 [Min Grade: B]"
+      },
+      {
+            "Identifier": "RSCH 722",
+            "Title": "Intermediate Statistics in Health II",
+            "Number_of_credits": "Credits",
+            "Description": "This is an advanced level statistics course focusing on selected multivariate, measurement and correlational statistical tests used in rehabilitation, health and medical sciences.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "RSCH 721 [Min Grade: B]"
+      },
+      {
+            "Identifier": "RSCH 723",
+            "Title": "Interpretation of Data",
+            "Number_of_credits": "Credits",
+            "Description": "The focus of this course is on understanding the methods used to analyze and interpret the results of quantitative data analyses in the health and rehabilitation sciences and determine their meaningfulness (clinical significance). Fundamental to this process is an understanding of the interrelatedness of statistical power, effect size, sample size, and alpha.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "RSCH 720 [Min Grade: B]"
+      },
+      {
+            "Identifier": "RSCH 741",
+            "Title": "Foundations in Scholarly Inquiry & Writing",
+            "Number_of_credits": "Credits",
+            "Description": "The focus of this course is on the development of competencies in scholarly writing in health sciences research. Strategies for approaching writing assignments in other courses and in preparation for dissertation research and manuscript writing are discussed and practiced.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "RSCH 742",
+            "Title": "Scientific Writing",
+            "Number_of_credits": "Credits",
+            "Description": "This is an advanced seminar on scientific writing. Emphasis is on conceptualization, writing, and revising research products (e.g, journal article). Topics include components of providing peer-review and how messaging changes for different audiences.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "RSCH 700 [Min Grade: B] (Can be taken Concurrently)"
+      },
+      {
+            "Identifier": "RSCH 743",
+            "Title": "Grantsmanship",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on the organization, development and preparation of a grant application as well as understanding grant application processes and opportunities. Students are expected to prepare components of their grant application under the direction of their mentor using the guidelines for an appropriate funding organization.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "RSCH 758",
+            "Title": "Application of Evidence to Practice",
+            "Number_of_credits": "Credits",
+            "Description": "The focus of this web-based course is on finding, appraising, communicating, and applying knowledge and research to the health professions. Participants will develop competencies in decision-making, knowledge translation and development and evaluation of health care services.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "RSCH 813",
+            "Title": "Measurement Theory in Healthcare",
+            "Number_of_credits": "Credits",
+            "Description": "The emphasis of this course is on the assessment of the uses, advantages, validity, reliability, and sources of error in measurement tools commonly used in healthcare and on methodological and outcome research methods.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "RSCH 816",
+            "Title": "Intermediate Mixed Methods Research",
+            "Number_of_credits": "Credits",
+            "Description": "This intermediate mixed methods research course prepares PhD students to design and implement mixed methods research studies. The course builds on knowledge gained in other introductory level mixed methods research courses. Through readings, class discussions, and implementation of a mixed methods research project, this course addresses complex design and data collection, analysis and integration challenges that are specific to mixed methods research. Students wishing to take the course but who have questions about the prerequisites should contact the instructor.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CATX 715 [Min Grade: B] or NURS 863 [Min Grade: B]"
+      },
+      {
+            "Identifier": "RSCH 823",
+            "Title": "Research Practicum",
+            "Number_of_credits": "Credit",
+            "Description": "Prepares the student for dissertation research through faculty-supervised research experiences. Focuses on one or more stages of the research process, such as developing a question, literature review, design and method, IRB, grant writing, subject recruitment, instrumentation, measurement, data collection, data analysis, interpretation of results, and/or dissemination of results.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 12 times for 78 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "RSCH T880",
+            "Title": "Special Topics in Research",
+            "Number_of_credits": "Credit",
+            "Description": "Course consists of content that faculty or students have requested to meet special needs or interests. Content is variable and offered on a one-time, infrequent, or trial basis. Actual course description will be determined by the instructor.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 3 times for 16 credits",
+            "Prerequisites": "Null"
+      }
+]

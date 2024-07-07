@@ -1,0 +1,164 @@
+[
+      {
+            "Identifier": "URBS 510",
+            "Title": "History of Urban Space",
+            "Number_of_credits": "Credits",
+            "Description": "Provides critical understanding of the history and theory of urbanism through discussions of spatial stratification, theories of urban change and urban social movements, poverty and inequality. Also explores theories of urban political economy and ecology.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "URBS 520",
+            "Title": "What is a City",
+            "Number_of_credits": "Credits",
+            "Description": "Provides critical understanding of what cities are and how they function through discussions of the political structure of cities and the relationship to counties, states and federal governments. Also explores the relationship between governments, nongovernmental organizations, public-private partnerships, and market forces.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "URBS 530",
+            "Title": "Quantitative Methods & Reasoning for Urban Strategists",
+            "Number_of_credits": "Credits",
+            "Description": "Develops critical knowledge about data collection, analysis, and forecasting skills for professional workflows, particularly as they relate to social and economic datasets available through public repositories such as the United States Census Bureau and the Bureau of Labor Statistics.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "URBS 610",
+            "Title": "Civic Engagement & Participatory Methods",
+            "Number_of_credits": "Credits",
+            "Description": "Explores and examines how communities accomplish planned change through a number of models including community development, social planning, social action and public advocacy.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "URBS 620",
+            "Title": "City of Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Develops critical knowledge about the nature of cities and how they work through exploration of the urban physical systems that undergird cities and make them livable.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "URBS 630",
+            "Title": "Spatial Reasoning for Urbanists, Architects & Designers",
+            "Number_of_credits": "Credits",
+            "Description": "Provides understanding of the theoretical concepts and practical applications of spatial reasoning and the visual display of quantitative data, focusing on the creation and critical interpretation of spatial data relevant to urban-focused problem solving. Assessing, importing and managing data from diverse sources, producing graphic representations, and moving data interpretation to presentation.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "URBS 640",
+            "Title": "Sanctuary Cities",
+            "Number_of_credits": "Credits",
+            "Description": "Historically associated with privately held enclosures within urban space (churches, homes, gardens), \u201csanctuary\u201d is increasingly understood as a public practice that shapes public policy. This course explores the role of so-called \u201csanctuary cities\u201d\u2014municipalities that limit their collaboration with (and sometimes openly defy) state and federal agencies\u2014within the bitter struggle to reform the US immigration system. We examine the historical records, interviews, legal statutes, executive orders, artistic projects, and literature that have shaped this contested issue, with particular focus on how cities at once activate and restrict the revolutionary potential of sanctuary.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "URBS 650",
+            "Title": "Urbanism, Health & the Built Environment",
+            "Number_of_credits": "Credits",
+            "Description": "Provides an understanding of a wide survey of various urban design principles, theories, regulatory controls, and contemporary urban-centric issues which govern the built environment. Areas of investigation will include urban form and structure, mental mapping and spatial awareness, local and regional transportation, land use issues, walkability and the public realm, urban sustainability issues, and tactical urbanism strategies.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "URBS 670",
+            "Title": "Thesis I: Research Inquiry & Design",
+            "Number_of_credits": "Credits",
+            "Description": "First quarter of a three quarter thesis investigation. Understanding and development of the research inquiry process and design through the application of mixed methods research, articulation of thesis investigation and a research strategy that will continue into the next two quarters.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "URBS 675",
+            "Title": "Thesis Seminar I",
+            "Number_of_credits": "Credit",
+            "Description": "First of two Thesis recitation seminars. Engagement in discourse and evaluation of self and peer investigations. Intended to foster healthy competition, accountability and peer evaluation.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "URBS 670"
+      },
+      {
+            "Identifier": "URBS 680",
+            "Title": "Thesis II: Fieldwork",
+            "Number_of_credits": "Credits",
+            "Description": "Second quarter of a three quarter thesis investigation. Designed to apply, facilitate and integrate research and analytical skill in pursuit of identifying and problem solving of urban issues facing cities of today and in the future. Professionally juried.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "URBS 670"
+      },
+      {
+            "Identifier": "URBS 685",
+            "Title": "Thesis Seminar II",
+            "Number_of_credits": "Credit",
+            "Description": "Second of two Thesis recitation seminars. Engagement in discourse and evaluation of self and peer investigations. Intended to foster healthy competition, accountability and peer evaluation.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "URBS 680"
+      },
+      {
+            "Identifier": "URBS 690",
+            "Title": "Thesis III: Documentation",
+            "Number_of_credits": "Credits",
+            "Description": "Third quarter of a three quarter thesis investigation. Application, documentation and presentation of research, analysis and proposed resolution of an attributable urban issue facing cities of today and in the future. Professionally juried.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "URBS 680"
+      },
+      {
+            "Identifier": "URBS 695",
+            "Title": "Thesis Completion",
+            "Number_of_credits": "Credits",
+            "Description": "This course allows the student to work with a thesis advisor to complete the thesis. This optional course will be taken only by students needing more than two terms to complete the thesis.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated 1 times for 10 credits",
+            "Prerequisites": "URBS 690"
+      },
+      {
+            "Identifier": "URBS I599",
+            "Title": "Independent Study in Urban Strategy",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an opportunity for graduate students to conduct independent research, either applied or scholarly, under the supervision of a faculty member. ELECTIVE.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated 3 times for 48 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "URBS I699",
+            "Title": "Independent Study in Urban Strategy",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an opportunity for graduate students to conduct independent research, either applied or scholarly, under the supervision of a faculty member.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated 3 times for 48 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "URBS T580",
+            "Title": "Special Topics in Urban Strategy",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on topics of current interest to faculty and students; specific topics for each term will be announced prior to registration. May be repeated for credit if topics vary.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated 3 times for 48 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "URBS T680",
+            "Title": "Special Topic in Urban Strategy",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on topics of current interest to faculty and students; specific topics for each term will be announced prior to registration. May be repeated for credit if topics vary.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated 3 times for 48 credits",
+            "Prerequisites": "Null"
+      }
+]

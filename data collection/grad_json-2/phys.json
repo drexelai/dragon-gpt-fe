@@ -1,0 +1,362 @@
+[
+      {
+            "Identifier": "PHYS 501",
+            "Title": "Mathematical Physics I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers various topics in mathematical physics and their numerical implementations, including calculus of residues and further applications of complex variables; vector spaces, Fourier series, and generalized functions; integral transforms; theory and application of ordinary and partial differential equations; special functions; boundary value and initial value problems; Green's function theory and applications; and integral equations.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 502",
+            "Title": "Mathematical Physics II",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesPHYS\u00a0501.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 506",
+            "Title": "Dynamics I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers Lagrangian-Hamiltonian formulations, variational principles, particle kinematics and dynamics, and small oscillations and normal modes.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 511",
+            "Title": "Electromagnetic Theory I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers electrostatics, magnetostatics, electromagnetic waves, boundary value problems of electromagnetic theory, theory of Fresnel and Fraunhofer diffraction, classical electrodynamics, special relativity, waveguides, and radiation theory.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 512",
+            "Title": "Electromagnetic Theory II",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesPHYS\u00a0511.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 516",
+            "Title": "Quantum Mechanics I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers axioms of quantum mechanics and the basic mathematical tools, one-dimensional Schrodinger equation, spin and general two-level systems, harmonic oscillator, general theory of angular momentum, hydrogen atom, elements of atomic spectroscopy, quantum theory of scattering, electron spin, addition of angular momenta, stationary and time-dependent perturbation theory, fine and hyperfine structure of the hydrogen atom, interaction of light and matter, and Dirac Equation.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 517",
+            "Title": "Quantum Mechanics II",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesPHYS\u00a0516.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 518",
+            "Title": "Quantum Mechanics III",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesPHYS\u00a0517.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 521",
+            "Title": "Statistical Mechanics I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers thermodynamics; probability theory; Gibbs-Boltzmann formulation; relation between density of states and entropy; partition functions; ensembles; Maxwell-Boltzmann, Bose-Einstein, Fermi-Dirac, phonon, photon, and electron systems; and phase transitions.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 522",
+            "Title": "Statistical Mechanics II",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesPHYS\u00a0521.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 531",
+            "Title": "Galactic Astrophysics",
+            "Number_of_credits": "Credits",
+            "Description": "The goal of this course is to present an introduction to the processes responsible for the formation, structure, evolution, and present-day appearance of the Milky Way and other galaxies. Using the Milky Way Galaxy as a guide, we will develop analytical and numerical tools to help us understand the properties of these magnificent objects, near and far. For the most part, these tools will be based on familiar concepts in classical mechanics and thermodynamics.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 532",
+            "Title": "Cosmology",
+            "Number_of_credits": "Credits",
+            "Description": "Covers cosmological models, age and distance scales in the universe, the hot big bang, primordial nucleosynthesis, inflation, baryonic and non-baryonic matter, galaxy formation and evolution, dynamics of structure formation, statistics of cosmological density fields, and cosmic background fluctuations.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 540",
+            "Title": "Big Data Physics",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides the framework for physics students at all levels to begin interacting with large data sets in physics. Data analysis will be done using Python tools, including standard libraries for machine learning. Practical application of classification and regression techniques for both unsupervised and supervised data are emphasized, in addition to dimensionality reduction techniques and time-domain analysis. An introduction to statistical methods, Bayesian inference, and Markov-chain Monte Carlo methods provide a foundation for application of machine learning tools.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 553",
+            "Title": "Nanoscience",
+            "Number_of_credits": "Credits",
+            "Description": "Physical basis of nanoscale materials and systems including discussion of low-dimensional structures and their physical properties, the self-assembly of nanostructures, applications in various fields of science and technology, and techniques for fabrication and characterization on the nanoscale.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 554",
+            "Title": "Quantum Technology",
+            "Number_of_credits": "Credits",
+            "Description": "The course provides an applied physics/engineering treatise of the fundamental building blocks of quantum computers. The topics include the physics of quantum computing, different quantum bit (qubit) technologies (ion trap/ superconducting/ semiconductor spin qubits), full hardware and system level aspects, the state-of-the-art, challenges, and near future outlook of the paradigm.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 558",
+            "Title": "Quantum Information",
+            "Number_of_credits": "Credits",
+            "Description": "Introduction to the principles of quantum information and quantum information processing. Covers the basic postulates of quantum physics (e.g. superposition, entanglement, measurement) necessary for quantum computing and examines the way in which quantum information is stored and processed (e.g. quantum bits, quantum gates, quantum algorithms).",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 561",
+            "Title": "Biophysics",
+            "Number_of_credits": "Credits",
+            "Description": "A one-course introduction to Biophysics. Topics may include structure of biomolecules, protein stability, electron transfer, protein folding, protein substrates, allostery, and self-assembly. No biological background is assumed.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 562",
+            "Title": "Computational Biophysics",
+            "Number_of_credits": "Credits",
+            "Description": "Covers mathematical applications of biological simulations. Using classical and statistical mechanics, we will cover topics including atomic scale simulations, statistical sampling, and models of molecular cellular systems and living processes.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 571",
+            "Title": "Nonlinear Dynamics",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces the basic ideas of the new science of nonlinear dynamics and develops methods to carry out fundamental computations of fractal dimension, Lyapunov exponents, and topological invariants.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 576",
+            "Title": "Introduction to Particle Physics",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an introduction to the physics of fundamental particles. Topics include the fundamental forces, quarks and leptons, Feynman diagrams, symmetries and conservation laws, relativistic kinematics, bound states, and experimental methods.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 601",
+            "Title": "Advanced Quantum Mechanics I",
+            "Number_of_credits": "Credits",
+            "Description": "Relativistic one-particle quantum mechanics; Dirac theory radiation theory; free fields; interactions; quantum electrodynamics; introduction to elementary particle theory; quantum chromodynamics.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 626",
+            "Title": "Solid State Physics I",
+            "Number_of_credits": "Credits",
+            "Description": "Crystal lattices; Bloch theorem; classical and quantum theory of lattice vibrations; phonons, electron states in solids; calculation of energy bands and Fermi surfaces; dynamics of electrons in metals; electron-electron interactions; plasmons; electron-phonon interactions; polarons; semiconductor and insulator crystals; transport properties of solids; thermal properties; optical properties; magnetism; magnons; superconductivity.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 627",
+            "Title": "Solid State Physics II",
+            "Number_of_credits": "Credits",
+            "Description": "Crystal lattices; Bloch theorem; classical and quantum theory of lattice vibrations; phonons, electron states in solids; calculation of energy bands and Fermi surfaces; dynamics of electrons in metals; electron-electron interactions; plasmons; electron-phonon interactions; polarons; semiconductor and insulator crystals; transport properties of solids; thermal properties; optical properties; magnetism; magnons; superconductivity.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 631",
+            "Title": "Relativity Theory I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers particle and field dynamics in special relativity, tensor calculus for Riemannian space-time manifolds, Einstein's gravitational field equations and their principal solutions in general relativity, black holes, general relativistic variational principles, big bang cosmology, and quantization of general relativity.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 676",
+            "Title": "Nuclear Physics I",
+            "Number_of_credits": "Credits",
+            "Description": "Review of systematics of experimental phenomena; nuclear structure theory, including shell model, interacting-boson model, Hartree-Fock approaches, and collective models; intermediate energy theory and experiment, including electron, nucleon, and pion scattering and reactions; group theoretical approaches; interfaces of quark-meson-nucleon coexistence.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 677",
+            "Title": "Nuclear Physics II",
+            "Number_of_credits": "Credits",
+            "Description": "Review of systematics of experimental phenomena; nuclear structure theory, including shell model, interacting-boson model, Hartree-Fock approaches, and collective models; intermediate energy theory and experiment, including electron, nucleon, and pion scattering and reactions; group theoretical approaches; interfaces of quark-meson-nucleon coexistence.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 679",
+            "Title": "The Standard Model",
+            "Number_of_credits": "Credits",
+            "Description": "This class will focus on classical fields in general, as well as the relationship between classical and quantum fields. It will include discussions of special relativity, group theory, and simple lie groups, as well as the theoretical development of electromagnetism, the weak, and strong forces. The course will develop electroweak unification in particular, and unified theories in general. It will conclude with a discussion of Grand Unified Theories.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 898",
+            "Title": "Master's Thesis",
+            "Number_of_credits": "Credit",
+            "Description": "This course is open only to the students pursuing the MS degree in Physics, who are in the MS thesis track. Requires supervised research at the master's level.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 5 times for 54 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 997",
+            "Title": "Research",
+            "Number_of_credits": "Credit",
+            "Description": "Research.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 998",
+            "Title": "Ph.D. Dissertation",
+            "Number_of_credits": "Credit",
+            "Description": "Ph.D. dissertation.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS I599",
+            "Title": "Independent Study in PHYS",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS I699",
+            "Title": "Independent Study in PHYS",
+            "Number_of_credits": "Credit",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 4 times for 12 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS I799",
+            "Title": "Independent Study in PHYS",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS I899",
+            "Title": "Independent Study in PHYS",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS I999",
+            "Title": "Independent Study in PHYS",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS T580",
+            "Title": "Special Topics in Physics",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS T680",
+            "Title": "Special Topics in Physics",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS T780",
+            "Title": "Special Topics in Physics",
+            "Number_of_credits": "Credits",
+            "Description": "Assignment of readings and study in current topics of experimental and theoretical interest.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS T880",
+            "Title": "Special Topics in Physics",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS T980",
+            "Title": "Special Topics in Physics",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

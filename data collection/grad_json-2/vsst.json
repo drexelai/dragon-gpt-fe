@@ -1,0 +1,128 @@
+[
+      {
+            "Identifier": "VSST 501",
+            "Title": "Contemporary Art Issues",
+            "Number_of_credits": "Credits",
+            "Description": "Examines critical and topical problems of the art world. Includes comprehensive readings, discussions, and field trips. Requires written analysis of materials.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "VSST 502",
+            "Title": "Space/Time I",
+            "Number_of_credits": "Credits",
+            "Description": "Applies contemporary ideas of art making. Explores concepts and how they can be processed within the art genre. Requires continual-process art, idea art, or conceptual art.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "VSST 509",
+            "Title": "Sculpture: CNC Fabrication",
+            "Number_of_credits": "Credits",
+            "Description": "This course approaches sculpture through the use of computerized (CNC) routers, using these digital fabrication tools to create three-dimensional objects in a variety of materials. Course projects are designed to give students familiarity with a variety of processes, materials, and ideas pertinent to making art in three dimensions. Additionally, the course will give students hands-on experience designing for, programming, setting up, and operating Westphal\u2019s CNC routers.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "VSST 511",
+            "Title": "Drawing Fundamentals",
+            "Number_of_credits": "Credits",
+            "Description": "Drawing Fundamentals is a graduate studio course that deals with the skills and concepts utilized in sketching from both observation and imagination. For this course, sketching from observation is defined as making work directly from a three-dimensional source, primarily using still life or architecture as subject matter. Honing observational skills, exploring a variety of drawing techniques and materials including imagination-based sketching, encouraging conceptual development and using the principles of design for creative expression will be emphasized.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "VSST I599",
+            "Title": "Independent Study in Visual Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "VSST I699",
+            "Title": "Independent Study in Visual Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "VSST I799",
+            "Title": "Independent Study in Visual Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "VSST I899",
+            "Title": "Independent Study in Visual Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "VSST I999",
+            "Title": "Independent Study in Visual Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "VSST T580",
+            "Title": "Special Topics in Visual Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "VSST T680",
+            "Title": "Special Topics in Visual Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "VSST T780",
+            "Title": "Special Topics in Visual Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "VSST T880",
+            "Title": "Special Topics in Visual Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "VSST T980",
+            "Title": "Special Topics in Visual Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

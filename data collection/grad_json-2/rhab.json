@@ -1,0 +1,101 @@
+[
+      {
+            "Identifier": "RHAB 763",
+            "Title": "Biomechanics in Rehabilitation",
+            "Number_of_credits": "Credits",
+            "Description": "The first half of the class focuses on statics (muscle forces and stress-strain analysis), and the second half concentrates on dynamics (kinematic and kinetic analysis of human motion) with applications. Some minor computer work is required for this class, mainly using the Microsoft Excel spreadsheet program.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "RHAB 764",
+            "Title": "Biomechanics in Human Movement",
+            "Number_of_credits": "Credits",
+            "Description": "The first half of the class focuses on the development of the tools necessary to conduct biomechanics research, process the data, and perform biomechanical data analysis. The second half of the class works through common biomechanics questions related to human movement in three dimensions.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "RHAB 765",
+            "Title": "Introduction to Movement Science",
+            "Number_of_credits": "Credits",
+            "Description": "This class focuses on structures and mechanisms underlying human movements, principles of movement control and learning, and methods of motor control and learning research using current theories of motor control and motor learning in healthy populations. Applied lab activities are used to enhance student learning of theoretical concepts. May be repeated once for credit.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 1 times for 3 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "RHAB 768",
+            "Title": "Advancing the Practice of Rehabilitation",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines how leaders and educators promote professional development and expertise in the field of rehabilitation. The course provides an in-depth look at processes including conceptualization of knowledge, critical reasoning, professional judgment, and reflective practice. The course considers how the therapist and practice setting affect these processes.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "RHAB 812",
+            "Title": "Interpretation of Data",
+            "Number_of_credits": "Credits",
+            "Description": "This is an advanced seminar on issues such as power and effect size calculations and interpretation of results of statistical analysis including outputs of statistical software packages.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 1 times for 3 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "RHAB 817",
+            "Title": "Sensors & Transducers in Rehabilitation",
+            "Number_of_credits": "Credits",
+            "Description": "This course combines clinical, electronics and engineering background, and a step-by-step process of understanding the different instrumentation used to gather information about the status of human activity and motion. The course provides the student with knowledge needed to choose, use and improve measurement systems for application in rehabilitation sciences.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "RHAB 823",
+            "Title": "Research Practicum",
+            "Number_of_credits": "Credit",
+            "Description": "Prepares the student for dissertation research through faculty-supervised research experiences. Focuses on one or more stages of the research process, such as developing a question, literature review, design and method, IRB, grant writing, subject recruitment, instrumentation, measurement, data collection, data analysis, interpretation of results, and/or dissemination of results. May be repeated for credit.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 12 times for 12 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "RHAB 825",
+            "Title": "Teaching Practicum II",
+            "Number_of_credits": "Credits",
+            "Description": "This course requires a negotiated agreement, leading to a contract among the Course Director/Instructor, the student and the student's advisor. The student develops a syllabus, write goals and objectives, prepare and present materials, develop assessments strategies, and participate in the administrative responsibilities of the course. May be repeated twice for credit.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 2 times for 4 credits",
+            "Prerequisites": "NHP 762 [Min Grade: C]"
+      },
+      {
+            "Identifier": "RHAB 830",
+            "Title": "Dissertation Research",
+            "Number_of_credits": "Credit",
+            "Description": "Through dissertation a student demonstrates mastery of the research process unique to his/her specialty and produces an original contribution of knowledge. The dissertation process provides the student with the foundation for a continued career as a scholar. May be repeated for credit.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 12 times for 12 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "RHAB I899",
+            "Title": "Independent Study",
+            "Number_of_credits": "Credit",
+            "Description": "Independent study is offered to graduate students to afford them the opportunity to develop various components of their research or for content related to their interests. The course is structured with a contract and is designed to allow students access to avenues and resources (personnel, mentorship, institutional) to enrich their learning. May be repeated three times for credit.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 3 times for 16 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "RHAB T880",
+            "Title": "Special Topics",
+            "Number_of_credits": "Credit",
+            "Description": "The course description will be developed by the Course Director depending upon the course content. May be repeated three times for credit.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 2 times for 12 credits",
+            "Prerequisites": "Null"
+      }
+]

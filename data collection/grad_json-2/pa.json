@@ -1,0 +1,353 @@
+[
+      {
+            "Identifier": "PA 540",
+            "Title": "Clinical Anatomy",
+            "Number_of_credits": "Credits",
+            "Description": "This five (5) credit lecture and laboratory course is tailored to the specific needs of physician assistant students. It reviews the fundamentals of gross anatomy, and discusses the relationships between structure and function in a regional anatomy approach and major clinical applications of anatomic relationships. Material is coordinated with thePA\u00a0544Clinical Assessment course.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PA 542 [Min Grade: B] (Can be taken Concurrently)"
+      },
+      {
+            "Identifier": "PA 542",
+            "Title": "Patient Communication",
+            "Number_of_credits": "Credits",
+            "Description": "This lecture and seminar course provides instruction in communication skills for the effective exchange of information with patients. Addressed in the course are patient-provider collaboration, health literacy, and communication techniques for patients across cultural and generational groups, and counseling techniques for patient education, treatment adherence, and health promotion.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PA 543",
+            "Title": "Ethical Issues in Physician Assistant Practice",
+            "Number_of_credits": "Credits",
+            "Description": "This is a lecture and seminar course addressing ethical and professional issues in Physician Assistant practice. Topics include medical ethics, ethical decision-making, professional responsibility, and commitment to patients' welfare. The link between health as a human right and medical ethics is explored.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PA 544",
+            "Title": "Clinical Assessment",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides the PA student with the knowledge, demeanor, and motor skills required to professionally and proficiently elicit thorough medical histories and perform precise physical examination techniques for each body system. Accurate, organized recordings of clinical findings from patient encounters in the hospital setting are required.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PA 545",
+            "Title": "Physician Assistant Practice",
+            "Number_of_credits": "Credit",
+            "Description": "Physician Assistant Practice is a one (1) credit lecture course that introduces the concept, history, and future directions of the PA profession, and discusses professional practice issues and theories of leadership applicable to PA practice. Stewardship and strategies for effecting change as a leader are discussed in the context of cases applicable to PA professional settings.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PA 546",
+            "Title": "Health Policy for Physician Assistant Practice",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores the US health care system and health policy issues related to the costs of health care, inequities in quality and access to care, and current US policies. The role of Physician Assistants in the health care system are examined along with issues related to malpractice, reimbursement, and quality assurance.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PA 547",
+            "Title": "Evidence Based Medicine for Physician Assistants",
+            "Number_of_credits": "Credits",
+            "Description": "This is a three (3) quarter credit course designed to introduce PA students to evidence-based medicine, epidemiologic principles and research methodologies for application to primary care clinical practice. The course content includes an overview of epidemiologic and research concepts, ethics and the roles of politics and culture in research, quantitative and qualitative research methods and designs; and levels of scientific evidence for clinical practice. Through evaluation of published research and national practice guidelines, the skills of evidence-based practice are introduced. The course is lecture-based and utilizes cooperative learning strategies to engage students in individual and group inquiry learning outside the classroom.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PA 548",
+            "Title": "Principles of Medical Science I",
+            "Number_of_credits": "Credits",
+            "Description": "This course is the first of three courses which provide the physiologic foundation for clinical courses. Emphasizing the complex nature of bodily functions, the course reviews normal physiology and provides a bridge to the concepts of pathophysiology that underlie dysfunction and disease. Clinical applications enhance understanding and introduce the skill of clinical reasoning.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PA 540 [Min Grade: B]"
+      },
+      {
+            "Identifier": "PA 549",
+            "Title": "Principles of Medical Science II",
+            "Number_of_credits": "Credits",
+            "Description": "This course is the second of three courses which provide the physiologic foundation for clinical courses. Emphasizing the complex nature of bodily functions, the course reviews normal physiology and provides a bridge to the concepts of pathophysiology that underlie dysfunction and disease. Clinical applications enhance understanding and introduce the skill of clinical reasoning.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PA 548 [Min Grade: B]"
+      },
+      {
+            "Identifier": "PA 550",
+            "Title": "Principles of Medical Science III",
+            "Number_of_credits": "Credits",
+            "Description": "This course is the last of three courses which provide the physiologic foundation for clinical courses. Emphasizing the complex nature of bodily functions, the course reviews normal physiology and provides a bridge to the concepts of pathophysiology that underlie dysfunction and disease in geriatrics, women's health, pediatrics, emergency medicine, and surgery while refining clinical reasoning skills.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PA 548 [Min Grade: B] and PA 549 [Min Grade: B]"
+      },
+      {
+            "Identifier": "PA 551",
+            "Title": "Pharmacology and Therapeutics I",
+            "Number_of_credits": "Credits",
+            "Description": "This is the first in a series of three courses to provide Physician Assistant students with basic knowledge in pharmacology and therapeutics. Principles of pharmacodynamics, pharmacokinetics, and clinical therapeutics are discussed for applications to primary care practice.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PA 552",
+            "Title": "Pharmacology and Therapeutics II",
+            "Number_of_credits": "Credits",
+            "Description": "This is the second in a series of three courses to provide Physician Assistant students with basic knowledge in pharmacology and therapeutics. Principles of pharmacodynamics, pharmacokinetics, and clinical therapeutics are discussed for applications to primary care practice.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PA 551 [Min Grade: B]"
+      },
+      {
+            "Identifier": "PA 553",
+            "Title": "Pharmacology and Therapeutics III",
+            "Number_of_credits": "Credits",
+            "Description": "The third in a series of three courses, this course provides Physician Assistant students with basic knowledge in pharmacology and therapeutics for specific patient populations. Principles of pharmacodynamics, pharmacokinetics, and clinical therapeutics across the lifespan are discussed for applications to primary care practice.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PA 551 [Min Grade: B] and PA 552 [Min Grade: B]"
+      },
+      {
+            "Identifier": "PA 554",
+            "Title": "Biopsychosocial Issues in Patient Care",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces the PA student to the biopsychosocial model of patient care. Covering topics ranging from normal psychological development and human sexuality across the lifespan to responses to stress, injury, illness, and death, the course also introduces psychiatric disorders common to primary care practice.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PA 556",
+            "Title": "Clinical Medicine I",
+            "Number_of_credits": "Credits",
+            "Description": "This is the first of two courses designed to prepare the PA student with a body-system, problem-oriented approach to diseases encountered in primary care. Discussion of the etiology, epidemiology, pathophysiology, clinical manifestations, and diagnostic studies for common disorders allows the PA student to problem solve through clinical reasoning.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PA 557",
+            "Title": "Clinical Medicine II",
+            "Number_of_credits": "Credits",
+            "Description": "This is the second of two courses designed to prepare the PA student with a body-system, problem-oriented approach to diseases encountered in primary care. Discussion of the etiology, epidemiology, pathophysiology, clinical manifestations, and diagnostic studies for common disorders allows the PA student to problem solve through clinical reasoning.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PA 556 [Min Grade: B]"
+      },
+      {
+            "Identifier": "PA 558",
+            "Title": "Topics in Clinical Practice",
+            "Number_of_credits": "Credits",
+            "Description": "The course prepares the PA student for clinical rotations though lecture and a problem-oriented approach to disorders in geriatrics, women's health, pediatrics, emergency medicine, and surgery.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PA 556 [Min Grade: B] and PA 557 [Min Grade: B]"
+      },
+      {
+            "Identifier": "PA 559",
+            "Title": "Clinical Skills I",
+            "Number_of_credits": "Credits",
+            "Description": "This is the first of three courses designed to prepare the PA student with a problem-oriented, clinical approach to the evaluation, diagnosis, and management of common primary care disorders. The course uses clinical reasoning and clinical skills application laboratories based on clinical scenarios to facilitate skill development.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PA 544 [Min Grade: B]"
+      },
+      {
+            "Identifier": "PA 560",
+            "Title": "Clinical Skills II",
+            "Number_of_credits": "Credits",
+            "Description": "This is the second in a series of three courses designed to prepare the PA student with a problem-oriented, clinical approach to the evaluation, diagnosis, and management of common primary care disorders. The course uses clinical reasoning and clinical skills application laboratories based on clinical scenarios to facilitate skill development.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PA 559 [Min Grade: B]"
+      },
+      {
+            "Identifier": "PA 561",
+            "Title": "Clinical Skills III",
+            "Number_of_credits": "Credits",
+            "Description": "This is the third in series of three courses designed to prepare the PA student with a problem oriented, clinical approach to the evaluation, diagnosis, and management of common primary care disorders. The course uses clinical reasoning and clinical skills laboratories based on clinical scenarios to facilitate skill development.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PA 559 [Min Grade: B] and PA 560 [Min Grade: B]"
+      },
+      {
+            "Identifier": "PA 570",
+            "Title": "Clinical Assessment Competency",
+            "Number_of_credits": "Credit",
+            "Description": "Clinical Assessment Competency is a required course for any PA student who experiences an interruption in the usual sequence of didactic and clinical training. The course provides the forum for the student to demonstrate competencies in knowledge and skills germane to clinical assessment requisite to patient evaluation and clinical practice.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PA 544 [Min Grade: B]"
+      },
+      {
+            "Identifier": "PA 571",
+            "Title": "Competency for Clinical Training",
+            "Number_of_credits": "Credit",
+            "Description": "Competency for Clinical Training is a one-credit pass/fail course required for any physician assistant student who experiences an interruption in the usual sequence of didactic or clinical training in the program after the second quarter. The course provides the forum for the student to demonstrate competencies requisite for continued didactic and/or clinical training. The PA student undertakes supervised, independent study guided by identified areas of individual need to meet the course competencies.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 1 times for 2 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PA 581",
+            "Title": "Research Methods and Designs",
+            "Number_of_credits": "Credits",
+            "Description": "The course introduces the knowledge and skills necessary to evaluate published research for clinical practice. Topics in this web-based course are research concepts, hypotheses and questions; literature searches and reviews; ethics in research; qualitative and quantitative research methods and designs including sampling, data collection and interpretation; and levels of scientific evidence.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PA 582",
+            "Title": "Principles of Evidence-Based Practice",
+            "Number_of_credits": "Credits",
+            "Description": "With an emphasis on developing skills for clinicians to critically appraise the validity of medial literature, this online course offers a critical analysis of several types of research studies for use in clinical practice. The course requires knowledge and application of basic research and statistical concepts, and online searching skills.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PA 581 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PA 584",
+            "Title": "Health Policy",
+            "Number_of_credits": "Credits",
+            "Description": "This web-based course explores health policy issues relating to the cost of health care and disparities in access and quality of care, and strategies to address the deficiencies in the US health care system. Each student critiques a health policy imperative and proposes solutions to remedy the issues identified in the critique.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PA 585",
+            "Title": "Leadership and Stewardship",
+            "Number_of_credits": "Credits",
+            "Description": "Key concepts of leadership with a focus on servant and visionary leadership are discussed in this online course. Stewardship and strategies for effecting change as a leader are explored through cases applicable to professional settings. Synthesis of course content is evidenced in the compilation of a professional leadership portfolio.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PA 629",
+            "Title": "Internal Medicine Rotation",
+            "Number_of_credits": "Credits",
+            "Description": "The Internal Medicine Rotation is a clinical course that provides the PA student with adult patient care experience under the supervision of a licensed medical practitioner. Students apply knowledge and skills learned in the didactic year to patient evaluation, and begin to apply patient management strategies to patients in an assigned clinical setting.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PA 550 [Min Grade: B] and PA 553 [Min Grade: B] and PA 558 [Min Grade: B] and PA 561 [Min Grade: B] and PA 546 [Min Grade: B]"
+      },
+      {
+            "Identifier": "PA 630",
+            "Title": "Pediatrics Rotation",
+            "Number_of_credits": "Credits",
+            "Description": "The Pediatrics Rotation is a clinical course that provides the PA student with pediatric patient care experience under the supervision of a licensed medical practitioner. Students apply knowledge and skills learned in the didactic year to patient evaluation, and begin to apply patient management strategies to patients in an assigned clinical setting.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PA 550 [Min Grade: B] and PA 553 [Min Grade: B] and PA 558 [Min Grade: B] and PA 561 [Min Grade: B] and PA 546 [Min Grade: B]"
+      },
+      {
+            "Identifier": "PA 631",
+            "Title": "Women's Health Rotation",
+            "Number_of_credits": "Credits",
+            "Description": "The Women\u2019s Health rotation is a clinical course that provides the student with prenatal and gynecological patient care experience under the supervision of a licensed medical provider. Students apply knowledge and skills leaned in the didactic year to patient evaluation and begin to apply patient management strategies to patients in an assigned clinical setting.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PA 550 [Min Grade: B] and PA 553 [Min Grade: B] and PA 558 [Min Grade: B] and PA 561 [Min Grade: B] and PA 546 [Min Grade: B]"
+      },
+      {
+            "Identifier": "PA 632",
+            "Title": "Behavioral Medicine Rotation",
+            "Number_of_credits": "Credits",
+            "Description": "The Behavioral Medicine Rotation is a clinical course that provides the PA student with psychiatric/behavioral health patient care experience under the supervision of a licensed medical practitioner. Students apply knowledge and skills learned in the didactic year to patient evaluation, and begin to apply patient management strategies to patients in an assigned clinical setting.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PA 550 [Min Grade: B] and (PA 553 [Min Grade: B] and PA 558 [Min Grade: B] and PA 561 [Min Grade: B] and PA 546 [Min Grade: B])"
+      },
+      {
+            "Identifier": "PA 633",
+            "Title": "Surgery Rotation",
+            "Number_of_credits": "Credits",
+            "Description": "The Surgery Rotation is a clinical course that provides the PA student with surgical patient care experience under the supervision of a licensed medical practitioner. Students apply knowledge and skills learned in the didactic year to patient evaluation, and begin to apply patient management strategies to patients in an assigned clinical setting.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PA 550 [Min Grade: B] and (PA 553 [Min Grade: B] and PA 558 [Min Grade: B] and PA 561 [Min Grade: B] and PA 546 [Min Grade: B])"
+      },
+      {
+            "Identifier": "PA 634",
+            "Title": "Emergency Medicine Rotation",
+            "Number_of_credits": "Credits",
+            "Description": "The Emergency Medicine Rotation for the clinical phase PA student provides experiential learning opportunities to a wide variety of emergency health care problems in an emergency department setting and to understand the principles of emergency medicine. Students are introduced to medical and surgical problems commonly encountered in the emergency department setting. The emphasis is on gaining outpatient procedural skills, triage patients, and learning to recognize and begin treatment of emergent medical and surgical problems.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PA 550 [Min Grade: B] and PA 553 [Min Grade: B] and PA 558 [Min Grade: B] and PA 561 [Min Grade: B] and PA 546 [Min Grade: B]"
+      },
+      {
+            "Identifier": "PA 635",
+            "Title": "Primary Care Practicum I",
+            "Number_of_credits": "Credits",
+            "Description": "The Primary Care Practicum I is a clinical course that provides the PA student with patient care experience in an ambulatory medicine setting under the supervision of a licensed medical practitioner. Students refine clinical skills learned in preparation for practice and increase knowledge of disease mechanisms and patient management for common primary care disorders.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PA 629 [Min Grade: B] and PA 630 [Min Grade: B] and PA 631 [Min Grade: B] and PA 632 [Min Grade: B] and PA 633 [Min Grade: B] and PA 634 [Min Grade: B]"
+      },
+      {
+            "Identifier": "PA 636",
+            "Title": "Graduate Project I",
+            "Number_of_credits": "Credits",
+            "Description": "Graduate Project I is a three (3) credit course intended to prepare the graduate candidate for the development of a project that is related to the candidate\u2019s research interests. The Graduate Project provides students with the opportunity to creatively address a proven deficiency in the realms of clinical medicine, educational medicine (patient or medical provider material), or any other area that will further the student\u2019s and the profession\u2019s knowledge and/or resource base.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PA 547 [Min Grade: B] (Can be taken Concurrently)"
+      },
+      {
+            "Identifier": "PA 637",
+            "Title": "Primary Care Practicum II",
+            "Number_of_credits": "Credits",
+            "Description": "The Primary Care Practicum II is a clinical course in which PA students continue to progress to higher levels of clinical responsibility for patient evaluation and management as clinical skills, medical knowledge, and professional confidence coalesce under the supervision of licensed medical providers. This course is the final clinical experience in the PA professional training program.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PA 635 [Min Grade: B]"
+      },
+      {
+            "Identifier": "PA 638",
+            "Title": "Graduate Project II",
+            "Number_of_credits": "Credits",
+            "Description": "Graduate Project II is a three (3) credit course sequenced after the Graduate Project I course in which the graduate student further develops and implements the project proposed in the Graduate Project I course. Continued review and critique of the literature related to the topic area are required to expound the project. The student works with a faculty advisor who will provide guidance and feedback.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PA 636 [Min Grade: B]"
+      },
+      {
+            "Identifier": "PA 641",
+            "Title": "Clinical Update",
+            "Number_of_credits": "Credits",
+            "Description": "This web-based course explores recent advances in clinical knowledge and recommendations for clinical practice, and develops the student's lifelong learning skills. The student undertakes a broad review of clinical medicine and identifies areas for enhancement of clinical knowledge and skills through the use of reputable electronic information sources.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PA 582 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PA 680",
+            "Title": "Summative Remediation",
+            "Number_of_credits": "Credit",
+            "Description": "Summative Remediation is one credit course which provides an intensive review of major topics covered in the didactic and clinical phases of the PA program for any PA student who has not achieved minimum passing grades on two administrations of the Summative Examination /OSCE.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PA 637 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PA 697",
+            "Title": "Independent Study",
+            "Number_of_credits": "Credits",
+            "Description": "Independent Study is a variable (3-6) credit course in which the student works with in assigned advisor to review and catalogue the published literature related to the cognate topic of interest. The student composes a literature review and gap analysis, and critically appraises articles as the basis for the design and outline of the capstone project proposal within this course.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PA 582 [Min Grade: C]"
+      }
+]

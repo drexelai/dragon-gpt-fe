@@ -1,0 +1,677 @@
+[
+      {
+            "Identifier": "PSY 510",
+            "Title": "Research Methods I",
+            "Number_of_credits": "Credits",
+            "Description": "Develops a practical, conceptual understanding of statistical data analysis, the logic of hypothesis testing, and statistical inference. Requires students to identify researchable topics, critically review evidence from prior studies, and prepare proposals for gathering appropriate evidence.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 511",
+            "Title": "Research Methods II",
+            "Number_of_credits": "Credits",
+            "Description": "This course will focus on topics regarding the development, execution, analysis, and interpretation of psychotherapy outcome investigations in the clinical psychology across a variety of topical areas (e.g., psychopathology, behavioral medicine).",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PSY 510 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PSY 512",
+            "Title": "Cognitive Psychology",
+            "Number_of_credits": "Credits",
+            "Description": "Emphasizes understanding normal cognition as a basis for recognizing and identifying when abnormality may exist. Covers topics including perception and pattern recognition; attention, learning, and memory; language and communication; and problem-solving and decision-making.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 514",
+            "Title": "Behavioral Assessment I",
+            "Number_of_credits": "Credits",
+            "Description": "Reviews the major principles of learning developed by major theorists in psychology.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 515",
+            "Title": "Clinical Case Conceptualization",
+            "Number_of_credits": "Credits",
+            "Description": "This course will provide a review of the principles, assumptions, and purpose of clinical case formulation. The course is designed to provide a practical guide of how to integrate various assessment methods such as clinical interviews, direct observation in both analogue and naturalistic settings, applied behavioral analysis, psychological testing, self-report questionnaires, self-monitoring inventories, cognitive assessment, assessment of emotional regulatory processes, interpersonal patterns of behavior, and psychophysiological techniques in order to construct a case formulation leading evidence-based treatment.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 516",
+            "Title": "Developmental Psychology",
+            "Number_of_credits": "Credits",
+            "Description": "Studies the nature of developmental processes across the life -perceptual, intellectual, emotional, social, and neuropsychological-and the factors influencing or limiting them.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 518",
+            "Title": "Social Psychology",
+            "Number_of_credits": "Credits",
+            "Description": "Studies the causes of social influence and the effects of others on behavior and cognitions of the individual, in such areas as attitude formation and change, social perception, affiliation, and attraction.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 520",
+            "Title": "Psychopathology",
+            "Number_of_credits": "Credits",
+            "Description": "Familiarizes the student with existing categories of mental disorders, their diagnosis, and their treatment.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 522",
+            "Title": "Psychological and Intellectual Assessment",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the theoretical and practical uses of tests designed to measure intellectual, cognitive, and academic abilities, including administration and interpretation of the most widely used measures.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 524",
+            "Title": "Professional Issues and Ethics",
+            "Number_of_credits": "Credits",
+            "Description": "Discusses issues in the delivery of professional psychology, including confidentiality, supervision, standards of practice, and ethics in clinical psychology. Uses case studies to emphasize state and APA regulations.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 530",
+            "Title": "Neuroanatomy and Behavior",
+            "Number_of_credits": "Credits",
+            "Description": "Explores the structure and function of the central nervous system, with emphasis on the physiological basis of behavior. Covers topics including the senses, nerve function, cognition and brain structure.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 542",
+            "Title": "Neuropsychological Assessment",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the theory and practical use of major neuropsychological assessment devices, including the Halstead-Reitan and other tests used in contemporary neuropsychology.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 550",
+            "Title": "Multicultural Perspectives in Psychology",
+            "Number_of_credits": "Credits",
+            "Description": "Provides an overview of the impact of cultural, ethnic and racial factors on the practice of applied psychology with the goal of developing multicultural competency in clinical practice.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 552",
+            "Title": "Proseminar in Diversity",
+            "Number_of_credits": "Credits",
+            "Description": "The seminar series will focus on contemporary issues in psychology related to issues of diversity, especially with regard to clinical research and treatment. Seminars will invovle a mixture of group discussions, lectures, and guest speakers.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 560",
+            "Title": "Clinical Supervision and Consultation in Psychology",
+            "Number_of_credits": "Credits",
+            "Description": "Consultation and Supervision of Psychology is designed to teach psychology graduate students how to consult and provide supervision within the discipline of psychology. Students will become grounded in the theoretical basis for, models of, and guidelines for the practice of supervision. Students who opt for the experiential option (3-credit option) will also practice and receive feedback about the skills associated with clinical supervision. Students will become grounded in models of consultation and learn about practical application of these models.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 1 times for 6 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 600",
+            "Title": "Current Topics in Applied Cognitive and Brain Sciences",
+            "Number_of_credits": "Credits",
+            "Description": "Each term it is offered, this seminar-based course will address a different current topic in cognitive psychology or cognitive neuroscience. Potential topics include new developments in semantic memory, creativity, problem solving, cognitive electrophysiology (EEG), neuroimaging, brain stimulation, and specialized statistical methods for research. The course will include faculty-led and student-led presentations and discussions of readings, outside presenters, and writing research proposals. The course is limited to graduate students in the Department of Psychological and Brain Sciences\u2019 doctoral program in Applied Cognitive and Brain Sciences (ACBS), except by permission of the instructor. ACBS students are required to register for this class each term that it is offered.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 601",
+            "Title": "Introduction to Data Science for Psychology",
+            "Number_of_credits": "Credit",
+            "Description": "This course is a high-level introduction to data science for psychology graduate students. It is designed for students without previous programming experience to develop basic literacy and comfort with data science. The course will cover rudimentary programming skills in three languages that are commonly used in graduate-level academic research in psychology and neuroscience (R, Python, and MATLAB). By gaining a foundational understanding of key programming concepts and practicing with basic syntax and skills in multiple (similar) programming languages, students will feel prepared to take graduate-level data science and statistics courses in which basic programming skills are assumed.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 615",
+            "Title": "Judgment & Decision-making",
+            "Number_of_credits": "Credits",
+            "Description": "This course will provide a comprehensive overview of classical and recent results in the psychology and neuroscience of human judgment and decision-making. Modern research in this area is highly multidisciplinary, combining results in psychology, economics, game theory, computer science and machine learning, and neuroscience (to name a few). The goal of the course is to provide an accessible introduction to the important results from all of these fields as they relate to the central question of how (and how well) humans decide among alternatives, and learn from feedback.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 616",
+            "Title": "Motivation and Emotion",
+            "Number_of_credits": "Credits",
+            "Description": "Considers the behavioral consequences of psychological levels of motivation and emotion.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 618",
+            "Title": "Psychology of Loss & Bereavement",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the study of human attachment and loss, such as death, separation, job loss, and retirement.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 620",
+            "Title": "Personality Assessment",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces theories underlying the assessment of personality via the use of objective instruments. Teaches students to administer and interpret a select sample of major personality tests.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 621",
+            "Title": "Theories of Personality",
+            "Number_of_credits": "Credits",
+            "Description": "Reviews different theories of personality, including behavioral, psychoanalytic, cognitive, and medical, as they apply to normal human functioning and abnormal behavior.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 624",
+            "Title": "Behavior Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "The course will provide an overview of learning theories as applied to both adaptive and pathological behavior. The assumptions underlying learning and conditioning of complex systems will also be presented. A behavior laboratory will provide problem-based projects for students to integrate and analyze their observation.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 630",
+            "Title": "Biological Basis of Behavior and Treatment",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines neuroanatomy and physiology, with a particular emphasis on the interaction of physiology and anatomy on behavior and clinical syndromes. This course also examines the major classes of psychotropic medications used in clinical practice, with a particular emphasis on empirically supported psychopharmacological treatments and practical considerations relevant to effective clinical and psychopharmacological practice.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 648",
+            "Title": "Forensic Assessment I",
+            "Number_of_credits": "Credits",
+            "Description": "Discusses the use of psychological testing procedures as they relate to testimony in court and legal proceedings. Concentrates on the practical and ethical problems for the clinician involved in clinical practice.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 649",
+            "Title": "Forensic Assessment II",
+            "Number_of_credits": "Credits",
+            "Description": "The course focuses on distinguishing forensic assessment from other kinds of assessment performed by mental health professionals, and describing core principles that can serve to guide forensic clinicians. Using frequently identified legal issues as a guide; the course provides a combination of practical training and empirical overview of various relevant topics within the area of forensic assessment. Students may have the opportunity to be involved in a supervised forensic assessment during the period over which the course is taught. Course requirements include writing a report based on hypothetical data, and a paper on a topic approved by the instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PSY 648 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PSY 650",
+            "Title": "Child Psychopathology & Treatment",
+            "Number_of_credits": "Credits",
+            "Description": "This course will explore empirical literature on the diagnosis, assessment, etiology, course, and treatment of various psychological disorders of childhood and adolescence. Students will understand the DSM-IV-TR diagnostic criteria's application to children, symptom presentation in children, and issues of differential diagnosis. Empirically supported treatments for childhood disorders will be examined.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 675",
+            "Title": "Mindfulness and Acceptance-based Treatments",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to provide an introduction to third generation acceptance-based behavior theory and therapies (ABBTs), broadly writ. The goal is to enhance students\u2019 theoretical, empirical, and practical understanding of ABBTs as it relates to the etiology, maintenance, assessment, and treatment of various forms of psychopathology, and to lay the foundation for the development of basic competencies in various ABBT technologies. Readings and lectures will address a variety of topics, including basic learning, behavioral, cognitive, and biological processes and mechanisms, as well as various assessment and intervention strategies developed within or associated with the applied behavioral tradition.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 680",
+            "Title": "Data Analysis in Psychology I",
+            "Number_of_credits": "Credits",
+            "Description": "The purpose of this course is to acquaint Masters students in Psychology with the problems confronted by the social scientist in creating and working with a numerical database, including some coverage of the use of computers in calculating both parametric and non-parametric statistics.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 681",
+            "Title": "Data Analysis in Psychology II",
+            "Number_of_credits": "Credits",
+            "Description": "The purpose of this course is to acquaint Masters students in Psychology with the advanced statistical tools most frequently used in clinical psychology research. The class will give you a basic theoretical background in the procedure, and it will familiarize you with computer-based analysis.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PSY 680 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PSY 682",
+            "Title": "Data Analysis in Psychology III",
+            "Number_of_credits": "Credits",
+            "Description": "The purpose of this course is to acquaint Masters students in Psychology with advanced statistical tools most frequently used in psychological research. The class will give you a basic theoretical background on the procedures, and it will familiarize you with computer-based analysis. Emphasis will be placed on the application and interpretation of statistics.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PSY 680 [Min Grade: C] and PSY 681 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PSY 709",
+            "Title": "Data Analysis in Psychology I",
+            "Number_of_credits": "Credits",
+            "Description": "The purpose of this course is to acquaint PhD students in Psychology with problems confronted by the social scientist in creating and working with a numerical database, including some coverage of the use of computers in calculating both parametric and non- parametric statistics.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 710",
+            "Title": "Data Analysis in Psychology II",
+            "Number_of_credits": "Credits",
+            "Description": "The purpose of this course is to acquaint PhD students in Psychology with the advanced statistical tools most frequently used in psychological research. The class will give you a basic theoretical background in the procedure, and it will familiarize you with computer-based analysis.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PSY 709 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PSY 711",
+            "Title": "Data Analysis in Psychology III",
+            "Number_of_credits": "Credits",
+            "Description": "The purpose of this course is to acquaint PhD students in Psychology with advanced statistical tools most frequently used in psychological research. The class will give you a basic theoretical background on the procedures, and it will familiarize you with computer-based analysis. Emphasis will be placed on the application and interpretation of statistics.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PSY 709 [Min Grade: C] and PSY 710 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PSY 712",
+            "Title": "History and Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the history and various systematic theories of psychology. Explores the conceptual foundations of psychology from its inception to the present day.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 720",
+            "Title": "Health Psychology",
+            "Number_of_credits": "Credits",
+            "Description": "Discusses the role of the clinical psychologist in the medical setting. Involves didactic and clinical training focusing on behavioral medicine, sleep disorders, hypnosis, consultation-liaison services, and biofeedback.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 721",
+            "Title": "Principles of Psychotherapy",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces fundamental clinical interviewing skills.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 722",
+            "Title": "Theories of Intervention",
+            "Number_of_credits": "Credits",
+            "Description": "A review of the major theoretical foundations of psychotherapeutic intervention derived from neuroscience, interpersonal, psychodynamic, and learning theories, including contextual/mindfulness-based approaches. The course will translate the various theoretic foundations toward a united approach to assessment and intervention.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 740",
+            "Title": "Neuropsychological Evaluation and Interpretation of Adults",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the neuropsychological assessment of adult patients with brain injury and the subsequent design of reports and rehabilitation programs. Discusses both assessment instruments and rehabilitation techniques for brain injuries and associated problems. Emphasizes clinical experience with patients.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 742",
+            "Title": "Neuropsychological Case Analysis and Integration",
+            "Number_of_credits": "Credits",
+            "Description": "Reviews the analysis of neuropsychological data, including the integration of historical, interview, behavioral, and formal assessment data. Emphasizes integrating traditional interview and observation techniques and the ability to conceptualize actual clinical cases in oral and written form.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PSY 522 [Min Grade: C] and PSY 542 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PSY 746",
+            "Title": "Neuropsychological Evaluation and Intervention of Children and Adolescents",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the neuropsychological assessment of younger patients with brain injuries, learning disabilities, or developmental disorders.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 750",
+            "Title": "Autism Spectrum Disorders",
+            "Number_of_credits": "Credits",
+            "Description": "In this course we will investigate autism spectrum disorders including characteristics, assessments, systems and family issues, and current theories about the nature and biological basis for autism.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 809",
+            "Title": "Statistical Programming and Modeling with R for Psychology",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an introduction to applied statistical modeling with R in psychology. It covers R basics including how to program in R, writing R functions, debugging and organizing R codes. In addition, students will learn foundational data science tools, such as data cleaning, data visualization,creating reproducible data analysis reports, and building interactive web applications. Examples and data will be provided to illustrate how to conduct effective data analysis using R. Advanced statistical modeling tools will be discussed including linear models, logistic regression, Poisson regression, and models for data with a zero-inflated distribution. Step-by-step tutorials on how these analyses can be conducted using R will be provided. No previous experience of using R is required.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 810",
+            "Title": "Behavioral Data Mining",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an introduction to different data mining techniques, with emphasis on practical applications of them by using software such as R. These techniques are particularly useful for the analysis of large data sets, as can arise in clinical, survey, psychometric, genomic and marketing research. The course begins by introducing several examples of supervised and unsupervised learning. Beginning with well-established techniques, we discuss methods such as discriminant analysis, support vector machines, and clustering techniques. The second half of class is devoted to Big Data or high dimensional data analysis using dimension reduction and variable selection techniques. In addition to reading papers demonstrating the use of these techniques in behavioral research, we will provide step-by-step tutori.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 811",
+            "Title": "Multilevel Regression",
+            "Number_of_credits": "Credits",
+            "Description": "Multilevel regression is an advanced regression technique (closely related to hierarchical linear modeling) that was developed to model nested data -- data that contain multiple observations from each source, such as longitudinal data or repeated measures data. This course will provide hands-on training in the application of this method using the R statistical programming language. It will also cover advanced data visualization and data manipulation techniques using R.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PSY 709 [Min Grade: C] and PSY 710 [Min Grade: C] and PSY 711 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PSY 812",
+            "Title": "Cognitive Neuroscience",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an overview of the field of Cognitive Neuroscience, including a review of sophisticated modeling and neuro-imaging technologies to answer important questions about behavior, the mind and the brain.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 814",
+            "Title": "Neuroimaging & Physiology of Behavior",
+            "Number_of_credits": "Credits",
+            "Description": "Since the cognitive revolution in the 1960\u2019s, scientists have tried to understand what the brain is doing while we are thinking. Because they allow us to directly measure what the brain is doing, neuroimaging techniques continue to gain popularity as research and clinical tools. In this course, we will explore some of the commonly used imaging techniques and gain an appreciation for the data that they generate, and how that data is transformed into something interpretable.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PSY 530 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PSY 815",
+            "Title": "Evidence-Based Psychotherapy",
+            "Number_of_credits": "Credits",
+            "Description": "This advanced elective course will provide training in scientifically supported psychological assessment and treatment methods. A range of methods (e.g., Problem-Solving Therapy, Gottman marital therapy, etc.) will be presented through book chapters, videos, role plays, etc.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 820",
+            "Title": "Cognitive-Behavioral Therapy",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to provide an introduction to cognitive behavior theory and therapy.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 821",
+            "Title": "Family Therapy",
+            "Number_of_credits": "Credits",
+            "Description": "Family therapy theories will be reviewed including historically important, current and innovative approaches. In this course students will: 1) learn/integrate concepts and methods of family therapy, 2) appropriately apply these concepts and methods to case material, (3) critically evaluate psychotherapy outcome research relevant to family therapy.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 822",
+            "Title": "Pediatric Psychology",
+            "Number_of_credits": "Credits",
+            "Description": "The focus of pediatric psychology is the understanding, assessing, and intervening in the relationship between physical and psychological health. In this course students will: (1) learn pediatric psychology theory and practice including professional issues, assessment strategies and intervention approaches, (2) apply concepts to develop appropriate and effective treatment plans for case examples.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 823",
+            "Title": "Substance Use",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines the effects of drugs on human thinking and behavior. Both illicit (street) and licit (prescription) drugs are examined in an attempt to understand how these drugs produce their physiological and psychological effects. The course will focus on understanding the etiology and epidemiology of drug use and drug abuse/dependence, the pharmacology of psychoactive substances, and empirically supported prevention and intervention strategies.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 825",
+            "Title": "Seminar in Mind and Body Studies",
+            "Number_of_credits": "Credits",
+            "Description": "Through a seminar format, this course will provide an exploration and analysis of the scientific literature concerning health and disease, regarding the integration of biomedical, psychological, social, spiritual, and philosophical domains.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 827",
+            "Title": "Behavioral Stress Management",
+            "Number_of_credits": "Credits",
+            "Description": "This graduate level seminar will provide hands-on teaching of various behavioral stress management strategies. These strategies (e.g., progressive muscle relaxation) are the fundamental skills often part of larger anxiety reduction or stress management protocols for a wide variety of psychological problems. The emphasis of this course is on knowing when to apply these strategies and learning how to competently implement these skills for adult populations. The instructor will model the various strategies and students are expected to role play simulated therapy cases.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 828",
+            "Title": "Weight and Eating Disorders",
+            "Number_of_credits": "Credits",
+            "Description": "The purpose of this course is to review psychological determinants of body weight and eating behavior as well as psychological treatments for obesity and eating disorders.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 830",
+            "Title": "Advanced Topics in Health Psychology",
+            "Number_of_credits": "Credits",
+            "Description": "This advanced seminar covers current empirical research in health psychology relevant to theory, epidemiology, and evidence based mental health assessment and intervention, focusing on medical conditions and chronic illnesses that psychologists most often encounter across varied populations, as well as the increased role psychologists play in medical and health settings.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 840",
+            "Title": "Advanced Cognitive-Behavioral Therapy",
+            "Number_of_credits": "Credits",
+            "Description": "This course will include didactic training, in class demonstrations, video demonstrations, in-class practice sessions implementing cognitive and behavioral therapy techniques for specific psychological disorders including panic disorder, agoraphobia, obsessive compulsive disorder, depression and post-traumatic stress disorder.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PSY 820 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PSY 845",
+            "Title": "Neuropsychological Evaluation & Intervention of the Elderly",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the neuropsychological assessment of elderly patients with brain injury, such as primary degenerative conditions (e.g., dementia and Alzheimer's disease).",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 850",
+            "Title": "Psychology of Disability",
+            "Number_of_credits": "Credits",
+            "Description": "Reviews disability determination and discusses issues of disability.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 854",
+            "Title": "Psychology of Rehabilitation",
+            "Number_of_credits": "Credits",
+            "Description": "Discusses issues of psychological assessment and intervention as they apply to rehabilitation.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 897",
+            "Title": "Clinical Psychology Practicum Seminar",
+            "Number_of_credits": "Credits",
+            "Description": "Consistent with APA requirements for accredited programs, the class serves a colloquium function, brings students together to learn about and discuss clinical- and practicum-related issues, and provides a vehicle for information on practice-related issues.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 898",
+            "Title": "Master's Thesis in Psychology",
+            "Number_of_credits": "Credit",
+            "Description": "Requires supervised research at the master's level.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 899",
+            "Title": "Practicum",
+            "Number_of_credits": "Credit",
+            "Description": "According to APA guidelines, students are required to accumulate clinical training hours during their course of studies. This course is intended to award students credit for each successful year of completed practicum work.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 4 times for 4 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 998",
+            "Title": "Ph.D. Dissertation in Psychology",
+            "Number_of_credits": "Credit",
+            "Description": "Requires supervised research, including literature research, data collection, and writing of doctoral thesis.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY 999",
+            "Title": "Internship",
+            "Number_of_credits": "Credit",
+            "Description": "Provides advanced, one-year full-time placement in a clinical setting determined by the clinical director and the student.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 8 times for 108 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY I599",
+            "Title": "Independent Study in PSY",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY I699",
+            "Title": "Independent Study in PSY",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY I799",
+            "Title": "Independent Study in PSY",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY I899",
+            "Title": "Independent Study in PSY",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY I999",
+            "Title": "Independent Study in PSY",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY T580",
+            "Title": "Special Topics in Psychology",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY T680",
+            "Title": "Special Topics in Psychology",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY T780",
+            "Title": "Special Topics in Psychology",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY T880",
+            "Title": "Special Topics in Psychology",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSY T980",
+            "Title": "Special Topics in Psychology",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

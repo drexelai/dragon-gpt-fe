@@ -1,0 +1,830 @@
+[
+      {
+            "Identifier": "PTRS 501",
+            "Title": "Introduction to Research",
+            "Number_of_credits": "Credits",
+            "Description": "The course is designed to provide professional graduate students with the skills necessary to evaluate the relationship between practice and published research using an interdisciplinary approach. The content includes an overview of research concepts, research ethics, literature reviews, quantitative and qualitative research methods, including sampling, data collection, and analysis.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 507",
+            "Title": "Neuroscience I",
+            "Number_of_credits": "Credits",
+            "Description": "This is the first of two courses that provide a foundation in the structure and function of the nervous system. Clinical correlations relate the material to effective clinical practice and provide a neurophysiological basis for pathological entities described in the student's clinical neurology courses and commonly encountered in the clinic.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 508",
+            "Title": "Neuroscience II",
+            "Number_of_credits": "Credits",
+            "Description": "The course is designed to provide the student with a strong foundation in the structure and function of the nervous system. Clinical correlations are provided throughout the course to: 1). underscore the necessity for understanding the material for effective clinical practice and 2). provide a neurophysiological basis for various pathological entities described in their clinical neurology courses and commonly encountered in the clinic.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 530",
+            "Title": "Kinesiology I",
+            "Number_of_credits": "Credits",
+            "Description": "This course is part one of a two-part series designed to provide students with basic knowledge of biomechanics and functional aspects of the musculoskeletal system. It involves the study of the anatomical, biomechanical, and physiological fundamentals of human motion as it pertains to the upper extremity.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 531",
+            "Title": "Kinesiology II",
+            "Number_of_credits": "Credits",
+            "Description": "This course is part two of a two-part series designed to provide students with basic knowledge of biomechanics and functional aspects of the musculoskeletal system. It involves the study of the anatomical, biomechanical, and physiological fundamentals of human motion as it pertains to the spine and lower extremity.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 532",
+            "Title": "Human Gross Anatomy I",
+            "Number_of_credits": "Credits",
+            "Description": "This course is part one of a two-part series designed to introduce students to the structure and function of the back, neck, face, and upper extremity with particular emphasis on the nervous and musculoskeletal systems. Special emphasis is places on clinical relevance and functional interrelationships of the anatomic structures.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 533",
+            "Title": "Human Gross Anatomy II",
+            "Number_of_credits": "Credits",
+            "Description": "This course is part two of a two-part series designed to introduce students to the structure and function of the cranium, thorax, abdomen, and lower extremity with particular emphasis on the nervous and musculoskeletal systems. Special emphasis is placed on clinical relevance and functional interrelationships of the anatomic structures.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 534",
+            "Title": "Physical Therapy Exam & Intervention I",
+            "Number_of_credits": "Credits",
+            "Description": "This course prepares a student to perform a basic musculoskeletal examination of the cervical spine and upper extremity. The entire patient management process from history taking to prescription of interventions is introduced and applied. Basic skills needed in the examination are described and practiced.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 535",
+            "Title": "Physical Therapy Exam & Intervention II",
+            "Number_of_credits": "Credits",
+            "Description": "This course prepares a student to perform a basic musculoskeletal examination of the lumbar spine and lower extremities. The entire patient management process from history taking to prescription of interventions is applied. Basic skills needed in the examination are described and practiced.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 539",
+            "Title": "Topics in Pathophysiology I",
+            "Number_of_credits": "Credits",
+            "Description": "Topics in Pathophysiology I is the first of two lecture-format courses that introduce physiology of organ systems, disease states and conditions. Differential diagnosis, medical screening, the impact of pathology and medical management in physical therapy practice will be investigated.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 2 times for 6 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 540",
+            "Title": "Topics in Pathophysiology II",
+            "Number_of_credits": "Credits",
+            "Description": "Topics in Pathophysiology II is the second of two lecture-formal courses that introduce physiology of organ systems, disease states and conditions. Differential diagnosis, medical screening, the impact of pathology and medical management in physical therapy practice will be investigated.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 590",
+            "Title": "Advanced Musculoskeletal Anatomy",
+            "Number_of_credits": "Credits",
+            "Description": "Exposes clinicians to the structure and function of the body with particular emphasis on the nervous and musculoskeletal systems. The format consists of onsite seminars that will include cadaveric dissections. Special emphasis is placed on clinical relevance and functional interrelationships of the anatomic structures.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 600",
+            "Title": "Clinical Reasoning",
+            "Number_of_credits": "Credits",
+            "Description": "Utilizing a case-based format, this course assists students with clinical reasoning strategies as outlined in the Guide to Physical Therapist Practice. Additionally, students will have opportunities to enhance self-awareness and begin to develop the professional skills inherent in physical therapy practice. Students apply concepts of patient-client management including examination, evaluation, diagnosis, prognosis, and intervention. Through small group discussion, students develop their group skills and are introduced to the team approach.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 2 times for 12 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 610",
+            "Title": "Issues in Pharmacotherapy",
+            "Number_of_credits": "Credits",
+            "Description": "Issues in Pharmacotherapy is a lecture-format course that focuses on providing foundational information about pharmacotherapy, pharmacokinetics, and pharmacodynamics that is applicable in physical therapy. Drug classifications are described. Examples are provided of various drug categories.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 612",
+            "Title": "Pharmacotherapeutics",
+            "Number_of_credits": "Credits",
+            "Description": "Pharmacotherapeutics is a lecture-format course that focuses on providing foundational information about pharmacotherapeutics, pharmacology, pharmacokinetics, and pharmacodynamics that is applicable in physical therapy. Drug classifications are described. Examples are provided of various drug categories.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 613",
+            "Title": "Integrated Clinical Experience I",
+            "Number_of_credits": "Credits",
+            "Description": "Integrated Clinical Experience I is the first in a series of four clinical practice courses. It is an opportunity for students to practice physical therapy skills learned in the curriculum to date. Students will have the opportunity to practice and refine their skills under the direct supervision of a licensed physical therapist.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 614",
+            "Title": "Integrated Clinical Experience II",
+            "Number_of_credits": "Credits",
+            "Description": "Integrated Clinical Experience II is the second in a series of four clinical practice courses. It is an opportunity for students to practice physical therapy skills learned in the curriculum to date. Students will have the opportunity to practice and refine their skills under the direct supervision of a licensed physical therapist.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 615",
+            "Title": "Integrated Clinical Experience III",
+            "Number_of_credits": "Credits",
+            "Description": "Integrated Clinical Experience III is the third in a series of four clinical practice courses. It is an opportunity for students to practice physical therapy skills learned in the curriculum to date. Students will have the opportunity to practice and refine their skills under the direct supervision of a licensed physical therapist.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 616",
+            "Title": "Integrated Clinical Experience IV",
+            "Number_of_credits": "Credits",
+            "Description": "Integrated Clinical Experience IV is the third in a series of four clinical practice courses. It is an opportunity for students to practice physical therapy skills learned in the curriculum to date. Students will have the opportunity to practice and refine their skills under the direct supervision of a licensed physical therapist.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 620",
+            "Title": "Orthopedic Physical Therapy: Upper Extremity",
+            "Number_of_credits": "Credits",
+            "Description": "This is the first in a series of three courses on orthopedic physical therapy. This course emphasizes differential diagnosis, clinical decision making, and development and implementation of a plan of care for conservative and post-operative management of patients demonstrating musculoskeletal dysfunction of the upper extremity.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 621",
+            "Title": "Orthopedic Physical Therapy: Lower Extremity",
+            "Number_of_credits": "Credits",
+            "Description": "This is the second in a series of three courses on Orthopedic Physical Therapy. This course emphasizes differential diagnosis, clinical decision making, and development and implementation of a plan of care for conservative and post-operative management of patients demonstrating musculoskeletal dysfunction of the lower extremity.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 622",
+            "Title": "Orthopedic Physical Therapy: Spine",
+            "Number_of_credits": "Credits",
+            "Description": "This course is one of three courses in orthopedic physical therapy. Emphasis is on examination, differential diagnosis, clinical decision making, and development and implementation of a plan of care for conservative management (including joint manipulation) and post operative interventions for patients with musculoskeletal dysfunction.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 623",
+            "Title": "Physical Agents",
+            "Number_of_credits": "Credits",
+            "Description": "Physical Agents discusses the equipment used and the general application of thermal agents, electrotherapy, compression devices and massage. The clinical decision making when using all of these modalities in the management of clinical conditions including pain, edema, inflammation, decreased range of motion, and muscle weakness will be discussed.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 2 times for 9 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 624",
+            "Title": "Functional Mobility",
+            "Number_of_credits": "Credits",
+            "Description": "This course addresses the functional management of patients with limited mobility and their equipment needs, emphasizing functional training and clinical decision making for therapeutic intervention as well as prescription of durable medical equipment. Patient/caregiver/healthcare provider safety for injury prevention is stressed, as well as effective instructional approaches for all audiences.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 627",
+            "Title": "Cardiopulmonary Physical Therapy I",
+            "Number_of_credits": "Credits",
+            "Description": "This is the first of two courses designed to provide exposure to the normal and abnormal anatomy, physiology and function of the cardiac, vascular and pulmonary systems. Physiology and pathophysiology are explored in relation to functional performance, compensation for disease process and implications for management. Clinical decision making is emphasized.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 630",
+            "Title": "Cardiopulmonary Physical Therapy II",
+            "Number_of_credits": "Credits",
+            "Description": "Cardiopulmonary Physical Therapy II is the second of two courses designed to provide students with exposure to the normal and abnormal anatomy, physiology and function of the cardiac, vascular and pulmonary systems. Primary and secondary cardiopulmonary diseases/dysfunction are discussed as they relate to functional ability.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 2 times for 9 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 639",
+            "Title": "Motor Learning",
+            "Number_of_credits": "Credits",
+            "Description": "This course, a required course taken by entry-level DPT students, provides foundational knowledge for motor learning and control, and application to clinical practice. Emphasis is placed on basic concepts of motor learning and control in typically developing populations throughout the lifespan. The course provides the opportunity for an initial review of the movement science literature and sets the foundation forPTRS\u00a0656Motor Control and Rehab. Emphasis on postural control, critical review of current theories of motor learning and control, and practice and feedback for task acquisition is emphasized.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 641",
+            "Title": "Neurological Exam and Intervention I",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces the student to examination, evaluation, diagnosis and comprehensive interventions for the adult with neurological dysfunction. It focuses on examination skills and common interventions used with this patient population. Clinical decision making will be utilized to develop appropriate intervention strategies, application techniques, and neuromuscular strengthening and conditioning principles.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 642",
+            "Title": "Neurological Exam and Intervention II",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on adults with central nervous system dysfunction where vestibular, sensory, perceptual, cognitive, and communication deficits result in more complex movement dysfunction and limited capacity for learning. Students will learn to integrate neuromuscular, sensory-perceptual, cognitive, behavioral and functional mobility strategies into a comprehensive plan of care.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 643",
+            "Title": "Applied Biomechanics",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides content essential for understanding and evaluating research literature related to the effects of aging, pathology, immobilization, and therapeutic procedures on biological tissues and human movement. Methods for quantifying and evaluating tissue properties and human neuromuscular control are included. Application to practice will come from discussion of current literature.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 644",
+            "Title": "Integumentary Physical Therapy",
+            "Number_of_credits": "Credit",
+            "Description": "The focus of this course is on wound assessment and management techniques used in the clinical setting as outlined in the Guide to Physical Therapy Practice. The use of evidence-based practice to guide clinical decision making will be emphasized.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 648",
+            "Title": "Prosthetics and Orthotics",
+            "Number_of_credits": "Credits",
+            "Description": "This lecture/laboratory course provides students with knowledge of the components and biomechanical principles used in upper and lower extremity prostheses and lower limb and spinal orthoses. The basic principles and processes of prosthetic and orthotic prescription, checkout and functional training are presented. Pre- prosthetic medical and physical therapy management of persons with amputation is also discussed.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 649",
+            "Title": "Culture, Ethics and Interprofessionalism in Healthcare",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores the impact culture, health literacy, and determinants of health have on an individual\u2019s healthcare experience. Using patient vignettes, students will examine the role of a physical therapist within an interprofessional healthcare team.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 2 times for 15 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 650",
+            "Title": "Motor Control and Learning Rehabilitation",
+            "Number_of_credits": "Credits",
+            "Description": "Students examine topics in movement science in motor control and motor learning throughout the lifespan and the application of these principles to varied patient populations. This course also allows students to review the movement science literature as it applies to select patient populations.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 651",
+            "Title": "Applied Tissue Biomechanics",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to provide the information necessary for the understanding and evaluation of the effects of immobilization, increased stress and strain, injury, disease, healing and aging on biological tissues. Emphasis is placed upon the integration of tissue biomechanics into the rationale and basis for therapeutic interventions.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 654",
+            "Title": "Topics in Health Policy & Services",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides information on health policy and health services specific to physical therapy. Students are exposed to health legislation, social determinants of health, issues in health disparities and development of advocacy skills.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 655",
+            "Title": "Health Administration",
+            "Number_of_credits": "Credits",
+            "Description": "This is the last in a series of four professional development courses. The focus of the course is on the organizational, fiscal and administrative workings of the health care environment and the responsibilities of individual physical therapists in these areas.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 656",
+            "Title": "Motor Control and Rehabilitation",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines contemporary insights for the application of motor control and learning in physical therapy for children and adults with movement dysfunctions. Emphasis is placed on critical review of current evidence applied to patient populations. Practice paradigms for patient scenarios for evaluations and intervention will be critically discussed.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 660",
+            "Title": "The Human Experience in Healthcare",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores the human experience of healthcare. Students will engage in an in-depth assessment of how the interaction between human relationships and other complex challenges influence health outcomes. Some of these challenges include social and psychological determinants of health, values, beliefs, and institutional culture. Students will gain insight and appreciation of the lived experience of patient and provider.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 663",
+            "Title": "Pediatric Physical Therapy I",
+            "Number_of_credits": "Credits",
+            "Description": "This is the first of two required courses that emphasize the physical therapy management of infants, children and adolescents with disabilities and health conditions across various body systems, and different delivery settings. Didactic material for various system pathologies will be presented. Clinical reasoning applied and best evidence will guide students to choose appropriate examination tools, write meaningful goals and develop a physical therapy plan of care. Child development with an emphasis on functional movement, from the pre-natal period through adolescence will be discussed in the context of physical therapy management of infants, children, and adolescents.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 664",
+            "Title": "Pediatric Physical Therapy",
+            "Number_of_credits": "Credits",
+            "Description": "This course takes a systems approach to understanding the basis for pediatric disabilities. Examination and intervention planning are discussed both broadly and in terms of specific disabilities in the context of current evidence for client management models. Lab component provides opportunity to work with a child with a disability in a community setting.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 2 times for 13 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 665",
+            "Title": "Pediatric Physical Therapy II",
+            "Number_of_credits": "Credits",
+            "Description": "This is the second of two required courses that emphasize the physical therapy management of infants, children and adolescents with disabilities and health conditions across various body systems, and different delivery settings. Didactic material for various system pathologies will be presented. Clinical reasoning applied and best evidence will guide students to choose appropriate examination tools, write meaningful goals and develop a physical therapy plan of care. Child development with an emphasis on functional movement, from the pre-natal period through adolescence will be discussed in the context of physical therapy management of infants, children, and adolescents.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 2 times for 15 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 675",
+            "Title": "Life Span Development I: Birth to Adolescence",
+            "Number_of_credits": "Credits",
+            "Description": "Life Span Development I addresses the physical, cognitive, emotional, and social-cultural characteristics of development. Changes throughout prenatal, infancy, childhood and adolescence are highlighted and red flags are identified. Pediatric examination will be discussed. This course will provide foundational knowledge for Pediatric Physical Therapy evaluation, examination and intervention.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 676",
+            "Title": "Life Span Development II: Young Adulthood to Older Adulthood",
+            "Number_of_credits": "Credits",
+            "Description": "Life Span Development II is a required course for all entry-level Doctor of Physical Therapy students. This course addresses the physical, cognitive, emotional, and social-cultural aspects of aging, and the changes that occur throughout adulthood. Course content will provide foundational knowledge for concurrent and subsequent courses for physical therapy examination and intervention.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 2 times for 9 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 680",
+            "Title": "Geriatric Physical Therapy",
+            "Number_of_credits": "Credits",
+            "Description": "This is a required course for all entry-level Doctor of Physical Therapy students. This course addresses the physical, cognitive, emotional, and social-cultural aspects of aging, and the changes that occur throughout adulthood. Course content will provide foundational knowledge for concurrent and subsequent courses for physical therapy examination and intervention.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 2 times for 9 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 708",
+            "Title": "Advanced Manual Therapy Techniques",
+            "Number_of_credits": "Credits",
+            "Description": "This course expands the manual therapy content, including mobilization and manipulation techniques taught in the curriculum. Emphasis is on current evidence, implications, technique refinement, and clinical decision-making associated with manual therapy.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 710",
+            "Title": "Advanced and Emerging Technologies in Physical Rehabilitation",
+            "Number_of_credits": "Credits",
+            "Description": "Science, technology, and devices are ever-evolving and that is especially true in rehabilitation. This course will expose students to advanced and emerging technologies in physical rehabilitation and enable them to critically evaluate these technologies so that they may most appropriately apply and advocate for their use to improve patient care. Areas that will be covered will span the physical rehabilitation spectrum from neurorehabilitation to precision rehabilitation to outpatient technology. Specific topics will include but are not limited to rehabilitation robotics, exoskeletons, advanced prosthetics, brain-machine interfaces, neuro-stimulation & modulation, regenerative medicine, genetics, epigenetics, augmented & virtual reality, mobile & wearable technology, motion capture & analysis, and telerehab.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 712",
+            "Title": "Advanced Regional Anatomy",
+            "Number_of_credits": "Credits",
+            "Description": "This course is intended to give 3rd year DPT students exposure to structural and functional aspects of a specific region of the human body. The course is self-paced and focused on skilled dissection of the regional anatomy to develop prosections to be used for future instruction. The area to be dissected is driven by students' interests. Students will spend lab time focused on detailed dissection and research of their selected region related to answering a clinical question.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 1 times for 6 credits",
+            "Prerequisites": "PTRS 532 [Min Grade: B] and PTRS 533 [Min Grade: B]"
+      },
+      {
+            "Identifier": "PTRS 714",
+            "Title": "Analysis of Running Biomechanics and Interventions for Running Injury",
+            "Number_of_credits": "Credits",
+            "Description": "Analysis of Running Biomechanics and Interventions for Running Injury is a lecture and lab format course that focuses on providing foundational information about running injury and analysis of running gait biomechanics that will be used to create interventions for runners with musculoskeletal injury. Students will spend time in the lab assisting and performing examination, data collection, and gait analysis of patients with injuries and formulating evidence-based treatment plans for interventions. This is an elective course that may be taken by entry-level DPT students during the second year of the program.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 716",
+            "Title": "Pelvic Health Physical Therapy: A Woman\u2019s Health Perspective",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers the anatomy and physiology of the pelvic floor with an emphasis on the impact that pathophysiological conditions have on pelvic floor health for cis females across the lifespan. Application of advanced knowledge to pelvic floor health for PT examination, evaluation and intervention strategies are emphasized. Musculoskeletal components of urinary incontinence and urogynecological pain conditions will be discussed and expanded upon as they relate to pelvic floor dysfunction and pelvic health. Physical examination of the pelvic floor will highlight information gained from lectures and provide opportunities to practice. PT evaluation, examination, interventions, and identification of red and yellow flags for pelvic floor dysfunction including trauma history and chronic pain will be discussed.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 718",
+            "Title": "Interprofessional Pain Care",
+            "Number_of_credits": "Credits",
+            "Description": "This elective is for health professions students interested in improving their interprofessional skills within the context of chronic pain care. The purpose of this elective is to engage the learner in reflective and critical reasoning about contemporary evidence for interprofessional chronic pain care. The course is taught in a journal club format with guiding questions and team building activities to structure discussion and apply evidence to clinical practice scenarios. Learners will collaborate as an interprofessional team to discuss, reflect, and practice application of knowledge and communication skills. They will explore how to best implement evidence in clinical practice, working within various systemic, reimbursement, and organizational barriers.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 1 times for 6 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 720",
+            "Title": "Rehabilitation Management",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses the student on the organization and administrative aspects of health care delivery. Students knowledge of managerial and service-related business concepts are enhanced in order to increase the efficiency and effectiveness of their and others? practice in today's health care environment.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 721",
+            "Title": "Teaching Concepts in Rehabilitation",
+            "Number_of_credits": "Credits",
+            "Description": "The course provides information on the means of teaching/learning theory, teaching and learning styles, planning of learning experiences, clinical teaching tools and strategies, teaching objectives, effective feedback, and performance evaluation, all within the context of adult education and with the acknowledgment of the clinical experience of the participants.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 733",
+            "Title": "Advanced Clinical Reasoning",
+            "Number_of_credits": "Credits",
+            "Description": "This course emphasizes decision-making strategies for patients with multiple co-morbidities. Meta-cognitive strategies are used during clinical decision making to assist with student transitions from novice to entry-level clinicians.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 740",
+            "Title": "Issues in Pediatric Health & Rehabilitation",
+            "Number_of_credits": "Credits",
+            "Description": "The course addresses issues within health, prevention and rehabilitation, services and outcomes for children, youth and families. Key themes are participation, self-determination and advocacy. Materials addressing intervention, service delivery models and care across the lifespan, leadership, innovation and knowledge translation will be integrated.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 750",
+            "Title": "Differential Diagnosis",
+            "Number_of_credits": "Credit",
+            "Description": "This course uses published evidence to explore the process of differential diagnosis and explain how it is an essential piece of all physical therapy examinations. The recognition of significant medical conditions that fall out of the scope of physical therapy practice is emphasized.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 751",
+            "Title": "Evidence-Based Practice",
+            "Number_of_credits": "Credits",
+            "Description": "The objective of this course is development of skills for finding, analyzing, communicating and applying knowledge and research to physical therapy practice. Students will develop competencies in evidence-based clinical decision making.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 2 times for 9 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 752",
+            "Title": "Research and Measurement in Physical Therapy",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces stages of research processes including research theory, formulating the research question, literature review, sampling, and experimental controls. Areas of psychometric measurement theory including reliability and validity issues will be examined. This information is applied to common clinical and research tests and measurements related to physical therapy.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 755",
+            "Title": "Evaluation of Research In Physical Therapy",
+            "Number_of_credits": "Credits",
+            "Description": "This course builds upon courses in evidence-based practice and measurement. Emphasis is on understanding the research designs and statistical analyses most often used in biomedical and rehabilitation research; interpretation of statistics; methods of clinical inquiry including case reports, single subject research, and program evaluation; and dissemination of research and scholarship.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 2 times for 9 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 758",
+            "Title": "Evidence-Based Rehabilitation",
+            "Number_of_credits": "Credits",
+            "Description": "The focus of this web-based course is on analysis of the evidence for physical (occupational) therapy practice including models and guidelines for practice. Participants development competencies in transfer of knowledge and research into practice, clinical reasoning, and evidence based decision making.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 760",
+            "Title": "Pediatric Decision Making",
+            "Number_of_credits": "Credits",
+            "Description": "The course focuses on evidence-based examination and intervention of children with disabilities within the context of child, family, and environmental factors. The course highlights the role of therapists in promoting the status of the neuromuscular and musculoskeletal systems. The importance of family-centered care, parent-child interactions, and play are explored.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 761",
+            "Title": "Pediatric Clinical Application",
+            "Number_of_credits": "Credits",
+            "Description": "Pediatric Clinical Application is a primary course in the post-professional pediatric concentration area. Through a problem-based case study format, the course facilitates transfer of knowledge into the specialty practice area of pediatrics and promotes independent learning.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 762",
+            "Title": "Women's Health in Physical Therapy",
+            "Number_of_credits": "Credits",
+            "Description": "Provides a review of female anatomy and physiology. Emphasis on aspects of examination, evaluation and intervention for selected topics related to women's health across the lifespan, especially during reproductive and menopausal years. Students are encouraged to explore the unique niche physical therapists have in providing health care services for women.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 763",
+            "Title": "Decision Making in Rehabilitation",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to provide students with the opportunity to integrate basic and clinical science research in the design of intervention paradigms for patients being served in rehabilitation settings.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 764",
+            "Title": "Geriatric Rehabilitation",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines the implications of an aging population, effects of age on physiological, kinesiological, social, and psychological function, using evidence as a framework for examination, intervention and clinical decision making, advocacy for patients and caregivers, health promotion and wellness, the impact of Medicare, and pharmacological issues in the elderly.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 765",
+            "Title": "Spinal Rehabilitation",
+            "Number_of_credits": "Credits",
+            "Description": "This course applies an evidence-based approach to answering clinical questions about examination, diagnosis, prevention, and management of spinal and pelvic disorders. Goals are to foster independent, critical thinking based on interpretation of scientific literature and its integration into PT theory and practice and to enhance clinical examination and intervention skills.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 766",
+            "Title": "Extremity Rehabilitation",
+            "Number_of_credits": "Credits",
+            "Description": "This elective, on-line course explores advanced examination and intervention strategies for the upper and lower extremities. Clinical examination procedures (including clinical imaging), outcome measures, prevention and treatment interventions will be critically analyzed using an evidence-based approach.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 767",
+            "Title": "Foundations in Hand Therapy",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces the student to the specialized field of hand therapy. The principles of hand therapy included are musculoskeletal tissues and pathology, clinical reasoning, hand examination, splinting principles, physical agents, and therapeutic exercise. Common elbow, wrist, and hand disorders are discussed to integrate the foundation topics into clinical practice.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 768",
+            "Title": "Upper Quarter Joint Pathology",
+            "Number_of_credits": "Credits",
+            "Description": "This course reviews the common pathologies that effect the articulations and surrounding soft tissues, especially tendons and ligaments. Anatomy, biomechanics, and examination principles for each region, shoulder, elbow, wrist, and hand are discussed. Conservative and post-operative therapeutic management for fractures, dislocations, tendon repairs, ligament injuries, and degenerative disorders are presented.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PTRS 767 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PTRS 769",
+            "Title": "Nerve Injuries of the Upper Quarter",
+            "Number_of_credits": "Credits",
+            "Description": "This course emphasizes the anatomy and basic science principles for the cervical spine and major peripheral nerves of the upper quarter. Age-related changes and pathophysiology of nerve lacerations and entrapment neuropathies are discussed. Advanced examination skills and interventions, conservative and post-operative, for the peripheral nervous system are presented.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PTRS 767 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PTRS 770",
+            "Title": "Diseases That Affect the Hand",
+            "Number_of_credits": "Credits",
+            "Description": "Course content emphasizes the impact of disease on hand function, especially with activities of daily living, vocational activities, and recreational activities. The overview includes pathology, clinical presentation, examination techniques and clinical interventions specific to the hand. Additionally, multisystem involvement associated with mutilated hand injuries and pain syndromes is discussed.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PTRS 767 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PTRS 772",
+            "Title": "Selected Topics in Pediatrics",
+            "Number_of_credits": "Credit",
+            "Description": "This course is designed to provide the opportunity for advanced content and discussion regarding issues facing the pediatric practitioner. This course is designed to address current issues related to practice in various pediatric settings. Topics are introduced and content delivered, but the emphasis will be on student/instructor interaction and discussion.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 4 times for 16 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 779",
+            "Title": "Independent Project",
+            "Number_of_credits": "Credit",
+            "Description": "Independent Project provides the student an exposure to physical therapy scholarship and research through participation in a faculty research project or self-directed study.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 780",
+            "Title": "Foundations of School-based Practice",
+            "Number_of_credits": "Credits",
+            "Description": "This web-based course is designed to enhance knowledge and competencies of physical therapists in school-based practice. Emphasis on the roles and responsibilities of the physical therapist in educational settings. Participants will develop competencies to support students, families and educational teams.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 781",
+            "Title": "Advanced Competencies in School-based Practice",
+            "Number_of_credits": "Credits",
+            "Description": "This web-based course builds on Foundations of School-base Practice. The focus is on advanced competencies for physical therapists in school-based practice. Emphasis is on innovation in practice, solutions to challenges, and leadership roles as a member of the education team.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 786",
+            "Title": "MHS Final Project I",
+            "Number_of_credits": "Credit",
+            "Description": "Students develop a final project to demonstrate the ability to use current best evidence to evaluate methods of service delivery or interventions at individual or program levels. Completion of an in-depth literature review associated with the project approved by the student's advisory committee is the focus of this course.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 3 times for 6 credits",
+            "Prerequisites": "PTRS 501 [Min Grade: C] and RHAB 759 [Min Grade: C] and PTRS 758 [Min Grade: C] and PTRS 721 [Min Grade: C] and PTRS 650 [Min Grade: C] and PTRS 651 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PTRS 787",
+            "Title": "MHS Final Project II",
+            "Number_of_credits": "Credit",
+            "Description": "Students conduct a well designed and executed study that addresses service delivery at the individual or program level. The results of the study are presented in manuscript format suitable for dissemination at a professional meeting, in a relevant peer-reviewed journal, or other educational resources used by rehabilitation specialists.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 3 times for 6 credits",
+            "Prerequisites": "PTRS 786 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PTRS 791",
+            "Title": "Clinical Experience I",
+            "Number_of_credits": "Credits",
+            "Description": "This course is the first of three required full-time supervised clinical education experiences. This course is the student's opportunity to begin to apply classroom knowledge and laboratory skills with patients and clients. The student also begins to develop as a professional through role modeling by the clinical instructor.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 2 times for 15 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 792",
+            "Title": "Terminal Clinical Experience II",
+            "Number_of_credits": "Credits",
+            "Description": "This course is the second of three required full-time supervised clinical education experiences. The student continues to apply classroom knowledge and laboratory skills and will be involved in all aspects of patient-client management (examination, evaluation, diagnosis, prognosis, intervention, discharge, and outcomes management).",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 2 times for 15 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 793",
+            "Title": "Terminal Clinical Experience III",
+            "Number_of_credits": "Credits",
+            "Description": "This course is a final, full-time, supervised clinical education experience. The student attains mastery of knowledge, skills, and attitudes to effectively and safely practice in today's healthcare environment. The student will experience the multiple roles of the physical therapist, such as those related to administration and health promotion.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 2 times for 15 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 794",
+            "Title": "Clinical Experience I",
+            "Number_of_credits": "Credit",
+            "Description": "This course is the first of three required full-time supervised clinical education experiences. This course is the student's opportunity to begin to apply classroom knowledge and laboratory skills with patients and clients. The student also begins to develop as a professional through role modeling by the clinical instructor.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 2 times for 15 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 795",
+            "Title": "Terminal Clinical Experience II",
+            "Number_of_credits": "Credits",
+            "Description": "This course is the second of three required full-time supervised clinical education experiences. The student continues to apply classroom knowledge and laboratory skills and will be involved in all aspects of patient-client management (examination, evaluation, diagnosis, prognosis, intervention, discharge, and outcomes management).",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 2 times for 6 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 796",
+            "Title": "Terminal Clinical Experience III",
+            "Number_of_credits": "Credits",
+            "Description": "This course is a final, full-time, supervised clinical education experience. The student attains mastery of knowledge, skills, and attitudes to effectively and safely practice in today's healthcare environment. The student will experience the multiple roles of the physical therapist, such as those related to administration and health promotion.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 2 times for 15 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 797",
+            "Title": "Clinical Internship I",
+            "Number_of_credits": "Credits",
+            "Description": "This course is the first portion of an extended full time clinical internship. Clinical Internship I includes the first 12 weeks of full-time supervised clinical education. Clinical Internship II will continue this sequence for an additional 11 weeks and is required for completion of the clinical education sequence. The student will apply classroom knowledge and laboratory skills and will be involved in all aspects of patient-client management (examination, evaluation, diagnosis, prognosis, intervention, discharge, and outcomes management).",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 2 times for 6 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 798",
+            "Title": "Clinical Internship II",
+            "Number_of_credits": "Credits",
+            "Description": "This course is the continuation of Clinical Internship I. In this course, the student is expected to demonstrate competence in the comprehensive management of the simple patient and occasional guidance in managing the complex patient.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 2 times for 15 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS 799",
+            "Title": "Essentials of Physical Therapy",
+            "Number_of_credits": "Credits",
+            "Description": "Designed to remediate students who require intensive instruction to achieve acceptable performance in the Doctor of Physical Therapy Program. Addresses students\u2019 individual performance deficiencies. Credits assigned based on extent of remediation required. Specific requirements are outlined in a learning contract.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 3 times for 12 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS I699",
+            "Title": "Independent Study in Physical Therapy Rehab Science",
+            "Number_of_credits": "Credit",
+            "Description": "Independent study is offered to DPT graduate students to afford them the opportunity to develop various components of research or for content related to their interests. The course is structured with a contract and is designed to allow students access to avenues and resources (personnel, mentorship, institutional) to enrich their learning.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 6 times for 42 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS I799",
+            "Title": "Independent Study in Physical Therapy Rehab Science",
+            "Number_of_credits": "Credit",
+            "Description": "Independent study is offered to DPT graduate students to afford them the opportunity to develop various components of research or for content related to their interests. The course is structured with a contract and is designed to allow students access to avenues and resources (personnel, mentorship, institutional) to enrich their learning.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 6 times for 42 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS I899",
+            "Title": "Independent Study in Physical Therapy Rehab Science",
+            "Number_of_credits": "Credit",
+            "Description": "Independent study is offered to DPT graduate students to afford them the opportunity to develop various components of research or for content related to their interests. The course is structured with a contract and is designed to allow students access to avenues and resources (personnel, mentorship, institutional) to enrich their learning.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 6 times for 42 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS T580",
+            "Title": "Special Topics in Physical Therapy Rehabilitation Science",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS T680",
+            "Title": "Special Topics in Physical Therapy Rehabilitation Science",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PTRS T780",
+            "Title": "Special Topics in Physical Therapy Rehabilitation Science",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

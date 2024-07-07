@@ -1,0 +1,137 @@
+[
+      {
+            "Identifier": "NHP 680",
+            "Title": "Informatics in the Health Professions",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces the concepts of informatics in the health professions and how data, information and knowledge, through technology, can be applied to healthcare administration, education, practice and research. The goal of the course is to understand the role of health professional informatics in improving patient care outcomes.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NHP 760",
+            "Title": "Academia for Health Professionals",
+            "Number_of_credits": "Credits",
+            "Description": "Students will be introduced to the organizational structures and functions commonly found in universities and colleges. Enduring and contemporary internal and external environmental issues of higher education and professional development will be examined. Emphasis is placed on quality assurance issues in the management of academic programs. Familiarity with the context of academic environments will enable to students to understand their roles and responsibilities as faculty members, within the context of the department, college, and university levels.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NHP 762",
+            "Title": "Health Professional Education",
+            "Number_of_credits": "Credits",
+            "Description": "This course is an introduction to teaching methods used in educating health professional students. Foundational aspects of teaching methodology, including theories of teaching, learning and student assessment, will be reviewed.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NHP 766",
+            "Title": "Health Promotion, Fitness and Wellness",
+            "Number_of_credits": "Credits",
+            "Description": "This online course is required in the DHSc program. It provides students with an introduction to concepts and education and behavioral intervention strategies to promote health, fitness and wellness in individuals with and without disabilities across the lifespan. Course content includes strategies and tactics to promote healthy behaviors (physical activity and nutrition) and address facilitators and barriers to healthy lifestyles.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NHP 767",
+            "Title": "Leadership & Professional Issues",
+            "Number_of_credits": "Credits",
+            "Description": "This course is an exploration of two areas of leadership development and practice: 1) the art and science of leadership in the health professions including theory, skills and applications; and 2) critical issues facing the health professions.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NHP 769",
+            "Title": "Population Health: An Interprofessional Approach",
+            "Number_of_credits": "Credits",
+            "Description": "The course integrates several components of both health care and public health systems such as access, health promotion, disease prevention, screening, and chronic care management by analyzing data to identify the nature and extent of health problems and determine effective and efficient systems of care. Emphasis is placed on the social determinants of health and innovate systems and policies that advance beyond care to overall wellness. Additionally, the nature and extent of health disparities\u2014deficits or health enhancing\u2014are reviewed.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NHP 810",
+            "Title": "Biostatistical Applications",
+            "Number_of_credits": "Credits",
+            "Description": "As a follow-up to univariate analyses presented in introductory courses, concepts of multivariate analysis are presented to facilitate understanding of these analyses in current literature and to introduce their use and interpretation. Course includes laboratory application of selected statistical analyses relevant to individual research needs using the SPSS software tool.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "RSCH 519 [Min Grade: B] and RSCH 700 [Min Grade: B]"
+      },
+      {
+            "Identifier": "NHP 818",
+            "Title": "Scholarship Question Development",
+            "Number_of_credits": "Credits",
+            "Description": "This course takes students through a systematic and discovery process of identifying a focused research question or set of questions related to their eventual scholarship project. Students learn about the importance of reviewing relevant literature, establishing a rationale for research, developing specific aims, exploring an appropriate method, and developing a realistic timeline for completion of a scholarship project.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 4 times for 10 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NHP 822",
+            "Title": "Teaching Practicum",
+            "Number_of_credits": "Credit",
+            "Description": "This course consists of activities culminating in meeting minimal competencies for teaching in higher education institutions. Individually identified competencies include tasks such as responsibility for planning, preparing, presenting and evaluating a course with supervision. Student, instructor and advisor develop a contract reflecting current abilities and development needs in teaching.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 4 times for 15 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NHP 827",
+            "Title": "Scholarship I",
+            "Number_of_credits": "Credit",
+            "Description": "Through scholarship a student produces an original contribution of knowledge. Scholarship I consists of developing the proposal, completing any pilot projects that may be required and defending the proposal.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 4 times for 10 credits",
+            "Prerequisites": "NHP 810 [Min Grade: B] and NHP 818 [Min Grade: B] and RSCH 519 [Min Grade: B] and RSCH 700 [Min Grade: B] and RSCH 813 [Min Grade: B]"
+      },
+      {
+            "Identifier": "NHP 828",
+            "Title": "Scholarship II",
+            "Number_of_credits": "Credit",
+            "Description": "Through scholarship a student produces an original contribution of knowledge. Scholarship II consists of obtaining IRB approval, as needed, and implementing the proposed project. This may include data collection and analysis.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 4 times for 10 credits",
+            "Prerequisites": "NHP 827 [Min Grade: CR]"
+      },
+      {
+            "Identifier": "NHP 829",
+            "Title": "Scholarship III",
+            "Number_of_credits": "Credit",
+            "Description": "Through scholarship a student produces an original contribution of knowledge. Scholarship III consists of developing the dissemination product, defending the scholarship and disseminating the project.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 4 times for 10 credits",
+            "Prerequisites": "NHP 828 [Min Grade: CR]"
+      },
+      {
+            "Identifier": "NHP 832",
+            "Title": "Leadership Practicum",
+            "Number_of_credits": "Credit",
+            "Description": "This course is designed for students interested in an administration and leadership mentored practicum to assist them in meeting their future career goals. Students are expected to develop a learning contract with specific objectives, and work with their faculty advisor to identify the resources needed to successfully complete this practicum.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 4 times for 20 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NHP I899",
+            "Title": "Independent Study in Nursing and Health Professions",
+            "Number_of_credits": "Credit",
+            "Description": "Independent study is offered to graduate students to afford them the opportunity to develop various components of their research or for content related to their interests. The course is structured with a contract and is designed to allow students access to avenues and resources (personnel, mentorship, institutional) to enrich their learning.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NHP T880",
+            "Title": "Special Topics in Nursing and Health Professions",
+            "Number_of_credits": "Credit",
+            "Description": "Course consists of content that faculty or students have requested to meet special needs or interests. Content is variable and offered on a one-time, infrequent, or trial basis. Actual course description will be determined by the instructor.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 3 times for 16 credits",
+            "Prerequisites": "Null"
+      }
+]

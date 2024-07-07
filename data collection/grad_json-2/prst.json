@@ -1,0 +1,191 @@
+[
+      {
+            "Identifier": "PRST 501",
+            "Title": "Communication for Professionals",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers applications of the communication discipline in professional settings. Students explore and assess the role of organizational, interpersonal, non-verbal, group, and employment communications in today's professional world. The main goal is to provide students with the tools necessary to become effective communicators in the workplace.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PRST 503",
+            "Title": "Ethics for Professionals",
+            "Number_of_credits": "Credits",
+            "Description": "This course will focus on the application of ethical principles to organizational systems and decision-making. Emphasis will be placed on how ethical principles affect and are applied to policy-making, leadership behavior, systems of communication, technology use, and systems of organization.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PRST 504",
+            "Title": "Introduction to Research Methods & Design",
+            "Number_of_credits": "Credits",
+            "Description": "This course presents a systematic approach to managerial methods of conducting organizational research and analysis. Students will undergo the managerial research process of specifying the problem; translating the problem into specific research questions; designing the data collection and methodology; collecting, analyzing, and interpreting data; and reporting research results and recommendations.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PRST 603",
+            "Title": "Communicating in Virtual Teams",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores the roles of virtual teams and allows students to experience the opportunities and challenges associated with communicating in a virtual environment.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PRST 612",
+            "Title": "Data Analysis and Interpretation",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers the use of a computerized statistical analysis tool to calculate parametric and non-parametric statistics. Students will use creative and critical thinking skills to interpret, communicate, and defend results.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PRST 504 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PRST 615",
+            "Title": "Program Evaluation",
+            "Number_of_credits": "Credits",
+            "Description": "The course is designed to have students apply qualitative and quantitative methods to frame and implement an evaluation capable of being implemented in a broad range of for-profit and non-profit organizational settings, including those found in education, health care, government and private sector businesses. Students will study the purposes and models of program evaluation, roles of the evaluator and stakeholders, and address ethical issues associated with an evaluation. To gain practical experience with \u201ccontinuous program improvement,\u201d students will design an evaluation of an existing program.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PRST 640",
+            "Title": "Policy Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "The course analyzes the entire process of policy agenda-setting, initiation, decision-making, implementation, evaluation and assessment. Students will be equipped with tools to analyze and understand the entire process of policy formation in any public or private enterprise. The skills developed in the course can be used in many professional fields.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PRST 655",
+            "Title": "The Art & Science of Influencing Others",
+            "Number_of_credits": "Credits",
+            "Description": "This course will focus on the art and science of influencing others. In both our personal and professional lives, negotiation is an essential skill, and different approaches are required for different situations. Through lectures, readings, and simulated experiences, students will develop an understanding of the concepts, strategies, and tactics of negotiation, as well as the subtleties necessary to effectively influence those around them to achieve desired results.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PRST 670",
+            "Title": "Fostering Diversity and Inclusion in the Workplace",
+            "Number_of_credits": "Credits",
+            "Description": "Diversity in the workplace has moved beyond calculating a broad range of employee demographics. Employers are focusing on including and elevating diverse voices and diverse perspectives at the table to create more innovative services and products to gain a competitive edge. Abundant evidence demonstrates that diverse teams are more creative and productive than those characterized by homogeneity. But, inclusion cannot happen in a vacuum. Leadership must foster and support diversity and inclusion to create an environment where all employees are empowered to be productive and innovative. Students will begin with a historical look at workplace diversity and inclusion, and examine companies with varying degrees of success in fostering diversity and inclusion--and consumer trust-- learning from successes/failures.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PRST 700",
+            "Title": "Capstone I: Project Exploration",
+            "Number_of_credits": "Credit",
+            "Description": "The first of a two-course sequence in which students create a relevant, full-scale project in an area of interest that will showcase the student's learned professional skills and knowledge. Students complete four deliverables that will form the foundation forPRST\u00a0701.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PRST 501 [Min Grade: B] and PRST 503 [Min Grade: B] and PRST 504 [Min Grade: B] and PRST 603 [Min Grade: B] and PRST 612 [Min Grade: B] and PRST 615 [Min Grade: B] and PRST 640 [Min Grade: B] and PRST 655 [Min Grade: B] and ORGB 625 [Min Grade: B] and ORGB 631 [Min Grade: B]"
+      },
+      {
+            "Identifier": "PRST 701",
+            "Title": "Capstone II: Topical Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "The second of a two-course sequence allows students to integrate skills and knowledge learned in the classroom with his/her experience to research and report on a specific professional area of interest. Students will demonstrate their learned skills in communication, leadership, critical inquiry, and ethics, as well as speak in some manner to the student's professional development aspirations.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PRST 700 [Min Grade: B]"
+      },
+      {
+            "Identifier": "PRST I599",
+            "Title": "Independent Study in PRST",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PRST I699",
+            "Title": "Independent Study in PRST",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Can be repeated 12 times for 6 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PRST I799",
+            "Title": "Independent Study in PRST",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PRST I899",
+            "Title": "Independent Study in PRST",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PRST I999",
+            "Title": "Independent Study in PRST",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PRST T580",
+            "Title": "Special Topics in PRST",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PRST T680",
+            "Title": "Special Topics in PRST",
+            "Number_of_credits": "Credit",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Can be repeated 18 times for 18 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PRST T780",
+            "Title": "Special Topics in PRST",
+            "Number_of_credits": "Credit",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PRST T880",
+            "Title": "Special Topics in PRST",
+            "Number_of_credits": "Credit",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PRST T980",
+            "Title": "Special Topics in PRST",
+            "Number_of_credits": "Credit",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "GC-3690",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

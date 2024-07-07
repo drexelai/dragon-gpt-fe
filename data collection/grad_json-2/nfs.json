@@ -1,0 +1,344 @@
+[
+      {
+            "Identifier": "NFS 510",
+            "Title": "Profession of Dietetics",
+            "Number_of_credits": "Credits",
+            "Description": "This course will introduce the learner to the profession of dietetics. Topics covered will include: educational preparation and credentialing of registered dietitians and the organizational units responsible for these functions; professional roles and practice areas of dietitians; professional responsibilities of the credentialed dietitian; the Academy of Nutrition and Dietetics and other professional organizations; and, trends affecting the dietetics profession.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NFS 520",
+            "Title": "Pediatric Nutrition",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides the learner with skills to perform pediatric nutrition assessment and medical nutrition therapy for the prevention and treatment of common medical conditions of newborns through adolescents.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "NFS 530 [Min Grade: B]"
+      },
+      {
+            "Identifier": "NFS 525",
+            "Title": "Nutritional Assessment Through the Life Cycle",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to introduce students to and provide hands-on experience with the four primary methods of nutritional assessment: dietary, anthropometric, laboratory, and clinical assessment. Assessment methodology appropriate to each stage of the life cycle, including infants, children, adolescents, adults and elderly, will be used.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NFS 526",
+            "Title": "Lifecycle Nutrition",
+            "Number_of_credits": "Credits",
+            "Description": "This course will provide advanced study related to nutritional needs and concerns throughout the human lifecycle. We will discuss the biological basis of energy and nutrient needs, identify energy and nutrient needs, discuss selected methods of nutritional assessment, and examine the consequences of failing to meet certain needs throughout the life-course.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 1 times for 6 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NFS 530",
+            "Title": "Macronutrient Metabolism",
+            "Number_of_credits": "Credits",
+            "Description": "Covers absorption, utilization, digestion, storage, and excretion of carbohydrates, lipids, and proteins.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NFS 531",
+            "Title": "Micronutrient Metabolism",
+            "Number_of_credits": "Credits",
+            "Description": "Covers absorption, utilization, digestion, storage, and excretion of vitamins, macrominerals, and microminerals.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NFS 543",
+            "Title": "Medical Nutrition Therapy I",
+            "Number_of_credits": "Credits",
+            "Description": "In-depth coverage of nutrition assessment and the Nutrition Care Process. Pathophysiology of selected acute & chronic disease states and their associated medial problems, with focus on using the Nutrition Care Process to meet the medical nutrition needs of patients.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "NFS 525 [Min Grade: C]"
+      },
+      {
+            "Identifier": "NFS 544",
+            "Title": "Medical Nutrition Therapy II",
+            "Number_of_credits": "Credits",
+            "Description": "Pathophysiology of selected acute & chronic disease states and their associated medical problems, with focus on using the Nutrition Care Process to meet the medical nutrition needs of patients.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "NFS 543 [Min Grade: C]"
+      },
+      {
+            "Identifier": "NFS 545",
+            "Title": "Nutrition in Critical Care",
+            "Number_of_credits": "Credits",
+            "Description": "Pathophysiology of selected critical care conditions and their associated medial problems, and the use of the Nutrition Care Process to meet the medical nutrition needs of patients. Also covers nutrition support including use of enteral and parenteral nutrition.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "NFS 544 [Min Grade: C]"
+      },
+      {
+            "Identifier": "NFS 546",
+            "Title": "World Nutrition",
+            "Number_of_credits": "Credits",
+            "Description": "Discusses the nutritional status of peoples in various parts of the world, the incidence and treatment of deficiency diseases, problems of the food supply and efforts to improve it, and other timely aspects of this comprehensive problem.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NFS 550",
+            "Title": "Foodservice Systems Management",
+            "Number_of_credits": "Credits",
+            "Description": "In-depth treatment of food purchasing, financial management of foodservices, cost controls, marketing in foodservice, equipment layout and design, and management/leadership theories and applications.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NFS 601",
+            "Title": "Research Methods",
+            "Number_of_credits": "Credits",
+            "Description": "Covers current techniques and evaluation methods for human nutrition research. Focuses on human subject aspects and critique of the literature.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NFS 602",
+            "Title": "Methods of Nutrition Research",
+            "Number_of_credits": "Credits",
+            "Description": "Laboratory methods current in nutrition research techniques. The emphasis will be on methods of instrumental analysis.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NFS 609",
+            "Title": "Individualized Supervised Practice Pathway",
+            "Number_of_credits": "Credit",
+            "Description": "The Individualized Supervised Practice Pathway is designed to prepare competent, entry-level dietitians for positions in medical nutrition therapy, outpatient nutrition counseling, food service management and community nutrition. The program will provide a curriculum for the student to experience and practice the many roles of the dietitian under the supervision of the preceptor.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 12 times for 39 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NFS 625",
+            "Title": "Nutrition and Exercise Physiology",
+            "Number_of_credits": "Credits",
+            "Description": "The principles of exercise science and their interaction with nutrition are explored in-depth. The physiological and biochemical effects of training are examined in relation to sports performance and prevention of chronic diseases prevalent in developed countries.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NFS 629",
+            "Title": "Readings in Nutrition Science",
+            "Number_of_credits": "Credits",
+            "Description": "Covers advanced nutritional aspects of selected subjects in metabolism via an in-depth survey of current research literature in the field.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NFS 630",
+            "Title": "Nutrition Counseling",
+            "Number_of_credits": "Credits",
+            "Description": "Emphasizes nutrition counseling techniques for use with individuals and small groups, including development of nutrition education materials as well as verbal and non verbal communication skills.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "NFS 530 [Min Grade: B] and NFS 531 [Min Grade: B]"
+      },
+      {
+            "Identifier": "NFS 636",
+            "Title": "Maternal and Child Health Nutrition",
+            "Number_of_credits": "Credits",
+            "Description": "This course will provide the learner with an understanding of the nutrient needs of women and children, with a focus on the periods of the first 1,000 days, pregnancy, breastfeeding, infancy, toddler and preschool -age, and children with special health care needs. Issues of adequacy of the diet and access to food will be investigated, as well as resulting health outcomes. Public health resources addressing these issues in the US and globally will be explored.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NFS 640",
+            "Title": "Nutrition of the Schoolchild",
+            "Number_of_credits": "Credits",
+            "Description": "Covers normal growth patterns and nutrition requirements for children of school age (K to 12). Stresses nutritional problems of schoolchildren, attitudes toward food, the role of the school lunch in nutrition, and evaluation of school lunches in relation to total nutritive needs.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NFS 660",
+            "Title": "Capstone Project in Nutrition and Dietetics",
+            "Number_of_credits": "Credits",
+            "Description": "Completion of a scholarly project in the form of a program evaluation, quality improvement project, comprehensive literature review, or research project. Requires review of the literature, project design, conduct of the project and presentation of the results.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "NFS 601 [Min Grade: B]"
+      },
+      {
+            "Identifier": "NFS 690",
+            "Title": "Community Nutrition",
+            "Number_of_credits": "Credits",
+            "Description": "Surveys nutrition services of city, state, and national organizations. Develops suggestions for the development of a community program with appropriate educational methods and illustrative materials.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NFS 801",
+            "Title": "Techniques in Nutrition Sciences Research",
+            "Number_of_credits": "Credits",
+            "Description": "This course will examine the techniques used in the various Department of Nutrition Sciences laboratories, spanning the subspecialties of metabolism and physiology, behavioral nutrition, medical nutrition, food safety and community nutrition. The purpose of this rotation course in laboratory techniques is to provide the student with a basic understanding and terminology needed to interact with faculty in the conduct of research in the Department of Nutrition Sciences. It will also serve to prepare the student to develop his/her own dissertation proposal and interact with nutrition researchers in the larger scientific community.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NFS 810",
+            "Title": "Topics in Metabolic Nutrition",
+            "Number_of_credits": "Credits",
+            "Description": "This course will examine current issues in nutrition health promotion and disease prevention from the perspective of metabolism, physiology, and behavioral nutrition.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 1 times for 6 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NFS 811",
+            "Title": "Topics in Community Nutrition",
+            "Number_of_credits": "Credits",
+            "Description": "This course will examine current issues in health promotion and disease prevention from the perspective of community based nutrition and food security.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 1 times for 6 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NFS 812",
+            "Title": "Integrative Nutrition Practicum",
+            "Number_of_credits": "Credits",
+            "Description": "This course will provide the nutrition science PhD student with the theory and experience of nutrition science as practiced outside of the academic research setting. The course will cover elements of practice in three settings: Nutrition/Food Industry, Public Policy, and Clinical Consultation. Students will choose one setting in which to focus for the term. This course can be repeated once as an elective by choosing a different practice setting.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated 1 times for 6 credits",
+            "Prerequisites": "NFS 801 [Min Grade: B] and NFS 810 [Min Grade: B] and NFS 811 [Min Grade: B]"
+      },
+      {
+            "Identifier": "NFS 849",
+            "Title": "Readings in Therapeutic Nutrition",
+            "Number_of_credits": "Credits",
+            "Description": "Covers current literature pertaining to nutrition in various conditions such as malabsorption, inborn errors of metabolism, diabetes mellitus, diseases of the gastrointestinal tract, diseases of the liver, and surgical conditions. Discusses nutrition assessment and parenteral and enteral nutrition.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "NFS 510 [Min Grade: C]"
+      },
+      {
+            "Identifier": "NFS 997",
+            "Title": "Research",
+            "Number_of_credits": "Credit",
+            "Description": "Requires students, in consultation with an appropriate faculty adviser, to identify a specific food and/or nutrition problem area of mutual interest, carefully document its background, and present research reports for study. All thesis students use this number. May be repeated for credit.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NFS 999",
+            "Title": "Dissertation Research",
+            "Number_of_credits": "Credit",
+            "Description": "Through this course the student will conduct original research with the goal of producing an original contribution of knowledge and defend that research in an oral dissertation defense. The quality of the original research must conform to that needed for submission of a manuscript to a peer-reviewed scientific journal in the student\u2019s area of research.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NFS I599",
+            "Title": "Independent Study in NFS",
+            "Number_of_credits": "Credits",
+            "Description": "Provides an independent study in human nutrition.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NFS I699",
+            "Title": "Independent Study in NFS",
+            "Number_of_credits": "Credits",
+            "Description": "Provides an independent study in human nutrition.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NFS I799",
+            "Title": "Independent Study in NFS",
+            "Number_of_credits": "Credits",
+            "Description": "Provides an independent study in human nutrition.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NFS I899",
+            "Title": "Independent Study in NFS",
+            "Number_of_credits": "Credits",
+            "Description": "Provides an independent study in human nutrition.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NFS I999",
+            "Title": "Independent Study in NFS",
+            "Number_of_credits": "Credits",
+            "Description": "Provides an independent study in human nutrition.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NFS T580",
+            "Title": "Special Topics in NFS",
+            "Number_of_credits": "Credits",
+            "Description": "Covers selected topics of study in the field of nutrition and food.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NFS T680",
+            "Title": "Special Topics in NFS",
+            "Number_of_credits": "Credits",
+            "Description": "Covers selected topics of study in the field of nutrition and food.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NFS T780",
+            "Title": "Special Topics in NFS",
+            "Number_of_credits": "Credits",
+            "Description": "Covers selected topics of study in the field of nutrition and food.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NFS T880",
+            "Title": "Special Topics in NFS",
+            "Number_of_credits": "Credits",
+            "Description": "Covers selected topics of study in the field of nutrition and food.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NFS T980",
+            "Title": "Special Topics in NFS",
+            "Number_of_credits": "Credits",
+            "Description": "Covers selected topics of study in the field of nutrition and food.",
+            "College/Department": "College of Nursing & Health Professions",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      }
+]

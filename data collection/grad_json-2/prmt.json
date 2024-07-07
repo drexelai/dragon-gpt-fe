@@ -1,0 +1,38 @@
+[
+      {
+            "Identifier": "PRMT 610",
+            "Title": "Facilities Management",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on the strategic role property managers play in facilities management. Property managers must be aware of all operational issues and are active participants in making strategic facilities decisions including in-house or outsourcing services, service specifications, managing service providers, and creative method of addressing sustainable development issues.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PRMT 625",
+            "Title": "Property Financial Analysis & Strategies",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on the importance of financial analysis to the strategic decision-making process employed by property managers including cash flow, tax implications, and risks of various projects. Decision-making models, lease valuation, and sensitivity analysis are employed in real situation. Current marketing conditions are discussed including alternative financing choices, cost of funds, tax incentive development options, and capitalization rates.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PRMT 645",
+            "Title": "Property Management Technology Strategies",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on the use of technology to effectively manage and market property. Successful strategies employing technology to gain operating efficiencies, increase employee and tenant communications, optimize rent management, increase tenant retention, and maximize security systems are featured. Best practice examples of integrated technology stems are reviewed and students perform a technology audit.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PRMT 695",
+            "Title": "Capstone in Property Management",
+            "Number_of_credits": "Credits",
+            "Description": "The Property Management Capstone Course, the graduate degree\u2019s final course, comprises a research project and paper on a topic with implications for the real estate management industry and/or built environment. The goal of this course is for students to synthesize, integrate, and apply theoretical and practical knowledge gained throughout their graduate school tenure. This course is an opportunity for students to design a research study, conduct primary and secondary research, and demonstrate their core competencies in real estate management and the built environment. Students are expected to analyze and synthesize research data, recognize data patterns, identify useful information, extrapolate meaningful conclusions that support suggested business decisions, and summarize in an academic research paper.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PRMT 603 [Min Grade: B-] and PRMT 610 [Min Grade: B-] and PRMT 625 [Min Grade: B-] and PRMT 640 [Min Grade: B-] and PRMT 645 [Min Grade: B-] and REAL 568 [Min Grade: B-] and REAL 572 [Min Grade: B-] and REAL 574 [Min Grade: B-] and REAL 575 [Min Grade: B-] and BUSN 502 [Min Grade: B-] and STAT 601 [Min Grade: B-]"
+      }
+]

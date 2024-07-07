@@ -1,0 +1,182 @@
+[
+      {
+            "Identifier": "PBHL 500",
+            "Title": "Practical Experience for the Master of Public Health",
+            "Number_of_credits": "Credits",
+            "Description": "All graduate professional public health degree students must develop skills in basic public health concepts and demonstrate the application of these concepts through a practice experience that is relevant to students\u2019 areas of specialization. \u201cPractice\u201d refers to the implementing (doing) of public health rather than the understanding (researching) of public health. The Practical Experience will give students both a breadth of experiences to expand their knowledge and exposure to public health broadly, and a depth of experience and skill in an area closely related to their academic and professional goals.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL 501",
+            "Title": "Introduction to Public Health",
+            "Number_of_credits": "Credits",
+            "Description": "The purpose of this course is to provide a broad introduction to public health, as well as an understanding about how specialized health research contribute to achieving the goals of public health.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Can be repeated 2 times for 0 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL 502",
+            "Title": "Evidence and Practice in Global WASH:  Hygiene Promotion",
+            "Number_of_credits": "Credits",
+            "Description": "This course will allow students to analyze the importance of community hygiene promotion in WASH projects, demonstrate how to implement participatory community hygiene promotion campaigns, define approaches used to hygiene promotion in successful WASH projects, recognize practical hygiene promotion strategies used in WASH and global health.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL 504",
+            "Title": "Evidence and Practice in Global WASH:  Behavior Change, Social and Software Aspects of WASH",
+            "Number_of_credits": "Credits",
+            "Description": "Upon completion of this course, students will be able to: analyze the importance of behavior change to successful WASH projects, define WASH behavior change theories, describe behavior change approaches used in successful WASH projects, and recognize BC models and frameworks that can be applied to WASH and global health.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL 510",
+            "Title": "Public Health Foundations and Systems I",
+            "Number_of_credits": "Credits",
+            "Description": "This 4-credit course is part 1 of a two quarter, multi-disciplinary introduction to the theory and practice of public health. The course is divided into two 5-week modules: Determinants of Health and Human Rights, Ethics and History. The first lecture session provides background in the determinants of health, followed by a lecture describing human rights, ethics and history in relationship to the module theme. Weeks 2 through 4 address course objectives with examples that tie back to the focus for the module. The last two sessions of each module address translating knowledge into action and public health leadership, again with the theme highlighted in that module.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL 511",
+            "Title": "Public Health Foundations and Systems II",
+            "Number_of_credits": "Credits",
+            "Description": "This 4-credit course is part 2 of a two quarter, multi-disciplinary introduction to the theory and practice of public health. The course is divided into two 5-week modules: Translating Knowledge Into Action, and Public Health Leadership. The first lecture sessions provide background in the determinants of health, followed by a lecture describing human rights, ethics and history in relationship to the module theme. Weeks 2 through 4 address course objectives with examples that tie back to the focus for the module. The last two sessions of each module address translating knowledge into action and public health leadership, again with the theme highlighted in that module.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PBHL 510 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PBHL 707",
+            "Title": "Monitoring and Evaluation in Global Health",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to provide students with a systematic approach to planning, implementing, monitoring, and evaluating global programs. Students will learn the general principles of monitoring and evaluation (M&E) as well criteria for selecting indicators and metrics and various tools/ models will be introduced to offer students an overview of the program planning and M&E process.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL 709",
+            "Title": "Global Health Capstone Project",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to provide guidance on the successful completion of a capstone project. Components of the project may include systematic review/meta-analysis, data collection, data management and analysis, and/or developing a monitoring and evaluation plan or policy analysis/recommendation.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL 711",
+            "Title": "Global Issues in Sanitation",
+            "Number_of_credits": "Credits",
+            "Description": "Sanitation was one of the most off-track MDGs and progress in urban sanitation is proving especially difficult to achieve. In this course students will learn about the global sanitation crisis; analyze and compare issues related to water, sanitation, and hygiene; learn about the need to develop measures to reduce the global burden of disease from poor sanitation and hygiene; as well as affordable and context-specific sanitation solutions, sector planning tools, and community-led frameworks.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL 995",
+            "Title": "Ph.D. Dissertation Companion",
+            "Number_of_credits": "Credit",
+            "Description": "PhD Dissertation Companion.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL I599",
+            "Title": "Independent Study in PBHL",
+            "Number_of_credits": "Credits",
+            "Description": "Independent study concerning concepts, methods, or specific health issues in public health.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Can be repeated 6 times for 84 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL I699",
+            "Title": "Independent Study in PBHL",
+            "Number_of_credits": "Credits",
+            "Description": "Independent study concerning concepts, methods, or specific health issues in public health.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Can be repeated 6 times for 84 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL I799",
+            "Title": "Independent Study in PBHL",
+            "Number_of_credits": "Credits",
+            "Description": "Independent study concerning concepts, methods, or specific health issues in public health.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Can be repeated 6 times for 84 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL I899",
+            "Title": "Independent Study in PBHL",
+            "Number_of_credits": "Credits",
+            "Description": "Independent study concerning concepts, methods, or specific health issues in public health.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Can be repeated 6 times for 84 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL I999",
+            "Title": "Independent Study in PBHL",
+            "Number_of_credits": "Credits",
+            "Description": "Independent study concerning concepts, methods, or specific health issues in public health.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Can be repeated 6 times for 84 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL T580",
+            "Title": "Special Topics in PBHL",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL T680",
+            "Title": "Special Topics in PBHL",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL T780",
+            "Title": "Special Topics in PBHL",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL T880",
+            "Title": "Special Topics in PBHL",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL T980",
+            "Title": "Special Topics in PBHL",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]
