@@ -1,0 +1,137 @@
+[
+      {
+            "Identifier": "STAT 201",
+            "Title": "Introduction to Business Statistics",
+            "Number_of_credits": "Credits",
+            "Description": "This introductory first course in business statistics focuses on applications of data analysis and statistics in business and economics. Topics covered include descriptive statistics and graphical presentation, probability, statistical inference, and simple regression analysis.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 101 [Min Grade: D] or MATH 121 [Min Grade: D] or MATH 171 [Min Grade: D] or MATH 181 [Min Grade: D]"
+      },
+      {
+            "Identifier": "STAT 202",
+            "Title": "Business Statistics II",
+            "Number_of_credits": "Credits",
+            "Description": "This second course in business statistics focuses on widely used data analysis techniques in business and economics. Topics include two sample procedures, categorical data analysis, analysis of variance, regression analysis and other statistical applications as time permits. Applications are covered through practical data analysis examples.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "STAT 201 [Min Grade: C]"
+      },
+      {
+            "Identifier": "STAT 205",
+            "Title": "Statistical Inference I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers descriptive statistics, elementary probability theory, discrete and continuous random variables and probability distributions, joint distribution functions, expected values, statistical measures, sampling distributions, and point and interval estimation.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 122 [Min Grade: D]"
+      },
+      {
+            "Identifier": "STAT 206",
+            "Title": "Statistical Inference II",
+            "Number_of_credits": "Credits",
+            "Description": "Topics include hypothesis testing, two sample procedures, analysis of variance models, regression analysis and the use of statistical software.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "STAT 205 [Min Grade: D]"
+      },
+      {
+            "Identifier": "STAT 325",
+            "Title": "Six-Sigma Quality Implementation",
+            "Number_of_credits": "Credits",
+            "Description": "Focuses on current theory and practice in Six-Sigma implementation for quality monitoring and improvement. Topics include the dynamic nature of quality, Six-Sigma implementation, and the roles of management in planning and guiding quality efforts. The fundamentals of managerial and statistical methods for quality monitoring and improvements are covered.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "STAT 201 [Min Grade: C-] or STAT 205 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "STAT 331",
+            "Title": "Introduction to Data Mining for Business",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces students to the fundamental ideas of data mining methods, including dimension reduction, cluster, classification and regression trees, and logistic regression. The emphasis is understanding the application of methods rather than on mathematical and computational foundations. All applications are business-oriented.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "STAT 202 [Min Grade: C-] or STAT 206 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "STAT 335",
+            "Title": "Introduction to Experimental Design",
+            "Number_of_credits": "Credits",
+            "Description": "The purpose of this course is to introduce the student to the fundamentals of experimental design, including the planning, conducting, and analysis of statistically designed experiments. Randomized, factorial, fractional and Plackett-Burnam designs are covered with an emphasis on business applications.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "STAT 202 [Min Grade: C-] or STAT 206 [Min Grade: C-] or MATH 313 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "STAT I199",
+            "Title": "Independent Study in STAT",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "STAT I299",
+            "Title": "Independent Study in STAT",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "STAT I399",
+            "Title": "Independent Study in STAT",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "STAT I499",
+            "Title": "Independent Study in STAT",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "STAT T180",
+            "Title": "Special Topics in STAT",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "STAT T280",
+            "Title": "Special Topics in STAT",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "STAT T380",
+            "Title": "Special Topics in STAT",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "STAT T480",
+            "Title": "Special Topics in STAT",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

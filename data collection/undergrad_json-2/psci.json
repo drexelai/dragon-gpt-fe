@@ -1,0 +1,488 @@
+[
+      {
+            "Identifier": "PSCI 100",
+            "Title": "Introduction to Political Science",
+            "Number_of_credits": "Credits",
+            "Description": "Studies the political process, which determines who gets what, when, and how in society.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 110",
+            "Title": "American Government",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces the elements of the American political system.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 120",
+            "Title": "History of Political Thought",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces the Western tradition of political thought, examining a selection of works by major political thinkers. Draws on primary sources, with a textual and conceptual emphasis.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 131   [WI]",
+            "Title": "Research Design for Political Science",
+            "Number_of_credits": "Credits",
+            "Description": "Introduction to basic principles of political science research design. Examines the process of formulating research questions in political science, developing theories with testable implications, and hypothesis testing. Students produce a research proposal including research question, literature review, and research design.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 140",
+            "Title": "Comparative Politics I",
+            "Number_of_credits": "Credits",
+            "Description": "Examines methods used to compare state political systems with respect to world order values in varying geographic and cultural settings.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 150",
+            "Title": "International Politics",
+            "Number_of_credits": "Credits",
+            "Description": "Analyzes nation-states in their external relations, including the interaction of the great powers with each other and with emerging areas.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 210",
+            "Title": "American Political Development",
+            "Number_of_credits": "Credits",
+            "Description": "Focusing on long-term processes, the course examines state formation, institution-building, institutional competition, and policy-making in the American context. The course provides historical and political background that makes sense of vital present-day issues like national security, racial and ethnic politics, and health care policy.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PSCI 110 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PSCI 220",
+            "Title": "Constitutional Law I",
+            "Number_of_credits": "Credits",
+            "Description": "Introduction to Constitutional law and the federal courts. Examines the emergence of judicial review, the judiciary's role in the system of check and balances, and the powers and limitations on each branch of government.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PSCI 110 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PSCI 223",
+            "Title": "Comparative Political Thought",
+            "Number_of_credits": "Credits",
+            "Description": "Provides an introduction to comparative political theory by studying non-canonical texts originating both within Europe and the United States and outside those areas, generally in colonized or formerly colonized countries. Specific theories include those of DuBois, Fanon, and Mariategui.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PSCI 120 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PSCI 229",
+            "Title": "Theories of Justice",
+            "Number_of_credits": "Credits",
+            "Description": "Examines the nature and realization of justice over time, with special attention to the ways that justice has been conceptualized and re-conceptualized over time.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 231",
+            "Title": "Qualitative and Mixed-Methods Research in Political Science",
+            "Number_of_credits": "Credits",
+            "Description": "Considers the theoretical and methodological challenges and opportunities associated with qualitative and multi-method research designs. Includes issues of causation, explanation, and inference, as well as practical considerations of specific research designs and methods. The qualitative research designs considered include \u201csmall-n\u201d historical case studies and process tracing. Specific techniques include focus groups, structured and semi-structured interviews, oral histories, archival research, participant observation, ethnographic investigations, action research, and the use of memoir and journalistic sources as data.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 232",
+            "Title": "Quantitative Research Methods in Political Science",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides students with concepts, principles and tools of quantitative research methodology for political science. Core concepts include quantitative measurement of political topics, survey research, and linear regression analysis.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 240",
+            "Title": "Comparative Politics II",
+            "Number_of_credits": "Credits",
+            "Description": "Uses the tools of comparative politics to examine key political issues across democratic and non-democratic countries.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PSCI 140 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PSCI 250",
+            "Title": "American Foreign Policy",
+            "Number_of_credits": "Credits",
+            "Description": "Examines current issues in American foreign policy, including the assumptions underlying policy goals, the means of achieving them, and the decision-making machinery.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PSCI 150 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PSCI 252",
+            "Title": "Global Governance",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces students to the theory and practice of international organizations. Focuses on three broad questions: Do international organizations matter? How do they matter? Should they matter? Course begins with an overview of major theoretical perspectives and continues with an examination of the United Nations system and its role in security, development, human rights, global health and environmental politics.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PSCI 150 [Min Grade: D] or PSCI 140 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PSCI 255",
+            "Title": "International Political Economy",
+            "Number_of_credits": "Credits",
+            "Description": "The overarching theme of this course is the process of globalization, the factors leading to a single world economy tied together by technology, trade, and investment, and the factors keeping up independent economic zones and nations in economic competition and sometimes in open political opposition.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 260   [WI]",
+            "Title": "Power in Protest: Social Movements in Comparative Perspective",
+            "Number_of_credits": "Credits",
+            "Description": "This course considers theoretical approaches to comparative social movements by closely examining evidence about specific movements. Questions include: When and why do people mobilize to make demands against their states and societies? What contextual conditions enable such mobilization, and under what conditions does mobilization decline? Finally, do movements actually matter for bringing about change? This course is designed to gain leverage on these questions by surveying an eclectic literature from international relations and comparative politics.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PSCI 140 [Min Grade: D] or PSCI 150 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PSCI 284",
+            "Title": "Environmental Politics",
+            "Number_of_credits": "Credits",
+            "Description": "Examines environmental politics, focusing on the United States. Solving environmental problems is not simply a question of using available science and technology; rather, proposals to combat environmental degradation confront political context that may or may not favor the aims of environmental policy. Understanding politics is therefore indispensable for effective environmental problem-solving.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 289",
+            "Title": "Technology and Politics",
+            "Number_of_credits": "Credits",
+            "Description": "How do technologies shape politics, and how do human interests produce particular kinds of technologies? This course will examine the life of many different kinds of technologies through the lens of human use, institutional practice, economic interests, policy, and social movements. Case studies will include the data rescue movement, smartphones and surveillance culture, Hurricane Harvey and infrastructure, inclusive/barrier-free design, and the ethics of human enhancement, among other topics. A core part of the course will be learning and developing skill in social science research through fun micro-assignments.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 305",
+            "Title": "Social Development: A Global Approach",
+            "Number_of_credits": "Credits",
+            "Description": "This course is a general introduction to issues posed by the notions of development and progress of societies. Issues to be discussed include indices of social development, economic growth, and health progress, and their significance in relation to general views on social development and human progress. The concept of standard of living, the human development index, the demographic transition and the gender and political aspects of development will be also discussed. As a general introduction to the issues implied by the relationships between economic progress, population growth, health, and politics, as major concepts involved in the notion of social development, the course has links with demography, sociology, history of political thought, economics, anthropology, and the health sciences.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 310",
+            "Title": "Civilians in Armed Conflict",
+            "Number_of_credits": "Credits",
+            "Description": "What happens to civilians in times of war? What are the responsibilities of militaries and rebel groups to people under their control -- and do they meet them? Who counts as a \"civilian,\" anyway? This course considers these questions and more. We examine the definition and causes of armed conflict, before turning to key issues such as civilian coping strategies during armed conflict, common patterns of violence against civilians, legal and policy remedies for human rights violations, and the politics of human rights advocacy.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 313",
+            "Title": "State & Local Government",
+            "Number_of_credits": "Credits",
+            "Description": "Examines major political, social, and economic problems of state, local, and metropolitan governments.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 320",
+            "Title": "The United States Congress",
+            "Number_of_credits": "Credits",
+            "Description": "An overview of politics and policy-making in the US Congress. Topics include: How are laws really made? What determines who is elected to Congress, and who leads once members are in place? How much does money matter in Congressional politics? How effective is Congress at passing legislation, and how effective is the legislation that eventually passes?.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PSCI 110 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PSCI 321",
+            "Title": "The United States Presidency",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to introduce the student to the concepts, principles, and history of the United States Presidency. Emphasis will be directed toward the concepts in the social sciences and political science in particular. In addition to lectures, there will also be a number of scholarly and general publication readings, films, and slide presentations for the course. A variety of exercises to enhance the course experience will be employed.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 324",
+            "Title": "Feminist Political Theories",
+            "Number_of_credits": "Credits",
+            "Description": "While the last three decades (at least) could be characterized as fundamentally challenging for feminist thought and practice, more than ever, feminist praxis is needed to critique and oppose systematic oppression, and build new structures, relations, and practices that can create a more justice, equitable world -- all the while critically examining the shifting terrains of power. This course will examine a selection of themes and topics in feminist theory and research, including violence against women, black feminist thought, transnational feminism, trans rights, and heterosexism, among others. Language, borders, economic inequity, and racism are key levers of power that we will explore in-depth.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 330",
+            "Title": "Public Opinion & Propaganda",
+            "Number_of_credits": "Credits",
+            "Description": "Examines public opinion and propaganda from a variety of perspectives, including the process of opinion formation and change and its role in the development of public policy and methods of measurement and analysis of public opinion.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 334",
+            "Title": "Politics of Environment and Health",
+            "Number_of_credits": "Credits",
+            "Description": "Examines political aspects of environmental health issues. Students will examine how \u201cenvironment\u201d and \u201chealth\u201d are defined by different stakeholders. How, according to these political actors, is health impacted by environment, and how are environmental factors addressed in healthcare? How do scientists study human exposure in everyday environments? What institutions are responsible for regulating hazardous materials? How is community health impacted by pollution and what actions do communities take to protect health? Using historical and contemporary case studies, students will engage with these questions at different scales of analysis, learning about the politics of knowledge, social movements, the medical establishment, and the ethics of health in late industrialism.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 335",
+            "Title": "Political Communication",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces an investigation of the relationship between politics and communication, with the goal of developing an understanding of political communication's role in election campaigns, news coverage, political debates, political advertising, and \"normal\" portrayals of the political system through media and interpersonal communication.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 336",
+            "Title": "Political Economy of Climate Change",
+            "Number_of_credits": "Credits",
+            "Description": "It is increasingly accepted that climate change is one of the major threats for human society. Without going into the depths of geoscience and historical climatology, this 3-credit course briefly surveys the evidence of climate change and anthropogenic global warming, as a prelude to analyzing the economic aspects of greenhouse gases emissions, the politics of controversies about climate change, and the proposals to deal with it.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 338",
+            "Title": "Cities and Climate Change",
+            "Number_of_credits": "Credits",
+            "Description": "In this course we will survey the known and emerging impacts of climate change on cities. We will learn key concepts and paradigms that are used by urban climate change experts. We will examine case studies that highlight the interdisciplinary and cross-sectoral approaches used to address urban climate change. These include local and regional policies, nongovernmental and governmental research, and experiments at the intersection of health, ecology, and infrastructure.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 351",
+            "Title": "The United Nations in World Politics",
+            "Number_of_credits": "Credits",
+            "Description": "This class is an introduction to the study of international organizations in world politics, focusing on the United Nations (UN). We will study a major theoretical problem: how international organizations attempt to govern a planet made up of self-interested, sovereign states. We also consider the practical issues that confront the UN and other international organizations.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 352",
+            "Title": "Ethics and International Relations",
+            "Number_of_credits": "Credits",
+            "Description": "Are ethics relevant in world politics, or are power and survival the only concerns? This course considers the main moral issues facing the international community. Topics include the \"just war\" tradition, human rights, humanitarian intervention, and what rich countries owe the poor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 353",
+            "Title": "International Human Rights",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines the origin of the international human rights movement after World War II, and discusses key issues confronting the international community today. These include genocide, political repression, the rights of women, and religious and cultural minorities. It also considers the moral basis of the rights ideal.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 361",
+            "Title": "The Politics of LGBT Movements and Rights",
+            "Number_of_credits": "Credits",
+            "Description": "In many countries, the subject of LGBT (lesbian, gay, bisexual, and trans) rights has entered the political discourse with unprecedented speed and suddenness. This course is designed to gain leverage on the processes that explain this rapid global expansion of LGBT rights by surveying an eclectic literature on comparative and transnational LGBT politics. Specially, we will ask: What factors have facilitated the mobilization of LGBT people? How and why have public opinion and laws towards LGBT people changed differently across various countries? To answer these questions, we will take an in-depth empirical look at movements representing LGBT people and their successes/losses\u2014as well as those of their opposition\u2014across time and place, from the late 1800s to present day and across the globe.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 363",
+            "Title": "Constitutional Law II",
+            "Number_of_credits": "Credits",
+            "Description": "Examines protections for civil liberties afforded by the First Amendment of the Constitution, specifically those related to speech, the press, religion, and assembly.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 364",
+            "Title": "Constitutional Law III",
+            "Number_of_credits": "Credits",
+            "Description": "Examines Constitutional civil rights claims arising under the Fourteenth Amendment equal protection and due process guarantees. Focuses on claims concerning discrimination on the basis of race, gender, and sexual orientation, as well as those asserted under an individual right to privacy in matters of reproductive rights, sexual conduct, and end of life decisions.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 366",
+            "Title": "Supreme Court and American Politics",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on the workings of the modern Supreme Court: theories of judicial interpretation; internal decision-making processes; the interplay of law and politics on the Court's personnel, agenda, and rulings; and the role of interest groups in shaping the Court's jurisprudence.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 369",
+            "Title": "The Politics of Food",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines how politics shapes our diet. Though cultural and personal preferences influence what we eat, our food choices unfold in the context of public policies such as agricultural subsidies, trade agreements, and food safety regulations, etc. The first part of the course describes and analyzes the US food system, with a focus on regulatory policies and interest group politics. The second part of the course examines the ideas and practices of food-based social movements that seek to create a food system that is less harmful to human and international health and more socially just than the existing system.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 371",
+            "Title": "Science, Technology, & Public Policy",
+            "Number_of_credits": "Credits",
+            "Description": "Examines the political effects of technological change, including public policy efforts to affect the impact of scientific development. Covers topics including atomic energy, electronic communications, and weapons development.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 372",
+            "Title": "City in United States Political Development",
+            "Number_of_credits": "Credits",
+            "Description": "Course examines the role of the American city in the larger project of state-building. Topics covered include the changing functions of cities over American history; the role of cities in national political coalitions; and the construction of ethnic, racial, and class identities as a process or urbanization.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 373",
+            "Title": "Animal Politics",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines the politics of human-animal interactions. Human relationships with animals vary by time and place: the same species might be a pet at one time, a food at another, and somewhere else, a model organism for experimental research. Understanding those relationships, and why they change, can help elucidate what it means, ethically, politically, and biologically, to be human. Topics in this course include animal rights and experimentation, the livestock industry, animal intelligence, and environmental legislation.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 374",
+            "Title": "Politics of Sport",
+            "Number_of_credits": "Credits",
+            "Description": "The material in this course comes from a variety of disciplines and schools of thought with political science serving as an overarching framework. Issues covered include ethnicity, gender, race, nationalism, globalism, economics, and class.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 375",
+            "Title": "Politics of Immigration",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to introduce the student to the issues associated with immigration from both a US and international as well as a historical and contemporary perspective. Emphasis will be focused on the theory, public policy and philosophical issues that are associated with this area of inquiry.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 376",
+            "Title": "Running for Political Office",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to introduce the students to both the theory and practice of running for political office. Emphasis will be placed upon both the theoretical and applied aspects of political campaigns. The course will use a combination of readings, a text, films, lectures, and guest speakers.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 492",
+            "Title": "Political Science Thesis I",
+            "Number_of_credits": "Credits",
+            "Description": "Students develop and begin an in-depth research project under the supervision of a political scientist. Course is restricted to seniors with a minimum 3.30 GPA. Can be continued asPSCI\u00a0493.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI 493",
+            "Title": "Political Science Thesis II",
+            "Number_of_credits": "Credits",
+            "Description": "Students complete an in-depth research project under the supervision of a political scientist.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PSCI 492 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PSCI I199",
+            "Title": "Independent Study in PSCI",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI I299",
+            "Title": "Independent Study in PSCI",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI I399",
+            "Title": "Independent Study in PSCI",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI I499",
+            "Title": "Independent Study in PSCI",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI T180",
+            "Title": "Special Topics in Political Science",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI T280",
+            "Title": "Special Topics II",
+            "Number_of_credits": "Credits",
+            "Description": "Special topics in political science at the intermediate level. See department for details of current offerings.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI T380",
+            "Title": "Special Topics III",
+            "Number_of_credits": "Credits",
+            "Description": "Special topics in political science at the intermediate/advanced level. See department for details of current offerings.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PSCI T480",
+            "Title": "Special Topics IV",
+            "Number_of_credits": "Credits",
+            "Description": "Special topics in political science at the advanced level. See department for details of current offerings.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

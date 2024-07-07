@@ -1,0 +1,677 @@
+[
+      {
+            "Identifier": "MATH 100",
+            "Title": "Fundamentals of Mathematics",
+            "Number_of_credits": "Credits",
+            "Description": "Course covers properties of real numbers, algebraic expressions, rational expressions, linear and quadratic functions and graphs. This course is intended to give students the background needed to enroll inMATH\u00a0101.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATH 101",
+            "Title": "Introduction to Analysis I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers linear, quadratic, exponential, and logarithmic functions; systems of linear equations; elementary linear programming; matrix algebra; inverse; and mathematics of finance.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 100 [Min Grade: C-] or APEM 070 or APC 060 or APMA49 P or APCA49 P"
+      },
+      {
+            "Identifier": "MATH 102",
+            "Title": "Introduction to Analysis II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers limits, continuity, derivatives, indefinite and definite integrals, and applications.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 101 [Min Grade: D] or MATH 171 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "MATH 105",
+            "Title": "Algebra, Functions, and Trigonometry",
+            "Number_of_credits": "Credits",
+            "Description": "Properties of real numbers, algebraic expressions, rational expressions, linear and quadratic functions and graphs, and additional topics from algebra. Topics from geometry and trigonometry essential for the study of calculus.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATH 107",
+            "Title": "Probability and Statistics for Liberal Arts",
+            "Number_of_credits": "Credits",
+            "Description": "Probability and statistics in everyday life. The pitfalls of interpreting statistical data. A basic introduction to probability, chance, and gambling. Examples include coin-tossing, dice and roulette wheels.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 100 [Min Grade: D] or MATH 101 [Min Grade: D] or APEM 070"
+      },
+      {
+            "Identifier": "MATH 108",
+            "Title": "Mathematics for Nursing Professionals",
+            "Number_of_credits": "Credits",
+            "Description": "Math foundations needed in the calculation of dosages and solutions of medications. Topics include systems of measurement and calculating dosages involving tablets, capsules, liquids, and powders.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATH 109",
+            "Title": "Practicum for Math 110",
+            "Number_of_credits": "Credit",
+            "Description": "This supplement toMATH\u00a0110emphasizes team-based approaches to working and learning, regular problem solving, and an appreciation for how mathematics is connected with other disciplines. Individual drills, small-group problem sets, and in-class discussion will reinforce the concepts inMATH\u00a0110and develop learning strategies that are useful in other courses.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATH 110",
+            "Title": "Precalculus",
+            "Number_of_credits": "Credits",
+            "Description": "Reviews topics from algebra, geometry, and trigonometry essential for the study of calculus. For students planning to take Calculus I.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 100 [Min Grade: C] or APC 060 or APMA49 P or APCA49 P"
+      },
+      {
+            "Identifier": "MATH 111",
+            "Title": "Practicum for Math 116",
+            "Number_of_credits": "Credit",
+            "Description": "The purpose of this course is to improve the study habits and learning strategies that are essential for success inMATH\u00a0116and other math courses. This course emphasizes team-based approaches to working and learning, regular problem solving, and an appreciation for how mathematics is connected with your discipline. Through individual drills, small-group problem sets, and in-class discussion we will reinforce concepts taught in your freshman mathematics sequence.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATH 112",
+            "Title": "Practicum for Math 121",
+            "Number_of_credits": "Credit",
+            "Description": "The purpose ofMATH\u00a0112is to improve the study habits and learning strategies that are essential for success inMATH\u00a0121and other math courses.MATH\u00a0112emphasizes team-based approaches to working and learning, regular problem solving, and an appreciation for how mathematics is connected with your discipline. Through individual drills, small-group problem sets, and in-class discussion we will reinforce concepts taught in your freshman mathematics sequence.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATH 113",
+            "Title": "Practicum for Math 122",
+            "Number_of_credits": "Credit",
+            "Description": "The purpose ofMATH\u00a0113is to improve the study habits and learning strategies that are essential for success inMATH\u00a0122and other math courses.MATH\u00a0113emphasizes team-based approaches to working and learning, regular problem solving, and an appreciation for how mathematics is connected with your discipline. Through individual drills, small-group problem sets, and in-class discussion we will reinforce concepts taught in your freshman mathematics sequence.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATH 114",
+            "Title": "Practicum for Math 117",
+            "Number_of_credits": "Credit",
+            "Description": "The purpose of this course is to improve the study habits and learning strategies that are essential for success in Calculus and Function II (MATH\u00a0117) and other math courses. This course emphasizes team-based approaches to working and learning, regular problem solving, and an appreciation for how mathematics is connected with your discipline. Through individual drills, small-group problem sets, and in-class discussion we will reinforce concepts taught in your freshman mathematics sequence.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATH 115",
+            "Title": "Practicum for MATH 200",
+            "Number_of_credits": "Credit",
+            "Description": "The purpose ofMATH\u00a0115is to improve the study habits and learning strategies that are essential for success inMATH\u00a0200and other math courses.MATH\u00a0115emphasizes team-based approaches to working and learning, regular problem solving, and an appreciation for how mathematics is connected with your discipline. Through individual drills, small-group problem sets, and in-class discussion we will reinforce concepts taught in your freshman mathematics sequence.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATH 116",
+            "Title": "Calculus and Functions I",
+            "Number_of_credits": "Credits",
+            "Description": "This is the first course in a two-term sequence designed to introduce students to key concepts from differential calculus while reviewing essential topics from algebra, geometry, and precalculus. Material includes limits and derivatives of algebraic functions and applications.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "APC 060 or MATH 100 [Min Grade: C] or APMA49 P or APCA49 P"
+      },
+      {
+            "Identifier": "MATH 117",
+            "Title": "Calculus and Functions II",
+            "Number_of_credits": "Credits",
+            "Description": "This is the second course in a two-term sequence designed to introduce students to key concepts from differential calculus while reviewing essential topics from algebra, geometry, and precalculus. Material includes limits and derivatives of transcendental functions and applications.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 116 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "MATH 119",
+            "Title": "Mathematical Foundations for Design",
+            "Number_of_credits": "Credits",
+            "Description": "This course serves as an introduction to the mathematical concepts and tools most useful to students majoring in the Design Arts. Topics include functions, graphs, plane and fractal geometry, trigonometry, polar coordinates, and elementary topology.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATH 121",
+            "Title": "Calculus I",
+            "Number_of_credits": "Credits",
+            "Description": "Functions, limits and continuity, derivatives, trancendental functions, and applications.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 110 [Min Grade: C-] or MATH 105 [Min Grade: C-] or APC 070 or APCA50 P"
+      },
+      {
+            "Identifier": "MATH 122",
+            "Title": "Calculus II",
+            "Number_of_credits": "Credits",
+            "Description": "Definite integrals, Fundamental Theorem of Calculus, integration techniques, applications of integration, numerical integration and differential equations.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 117 [Min Grade: C-] or MATH 121 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "MATH 123",
+            "Title": "Calculus III",
+            "Number_of_credits": "Credits",
+            "Description": "Differential equations, Taylor's theorem, sequence and series, convergence, power series.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 122 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 171",
+            "Title": "Introduction to Analysis A",
+            "Number_of_credits": "Credits",
+            "Description": "Polynomials (including linear and quadratic functions), exponential and logarithmic functions, financial applications, matrices, inverse matrices, and solutions of linear systems.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 100 [Min Grade: C-] or APEM 070 or APC 060 or APMA49 P or APCA49 P"
+      },
+      {
+            "Identifier": "MATH 172",
+            "Title": "Introduction to Analysis B",
+            "Number_of_credits": "Credits",
+            "Description": "Matrices, inverse matrices, and solutions of linear systems, limits, continuity, rates of change and derivatives, techniques of differentiation.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 171 [Min Grade: C-] or MATH 101 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 173",
+            "Title": "Introduction to Analysis C",
+            "Number_of_credits": "Credits",
+            "Description": "Applications of differentiation (including graphing and optimization), definite and indefinite integrals, techniques of integration, applications of integration.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 172 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "MATH 180",
+            "Title": "Discrete Computational Structures",
+            "Number_of_credits": "Credits",
+            "Description": "Covers basic concepts of discrete mathematics that are important to computing, including elementary set theory, recurrence relations, and graph theory.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 102 [Min Grade: D] or MATH 121 [Min Grade: D] or MATH 172 [Min Grade: C-] or MATH 117 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 200",
+            "Title": "Multivariate Calculus",
+            "Number_of_credits": "Credits",
+            "Description": "Vectors, curves, partial derivatives, gradient, constrained optimization, coordinate system, multiple integrals, and applications.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 122 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 201",
+            "Title": "Linear Algebra",
+            "Number_of_credits": "Credits",
+            "Description": "Systems of linear equations, matrix algebra, determinants, vector spaces, eigenvalues and eigenvectors, orthogonality, diagonalization, applications.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 121 [Min Grade: D] or MATH 117 [Min Grade: D] or MATH 102 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 205",
+            "Title": "Survey of Geometry",
+            "Number_of_credits": "Credits",
+            "Description": "Axiomatic approach to geometry: plane geometry, transformational geometrics, and an introduction to classical non-Euclidean geometries. Includes experimental approaches using appropriate software tools.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 201 [Min Grade: D] or MATH 261 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 210",
+            "Title": "Differential Equations",
+            "Number_of_credits": "Credits",
+            "Description": "Covers solution methods and properties for scalar and vector differential equations. Topics include linear and nonlinear equations, numerical methods, separation of variables, and transform methods.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 200 [Min Grade: D] and MATH 201 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 220   [WI]",
+            "Title": "Introduction to Mathematical Reasoning",
+            "Number_of_credits": "Credits",
+            "Description": "A transition course that develops the reasoning skills necessary for later courses. Emphasizes writing and presentation skills. Topics taken from set theory, logic, induction, relations, functions, and properties of the real number system.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 123 [Min Grade: C-] or MATH 200 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "MATH 221",
+            "Title": "Discrete Mathematics",
+            "Number_of_credits": "Credits",
+            "Description": "Elementary set theory, combinatorics, elementary number theory, graphs, and special topics chosen from formal language theory, graph algorithms, coding theory, and other applications.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 220 [Min Grade: C] or CS 270 [Min Grade: D] or ECE 200 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 222   [WI]",
+            "Title": "Combinatorics",
+            "Number_of_credits": "Credits",
+            "Description": "Select combinatorial topics such as recurrence relations, generating functions, inclusion-exclusion, and graph theory. Emphasis on techniques for writing mathematical arguments and proofs.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 220 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MATH 235",
+            "Title": "Math Competition Problem Solving Seminar",
+            "Number_of_credits": "Credits",
+            "Description": "Problems from math competitions (such as the Putnam exam) are solved by students in this course.This course may be repeated four times for credit as topics vary.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 4 times for 32 credits",
+            "Prerequisites": "MATH 200 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 238",
+            "Title": "History of Mathematics",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores the history of mathematical concepts. Both the people involved and the environment in which the developments took place will be studied. Mathematics from the time of Babylonia to the present will be discussed. The presentation will take a thematic approach, which may vary each term.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATH 239",
+            "Title": "Mathematics for the Life Sciences",
+            "Number_of_credits": "Credits",
+            "Description": "A broad survey of mathematical topics that are fundamental for application in the life science: multivariate calculus, differential equations, elementary probability. Emphasis on application.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 102 [Min Grade: D] or MATH 122 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 250",
+            "Title": "Mathematics of Investment and Credit",
+            "Number_of_credits": "Credits",
+            "Description": "Interest Rate Measurement, Valuation of Annuities, Loan Repayment,Bond Valuation Recommended for students taking actuarial exam FM2.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 123 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 261",
+            "Title": "Linear Algebra",
+            "Number_of_credits": "Credits",
+            "Description": "Covers matrix arithmetic systems of linear equations, including vector spaces, coordinate systems, determinants, characteristic value problems, and Euclidean spaces, and application to quadratic forms and linear differential equations. Problems from engineering and science will be solved using applications such as MATLAB during the lab.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 122 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 262",
+            "Title": "Differential Equations",
+            "Number_of_credits": "Credits",
+            "Description": "Covers solutions of first-order equations, undetermined coefficient and variation of parameter methods of solution of higher order linear equations, systems of equations, and Laplace transform. Problems from engineering and science will be solved using applications such as MATLAB during the lab.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 261 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 285",
+            "Title": "Differential Equations II",
+            "Number_of_credits": "Credits",
+            "Description": "",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 210 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 291",
+            "Title": "Complex and Vector Analysis for Engineers",
+            "Number_of_credits": "Credits",
+            "Description": "Complex and Vector Analysis for Engineers. Covers gradient, divergence, and curl; integral theorems curvilinear coordinates, complex differentiation and integration, Cauchy's Theorem, power series, residues and applications.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 200 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 300",
+            "Title": "Numerical Analysis I",
+            "Number_of_credits": "Credits",
+            "Description": "The course covers root finding and fixed points, polynomial interpolation, splines, numerical integration and numerical differentiation. The course emphasizes computational solutions.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 200 [Min Grade: D] and (MATH 201 [Min Grade: D] or MATH 261 [Min Grade: D]) and (CS 171 [Min Grade: D] or CS 123 [Min Grade: D])"
+      },
+      {
+            "Identifier": "MATH 301",
+            "Title": "Numerical Analysis II",
+            "Number_of_credits": "Credits",
+            "Description": "A continuation ofMATH\u00a0300. This course covers numerical solutions of initial value problems for ordinary differential equations, boundary value problems, and data approximation including least squares fit and the Fast Fourier Transform.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 300 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 305",
+            "Title": "Introduction to Optimization Theory",
+            "Number_of_credits": "Credits",
+            "Description": "Provides a broad survey of mathematical techniques in optimization theory used in operations research and management science. Includes topics selected from the following categories: linear programming, integer programming, network flows, and nonlinear programming.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 201 [Min Grade: D] or MATH 261 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 310",
+            "Title": "Probability and Statistics",
+            "Number_of_credits": "Credits",
+            "Description": "Not open to mathematics or computer science majors. Covers probability, probability distribution of discrete and continuous random variables, moment-generating functions, distribution of sample statistics, estimation and statistical tests, tests for goodness of fit, and regression analysis.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 200 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 311",
+            "Title": "Probability and Statistics I",
+            "Number_of_credits": "Credits",
+            "Description": "Discrete and continuous probability distributions, conditional probabilities, expected value and variance, joint probability distributions, discrete marginal distributions.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 122 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 312",
+            "Title": "Probability and Statistics II",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers joint & marginal distributions for continuous random variables, distributions of functions of random variables, moment-generating function technique, the central limit theorem. Estimation, consistency, unbiasedness, maximum likelihood, and simple linear regression.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 200 [Min Grade: D] and (MATH 311 [Min Grade: D] or ENGR 361 [Min Grade: D])"
+      },
+      {
+            "Identifier": "MATH 313",
+            "Title": "Probability and Statistics III",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers confidence intervals, minimum variance unbiased estimation, hypothesis testing, type I and type II errors, likelihood ratio tests, tests for means and variances. Chi-square goodness-of-fit tests, categorical data analysis, and analysis of variance.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 312 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 316",
+            "Title": "Mathematical Applications of Symbolic Software",
+            "Number_of_credits": "Credits",
+            "Description": "Mathematical Applications of Symbolic Software. Topics from calculus are investigated via complex problems requiring the use of symbolic mathematical software, primarily Maple. Numerical, graphical, and algebraic approaches are integrated. Limits, derivatives, root-finding, integration, and infinite series are explored in this context.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 123 [Min Grade: D] and MATH 200 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 318   [WI]",
+            "Title": "Mathematical Applications of Statistical Software",
+            "Number_of_credits": "Credits",
+            "Description": "Mathematical Applications of Statistical Software. Applications of modern statistical technologies and software, such as SAS, are used to describe and analyze data. Some topics covered are data management, collecting data, inferences for single and multiple population means, proportions count data, regression, correlation and nonparametric statistical methods.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 310 [Min Grade: D] or MATH 312 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 319",
+            "Title": "Techniques of Data Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "An applied course that considers the acquisition, analysis, visualization, and presentation of data. Emphasizes computation.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 318 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 320",
+            "Title": "Actuarial Mathematics",
+            "Number_of_credits": "Credits",
+            "Description": "Covers probability in a risk management context. Univariate probability distribution including binomial, negative binomial, Poisson, uniform, exponential, normal, lognormal, Pareto, and Weibull distributions. Multivariate distributions including conditional and marginal probability distributions, joint moment generating functions, probability and moments for linear combinations of independent random variables and related topics.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 312 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 321",
+            "Title": "Vector Calculus",
+            "Number_of_credits": "Credits",
+            "Description": "Covers vector algebra; gradient, divergence, curl, and curvilinear coordinates; Green's theorem, divergence theorem, and Stokes' theorem; and applications.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MATH 201 [Min Grade: D] or MATH 261 [Min Grade: D]) and MATH 200 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 322",
+            "Title": "Complex Variables",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces functions of one complex variable. Topics include the basic properties of analytic functions, power series, integration, residues and poles, and conformal mapping with applications.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 210 [Min Grade: D] or MATH 262 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 323",
+            "Title": "Partial Differential Equations",
+            "Number_of_credits": "Credits",
+            "Description": "Covers basic concepts and solution techniques for the standard partial differential equations of mathematical physics.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 210 [Min Grade: D] or MATH 262 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 331",
+            "Title": "Abstract Algebra I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers theory of groups, homomorphism and isomorphism, theory of rings, integral domains, ideals, unique factorization, and theory of fields.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MATH 220 [Min Grade: C-] or CS 270 [Min Grade: C-]) and (MATH 201 [Min Grade: D] or MATH 261 [Min Grade: D] or ENGR 231 [Min Grade: D])"
+      },
+      {
+            "Identifier": "MATH 332",
+            "Title": "Abstract Algebra II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers further topics in abstract algebra, including canonical decomposition of linear transformation, bilinear forms, multilinear algebra and determinants, finite fields, and selected short subjects.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 331 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "MATH 387",
+            "Title": "Linear Algebra II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers linear transformations, including kernel and range; eigenvalues and eigenvectors; diagonalization of symmetric matrices; and application to differential equations, quadratic forms, and Markov chains. Fall.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 261 [Min Grade: D] or MATH 201 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 401",
+            "Title": "Elements of Modern Analysis I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the real number system, elementary topology, limits, infinite series, continuity, derivatives, and the Riemann integral.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MATH 220 [Min Grade: C-] or CS 270 [Min Grade: C-]) and (MATH 201 [Min Grade: D] or MATH 261 [Min Grade: D] or ENGR 231 [Min Grade: D]) and MATH 200 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 402",
+            "Title": "Elements of Modern Analysis II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers continuation of integration theory, improper integrals, sequences and series, power series, and uniform convergence.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 401 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "MATH 410",
+            "Title": "Scientific Data Analysis I",
+            "Number_of_credits": "Credits",
+            "Description": "Fundamental principles and applications of statistics for scientific data analysis. Topics include data exploration, principles of probability distributions, Central Limit Theorem, hypothesis testing, z, t and F tests, one-way analysis of variance, linear regression, and contingency table analysis. Programming statistical applications in R will be included.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 122 [Min Grade: D] or MATH 239 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 411",
+            "Title": "Scientific Data Analysis II",
+            "Number_of_credits": "Credits",
+            "Description": "Scientific data analysis and experimental design. Topics include multiple regression and model selection, nonlinear and logistic regression, analysis of covariance, multi-factor analysis of variance, nested, factorial and repeated measures experimental designs, random effects, and introduction to bootstrap methods and randomization tests. Programming statistical applications in R will be included.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 410 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "MATH 422",
+            "Title": "Introduction to Topology",
+            "Number_of_credits": "Credits",
+            "Description": "Covers topological space, metric spaces, function, continuity, compactness, and connectedness.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 220 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MATH 449",
+            "Title": "Mathematical Finance",
+            "Number_of_credits": "Credits",
+            "Description": "This course is an introduction to the mathematics of finance. The main topics include: fixed income mathematics (duration, convexity, compounding conventions, immunization of bond portfolios, yield curve stripping), foundations of the arbitrage theory (pricing of futures and forwards, swaps, put/call parity) and introduction to stochastic derivative pricing (Black-Scholes and beyond).",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 311 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 450",
+            "Title": "Introduction to Graph Theory",
+            "Number_of_credits": "Credits",
+            "Description": "Introduction to Graph Theory. Topics covered include paths and cycles, Eulerian graphs, Hamiltonian graphs, trees, matching, coloring, planarity, and some additional topics in special graphs such as interval graphs.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MATH 201 [Min Grade: D] or MATH 261 [Min Grade: D]) and (MATH 221 [Min Grade: D] or MATH 222 [Min Grade: D])"
+      },
+      {
+            "Identifier": "MATH 475",
+            "Title": "Cryptography",
+            "Number_of_credits": "Credits",
+            "Description": "Classic cryptosystems, elementary number theory, RSA, ElGamal, discrete logarithms, digital signatures, plus a special topic selected from elliptic curves, information theory, and quantum cryptography.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MATH 201 [Min Grade: D] or MATH 261 [Min Grade: D]) and MATH 311 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATH 483",
+            "Title": "Introduction  to Monte Carlo Methods",
+            "Number_of_credits": "Credits",
+            "Description": "Covers system simulation, Monte Carlo methods, discrete event modeling techniques, queuing models, programming considerations, statistical definitions and concepts, random number generation, output analysis, and design of computer experiments.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 311 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MATH 489",
+            "Title": "Tensor Calculus",
+            "Number_of_credits": "Credits",
+            "Description": "Covers tensor algebra, including coordinate transformations, fundamental quadratic form, covariant and contravariant tensors, Riemannian metric, and applications.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MATH 201 [Min Grade: C] or MATH 261 [Min Grade: C] or ENGR 231 [Min Grade: C]) and MATH 200 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MATH I199",
+            "Title": "Independent Study in MATH",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATH I299",
+            "Title": "Independent Study in MATH",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATH I399",
+            "Title": "Independent Study in MATH",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATH I499",
+            "Title": "Independent Study in MATH",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATH T180",
+            "Title": "Special Topics in Mathematics",
+            "Number_of_credits": "Credits",
+            "Description": "",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATH T185",
+            "Title": "Special Topics",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATH T186",
+            "Title": "Special Topics",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATH T280",
+            "Title": "Special Topics in Mathematics",
+            "Number_of_credits": "Credits",
+            "Description": "Covers topics in pure or applied mathematics. Different topics may be considered in different quarters.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATH T380",
+            "Title": "Special Topics in MATH",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATH T480",
+            "Title": "Special Topics in Mathematics",
+            "Number_of_credits": "Credits",
+            "Description": "Covers topics in Mathematics of interest to students or faculty. Different topics may be considered during different quarters.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

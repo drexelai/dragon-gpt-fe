@@ -1,0 +1,137 @@
+[
+      {
+            "Identifier": "SE 181",
+            "Title": "Introduction to Software Engineering and Development",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces advanced software development fundamentals including memory management, typing and scoping, datastores, software testing, and security, as well as user-centric design and user experience. This course will be taught using a specified programming language of instruction.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CS 172 [Min Grade: C] or CS 176 [Min Grade: C]"
+      },
+      {
+            "Identifier": "SE 201",
+            "Title": "Introduction to Software Engineering and Development",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces advanced software development fundamentals including memory management, typing and scoping, datastores and software testing. This course will be taught using a specified programming language of instruction.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CS 172 [Min Grade: C] or CS 176 [Min Grade: C]"
+      },
+      {
+            "Identifier": "SE 210",
+            "Title": "Software Specification and Design I",
+            "Number_of_credits": "Credits",
+            "Description": "Study of the principles, practices, and techniques used to gather system requirements and document them in a requirements specification. Includes techniques for requirements discovery such as user interviews and prototyping. Introduces approaches for organizing and expressing software requirements in a requirements specification.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CS 172 [Min Grade: C] or CS 176 [Min Grade: C]"
+      },
+      {
+            "Identifier": "SE 211",
+            "Title": "Software Specification and Design II",
+            "Number_of_credits": "Credits",
+            "Description": "Continues study of requirements with increasing emphasis on converting requirements into a software system design. Presents alternate approaches, techniques for evaluating specifications, specification and design tools, and use of specifications to develop system-level tests.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "SE 210 [Min Grade: C]"
+      },
+      {
+            "Identifier": "SE 310",
+            "Title": "Software Architecture I",
+            "Number_of_credits": "Credits",
+            "Description": "Study of the principles and practices of object-oriented design with an emphasis on object relationships, loose coupling, and design patterns.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CS 265 [Min Grade: C] and CS 260 [Min Grade: C] and (SE 181 [Min Grade: C] or SE 201 [Min Grade: C])"
+      },
+      {
+            "Identifier": "SE 311",
+            "Title": "Software Architecture II",
+            "Number_of_credits": "Credits",
+            "Description": "Continues discussion of software architecture with a focus on micro-level architecture including patterns, frameworks, and component-based software engineering, and commercial off-the-shelf software.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "SE 310 [Min Grade: C]"
+      },
+      {
+            "Identifier": "SE 320",
+            "Title": "Software Verification and Validation",
+            "Number_of_credits": "Credits",
+            "Description": "Presents theory and practice of software testing. Covers structural testing including such topics as path testing, dataflow testing, logic based testing, syntax testing, program slicing, mutation testing, fault injection, program perturbation, and testing tools. Discusses techniques for test construction and test suite evaluation, and validation against requirements and design models. Also covers methods of inspection and review at various phases of the software lifecycle.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CS 260 [Min Grade: C] and (SE 181 [Min Grade: C] or SE 201 [Min Grade: C])"
+      },
+      {
+            "Identifier": "SE 410",
+            "Title": "Software Evolution",
+            "Number_of_credits": "Credits",
+            "Description": "Covers issues related to change in software systems. Addresses principles and techniques of corrective software maintenance, software enhancements, and software product family. Introduces students to issues of change in large software systems including configuration control, change and product management.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CS 260 [Min Grade: C]"
+      },
+      {
+            "Identifier": "SE 420",
+            "Title": "Open Source Software Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Explores tools, techniques, process, and culture of free and open source software (FOSS) projects. Addresses open source project evaluation, business models, and FOSS as a source of software engineering innovation. Includes student participation in an existing humanitarian FOSS project. Introduces concepts of computing for social good.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CS 260 [Min Grade: C]"
+      },
+      {
+            "Identifier": "SE I199",
+            "Title": "Independent Study in SE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SE I299",
+            "Title": "Independent Study in SE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SE I399",
+            "Title": "Independent Study in SE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SE I499",
+            "Title": "Independent Study in SE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SE T280",
+            "Title": "Special Topics in Software Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SE T480",
+            "Title": "Special Topics in Software Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Computing and Informatics",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

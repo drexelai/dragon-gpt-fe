@@ -1,0 +1,452 @@
+[
+      {
+            "Identifier": "PHIL 105",
+            "Title": "Critical Reasoning",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces and develops the skills involved in reasoning effectively about experience, and being able to distinguish strong arguments from weak ones.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 110",
+            "Title": "Introduction to Philosophy",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces the aims and some of the various methods, traditions and styles of Philosophy, including reading and discussion of some primary philosophical texts.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 111",
+            "Title": "Symbolic Logic I",
+            "Number_of_credits": "Credits",
+            "Description": "An introduction to the fundamental concepts of symbolic logic: argument, validity, soundness, provability, completeness, consistency, decidability, entailment, logical equivalence, logical truth, logical contradiction. Covers truth-functional connectives, rules of formation and translation, and rules of inference. Proof techniques studied include natural deduction, truth-tables, and/or truth-trees.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 121",
+            "Title": "Symbolic Logic II",
+            "Number_of_credits": "Credits",
+            "Description": "Concentrates on syntax and semantics of quantification. Formation principles include A, E, I, and O statements (and square of opposition), domain of discourse, quantifier scope, multiple quantification, relations, and identity. Proof mechanics covered include natural deduction, instantiation, semantic tableaux, and possible-world counterexamples.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 151",
+            "Title": "Ethical Reasoning",
+            "Number_of_credits": "Credits",
+            "Description": "This course will introduce the basic concepts and principles of ethical reasoning as applied to the widest variety of practical circumstances and contexts. Students will learn how to think about what ethics is, the nature of obligations and rights, how to recognize ethical problems, what it means to respond to them reasonably and how to think about their own and others' ethical perspectives and values.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 201",
+            "Title": "Non-Western Philosophies",
+            "Number_of_credits": "Credits",
+            "Description": "This variable topics course introduces one or more traditions and styles of philosophy that have not directly arisen from Classical Greco-Roman Antiquity. The class may involve reading and discussion of texts from various genres.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 210",
+            "Title": "Philosophy of Sport",
+            "Number_of_credits": "Credits",
+            "Description": "Studies theories about philosophical issues arising in sport, in areas including its personal, social, aesthetic, and political dimensions.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 211",
+            "Title": "Metaphysics: Philosophy of Reality",
+            "Number_of_credits": "Credits",
+            "Description": "Studies theories about the nature of reality and philosophical issues such as the nature of time, mind, personal identity, and free will.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 212",
+            "Title": "Ancient Philosophy",
+            "Number_of_credits": "Credits",
+            "Description": "Studies central works that have shaped Western Philosophy and culture from the Ancient Greek era and its legacy.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 214",
+            "Title": "Modern Philosophy",
+            "Number_of_credits": "Credits",
+            "Description": "Studies central works that have shaped Western Philosophy and culture from the Renaissance through the late Nineteenth Century.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 215",
+            "Title": "Contemporary Philosophy",
+            "Number_of_credits": "Credits",
+            "Description": "Studies central works that have had important impacts upon Western Philosophy and culture from the Twentieth Century through the present.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 216",
+            "Title": "Philosophy of Time",
+            "Number_of_credits": "Credits",
+            "Description": "In this course we will study philosophical problems surrounding the nature of time. We will consider questions like, \"Does the present exist?\"; \"Does time have a direction?\"; \"Are events pre-determined?\"; \"Is time travel possible?\"; etc. Students will read and discuss treatments of these issues in philosophy, literature, and film.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 218",
+            "Title": "Philosophy of Mathematics",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces the student to a critical analysis of the fundamental concepts, principles, and assumptions of mathematics. Included will be a consideration of the reality of mathematical \u201cobjects\u201d (numbers, sets, functions), the nature of mathematical knowledge, the relationship between logic and mathematics, and other topics which may include the discussion of mathematical concepts of continuity and infinity.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 221",
+            "Title": "Epistemology: Philosophy of Knowledge",
+            "Number_of_credits": "Credits",
+            "Description": "Studies theories about knowledge that bear upon philosophical issues concerned with the nature and status of knowledge claims as expressed in concepts like belief, truth, and justification.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 231",
+            "Title": "Aesthetics: Philosophy of Art",
+            "Number_of_credits": "Credits",
+            "Description": "Studies theories about art and the nature of beauty that bear on philosophical issues concerned with artistic production, performance, and perception, such as arise in activities like painting, sculpture, film literature, music, and dance.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 241",
+            "Title": "Social & Political Philosophy",
+            "Number_of_credits": "Credits",
+            "Description": "Studies theories about human social and political life that bear on philosophical issues such as the nature and scope of justice, the legitimacy of states, and the relationship between democracy, civil rights, and civil disobedience.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 251",
+            "Title": "Ethics",
+            "Number_of_credits": "Credits",
+            "Description": "Studies theories about human conduct which bear upon the rightness and wrongness of actions, and the goodness and badness of ends, including the nature, scope, purposes, and varieties of moral and ethical theories.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 255",
+            "Title": "Philosophy of Sex & Love",
+            "Number_of_credits": "Credits",
+            "Description": "This course investigates sexual activity and desire, and the morality of sexual behavior. It also examines various types of love and their links with sexuality. Figures studied include Plato, Aristotle, Augustine, Aquinas, Kant, Kierkegaard, Freud and Foucault. Topics include marriage, prostitution, pornography, homosexuality, perversion, rape, intentionality, irreplaceability, unconditionality, reciprocity, and exclusivity.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 291",
+            "Title": "Judaism and Christianity: Two Religions or One?",
+            "Number_of_credits": "Credits",
+            "Description": "The relation between Christianity and Judaism is one of the most misunderstood in the history of thought. Christianity is often considered to be diametrically opposed to Judaism, to be a rejection of the Judaic worldview. Indeed, prominent thinkers in the history of Christianity, such as Martin Luther, have reinforced this position. Yet Christianity was originally a development within Judaism, a sect, so to speak, of Judaism. The earliest Christians were Jewish followers of a Jewish leader and conceived of themselves as faithful Jews. So how did the two religions come to be viewed as opposed? Do elements of Judaism remain as part of the foundation of the new faith of Christianity? Where do the two faiths converge and where do they diverge? This course endeavors to answer these important questions.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 301",
+            "Title": "Business Ethics",
+            "Number_of_credits": "Credits",
+            "Description": "Study of such moral issues as truth-telling, puffery, and lying in business communications; employer-employee relations; obligations to customers; obligations to foreign populations; and government contracts.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 305",
+            "Title": "Ethics and the Media",
+            "Number_of_credits": "Credits",
+            "Description": "Ethical analysis of current laws and legislation aimed at regulating speech in the context of mass communications (radio, television and film).",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 311",
+            "Title": "Ethics and Information Technology",
+            "Number_of_credits": "Credits",
+            "Description": "Ethical analyses of current laws and pending legislation aimed at regulating computer use as well as Internet practices and content.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 315",
+            "Title": "Engineering Ethics",
+            "Number_of_credits": "Credits",
+            "Description": "Provides critical reflection on the nature of engineering and technology and on the ethical obligations and responsibilities unique to the engineering profession. Topics include the social responsibilities of engineering, the nature of professionalism, professional autonomy, whistleblowing, conflicts of interest, organizational (dis)obedience, the ethics of risk assessment, and the place and purpose of engineering codes of ethics.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 317",
+            "Title": "Ethics and Design Professions",
+            "Number_of_credits": "Credits",
+            "Description": "Examines ethical theories and their application to architecture; the ethics of architectural space and place; the logic of ethical reasoning applied to the practice of architecture; professional ethics and the social responsibility of architects; the ethics of safety and risk in the production of architectural structures; sustainable environmental architectural design.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 321",
+            "Title": "Biomedical Ethics",
+            "Number_of_credits": "Credits",
+            "Description": "Studies moral issues related to health and disease, patients' rights and professional responsibilities, informed consent, abortion, euthanasia, and biomedical research.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 323",
+            "Title": "Organizational Ethics",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on the application of ethical theories and principles to organizational systems and decision-making. Emphasis will be placed on how ethical principles affect and are applied to organizational policy-making, leadership behavior, systems of communication, technology use, and other systems of organization.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 325",
+            "Title": "Ethics in Sports Management",
+            "Number_of_credits": "Credits",
+            "Description": "An introduction to various ethical issues in sports and sports management, such as leadership and coaching; gender and racial equity in sports; fair play and cheating; violence and competition; commercialization of sports; the relation of sports to cultural value systems; ethics of technology and sports performance.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 330",
+            "Title": "Criminal Justice Ethics",
+            "Number_of_credits": "Credits",
+            "Description": "Studies ethical issues in the policies and practices of criminal justice, and theories that bear upon issues such as the relationship of law to justice, the definition of crime, the use of deception and coercion in law enforcement, and the purposes and varieties of criminal punishment.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 335",
+            "Title": "Global Ethical Issues",
+            "Number_of_credits": "Credits",
+            "Description": "Offers an introduction to the ethical tensions of our age, globally construed. May address such issues as terrorism, genocide, religious exclusivism, nuclear proliferation, the regulation of the Internet, as well as culturally competing notions of right and wrong, and good and bad.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 340",
+            "Title": "Environmental Ethics",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines ethical questions about human relations with the nonhuman world. These questions will be informed by assessing sustainable practices, indigenous ways of life, environmental movements, and such issues as biodiversity loss and global climate change.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 341",
+            "Title": "Environmental Philosophy",
+            "Number_of_credits": "Credits",
+            "Description": "Studies ecological issues from a philosophical standpoint stressing the implications of scientific and technological developments as they affect people's lives and choices.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 351",
+            "Title": "Philosophy of Technology",
+            "Number_of_credits": "Credits",
+            "Description": "Studies technology from a philosophical standpoint stressing its role in shaping human existence and values, considering issues such as the control and distribution of information, housing and city planning, automation, and the uses of technology in medicine.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 355",
+            "Title": "Philosophy of Medicine",
+            "Number_of_credits": "Credits",
+            "Description": "Examines the ideas of medicine, disease, and health from a philosophical perspective. Examines such concepts as gender, mental-illness, mind-body unity, aging and physical perfection as derived from both Eastern and Western traditions. Current health policy alternative treatment practices are also discussed.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 361",
+            "Title": "Philosophy of Science",
+            "Number_of_credits": "Credits",
+            "Description": "Studies natural scientific theory-construction and investigative methods from a philosophical standpoint, considering issues such as the nature and scope of experimental method, and the history and justification of theory change.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 381   [WI]",
+            "Title": "Philosophy in Literature",
+            "Number_of_credits": "Credits",
+            "Description": "Studies philosophical issues such as the concept of the self, the nature and course of evil, the nature and scope of free will, and ideals in living as they appear in significant works of literature.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 385",
+            "Title": "Philosophy of Law",
+            "Number_of_credits": "Credits",
+            "Description": "This course addresses philosophical issues in the law. Topics include the meaning of \"law,\" the nature and logic of legal (in contrast to moral) concepts and principles, and competing conceptions of law (Natural Law, Positivism, Realism, Rights-Based, etc.). Authors may include Plato, Mill, Rawls, Hart, Dworkin and others.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 391",
+            "Title": "Philosophy of Religion",
+            "Number_of_credits": "Credits",
+            "Description": "Studies various aspects of religious belief and experience from a philosophical standpoint, considering issues such as the definition and existence of God, the nature and course of evil, and the relationship between faith and reason in a religious life.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 481   [WI]",
+            "Title": "Seminar in a Philosophical School",
+            "Number_of_credits": "Credits",
+            "Description": "Development of doctrines, theories, arguments and problems associated with one or more philosophical schools (or movements). Schools (or movements) may include Pythagoreanism, Platonism, Epicureanism, or recently, Positivism, Pragmatism, and Existentialism.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "(PHIL 121 [Min Grade: D] or PHIL 210 [Min Grade: D] or PHIL 211 [Min Grade: D] or PHIL 212 [Min Grade: D] or PHIL 214 [Min Grade: D] or PHIL 215 [Min Grade: D] or PHIL 216 [Min Grade: D] or PHIL 218 [Min Grade: D] or PHIL 221 [Min Grade: D] or PHIL 231 [Min Grade: D] or PHIL 241 [Min Grade: D] or PHIL 251 [Min Grade: D] or PHIL 255 [Min Grade: D] or PHIL T280 [Min Grade: D] or PHIL 291 [Min Grade: D] or PHIL 301 [Min Grade: D] or PHIL 305 [Min Grade: D] or PHIL 311 [Min Grade: D] or PHIL 315 [Min Grade: D] or PHIL 317 [Min Grade: D] or PHIL 321 [Min Grade: D] or PHIL 323 [Min Grade: D] or PHIL 325 [Min Grade: D] or PHIL 330 [Min Grade: D] or PHIL 335 [Min Grade: D] or PHIL 340 [Min Grade: D] or PHIL 341 [Min Grade: D] or PHIL 351 [Min Grade: D] or PHIL 355 [Min Grade: D] or PHIL 361 [Min Grade: D] or PHIL T380 [Min Grade: D] or PHIL 381 [Min Grade: D] or PHIL 385 [Min Grade: D] or PHIL 391 [Min Grade: D] or PHIL T480 [Min Grade: D] or PHIL 201 [Min Grade: D]) and (PHIL 102 [Min Grade: D] or PHIL 105 [Min Grade: D] or PHIL 110 [Min Grade: D] or PHIL 111 [Min Grade: D] or PHIL 151 [Min Grade: D] or PHIL 101 [Min Grade: D])"
+      },
+      {
+            "Identifier": "PHIL 485   [WI]",
+            "Title": "Seminar in a Major Philosopher",
+            "Number_of_credits": "Credits",
+            "Description": "Study of the works of a major philosopher such as Plato, Aristotle, Descartes, Locke, Hume, Kant, etc.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "(PHIL 121 [Min Grade: D] or PHIL 210 [Min Grade: D] or PHIL 211 [Min Grade: D] or PHIL 212 [Min Grade: D] or PHIL 214 [Min Grade: D] or PHIL 215 [Min Grade: D] or PHIL 216 [Min Grade: D] or PHIL 218 [Min Grade: D] or PHIL 221 [Min Grade: D] or PHIL 231 [Min Grade: D] or PHIL 241 [Min Grade: D] or PHIL 251 [Min Grade: D] or PHIL 255 [Min Grade: D] or PHIL T280 [Min Grade: D] or PHIL 291 [Min Grade: D] or PHIL 301 [Min Grade: D] or PHIL 305 [Min Grade: D] or PHIL 311 [Min Grade: D] or PHIL 315 [Min Grade: D] or PHIL 317 [Min Grade: D] or PHIL 321 [Min Grade: D] or PHIL 323 [Min Grade: D] or PHIL 325 [Min Grade: D] or PHIL 330 [Min Grade: D] or PHIL 335 [Min Grade: D] or PHIL 340 [Min Grade: D] or PHIL 341 [Min Grade: D] or PHIL 351 [Min Grade: D] or PHIL 355 [Min Grade: D] or PHIL 361 [Min Grade: D] or PHIL T380 [Min Grade: D] or PHIL 385 [Min Grade: D] or PHIL 391 [Min Grade: D] or PHIL T480 [Min Grade: D] or PHIL 381 [Min Grade: D] or PHIL 201 [Min Grade: D]) and (PHIL 101 [Min Grade: D] or PHIL 102 [Min Grade: D] or PHIL 105 [Min Grade: D] or PHIL 110 [Min Grade: D] or PHIL 111 [Min Grade: D] or PHIL 151 [Min Grade: D])"
+      },
+      {
+            "Identifier": "PHIL 497   [WI]",
+            "Title": "Senior Essay I: Research & Thesis Development",
+            "Number_of_credits": "Credits",
+            "Description": "Individual supervision. Selection of research topic for the senior argumentative essay; collection and analysis of hard-copy and electronic research material; construction of bibliography. Initial thesis formulation and drafting of argument sketch.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL 498   [WI]",
+            "Title": "Senior Essay II: Argument Construction",
+            "Number_of_credits": "Credits",
+            "Description": "Supervised construction of the main and supporting arguments of the senior essay involving drafting and re-drafting of the prose statement.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHIL 497 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHIL 499   [WI]",
+            "Title": "Senior Essay III: Defense",
+            "Number_of_credits": "Credits",
+            "Description": "Individual Supervision. Defense of the senior essay thesis before the philosophy faculty and fellow senior philosophy majors. Written replies to main criticisms as determined by the faculty supervisor. Final submission of senior essay.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHIL 498 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHIL I199",
+            "Title": "Independent Study in PHIL",
+            "Number_of_credits": "Credit",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL I299",
+            "Title": "Independent Study in PHIL",
+            "Number_of_credits": "Credit",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL I399",
+            "Title": "Independent Study in PHIL",
+            "Number_of_credits": "Credit",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL I499",
+            "Title": "Independent Study in PHIL",
+            "Number_of_credits": "Credit",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL T180",
+            "Title": "Special Topics in Philosophy",
+            "Number_of_credits": "Credit",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL T280",
+            "Title": "Special Topics in Philosophy",
+            "Number_of_credits": "Credit",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL T380",
+            "Title": "Special Topics in Philosophy",
+            "Number_of_credits": "Credit",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHIL T480",
+            "Title": "Special Topics in Philosophy",
+            "Number_of_credits": "Credit",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

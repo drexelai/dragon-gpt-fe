@@ -1,0 +1,47 @@
+[
+      {
+            "Identifier": "MTED 363",
+            "Title": "Middle Years Mathematics Methods (4-8)",
+            "Number_of_credits": "Credit",
+            "Description": "This course focuses on critical knowledge and skills for teaching mathematics in middle years, including learning theories and psychology in mathematics education. The major goal is to provide prospective middle school teachers the opportunity to develop concepts, skills, and pedagogical procedures for effective teaching of mathematics. Additionally, we will consider important social and cultural aspects of teaching math that impact student learning, as well as reflect on how teaching mathematics can be made exciting, intriguing, and understandable for students. This course has a Stage 1-2 field component, successful completion of the field component is required for recommendation for certification. See SoE Field Placement Office website for all clearance policy and field experience requirements.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MTED 417",
+            "Title": "Mathematics Methods and Content: Early Childhood",
+            "Number_of_credits": "Credits",
+            "Description": "Students will know and effectively deliver standards-based academic math content, based on age appropriate understanding, and individual and groups needs including a respect for the unique needs of all types of learners. This course requires additional field experience hours. This course has a Stage 3 field component, successful completion of the field component is required for recommendation for certification. See SoE Field Placement Office website for all clearance policy and field experience requirements.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MTED 418",
+            "Title": "Mathematics Methods and Content",
+            "Number_of_credits": "Credits",
+            "Description": "Course emphasizes diagnostic instruction in mathematics by allowing students to complete problems that their students will be expected to work, noting the error and correction process, as well as gaining an awareness of student difficulties in mathematics.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MTED 417 [Min Grade: B]"
+      },
+      {
+            "Identifier": "MTED 419",
+            "Title": "Teaching Secondary Mathematics",
+            "Number_of_credits": "Credits",
+            "Description": "This course emphasizes the major issues in learning and teaching mathematics in the secondary school. Topics will include instructional practices, learning theories, philosophies of assessment, and curriculum in the secondary school. Throughout the course, emphasis will be placed on the appropriate use of technology. This course has a Stage 3 field component, successful completion of the field component is required for recommendation for certification. See SoE Field Placement Office website for all clearance policy and field experience requirements.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MTED 428",
+            "Title": "Cultural and Historical Significance of Mathematics",
+            "Number_of_credits": "Credits",
+            "Description": "The course explores how mathematics reflects and influences the ideas and movements in culture, history, biography and philosophy. An emphasis on teaching methods is integrated throughout the course.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      }
+]

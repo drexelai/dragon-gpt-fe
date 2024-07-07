@@ -1,0 +1,479 @@
+[
+      {
+            "Identifier": "PBHL 101",
+            "Title": "Public Health 101",
+            "Number_of_credits": "Credits",
+            "Description": "Introduction to Public Health is a broad overview class designed to give an introduction to the core tenets of Public Health. Basic concepts covered in the class are the basic definitions and concepts related to public health. Specific areas that will be further explored in the class include, what it means to be healthy, what is public health, what are social determinants of health, what is disease prevention and health promotion and what are health inequalities among others.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL 210",
+            "Title": "Biostatistics I",
+            "Number_of_credits": "Credits",
+            "Description": "Biostatistics gives us the tools to turn data into scientific knowledge that can improve human health. In this course, students will gain skills in foundational biostatistical methods including probability, hypothesis testing and parameter estimation, analysis of categorical data, parametric and non-parametric tests for means and proportions, and analysis of variance (ANOVA), emphasizing appropriate application of methods based on study design and data characteristics. Students will use the open-source statistical software R.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL 211",
+            "Title": "Biostatistics II",
+            "Number_of_credits": "Credits",
+            "Description": "Biostatistics gives us the tools to turn data into scientific knowledge that can improve human health. In this course, students will expand their skills in foundational biostatistical methods, including simple and multiple linear regression, analysis of confounding and interaction, logistic regression, and descriptive analysis for survival data. Students will use the open-source statistical software R.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PBHL 312 [Min Grade: C] or PBHL 210 [Min Grade: C] or STAT 201 [Min Grade: C] or MATH 310 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PBHL 215",
+            "Title": "Introduction to Clinical Research",
+            "Number_of_credits": "Credits",
+            "Description": "Clinical research is foundational in the development and assessment of the safety and efficacy of medical and health interventions, including medications, devices, diagnostic procedures, and treatment regimens with a goal of improving individuals\u2019 health. Critical to designing and implementing valid clinical studies is an understanding of clinical trials and the methods used to analyze them. In this course, students will be introduced to clinical trials and their operations, as well as statistical methods important for designing and implementing clinical trials.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PBHL 312 [Min Grade: C] or PBHL 210 [Min Grade: C] or STAT 201 [Min Grade: C] or MATH 310 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PBHL 301",
+            "Title": "Epidemiology in Public Health",
+            "Number_of_credits": "Credits",
+            "Description": "This is an introductory course designed to teach undergraduate students the basic principles and concepts of epidemiology. The course highlights the approaches used in the field of epidemiology to study disease in populations, incorporating concepts of disease causation and control.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL 302",
+            "Title": "Introduction to the History of Public Health",
+            "Number_of_credits": "Credits",
+            "Description": "This course considers the origins of contemporary public health by examining major currents in the history of public health in the United States from Colonial times to the present, with an emphasis on the 20th century.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PBHL 101 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PBHL 303",
+            "Title": "Overview of Issues in Global Health",
+            "Number_of_credits": "Credits",
+            "Description": "This introductory course will cover the major issues and considerations involved in global health. It is a survey course that is designed to familiarize students with the major topics in the global health. The goal of the course is to provide students with an overview of concepts such as the determinants of health, the measurements of health status and global burden of the disease.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PBHL 101 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PBHL 304",
+            "Title": "Introduction to Health & Human Rights",
+            "Number_of_credits": "Credits",
+            "Description": "This introductory course highlights the intrinsic link between one's health and his/her fundamental human rights. When such rights (access to medical care, housing, food, standard of living) are violated, this can lead to adverse health outcomes.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PBHL 101 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PBHL 305",
+            "Title": "Women and Children: Health & Society",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to give students a broad overview of pertinent issues surrounding the health and well being of mothers and children. The course emphasizes the inter-relationship among women's health, reproductive health and child health.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL 306",
+            "Title": "Introduction to Community Health",
+            "Number_of_credits": "Credits",
+            "Description": "This three credit course will provide the foundation for studying the root causes affecting community health in the United States, as well as broad efforts to improve world health. This course is designed to enhance oral and written communications on public health issues, advocacy, and public policy, while enhancing content, process skills, and other essential competencies.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PBHL 101 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PBHL 307",
+            "Title": "Injury Prevention and Control",
+            "Number_of_credits": "Credits",
+            "Description": "Unintentional injury is the leading cause of death for people in the United States between the ages of 1 and 44. Homicide and suicide are the second and third leading cause of death for people aged 15-34. The cost of medically treated injuries is estimated at over $100 billion annually. This course examines injury as one of the core public health problems in the United States. Causes such as motor vehicles, opioids, interpersonal and self-inflicted violence, and work are some of the topics examined, including their physical and psychological outcomes. The subsequent costs and burdens to the healthcare system are explored. Policy and behavioral interventions are addressed. Where possible, extensions to international settings are made.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL 308",
+            "Title": "The U.S. Public Health System",
+            "Number_of_credits": "Credits",
+            "Description": "This course will provide students with an understanding of the organizational components of the public health system in the United States. Among the topics covered are the roles of different levels of government in the financing, delivery, and regulation of public health services and the complementary private, non-profit components of the public health system. The course addresses several current, critical public health policy issues and how different political and economic interests and actors interact in shaping public policy on these issues.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PBHL 101 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PBHL 309",
+            "Title": "Public Health Ethics",
+            "Number_of_credits": "Credits",
+            "Description": "This course will explore the emergence of the public health field, its philosophical, historical, and political development, its relationship to the field of human rights and its future. Emphasis will be placed on developing a mastery of the current literature on the subject and on formulating novel approaches in public health ethics. This course is demanding in both reading and writing; students should be prepared to engage in serious dialogue each week in class.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PBHL 101 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PBHL 310",
+            "Title": "Burden of Disease",
+            "Number_of_credits": "Credits",
+            "Description": "This course will cover selected topics of the burden of disease with critical review of the current public health literature. Students will have the opportunity to learn the basic concepts and methods of exploring risk factors and assessing the burden of disease at regional, national and global levels, through class lectures, group exercise and individual projects.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PBHL 301 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PBHL 311",
+            "Title": "Public Health Biology",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to introduce students to the biologic basics of the causes, natural history, and prevention of diseases of public health importance. An integrated perspective will be used to demonstrate the connection between exposures and cellular effects, disease processes in individuals, and population impacts. Coverage will include infectious disease transmission and prevention; cancer biology regarding etiology, prevention, and treatment; nutritional influences in obesity, diabetes and heart disease.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(BIO 107 [Min Grade: C] or BIO 122 [Min Grade: C] or BIO 131 [Min Grade: C]) and PBHL 101 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PBHL 312",
+            "Title": "Public Health Data Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "This course will introduce students to the basic concepts and methods of biostatistics as they relate to applications in public health practice and research.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PBHL 101 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PBHL 313",
+            "Title": "The Social Determinants of Health and Well-Being",
+            "Number_of_credits": "Credits",
+            "Description": "The goal of this course is to introduce students to the patterning of health and well-being among social groups within and between societies, and how a social science approach can improve our understanding of health and illness at a population level, and identify possible public health strategies for reducing health disparities.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PBHL 101 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PBHL 314",
+            "Title": "Environmental and Occupational Health",
+            "Number_of_credits": "Credits",
+            "Description": "The goal of this course is to provide students with basic knowledge of EOH as it applies to the practice of public health from individual, community and political perspectives. Students will also gain skills needed to understand and conduct scientific research related to EOH. Students will be expected to critically analyze EOH issues and explore appropriate responses.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PBHL 101 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PBHL 315",
+            "Title": "Public Health Leadership",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides students with an introduction to the environment and organizations in public health leadership. This course introduces leadership skills to lead changes in public health organizations. The cases and lectures throughout the course have been designed to develop leadership approaches for public health agencies.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PBHL 101 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PBHL 316",
+            "Title": "Drugs, Society, and Public Health",
+            "Number_of_credits": "Credits",
+            "Description": "This course will examine problems associated with drug use through the prism of public health. The first half of the course will be devoted to understanding biological, psychological, social, and cultural aspects of key licit and illicit substances. The second half will focus on relevant public health aspects of drug use, including preventions, intervention, treatment, and policy. Intersecting issues include homelessness, HIV/AIDS, mental health & violence. Students will be exposed to key books and peer-reviewed articles that address these issues from a range of theoretical & analytical approaches.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL 317",
+            "Title": "The World's Water",
+            "Number_of_credits": "Credits",
+            "Description": "Water is essential for life. Worldwide, 25% of people lack safely managed drinking water services and nearly 50% lack safely managed sanitation services. Safe and sufficient water, sanitation and hygiene services (WASH) are key for health and human rights. WASH services are a critical component of responses to infectious disease epidemics and ensuring infection prevention in healthcare facilities. Contaminated drinking water, inadequate water supply, or poor sanitation and hygiene all contribute to disease burden and decreased quality of life, particularly among the most vulnerable populations. This course will discuss a wide variety of topics related to WASH around the globe and the U.S. and will explore how WASH problems are compounded by emerging infectious diseases, climate change and rapid urbanization.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL 318",
+            "Title": "Violence and Trauma in Public Health",
+            "Number_of_credits": "Credits",
+            "Description": "This course will focus on the public health policy and practice aspects of trauma violence and adversity. The course will begin by laying a foundation of trauma theory and then will examine the impact of emerging knowledge on individuals, communities and systems. The course will examine trauma informed models, which have been applied to individuals, communities and systems and will analyze the policy and practice implications of these models as well as the translation from research to practice.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL 319",
+            "Title": "Nature Prescription: Trees, Green Space, and Your Health",
+            "Number_of_credits": "Credits",
+            "Description": "Trees and green spaces distinctly shape the character of cities, and there is increasing evidence that vegetated landscapes also affect the health of urban residents. We will explore the relationship between vegetated landscapes and human health outcomes - from improved mental health and outdoor recreation, to benefits from \u2018ecosystem services\u2019 provided by trees and other vegetation. The environmental and biological mechanistic pathways leading to health effects will be delineated. Risk-benefit tradeoffs will also be considered. Also discussed will be the types of health impact data that may be useful to planners and policy makers to support decisions for installation of new parks or other urban vegetation, and a field assessment to estimate such impacts will be conducted.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL 320",
+            "Title": "Exploring the HIV/AIDS Pandemic",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines the natural history, diagnosis and surveillance of HIV/AIDS. While this is an epidemiology based course, the students will also learn the basic virology of HIV, including the life cycle and genetic diversity of the virus in order to more fully describe the epidemiology of the pandemic. In addition to learning about the biology and epidemiology of the pandemic which can limit its control. Students will be responsible for reporting on a country of their choice, describing the history, epidemiology, and methods of control utilized by that country.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BIO 107 [Min Grade: C] or BIO 122 [Min Grade: C] or BIO 131 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PBHL 321",
+            "Title": "Disease Outbreak Investigations",
+            "Number_of_credits": "Credits",
+            "Description": "The emergence of new pathogens and drug resistance, as well as increased transmission opportunities caused by globalization has led to a rising prevalence of new infectious diseases as well as reemergence of older diseases. this course will focus on the surveillance, identification, control, and prevention of selected infectious diseases of Public Health importance both globally and within the U.S. Specific areas that will be addressed include the causative agents, the routes of transmission, the host responses, environmental factors, unique risk factors, outbreak investigations, surveillance and strategies for control and prevention. We will incorporate the history of communicable disease control efforts where relevant and discuss the role of increased globalization in the spread of infectious diseases.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL 332",
+            "Title": "Autism as a Public Health Challenge",
+            "Number_of_credits": "Credits",
+            "Description": "Demonstrates how to apply public health concepts to an important societal challenge that is quite distinct from those more commonly thought of as public health problems (like infectious diseases, chronic diseases, and injuries). Students will be introduced to autism spectrum disorders from a variety of perspectives and will gain skill and experience distilling and communicating information relevant to understanding and explaining the public health challenges related to autism spectrum disorders and the ways we are working toward solutions.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PBHL 301 [Min Grade: C] and PBHL 302 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PBHL 333",
+            "Title": "Health Inequality",
+            "Number_of_credits": "Credits",
+            "Description": "This course addresses questions related to health inequities\u2014the systematic and avoidable differences in the health of social groups (e.g., racial, ethnic, gender, socioeconomic, sexual orientation) in a society. This multidisciplinary course integrates knowledge from the fields of public health, biology, medicine, sociology, psychology, political science, and history to provide students with a cohesive understanding of the magnitude of health disparities in societies, the processes through which they are produced, and methods for analyzing disparities.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PBHL 101 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PBHL 334",
+            "Title": "Hip Hop, Hollywood and Health",
+            "Number_of_credits": "Credits",
+            "Description": "Have you heard the Logic song \"1-800-273-8255\" about the National Suicide Prevention Lifeline? Did you think about how this song affected the way that people think about suicide prevention? Or whether the song actually raised awareness about the lifeline? In this course, we will critically examine the role that this Logic song and other music, television, film, and social media play in shaping our knowledge, attitudes and practices related to health. Students will content analyze media to identify health themes, understand the scope of key topics through the lens of public health, learn about policies and interventions to address the health issue, and compare and contrast the public health approach to the health issue with its depiction in popular and social media.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL 335",
+            "Title": "Applied Quantitative Research Methods",
+            "Number_of_credits": "Credits",
+            "Description": "How can we tell if the water we drink is making us sick? What\u2019s the best way to estimate the prevalence of a new infectious disease? How do we know when an intervention is effective in reducing mortality? New and challenging data analysis problems require skills in quantitative research and computing. This course uses data from fields including environmental health and infectious disease to build research skills in exploratory data analysis, data visualization, statistical modeling and analysis, and scientific communication. The statistical software R is used. Students will develop skills in data visualization, multivariable regression modeling, generalized linear models, model diagnostics, and critical interpretation of results. Students will use these skills in a final data analysis project and report.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PBHL 312 [Min Grade: C] or PBHL 210 [Min Grade: C] or STAT 201 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PBHL 340",
+            "Title": "Advanced Biostatistical Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "This course will build skills in data analysis using the statistical software R. Topics include data visualization, writing functions in R, and the application of statistical methods including multiple regression, generalized linear models, non-parametric regression, and basic survival analysis.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PBHL 211 [Min Grade: C] or STAT 202 [Min Grade: C] or MATH 411 [Min Grade: C] or HSCI 350 [Min Grade: C] or INFO 332 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PBHL 350",
+            "Title": "Introduction to Urban Health",
+            "Number_of_credits": "Credits",
+            "Description": "It is estimated that by 2050, 66% of the world\u2019s population will live in urban areas. Promoting population health and health equity is a key challenge, but also a key opportunity for cities and broader urban areas that surround them. This course is designed to provide an overview of urban health including theory, methodology, and empirical evidence. The course will explore urban health strategies, including programs and policies aimed at impacting the social determinants of health, and how these strategies affect health outcomes of populations in urban settings.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL 362",
+            "Title": "Global Air Pollution and Health",
+            "Number_of_credits": "Credits",
+            "Description": "Global air pollution is an important determinant of human health, causing millions of deaths worldwide each year. This course will examine how air pollutants are emitted into or form in the atmosphere, how people are exposed to air pollutants, and how these pollutants contribute to the burden of death, disease and disability in human populations. The course will provide an understanding of the properties of air pollutants, relevant atmospheric chemistry and physical processes, and how pollutants are measured. Students will consider inequities in the impact of air pollutants on human populations across the globe. Students will learn about national programs and policies for the control of air pollutants, and about the international agencies working to solve air pollution as a global health problem.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL 400",
+            "Title": "Introduction to Statistical Inference",
+            "Number_of_credits": "Credits",
+            "Description": "This course will introduce the theoretical framework of commonly used statistical methods, making connections between probability theory and providing context to understand when statistical methods can be used appropriately. Topics include exponential family probability distributions, conditional distributions and independence, expectations and transformations, point and interval estimation, maximum likelihood estimation, hypothesis testing and likelihood ratio tests.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 122 [Min Grade: C] and (PBHL 312 [Min Grade: C] or PBHL 210 [Min Grade: C] or STAT 201 [Min Grade: C] or MATH 310 [Min Grade: C])"
+      },
+      {
+            "Identifier": "PBHL 401",
+            "Title": "Introduction to Public Health",
+            "Number_of_credits": "Credits",
+            "Description": "The purpose of this course is to provide a broad introduction to public health, as well as an understanding about how specialized health research contribute to achieving the goals of public health.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Can be repeated 2 times for 0 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL 411",
+            "Title": "Food Security, Human Rights and Public Health",
+            "Number_of_credits": "Credits",
+            "Description": "This course examines the field of public health nutrition through the lens of international human rights and social and political contexts in the United States. Not only is this course scholarly and informative, but it engages students\u2019 personal experiences with food and family, invited guest speakers, a field trip, and debates on critical policy issues in nutrition and public health in the United States.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL 422",
+            "Title": "Health and Human Rights Research Methods",
+            "Number_of_credits": "Credits",
+            "Description": "This seminar focuses on the application of human rights norms and tools to public health and particular challenges within public health. Building upon human rights frameworks, we will discuss current debates about the usefulness of a \u201chuman rights approach\u201d to health, the methods and ethics of health-related human rights research, and case studies of human rights investigations and advocacy. The case studies are intended to examine how human rights abuses, including violations of economic and social rights and civil and political rights, can be understood as determinants of health.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PBHL 304 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "PBHL 453",
+            "Title": "Longitudinal Data Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "Longitudinal data measure characteristics on the experimental units repeatedly over time. It is an essential design to study temporal change and to establish causal relationships. The analysis of longitudinal data requires sophisticated methodologies due to the correlation introduced by repeated measurements. This course covers modern statistical techniques for longitudinal data from an applied perspective.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PBHL 210 [Min Grade: C] or PBHL 312 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PBHL 455",
+            "Title": "Introduction to Statistical Computing",
+            "Number_of_credits": "Credits",
+            "Description": "Research projects often involve the management and manipulation of complicated sets of data. This course is designed to introduce the student to practical issues in the management and analysis of health and pharmaceutical data using the SAS programming language. Data from a variety of public health and biomedical applications will be used throughout the course to illustrate the principles of data management and analysis for addressing biomedical and health-related hypotheses.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL 457",
+            "Title": "Adapting to a Hotter Climate: Protecting Health of Vulnerable Populations",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an overview of the public health impacts of a changing global climate and strategies to prevent or reduce these impacts. How will societies cope with projected worsening of heat waves, extreme storms, and air pollution, shifts in vector-borne diseases, and displacement of populations sea-level rise? The course will survey the direct and indirect impacts of climate change on human health. Emphasis will be on changes in environmental conditions, stressors placed on human populations, and the strategies that societies will have to develop to reduce impacts on vulnerable populations.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL 458",
+            "Title": "Crisis and Risk Communication in Public Health",
+            "Number_of_credits": "Credits",
+            "Description": "Students will learn to create effective risk communication messages that are both theoretically grounded and based upon key lessons learned from the field of public health preparedness. Using a case study approach, and with an emphasis on developing skills including message design and evaluation, this course aims to give students an applied experience that will serve as a foundation for a career in public health or health communication.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL 459",
+            "Title": "Survival Data Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers the basic techniques of survival analysis. These approaches are useful in analyzing cohort data, which are common in health studies, when the main interest outcome is the onset of event and time to event is known. The response is often referred to as failure time, survival time, or event time, and this course will introduce students to methods necessary for analyzing this type of data.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PBHL 211 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PBHL 495",
+            "Title": "Health Data Analytics Capstone",
+            "Number_of_credits": "Credits",
+            "Description": "The senior capstone is a culminating experience for the health data analytics major. In this course, students will integrate the skills from their undergraduate coursework in a data analysis project motivated by scientific questions.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL 497",
+            "Title": "Capstone Experience I",
+            "Number_of_credits": "Credits",
+            "Description": "The senior capstone is a progressive 3-quarter experience with cross cutting competencies for graduating public health major seniors to provide them with an individualized learning experience of breadth and depth. Students will work with faculty members to design a project that will fulfill both their public health interests as well as the broader capstone objectives. Students will participate in in-class learning with other public health majors to acquire foundational concepts, which they can apply to their individualized project.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PBHL 301 [Min Grade: C-] and PBHL 302 [Min Grade: C-] and PBHL 303 [Min Grade: C-] and PBHL 304 [Min Grade: C-] and PBHL 308 [Min Grade: C-] and PBHL 314 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "PBHL 498   [WI]",
+            "Title": "Capstone Experience II",
+            "Number_of_credits": "Credits",
+            "Description": "The senior capstone is a progressive 3-quarter experience with cross cutting competencies for graduating public health major seniors to provide them with an individualized learning experience of breadth and depth. Students will work with faculty members to design a project that will fulfill both their public health interests as well as the broader capstone objectives. Students will participate in in-class learning with other public health majors to acquire foundational concepts, which they can apply to their individualized project.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PBHL 301 [Min Grade: C-] and PBHL 302 [Min Grade: C-] and PBHL 303 [Min Grade: C-] and PBHL 304 [Min Grade: C-] and PBHL 308 [Min Grade: C-] and PBHL 314 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "PBHL 499   [WI]",
+            "Title": "Capstone Experience III",
+            "Number_of_credits": "Credits",
+            "Description": "The senior capstone is a progressive 3-quarter experience with cross cutting competencies for graduating public health major seniors to provide them with an individualized learning experience of breadth and depth. Students will work with faculty members to design a project that will fulfill both their public health interests as well as the broader capstone objectives. Students will participate in in-class learning with other public health majors to acquire foundational concepts, which they can apply to their individualized project.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PBHL 301 [Min Grade: C-] and PBHL 302 [Min Grade: C-] and PBHL 303 [Min Grade: C-] and PBHL 304 [Min Grade: C-] and PBHL 308 [Min Grade: C-] and PBHL 314 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "PBHL I199",
+            "Title": "Independent Study in PBHL",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL I299",
+            "Title": "Independent Study in PBHL",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL I399",
+            "Title": "Independent Study in PBHL",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL I499",
+            "Title": "Independent Study in PBHL",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL T180",
+            "Title": "Special Topics in Public Health",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL T280",
+            "Title": "Special Topics in Public Health",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL T380",
+            "Title": "Special Topics in Public Health",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PBHL T480",
+            "Title": "Special Topics in Public Health",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Dornsife School of Public Health",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

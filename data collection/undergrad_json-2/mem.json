@@ -1,0 +1,713 @@
+[
+      {
+            "Identifier": "MEM 201",
+            "Title": "Foundations of Computer Aided Design",
+            "Number_of_credits": "Credits",
+            "Description": "Covers application of modern, computer-aided graphics techniques and the use of state-of-the-art, computer-aided design/drafting package(s). Includes topics such as principles of computer-aided design/drafting and interactions with computer-aided manufacturing, rapid prototyping, and other modern manufacturing processes; engineering graphics and graphics languages in computer-aided design and/or drafting; creation of a drawing environment; database and file management, editing, modification, displaying, dimensioning, plotting and printing; special editing techniques; 3-D modeling, solid modeling, shading, and rendering; and file transfer. Students must have Sophomore class standing.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 202",
+            "Title": "Statics",
+            "Number_of_credits": "Credits",
+            "Description": "Covers two-and three-dimensional vector representation of forces, moments and couples; static equilibrium of particles, rigid bodies, and engineering structures; analysis of external and internal forces in structures via methods of free body diagrams; and properties of cross-sectional areas.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 185 [Min Grade: D] or PHYS 101 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 210",
+            "Title": "Introduction to Thermodynamics",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces thermodynamics from a classical point of view. Covers work, heat, entropy, thermodynamic properties, equations of state, and first and second law analysis of closed systems, control volumes, and selected thermodynamic cycles.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 122 [Min Grade: D] and PHYS 101 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 220",
+            "Title": "Fluid Mechanics I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers general physical properties of a fluid; kinetics of fluid motion; material derivative, vorticity, strain, and dynamics of fluids; and derivation of conservation laws in control volume form with applications.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MATH 200 [Min Grade: D] or MATH 189 [Min Grade: D]) and MEM 202 [Min Grade: D] and MEM 310 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 230",
+            "Title": "Mechanics of Materials I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers definitions of stress and strain, uniaxial loading, torsion, bending moments and shear forces in beams, bending stresses and shear stress in beams, and stress transformation.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 202 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 238",
+            "Title": "Dynamics",
+            "Number_of_credits": "Credits",
+            "Description": "Covers kinematics and kinetics in two and three-dimensional space, force and acceleration, linear and angular momentum, and energy methods.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MATH 189 [Min Grade: D] or MATH 200 [Min Grade: D]) and MEM 202 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 255",
+            "Title": "Introduction to Controls",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces the concepts of modeling of mechanical, electrical, electromechanical, thermal, and hydraulic systems; linearization; state-space model; time-domain analysis; transfer functions; frequency-domain analysis; analysis of systems involving automatic control of position, speed, power, flow, pressure, temperature, and other physical quantities; basic concept of feedback; basic concept of stability; computer-aided analysis.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 238 [Min Grade: D] and (MATH 201 [Min Grade: D] or MATH 261 [Min Grade: D] or ENGR 231 [Min Grade: D]) and (MATH 210 [Min Grade: D] or MATH 262 [Min Grade: D] or ENGR 232 [Min Grade: D])"
+      },
+      {
+            "Identifier": "MEM 304",
+            "Title": "Introduction to Biomechanical Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "An overview of the application of mechanical engineering to biological systems. Covers basic anatomy and physiology; tissue, joint, cell, and protein mechanics; joint kinematics; biofluid mechanics; biothermodynamics; biotransport; biomimetic controls; and biomanufacturing.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 200 [Min Grade: D] and PHYS 101 [Min Grade: D] and CHEM 102 [Min Grade: D] and BIO 141 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 310",
+            "Title": "Thermodynamic Analysis I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers second law of thermodynamics as applied to closed systems, control volumes, and thermodynamic cycles (Carnot); entropy and isentropic relationships; gas (Otto, Diesel, Stirling, Ericsson, Brayton), vapor (Rankine), and refrigeration cycles.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGR 210 [Min Grade: D] or MEM 210 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 311",
+            "Title": "Thermal  Fluid Science Laboratory",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces modern laboratory techniques, including statistical analysis of experimental data; thermodynamic properties and equations of state; and dynamic and static temperature measurements with potentiometers, bridge circuits, and oscilloscopes. Fall.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 220 [Min Grade: D] and MEM 310 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 320",
+            "Title": "Fluid Dynamics I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers equation of motion for compressible flow; static, total, and stagnation concepts; one-dimensional isentropic, normal shock, including Fanno and Rayleigh flows and choked flow; two-dimensional supersonic flow, including Prandtl-Meyer flow and oblique shocks; analysis and design of compressible flow devices, including supersonic nozzles, diffusers, wind tunnels, inlets, and combustors.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 220 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 321",
+            "Title": "Fluid Mechanics II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers differential analysis of fluid flow, including the Euler\u2019s equations, potential flows, and the Navier-Stokes equations; angular momentum and its application to turbomachinery; external flow and boundary layers, and an introduction to compressible flow.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 220 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 330",
+            "Title": "Mechanics of Materials II",
+            "Number_of_credits": "Credits",
+            "Description": "Reviews mechanics of materials, beam theory, combined loading, stress transformation, shear center, asymmetrical bending, deflection of beams, statically indeterminate beams, energy methods, inelastic bending, and beam column instability.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 230 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 331",
+            "Title": "Experimental Mechanics I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers static testing methods, including strain gages, extensometers, photoelasticity, and model analysis; practical applications of experimental stress analysis; and verification of standard materials tests, including tensile, shear, and buckling. Winter. Some or all pre-requisites may be taken as either a pre-requisite or co-requisite. Please see the department for more information.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 238 [Min Grade: D] (Can be taken Concurrently) and MEM 230 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 333",
+            "Title": "Mechanical Behavior of Materials",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces the deformation and failure of engineering materials; Emphasizes application of the fundamentals to engineering design to prevent failure; Covers material damage and failure under multi-axial stresses, yielding, fracture mechanics, fatigue crack growth, fatigue life estimation, and deformation and failure of composite materials.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 230 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 345",
+            "Title": "Heat Transfer",
+            "Number_of_credits": "Credits",
+            "Description": "Covers fundamentals of conduction, convection, and radiation; steady and unsteady heat conduction; fundamentals of boundary layer flows; introduction to forced and free convection for external and internal flows; blackbody radiation; and radiation and surface radiation properties.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGR 210 [Min Grade: D] and (MEM 220 [Min Grade: D] or CIVE 320 [Min Grade: D]) and (MATH 210 [Min Grade: D] or MATH 262 [Min Grade: D] or ENGR 232 [Min Grade: D])"
+      },
+      {
+            "Identifier": "MEM 351",
+            "Title": "Dynamic Systems Laboratory I",
+            "Number_of_credits": "Credits",
+            "Description": "Includes experiments involving modeling and simulation of linear and non-linear dynamic systems, including feedback controls. Spring.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 255 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 355",
+            "Title": "Performance Enhancement of Dynamic Systems",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces measures of performance of dynamical systems, means of computing/evaluation-of such measures, and how to design controllers to improve performance.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 255 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 361",
+            "Title": "Engineering Reliability",
+            "Number_of_credits": "Credits",
+            "Description": "Reviews probability concepts and modeling of random phenomena, including parameter estimation, empirical determination of distribution models, catastrophic failure models, material strength and fatigue life distribution, and reliability improvement.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 290 [Min Grade: D] or MATH 201 [Min Grade: D] or MATH 261 [Min Grade: D] or ENGR 231 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 371",
+            "Title": "Introduction to Nuclear Engineering I",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces the fundamental scientific, technical, social and ethical issues in nuclear engineering; nuclear reactions and readiation, radiation protection and control, nuclear energy production and utilization, nuclear fuel cycle, nuclear fuel cycle, nuclear materials, controlled fusion and thermonuclear plasma systems, basics of plasma physics and plasma chemistry, nuclear waste management, nuclear reactor safety, analysis of severe nuclear accidents, risk assessment and related issues of engineering ethics.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 201 [Min Grade: D] and (ENGR 210 [Min Grade: D] or CHE 206 [Min Grade: D])"
+      },
+      {
+            "Identifier": "MEM 373",
+            "Title": "Space Systems Engineering I",
+            "Number_of_credits": "Credits",
+            "Description": "Introduction to space engineering through presentation of two topics that serve as the foundation of space systems analysis and design: rocket propulsion and orbital mechanics.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 220 [Min Grade: D] and MEM 238 [Min Grade: D] and MEM 310 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 374",
+            "Title": "Space Systems Engineering II",
+            "Number_of_credits": "Credits",
+            "Description": "Introduction to design principles and theory of satellite systems engineering, including design theories and parameters involved in satellite development, as well as real life conditions such as applications, product assurance, assembly, and testing.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 373 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 395",
+            "Title": "Hess Undergraduate Scholars Research",
+            "Number_of_credits": "Credits",
+            "Description": "A change for undergraduates to experience independent research as part of the MEM Hess Honors Program. Weekly group meetings to discuss the details of the research endeavor are coupled with independent student in a research laboratory. May be repeated five times for credit.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated 5 times for 18 credits",
+            "Prerequisites": "MEM 310 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 400",
+            "Title": "Internal Combustion Engines",
+            "Number_of_credits": "Credits",
+            "Description": "Covers engine types and trends, thermodynamics of engines and engine processes, ideal and actual engine processes and cycles, combustion and emissions, fuel chemistry and properties, detonation and knock, and engine testing and performance.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 310 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 402",
+            "Title": "Power Plant Design",
+            "Number_of_credits": "Credits",
+            "Description": "Covers heat cycle arrangement, equipment selection, analysis of cost demands, and diversity factors. Includes economic studies of plant and cycle arrangements.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 310 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 403",
+            "Title": "Gas Turbines & Jet Propulsion",
+            "Number_of_credits": "Credits",
+            "Description": "Covers fundamentals of thermodynamics and aerothermodynamics, and application to propulsion engines; thermodynamic cycles and performance analysis of gas turbines and air-breathing propulsion systems, turbojet, turboprop, ducted fan, ramjet, and ducted rocket; theory and design of ramjets, liquid and solid rockets, air-augmented rockets, and hybrid rockets; aerodynamics of flames, including the thermodynamics and kinetics of combustion reactions; supersonic combustion technology and zero-g propulsion problems; and propulsion systems comparison and evaluation for space missions.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 220 [Min Grade: D] and MEM 310 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 405",
+            "Title": "Principles of Combustion I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers thermochemistry, the relationship between heats of formation and bond energies, heat capacity and heats of reaction, chemical equilibrium, calculation of flame temperature, and composition of burned gas.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 410 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 406",
+            "Title": "Principles of Combustion II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers laminar flame propagation in premixed gases, detonation and deflagration, burning of liquid and solid fuels, and diffusion flames.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 405 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 410",
+            "Title": "Thermodynamic Analysis II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers thermodynamic analysis of ideal and real mixtures and gas phase reacting systems; Maxwell relations; chemical and phase equilibrium; air-conditioning; and combustion.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 310 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 413",
+            "Title": "HVAC Loads",
+            "Number_of_credits": "Credits",
+            "Description": "Human comfort and associated models; state-of-the-art methods of calculating building peak heating and cooling loads; analysis of different psychrometric processes; different types of secondary systems: description, operating principles, modeling, simulation and sizing of secondary systems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 345 [Min Grade: D] and (MEM 310 [Min Grade: D] or AE 220 [Min Grade: D])"
+      },
+      {
+            "Identifier": "MEM 414",
+            "Title": "HVAC Equipment",
+            "Number_of_credits": "Credits",
+            "Description": "Standard and real, single-stage multistage refrigeration cycles; vapor compression components (compressor, expansion devices, condensers, and evaporators); heat pumps; absorption systems; boilers; heat exchangers; cooling coils, cooling towers; part-load energy performance; annual energy; annual energy estimation methods (degree-day, bin method, modified degree-day).",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 345 [Min Grade: D] and (MEM 310 [Min Grade: D] or AE 220 [Min Grade: D])"
+      },
+      {
+            "Identifier": "MEM 415",
+            "Title": "Fuel Cell Engines",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces fundamental aspects and operating principles of fuel cell systems, including: basic electrochemical principles, thermodynamics required for understanding the operation, components including functions and materials, electrochemical performance characteristics, analysis of system losses and efficiency, various fuel cell types, current state of technology, application areas/implementation, and current technical challenges.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MEM 220 [Min Grade: D] or CHE 302 [Min Grade: D] or CIVE 320 [Min Grade: D]) and MEM 310 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 417",
+            "Title": "Introduction to Microfabrication",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on the fundamentals of microfabrication technologies. The materials, principles, and applications of silicon-based microfabrication technologies such as photolithography, wet/dry etching, deposition techniques, surface micromachining, and polymer micromachining are covered. This course also includes two lab sessions through which students have hands-on experiences in microfabrication.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 419",
+            "Title": "Microfluidics and Lab-on-a-Chip",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on design, manufacturing, and application of lab-on-a-chip systems as well as understanding microfluidic phenomena. The lecture covers novel microfluidic phenomena, microsensors, microactuators, and case studies. This course also includes two lab sessions through which student have hands-on experiences in lab-on-a-chip technology.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 417 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 420",
+            "Title": "Aerodynamics",
+            "Number_of_credits": "Credits",
+            "Description": "Covers steady and unsteady flow, flow around a body, wing theory, thin airfoil theory, fundamental equation of finite-wing theory, and aerodynamic characteristics of wings. Introduces potential theory and boundary layer phenomena.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 220 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 423",
+            "Title": "Mechanics of Vibration",
+            "Number_of_credits": "Credits",
+            "Description": "Covers free and forced vibrations of one-, two-, and multiple-degree-of-freedom systems; continuous systems; and transient and random vibration problems. Includes use of digital computer for homework and special class problems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 238 [Min Grade: D] and (TDEC 222 [Min Grade: D] or ENGR 232 [Min Grade: D] or MATH 210 [Min Grade: D] or MATH 262 [Min Grade: D])"
+      },
+      {
+            "Identifier": "MEM 424",
+            "Title": "Biomechanics",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces modeling of dynamics of biomechanical systems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 202 [Min Grade: D] and MEM 238 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 425",
+            "Title": "Aircraft Design & Performance",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces aerodynamics and airfoils; steady flight; power required and power available curves; range and endurance; takeoff, glide, and landing; stick force and control-free stability; moment coefficients and derivatives; and designing to specification. Students must have Junior class standing.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 426",
+            "Title": "Aerospace Structures",
+            "Number_of_credits": "Credits",
+            "Description": "Covers properties of wing and fuselage sections, torsion of thin-walled and skin-stringer multiple-cell sections, non-symmetrical bending of wing and fuselage sections, shear in thin-walled and skin-stringer sections, and buckling. Introduces matrix methods.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 230 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 427",
+            "Title": "Finite Element Methods",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces the fundamental theory and formulations of finite element method and its application in structural mechanics and thermal/fluid science. Topics include formulation of 1-D and 2-D elements, isoparametric elements, static and dynamic analysis of trusses, beams, and frames, 2-D plane problems, and heat transfer problems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 230 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 428",
+            "Title": "Introduction to Composites I",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces anisotropic elasticity, lamina stiffness and compliance, plane stress and strain, test methods, and failure criteria.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 330 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 429",
+            "Title": "Introduction to Composites II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers laminated plate theory, stiffness and compliance of laminated plates, effect of laminated configuration on elastic performance, and strength production.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 428 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 430",
+            "Title": "Advanced Stress Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "Examines three-dimensional representation of stress and strain, coordinate transformation, stress strain relationships for anisotropic and isotropic materials, equilibrium equations, boundary value problems, governing equations in plane strain and plane stress problems, Airy's stress function, two-dimensional problems in polar coordinates, and selected applications to stress analysis problems in mechanical engineering.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 330 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 431",
+            "Title": "Machine Design I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers static strength and fatigue theories of failure, fasteners, welded joints, springs, roller bearings, and lubricated spur gears.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 202 [Min Grade: D] and MEM 230 [Min Grade: D] and MEM 238 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 435",
+            "Title": "Introduction to Computer-Aided Design and Manufacturing",
+            "Number_of_credits": "Credits",
+            "Description": "Covers fundamental use of CAD/CAM systems for geometry definition, finite element applications, and introductory computer graphics concepts.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 201 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 436",
+            "Title": "Introduction to Computer-Aided Manufacturing",
+            "Number_of_credits": "Credits",
+            "Description": "Examination of the basic elements that are used to integrate the design and manufacturing processes. Robotics computerized-numerical controlled machine, and CAD/CAM systems. Manufacturability considerations when integrating unit process elements.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 201 [Min Grade: D] and MEM 435 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 437",
+            "Title": "Manufacturing Process I",
+            "Number_of_credits": "Credits",
+            "Description": "Examines the basic elements used to integrate the design and manufacturing processes; robotics, computerized-numerical-controlled machines, and CAD/CAM systems; and manufacturability considerations when integrating unit process elements.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 220 [Min Grade: D] and MEM 230 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 438",
+            "Title": "Manufacturing Process II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers plastics and reinforced plastics processes, theory of polymer and plastic process, simple models of polymer flows, and manufacturability of plastics.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 437 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 440",
+            "Title": "Thermal Systems Design",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers fundamentals of thermal system design; the role of design in engineering practice; economic analysis used for design of thermal systems; advanced concepts and analysis of heat exchangers and distillation equipment; modeling of thermal systems; simulation of thermal systems; fundamentals of optimization and design of optimized thermal systems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 345 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 444",
+            "Title": "Biofluid Mechanics",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces flow-related anatomy and pathophysiology, and biomedical flow devices and their design challenges. Analysis methods to solve biological fluid mechanics design problems are introduced and several interdisciplinary team projects are assigned to apply fluid mechanics to practical biological or medical problems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 220 [Min Grade: D] or BMES 451 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 445",
+            "Title": "Solar Energy Fundamentals",
+            "Number_of_credits": "Credits",
+            "Description": "This course focuses on basic theories of solar radiation, solar thermal energy, and photovoltaics. Students will learn basic radiation heat transfer, solar radiation, solar thermal collection and storage, passive and active solar heating/cooling, physics of photovoltaic cells, and characteristics and types of solar cells.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 345 [Min Grade: C] and PHYS 201 [Min Grade: C]"
+      },
+      {
+            "Identifier": "MEM 446",
+            "Title": "Fundamentals of Plasmas I",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces the fundamentals of plasma science and modern industrial plasma applications in electronics, fuel conversion, environmental control, chemistry, biology, and medicine. Topics include quasi-equilibrium and non-equilibrium thermodynamics, statistics, fluid dynamics and kinetics of plasma and other modern high temperature and high energy systems and processes.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 201 [Min Grade: D] or TDEC 201 [Min Grade: D] or PHYS 112 [Min Grade: D] or PHYS 187 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 447",
+            "Title": "Fundamentals of Plasmas II",
+            "Number_of_credits": "Credits",
+            "Description": "Continues the development of the engineering fundamentals of plasma discharges applied in modern industrial plasma applications in electronics, fuel conversion, environmental control, chemistry, biology, and medicine. Topics include quasi-equilibrium and non-equilibrium thermodynamics, statistics, fluid dynamics of major thermal and non-thermal plasma discharges, operating at low, moderate and atmospheric pressures.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 446 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 448",
+            "Title": "Applications of Thermal Plasmas",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces applications of modern thermal plasma processes focused on synthesis of new materials, material treatment, fuel conversion, environmental control, chemistry, biology, and medicine. Topics Include thermodynamics and fluid dynamics of high temperature plasma processes, engineering organization of specific modern thermal plasma technologies.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 201 [Min Grade: D] or TDEC 201 [Min Grade: D] or PHYS 112 [Min Grade: D] or PHYS 187 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 449",
+            "Title": "Applications of Non-Thermal Plasmas",
+            "Number_of_credits": "Credits",
+            "Description": "Application of modern non-thermal plasma processes focused on synthesis of new materials, material treatment, fuel conversion, environmental control, chemistry, biology, and medicine. Topics Include non-equilibrium thermodynamics and fluid dynamics of cold temperature plasma processes, engineering organization of specific modern non-thermal plasma technologies.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 201 [Min Grade: D] or TDEC 201 [Min Grade: D] or PHYS 112 [Min Grade: D] or PHYS 187 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 451",
+            "Title": "Orbital Mechanics",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces two-body problems, satellite orbits, their characterization and determination; transfer maneuvers between orbits; path planning for inter-planetary travels.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 238 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 453",
+            "Title": "Aircraft Flight Dynamics & Control I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers general equations of motion for aircraft; linearization based on small disturbance theory and modal analysis to identify longitudinal open-loop characteristics; review of classical control theory; state space analysis; and autopilot design, including classical, pole placement, and optimal.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 355 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 454",
+            "Title": "Aircarft Flight Dynamics & Control II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers observers; lateral dynamics; Dutch roll, roll convergence, and spiral modes; autopilot design and evaluations; and inertial cross-coupling computer simulation and analysis.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 453 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 455",
+            "Title": "Introduction to Robotics",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces basic concepts in robot operation and structure, including actuators, sensors, mechanical components, robot control and robot programming.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 238 [Min Grade: D] and MEM 255 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 456",
+            "Title": "Robotics II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers homogeneous kinematics of robots; velocities and accelerations; and static forces in manipulators, including iterative Newton-Euler formulation of manipulator dynamics.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 455 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 457",
+            "Title": "Robotics III",
+            "Number_of_credits": "Credits",
+            "Description": "Covers robotic-based automated manufacturing, including robot work cell configurations, applications of robots in manufacturing, material transfer, assembly, and inspection.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 456 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 458",
+            "Title": "Micro-Based Control Systems I",
+            "Number_of_credits": "Credits",
+            "Description": "Provides hands-on experience in real-time control and manipulation of hardware dynamic systems, including microcomputer, architecture, software, and device drivers. Emphasizes real-time interfacing of data acquisition and control systems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 355 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 459",
+            "Title": "Control Applications of DSP Microprocessors",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesMEM\u00a0458. Provides real-time control and manipulation of hardware dynamic systems. Emphasizes real-time interfacing of data acquisition and control systems. Topics include Code Composer Studio, Microprocessor C programming, Pulse width modulation (PWM), Quadrature encoder pulse (QEP) circuits, DSP system control and interrupts, Digital loop systems, design of PID digital controllers, design of digital controllers in state space, microcomputer controller implementation, sensors and actuators, and implementation of digital controllers in microprocessors.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 458 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 462   [WI]",
+            "Title": "Introduction to Engineering Management",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces the general theory of management, including the processes of planning, organizing, assembling resources, supervising, and controlling.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 475",
+            "Title": "Medical Robotics I",
+            "Number_of_credits": "Credits",
+            "Description": "Use of robots in surgery, safety considerations, understanding robot kinematics, analysis of surgeon performance using a robotic devices, inverse kinematics, velocity analysis, acceleration analysis, various types of surgeries case study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 238 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 476",
+            "Title": "Medical Robotics II",
+            "Number_of_credits": "Credits",
+            "Description": "Force and movement for robot arms, robot dynamics, computer vision, vision based control, combining haptics, vision and robot dynamics in a cohesive framework for the development of a medical robotic system.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 475 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 477",
+            "Title": "Haptics for Medical Robotics",
+            "Number_of_credits": "Credits",
+            "Description": "Introduction to haptics, physiology of touch, actuators, sensors, non-portable force feedback, portable voice feedback, tactile feedback interfaces, haptic sensing and control.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 238 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 478",
+            "Title": "Computer-Aided Tissue Engr",
+            "Number_of_credits": "Credits",
+            "Description": "Introduction to the engineering aspects of tissue reengineering and integrated CAD/CAE/CAM technology applied to tissue engineering with hands-on experience combing CAD, medical image processing, 3-D reconstruction software, and solid freeform fabrication of tissue scaffolding.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM 491   [WI]",
+            "Title": "Senior Design Project I",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces the design process, including information retrieval, problem definition, proposal writing, patents, and design notebooks. Includes presentations on problem areas by experts from industry, government, and education. The Senior Design sequence (MEM\u00a0491/492/493) should be taken in the students\u2019 final year in the BSME program.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 435 [Min Grade: D] and (MEM 331 [Min Grade: D] or MEM 351 [Min Grade: D] or MEM 311 [Min Grade: D])"
+      },
+      {
+            "Identifier": "MEM 492   [WI]",
+            "Title": "Senior Design Project II",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesMEM\u00a0491. Requires written and oral progress reports.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 491 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM 493   [WI]",
+            "Title": "Senior Design Project III",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesMEM\u00a0492. Requires written and oral final reports, including oral presentations by each design team at a formal Design Conference open to the public and conducted in the style of a professional conference.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MEM 492 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MEM I199",
+            "Title": "Independent Study in MEM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM I299",
+            "Title": "Independent Study in MEM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM I399",
+            "Title": "Independent Study in MEM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM I499",
+            "Title": "Independent Study in MEM",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM T180",
+            "Title": "Special Topics in MEM",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM T280",
+            "Title": "Special Topics in MEM",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM T380",
+            "Title": "Special Topics in MEM",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MEM T480",
+            "Title": "Special Topics in MEM",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

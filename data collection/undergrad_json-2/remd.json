@@ -1,0 +1,128 @@
+[
+      {
+            "Identifier": "REMD 110",
+            "Title": "Introduction to Real Estate Management",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces real estate management and its evolution into a multi-billion dollar professional industry. Real estate management topics include career opportunities, operations, finance, marketing, risk management, landlord-tenant laws, and Fair Housing Act. Examines the competencies necessary for operating and managing real estate investment properties, including detailed examination of leadership, operational policies, contract management, and financial aspects of multifamily, office, and industrial properties.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "REMD 320",
+            "Title": "Sustainability in the Built Environment",
+            "Number_of_credits": "Credits",
+            "Description": "Integration of sustainable practices in the built environment, including energy and environmental resource efficiencies, are examined and evaluated in the planning, design, development, renovation, construction, and management of real estate investment assets. The impact of resiliency on real estate, community development, and city planning is also examined.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "REMD 110 [Min Grade: C]"
+      },
+      {
+            "Identifier": "REMD 340",
+            "Title": "Urban Finance and Environmental Planning",
+            "Number_of_credits": "Credits",
+            "Description": "This course has a quantitative focus and covers topics at the intersection of urban finance, city planning, and urban environmental policy. Students interested in careers as developers, planners, elected officials, regulators, and members of nonprofit advocacy groups will learn how to design and evaluate policies that affect the real estate sector of urban economies.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 301 [Min Grade: C]"
+      },
+      {
+            "Identifier": "REMD 375",
+            "Title": "Real Estate Finance",
+            "Number_of_credits": "Credits",
+            "Description": "Surveys all methods of financing real estate. Topics covered include funding sources, interest rates; cost of funds; taxation; capitalization rates; mortgages; secondary mortgage markets; governmental financial agencies; leverage and property valuation; and real estate in a portfolio context. Decision-making models, pro-forma analysis, lease valuation, and feasibility analysis for various types of properties are employed.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "FIN 301 [Min Grade: C]"
+      },
+      {
+            "Identifier": "REMD 410",
+            "Title": "Real Estate Investment and Asset Management",
+            "Number_of_credits": "Credits",
+            "Description": "Examines the fundamentals of finance as it applies to real estate investment and asset management. Identifies the skills necessary to maximize the value of real estate assets through effective operations and financial management practices. Topics include detailed study and analysis of ownership objectives of real estate investors and financial reporting, including acquisitions, dispositions, and new development. Provides tools and decision-making models to manage asset performance, including revenue maximization, property valuation, operating budgets, pro formas, net operating income, cash flow, internal rate of return, and return on investment.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "REMD 375 [Min Grade: C]"
+      },
+      {
+            "Identifier": "REMD 491",
+            "Title": "Senior Capstone in Real Estate Management & Development",
+            "Number_of_credits": "Credits",
+            "Description": "This course aims to equip students with a working knowledge of the primary strategies used in developing a management plan, including an as-is property analysis, as-is market analysis, financial analysis, and alternative scenarios. Experiential learning occurs throughout the course via strategic in-depth research and analysis of an income-producing property. The course culminates with developing a management plan for a pre-selected income-producing property. Students will work with faculty to design a plan to fulfill their management interests and the broader capstone objectives.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "REMD 110 [Min Grade: C] and REMD 375 [Min Grade: C] and FIN 301 [Min Grade: C]"
+      },
+      {
+            "Identifier": "REMD I199",
+            "Title": "Independent Study in REMD",
+            "Number_of_credits": "Credits",
+            "Description": "",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "REMD I299",
+            "Title": "Independent Study in REMD",
+            "Number_of_credits": "Credits",
+            "Description": "",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "REMD I399",
+            "Title": "Independent Study in REMD",
+            "Number_of_credits": "Credits",
+            "Description": "",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "REMD I499",
+            "Title": "Independent Study in REMD",
+            "Number_of_credits": "Credits",
+            "Description": "",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "REMD T180",
+            "Title": "Special Topics in REMD",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "REMD T280",
+            "Title": "Special Topics in REMD",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "REMD T380",
+            "Title": "Special Topics in REMD",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "REMD T480",
+            "Title": "Special Topics in REMD",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

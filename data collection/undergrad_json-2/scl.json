@@ -1,0 +1,209 @@
+[
+      {
+            "Identifier": "SCL 101",
+            "Title": "Principles of Coaching",
+            "Number_of_credits": "Credits",
+            "Description": "This course will include setting performance goals in coaching, the various roles of the coach, ethical conduct in coaching, the psychology of coaching, coach-athlete compatibility, coaching burnout, personality of the coach, and coaching youth sports. An emphasis is places on conducting practices and competitions to enhance the social-emotional growth of athletes.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCL 102",
+            "Title": "Principles of Coaching II",
+            "Number_of_credits": "Credits",
+            "Description": "This course will examine the administrative side of coaching by approaching the profession from a business manager\u2019s standpoint. Students will be introduced to the business concepts and techniques applicable to coaching athletics.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCL 201",
+            "Title": "Sport-Based Youth Development",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to provide students with an understanding of the field of sport-based youth development (SBYD). Students will learn about sport-based youth development best practices, establishing program goals, key components to successful programs, strategies for financially supporting SBYD programs, and established guidelines for program assessment and growth.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCL 203",
+            "Title": "Sports Conditioning",
+            "Number_of_credits": "Credits",
+            "Description": "This course will take a multi-faceted approach to the general science of strength training and sports conditioning. Students will gain a basic understanding behind training principles by covering the following topics: exercise physiology concepts and applications, testing and evaluation, flexibility and exercise techniques, program design, periodization, aerobic and anaerobic training considerations. This course will provide a practical challenge to the students to apply scientific concepts and principles to the development of a sport specific program in a sport of their choice. Developing and administering a training plan is a key component to coaching and students will become adept at this skill after completing this course.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCL 210",
+            "Title": "Prevention and Care of Athletic Injuries",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to introduce the student to the care and prevention of athletic injuries. The course content will include a review of pertinent anatomical structures and their relationship to injuries. The course will also cover mechanisms of injuries, intrinsic and extrinsic variables of injuries, and basic preventative and treatment measures for common sports related injuries. In addition, students will complete the requirements of American Sport Education Program (ASEP) curriculum for Sport First Aid certification and complete the on-line Sport First Aid Test.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCL 280",
+            "Title": "Kinesiology",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an introduction and overview to the science of human movement. Identifies uses of the field of kinesiology in relation to science, medicine, human behavior, athletics, and overall fitness. Applies knowledge and concepts to the areas of physical activity, athletics, and recreation/fitness. Students will actively participate in and observe human movement in human performance labs.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCL 314",
+            "Title": "Sport Performance and Energy Systems",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers nutrient categories and how they function in the body, with a particular emphasis on how to instill in athletes the advantages of healthy eating, and how to impart good information regarding food and food choices to a group of athletes in a team environment.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCL 315",
+            "Title": "Athletic Recruiting",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to provide students with the necessary tools to become effective recruiters of athletic talent. Students will learn how to identify and recruit talent that will have a high impact within their athletic programs. Students will understand how to be compliant with NCAA, NAIA, and NJCAA rules when recruiting. A major deliverable of this course will be a comprehensive recruiting plan.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCL 325",
+            "Title": "Athlete Leadership Development",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to provide students with an understanding of athlete leadership development and its importance in sport programming. Various athlete leadership models at the youth, scholastic, collegiate, and professional levels will be reviewed and students will have the opportunity to create their own athlete leadership development program.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCL 345",
+            "Title": "Evaluating Athletes and Teams",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to provide students with the necessary tools to become effective evaluators of athletes, teams, and coaches. Students will learn how to create a comprehensive evaluation strategy and to communicate and share this strategy with key constituents to effectively manage overall improvement. A major deliverable of this course will be a comprehensive evaluation plan.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCL 401",
+            "Title": "Professional Coaching Portfolio",
+            "Number_of_credits": "Credits",
+            "Description": "The professional portfolio is a capstone course that provides Sport Coaching Leadership majors with an opportunity to demonstrate achievement in their major and to engage in self-reflection. Components include reflective essays and carefully chosen samples of academic and relevant professional work completed during the college experience.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCL 419",
+            "Title": "Global Coaching Seminar",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to expose coaches to a variety of international coaching methods and concepts via a study abroad experience for 7-10 days. This seminar is offered each summer and locations vary by year. Each student in the Sport Coaching Leadership program will attend this study abroad experience. An emphasis is placed on athlete interaction and engagement, practice planning, recruiting, and sport for development.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "SCL 101 [Min Grade: C] and SCL 102 [Min Grade: C]"
+      },
+      {
+            "Identifier": "SCL 495",
+            "Title": "Coaching Practicum I",
+            "Number_of_credits": "Credits",
+            "Description": "The practicum is designed to develop greater breadth and depth of students' understanding and experience within the coaching industry. This course provides an opportunity for students to apply the knowledge and skills acquired in the Sport Coaching Leadership program in a practical setting. This is the first practicum in a series of three coaching practicums. This practicum experience will focus on using basic coaching theory and principles under the guidance of the current coaching or administrative staff.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCL 496",
+            "Title": "Coaching Practicum II",
+            "Number_of_credits": "Credits",
+            "Description": "The practicum is designed to develop greater breadth and depth of students' understanding and experience within the coaching industry. This course provides an opportunity for students to apply the knowledge and skills acquired in the Sport Coaching Leadership program in a practical setting. This is the second practicum in a series of three coaching practicums. This practicum experience will focus on gaining experience in the administrative aspects of coaching under the guidance of the current coaching or administrative staff.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCL 497",
+            "Title": "Coaching Practicum III & Project",
+            "Number_of_credits": "Credits",
+            "Description": "The practicum is designed to develop greater breadth and depth of students' understanding and experience within the coaching industry. This course provides an opportunity for students to apply the knowledge and skills acquired in the Sport Coaching Leadership program in a practical setting. This is the final practicum in a series of three coaching practicums. This practicum experience will focus on designing and completing a coaching project for a particular team under the guidance of the current coaching or administrative staff.",
+            "College/Department": "School of Education",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "SCL 495 [Min Grade: CR] and SCL 496 [Min Grade: CR]"
+      },
+      {
+            "Identifier": "SCL I199",
+            "Title": "Independent Study in SCL",
+            "Number_of_credits": "Credits",
+            "Description": "",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCL I299",
+            "Title": "Independent Study in SCL",
+            "Number_of_credits": "Credits",
+            "Description": "",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCL I399",
+            "Title": "Independent Study in SCL",
+            "Number_of_credits": "Credits",
+            "Description": "",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCL I499",
+            "Title": "Independent Study in SCL",
+            "Number_of_credits": "Credits",
+            "Description": "",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCL T180",
+            "Title": "Special Topics in SCL",
+            "Number_of_credits": "Credits",
+            "Description": "",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCL T280",
+            "Title": "Special Topics in SCL",
+            "Number_of_credits": "Credits",
+            "Description": "",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCL T380",
+            "Title": "Special Topics in SCL",
+            "Number_of_credits": "Credits",
+            "Description": "",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCL T480",
+            "Title": "Special Topics in SCL",
+            "Number_of_credits": "Credits",
+            "Description": "",
+            "College/Department": "School of Education",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

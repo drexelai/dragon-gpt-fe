@@ -1,0 +1,119 @@
+[
+      {
+            "Identifier": "SCTS 101",
+            "Title": "Introduction to Science, Technology, and Society",
+            "Number_of_credits": "Credits",
+            "Description": "Participants in this course will explore how science and technology studies (STS) scholars analyze the social dimensions of technology and science. This course is an introduction to how political, social, and economic factors shape the development of scientific concepts, medical practices, and technological designs and vice versa. We will also discuss the political effects of scientific knowledge and specific technologies, exploring the costs and benefits of current techno-scientific arrangements.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCTS 200",
+            "Title": "Addiction & Society",
+            "Number_of_credits": "Credits",
+            "Description": "In this course, we will consider addiction through a science and technology studies (STS) lens. Such an approach investigates the social, political and economic factors that lead to the politicization of addiction, and also the strategies that government and nongovernment entities use to address the problem of addiction. We will pay particular attention to how the politics of addiction intersects with questions of race, class, and gender. Various iterations of this course will cover the same key concepts and frameworks, but the choice of case studies of different substances may vary. Topics to be covered could include, for example, opioid addiction, internet addiction, tobacco and cigarettes, and/or alcohol policy and cultures of recovery.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCTS 202",
+            "Title": "Innovation and Social Justice",
+            "Number_of_credits": "Credits",
+            "Description": "In this course, we will draw on literature from the field of science and technology studies (STS) to examine how technologies and social justice intersect, and the role of technological innovation in fostering a more just society. We will examine structures of injustice and how technology can reinforce, worsen, or mitigate them. We will look at the impacts of concrete design choices\u2014and design processes\u2014on various indicators of social justice. And we will learn from examples of self-conscious attempts by innovators to create technology with social justice aims in mind.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCTS 205",
+            "Title": "Artificial Intelligence and Society",
+            "Number_of_credits": "Credits",
+            "Description": "This course will examine artificial intelligence (AI) and related digital worlds from a Science and Technology Studies (STS) perspective. This course will examine the origins of AI as well as the social orders and cultural practices involved in recent developments. It will explore its potential effects on society, the human psyche and the medical engineering of the body. Finally, the ethical and political implications of AI will be examined. Specific topics discussed will include: virtual words; the uploading of brains into computers; golems, monsters and posthumans; dreams of immortality; smartness and intelligence; bots and online contagion; machine learning, its impact and limits.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCTS 207",
+            "Title": "Medicine and Society",
+            "Number_of_credits": "Credits",
+            "Description": "This seminar draws on literature in science and technology studies (STS) to explore the social dimensions of medicine, health and illness. In this seminar, we will explore how definitions and experiences of health and illness are shaped by technology use, cultural contexts, institutional practices, health care policies, and inequalities. We will examine social trends in medical technology and science as well as how illness categories are created, negotiated, and resisted. Participants in this course will gain the ability to assess the changing role of science and technology in medicine as well as think critically about the social dimensions of the experience of health and illness.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCTS 208",
+            "Title": "Energy and Society",
+            "Number_of_credits": "Credits",
+            "Description": "In this course, the tools of Science and Technology Studies (STS) to explore the role of energy in society will be used. The survey will include an analysis of energy infrastructures in relation to environmental justice; energy policy in relation to the housing crisis; and energy technologies in relation to efforts to mitigate and adapt to climate change. A core part of this course will be development of a portfolio, through in-class micro-assignments. Each weekly class will be divided into discussion of the assigned readings, project-based learning, group work, and media analysis.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCTS I199",
+            "Title": "Independent Study in Science, Technology and Society",
+            "Number_of_credits": "Credits",
+            "Description": "Students will work under the supervision of a faculty member approved by the SCTS program. The subject matter will cover a specific research area in SCTS, or an area of academic study not offered in an existing course in the College of Arts and Sciences, Center for Science, Technology, & Society Program. Only students with sufficient background work will be accepted by the faculty member for independent work.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCTS I299",
+            "Title": "Independent Study in Science, Technology and Society",
+            "Number_of_credits": "Credits",
+            "Description": "Students will work under the supervision of a faculty member approved by the SCTS program. The subject matter will cover a specific research area in SCTS, or an area of academic study not offered in an existing course in the College of Arts and Sciences, Center for Science, Technology, & Society Program. Only students with sufficient background work will be accepted by the faculty member for independent work.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCTS I399",
+            "Title": "Independent Study in Science, Technology and Society",
+            "Number_of_credits": "Credits",
+            "Description": "Students will work under the supervision of a faculty member approved by the SCTS program. The subject matter will cover a specific research area in SCTS, or an area of academic study not offered in an existing course in the College of Arts and Sciences, Center for Science, Technology, & Society Program. Only students with sufficient background work will be accepted by the faculty member for independent work.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCTS I499",
+            "Title": "Independent Study in Science, Technology and Society",
+            "Number_of_credits": "Credits",
+            "Description": "Students will work under the supervision of a faculty member approved by the SCTS program. The subject matter will cover a specific research area in SCTS, or an area of academic study not offered in an existing course in the College of Arts and Sciences, Center for Science, Technology, & Society Program. Only students with sufficient background work will be accepted by the faculty member for independent work.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCTS T280",
+            "Title": "Special Topics in Science, Technology and Society",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCTS T380",
+            "Title": "Special Topics in Science, Technology and Society",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "SCTS T480",
+            "Title": "Special Topics in Science, Technology and Society",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

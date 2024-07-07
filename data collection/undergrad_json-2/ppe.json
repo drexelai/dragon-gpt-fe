@@ -1,0 +1,74 @@
+[
+      {
+            "Identifier": "PPE 101",
+            "Title": "Introduction to Philosophy, Politics and Economics",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces the interdisciplinary major Philosophy, Politics and Economics in two ways: it examines ways of thinking, speaking and researching in each of the three component disciplines, and it applies these overlapping approaches to a set of complex real-world problems.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PPE 450",
+            "Title": "Senior Seminar in Philosophy, Politics and Economics",
+            "Number_of_credits": "Credits",
+            "Description": "In this capstone seminar course students will use the tools of philosophy, political science, and economics to construct arguments in evaluating and criticizing proposals, methods, and explanations in the three fields, drawing upon each as appropriate. Topics for each term will be chosen by the instructor and may include proposals or instances of public policy, economics, or politics, or particular perspectives, theories, or methods drawn from any of the three fields.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PPE 101 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PPE I299",
+            "Title": "Independent Study in Philosophy, Politics and Economics",
+            "Number_of_credits": "Credits",
+            "Description": "Independent research directed by a faculty member.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PPE I399",
+            "Title": "Independent Study in Philosophy, Politics and Economics",
+            "Number_of_credits": "Credits",
+            "Description": "Independent research directed by a faculty member.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PPE I499",
+            "Title": "Independent Study in Philosophy, Politics and Economics",
+            "Number_of_credits": "Credits",
+            "Description": "Independent research directed by a faculty member.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PPE T280",
+            "Title": "Special Topics in Philosophy, Politics and Economics",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PPE T380",
+            "Title": "Special Topics in Philosophy, Politics and Economics",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PPE T480",
+            "Title": "Special Topics in Philosophy, Politics and Economics",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

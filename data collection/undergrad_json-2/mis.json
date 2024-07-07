@@ -1,0 +1,155 @@
+[
+      {
+            "Identifier": "MIS 200",
+            "Title": "Management Information Systems",
+            "Number_of_credits": "Credits",
+            "Description": "Introductory course to Management of Information Systems, a core business function. The course examines how information systems (i.e., information technology, people, procedures, and data) help add value to an organization, and integrate the various functional areas of a business (e.g., accounting, marketing, etc.).",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MIS 342",
+            "Title": "Systems Analysis and Design",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces structured and object-oriented systems analysis and design methodologies in classroom and hands-on lab settings. Discusses system life-cycle concepts and techniques such as dataflow diagrams, structure charts, and E-R diagrams. Also covers object-oriented design, prototyping, and rapid application development approaches.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MIS 300 [Min Grade: D] or MIS 200 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MIS 343",
+            "Title": "Database Design and Implementation",
+            "Number_of_credits": "Credits",
+            "Description": "Covers data and file structures, object-oriented database design, and the use of SQL for querying databases. Discusses logical and physical database design and offers hands-on experience with commercial database management systems (DBMSs).",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MIS 200 [Min Grade: D] or MIS 300 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MIS 346",
+            "Title": "Management Information Systems Strategy",
+            "Number_of_credits": "Credits",
+            "Description": "To discuss Management of Information Systems, and then to elaborate on its application to organizational change, especially to reengineering. This course will introduce the student to central aspects of MIS policy and strategy in the first part of the course and then use these concepts to understand reengineering in the latter part of the course.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MIS 347",
+            "Title": "Domestic and Global Outsourcing Management",
+            "Number_of_credits": "Credits",
+            "Description": "To introduce the student to issues in managing the outsourcing of Information Systems. This will be done in a mixture of lectures and student team presentations. The lectures will introduce the students to some of the central themes of outsourcing IS by summarizing current literature. Parallel to these lectures students will form study teams to investigate other important topics of IS outsourcing through a guided literature reading.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MIS 351",
+            "Title": "Introduction to Programming for Business in C#",
+            "Number_of_credits": "Credits",
+            "Description": "This course is an introductory course to the process and tools necessary to build a complete information system given a specification. In this course, you will learn basic concepts and techniques in computer programming. This course selects Microsoft Visual Studio.Net and C# as the software development environment and programming language. This language and development system is a complete suite of tools for creating stand-alone applications, portions of larger systems, independent objects, complete distributed systems, and active components of the World Wide Web.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MIS 200 [Min Grade: D] or MIS 300 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MIS 352",
+            "Title": "Advanced Business Programming with ASP.Net",
+            "Number_of_credits": "Credits",
+            "Description": "This course builds on the earlier Business Programming with ASP.NET course. Microsoft\u2019s ASP.NET is the major web application framework used to develop web-based business applications. This course introduces the student more advanced topics in business application development. In the earlier course, students learned how to build basic web-based applications using web forms, this course moves on to building application logic using C# and connecting to the back-end databases that store corporate data. Students who complete both sequence courses will have to ability to participate in building all components of Web-.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MIS 200 [Min Grade: D] or MIS 300 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MIS 361",
+            "Title": "Information System Project Management",
+            "Number_of_credits": "Credits",
+            "Description": "The course is structured around the key phases of a project lifecycle \u2013 initiating a project, planning a project, executing a project, controlling a project, and closing out a project. It also pays specific attention to the nine knowledge areas of Project Management as defined by the Project Management Institute (PMI)\u2019s Project Management Body of Knowledge (PMBOK): project scope, cost, time, integration, quality, communication, risk, human resources, and procurement management. Additionally, students will be introduced with choices in project management approaches (such as SAP Project Management and APM.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MIS 200 [Min Grade: D] or MIS 300 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MIS 364",
+            "Title": "Information Security Systems Management",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides a foundation for the management of information security systems. It includes an overview of some key technology concepts that are pertinent for the management of information security systems, while also exploring core legal, governance, risk management, and compliance concepts. The course is taught as a combination of lectures, hands-on group activities, readings and videos.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MIS 200 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MIS I199",
+            "Title": "Independent Study in MIS",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MIS I299",
+            "Title": "Independent Study in MIS",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MIS I399",
+            "Title": "Independent Study in MIS",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MIS I499",
+            "Title": "Independent Study in MIS",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MIS T180",
+            "Title": "Special Topics in MIS",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MIS T280",
+            "Title": "Special Topics in MIS",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MIS T380",
+            "Title": "Special Topics in MIS",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MIS T480",
+            "Title": "Special Topics in MIS",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "LeBow College of Business",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

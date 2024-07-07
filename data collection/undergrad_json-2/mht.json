@@ -1,0 +1,209 @@
+[
+      {
+            "Identifier": "MHT 201",
+            "Title": "Kinematics",
+            "Number_of_credits": "Credits",
+            "Description": "Study of four-bar linkages, sliders, and other devices using orthogonal of vectors, instantaneous centers, equivalent linkages, and effective cranks. Graphic solutions are emphasized, including an introduction to computer software.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 153 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MHT 205",
+            "Title": "Thermodynamics I",
+            "Number_of_credits": "Credits",
+            "Description": "Students are introduced to the general theory of heat and matter; laws of thermodynamics; energy-transformation principles and availability of energy; and properties and processes for substances and ideal gases.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(PHYS 153 [Min Grade: D] or PHYS 101 [Min Grade: D]) and MATH 122 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MHT 206",
+            "Title": "Thermodynamics II",
+            "Number_of_credits": "Credits",
+            "Description": "First and second law analysis of power cycle components. Analysis of gas power cycles, including Otto & Diesel engines and Brayton cycle turbines. Analysis of traditional power plant cycles, including Rankine, Refrigeration and heat pump.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MHT 205 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MHT 214",
+            "Title": "Technology Laboratory I",
+            "Number_of_credits": "Credits",
+            "Description": "Conduct experiments to determine the physical properties of incompressible fluids and to measure the flow rates of velocities utilizing pilot tubes, office plates, Venturi and Weirs flow meter, U-tube differential manometers and piezometers. Some or all pre-requisites may be taken as either a pre-requisite or co-requisite. Please see the department for more information.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MHT 301 [Min Grade: D] (Can be taken Concurrently)"
+      },
+      {
+            "Identifier": "MHT 220",
+            "Title": "Applied Statics",
+            "Number_of_credits": "Credits",
+            "Description": "Explores forces, moments, couples, statistics of particles, and rigid bodies in two and three dimensions. Examines external and internal distributed forces, first moments and centroids, and structures such as trusses, frames and machines.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 282 [Min Grade: D] and MATH 122 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MHT 222",
+            "Title": "Applied Dynamics I",
+            "Number_of_credits": "Credits",
+            "Description": "This course deals with the motion of bodies under the action of a single or multiple forces. It covers kinematics and kinetics of particles in rectilinear and curvilinear motions using various coordinate systems, work and energy, impulse and momentum, planar kinematics using analytical and graphical methods. Kinetics of rigid bodies using force and acceleration, work and energy, and impulse and momentum principles.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(PHYS 153 [Min Grade: D] or PHYS 101 [Min Grade: D]) and MATH 122 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MHT 224",
+            "Title": "Applied Dynamics II",
+            "Number_of_credits": "Credits",
+            "Description": "Impulse and momentum of particles; kinematics and dynamics of rigid bodies-force-mass and acceleration; dynamics of rigid bodies - work and energy. Impulse and momentum; introduction to mechanical vibration.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MHT 222 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MHT 226",
+            "Title": "Measurement Techniques and Instrumentation",
+            "Number_of_credits": "Credits",
+            "Description": "The course focuses on basic concepts of measurement and measurement systems and techniques, causes of errors and error propagation; uncertainty analysis, data collection and analysis using statistical methods, data acquisition systems; Knowledge delivery is based on integrated experiential learning modules involving various measurement sensors and instruments.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(PHYS 154 [Min Grade: D] or PHYS 102 [Min Grade: D]) and EET 209 [Min Grade: D] and STAT 201 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MHT 295",
+            "Title": "Environmental Control Plasma Laboratory",
+            "Number_of_credits": "Credits",
+            "Description": "The course presents engineering principles of non-thermal plasma application to air cleaning from Volatile Organic Compounds by combining hands-on laboratory experience with lectures. The students learn the engineering and physical principles of non-equilibrium plasma systems using the unique pulsed corona system of the Drexel Plasma Institute Environmental Laboratory.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 111 [Min Grade: D] and CHEM 113 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MHT 301",
+            "Title": "Fluid Mechanics I",
+            "Number_of_credits": "Credits",
+            "Description": "Examine hydrostatics; principles governing fluids at rest; pressure measurement; hydrostatic forces on submerged areas and objects; simple dams. Discuss fluid flow in pipes under pressure; fluid energy; power and friction loss; Bernoulli's theorem. Flow measurement.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MHT 205 [Min Grade: D] and MET 213 [Min Grade: D] and MET 209 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MHT 310",
+            "Title": "Applied Strength of Materials I",
+            "Number_of_credits": "Credits",
+            "Description": "Topics include axially loaded members, stress and strain, allowable stresses, factor of safety, temperature effects, indeterminate members, torsional stresses and deformation. Students also examine shear moment beams; and flexural and transverse shearing stresses in beams.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MHT 222 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MHT 312",
+            "Title": "Applied Strength of Materials II",
+            "Number_of_credits": "Credits",
+            "Description": "A study of determinate and indeterminate bean deflections and reactions by superposition, integration and moment area methods. Topics include combined stresses; principal stresses; Mohr's circle; and theories of failure.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MHT 310 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MHT 314",
+            "Title": "Thermo and Heat Transfer Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "Explores basic thermodynamic and heat transfer concepts and relations including fundamental of conduction, convection, and radiation using modern experiential methods to analyze thermodynamics systems and the related heat transfer mechanisms.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MHT 205 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MHT 316",
+            "Title": "Fluid Mechanics Laboratory",
+            "Number_of_credits": "Credits",
+            "Description": "Conduct experiments to determine the physical properties of incompressible fluids and to measure the flow rate of velocities as the fluid flows through open channels, partially filled conduits, conduits under pressure, pipe networks, and turbines and pumps.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MHT 301 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MHT 401",
+            "Title": "Mechanical Design I",
+            "Number_of_credits": "Credits",
+            "Description": "An introduction to mechanical design, the design process, design factors, creativity, optimization, human factors, and value engineering. Topics include simple design, properties and selection of materials; stress concentrations; strength under combined stresses; theories of failure; impact; and fluctuating and repeated loads.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MET 100 [Min Grade: D] and MET 213 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MHT 402",
+            "Title": "Mechanical Design II",
+            "Number_of_credits": "Credits",
+            "Description": "Topics include deformation and design of belt drives, chair drives, detachable fasteners and bearings, lubrication, and journal bearings. Covers stresses and power transmission of spur, bevel, and worm gear, shaft design, and clutches and brakes.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MHT 401 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MHT 403",
+            "Title": "Fluid Mechanics II",
+            "Number_of_credits": "Credits",
+            "Description": "Consider pipe networks and reservoir systems, flow in open channels and uniform flow energy, friction loss, minor losses, velocity distribution, alternate stages of flow, critical flow, non-uniform flow, accelerated, retarded flow and hydraulic jump.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MHT 301 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MHT 404",
+            "Title": "Advanced Materials",
+            "Number_of_credits": "Credits",
+            "Description": "Lectures on inorganic materials, i.e., polymers, glasses, ceramics, concrete, wood, and materials having important electrical and magnetic properties; also a summary of the most up-to-date applications for the fabrication and uses of both metals and nonmetals.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MET 101 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MHT 405",
+            "Title": "HVAC",
+            "Number_of_credits": "Credits",
+            "Description": "Heating, Ventilation, and Air Conditioning (HVAC) focuses on air conditioning principles, including psychometrics and heat pumps. Examines calculation of heating and cooling loads in accordance with ASHRAE practices, principles of gas compression, analysis of vapor compression; refrigeration systems, low temperature refrigeration cycles, and absorption refrigeration systems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MHT 206 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MHT T180",
+            "Title": "Special Topics in MHT",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MHT T280",
+            "Title": "Special Topics in MHT",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MHT T380",
+            "Title": "Special Topics in MHT",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MHT T480",
+            "Title": "Special Topics in MHT",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

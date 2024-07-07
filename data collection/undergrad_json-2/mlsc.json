@@ -1,0 +1,236 @@
+[
+      {
+            "Identifier": "MLSC 101",
+            "Title": "Basic Leadership Lab/Practicum",
+            "Number_of_credits": "Credits",
+            "Description": "Provides hands-on experience to reinforce leadership fundamentals, while emphasizing increased awareness of and proficiency in military skills.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MLSC 102",
+            "Title": "Basic Leadership Lab/Practicum",
+            "Number_of_credits": "Credits",
+            "Description": "Provides hands-on experience to reinforce leadership fundamentals, while emphasizing increased awareness of and proficiency in military skills.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MLSC 103",
+            "Title": "Basic Leadership Lab/Practicum",
+            "Number_of_credits": "Credits",
+            "Description": "Provides hands-on experience to reinforce leadership fundamentals, while emphasizing increased awareness of and proficiency in military skills.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MLSC 110",
+            "Title": "Leadership and Personal Developmnt",
+            "Number_of_credits": "Credit",
+            "Description": "Introduces students/cadets to the personal challenges and competencies that are critical for effective leadership. Focus is placed on developing basic knowledge and comprehension of the U.S. Army's Leadership Dimensions while gaining a \"big picture\" understanding of the Army ROTC program, its purpose in the U.S. Army and our nation, and its advantages for the student. Classes are conducted for one hour once each week.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MLSC 120",
+            "Title": "Foundations in Leadership",
+            "Number_of_credits": "Credit",
+            "Description": "Reviews leadership fundamentals such as setting direction, problem solving, listening, presenting briefs, providing feedback and using effective writing skills. Students/cadets are also exposed to key fundamentals of skills required to be successful as an MS II cadet; namely, military map reading and land navigation, and small unit operations/leadership drills.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MLSC 130",
+            "Title": "Continuing Studies: Foundations in Leadership",
+            "Number_of_credits": "Credit",
+            "Description": "Continues to develop leadership fundamentals, while emphasizing increased awareness of and proficiency in military map reading and land navigation skills, and small unit operations/ leadership drills.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MLSC 110 [Min Grade: B] or MLSC 120 [Min Grade: B]"
+      },
+      {
+            "Identifier": "MLSC 201",
+            "Title": "Basic Leadership Lab/Practicum",
+            "Number_of_credits": "Credits",
+            "Description": "Provides hands-on experience to reinforce leadership fundamentals, while emphasizing increased awareness of and proficiency in military skills.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MLSC 202",
+            "Title": "Basic Leadership Lab/Practicum",
+            "Number_of_credits": "Credits",
+            "Description": "Provides hands-on experience to reinforce leadership fundamentals, while emphasizing increased awareness of and proficiency in military skills.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MLSC 203",
+            "Title": "Basic Leadership Lab/Practicum",
+            "Number_of_credits": "Credits",
+            "Description": "Provides hands-on experience to reinforce leadership fundamentals, while emphasizing increased awareness of and proficiency in military skills.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MLSC 210",
+            "Title": "Innovative Tactical Leadership",
+            "Number_of_credits": "Credits",
+            "Description": "Explores the dimensions of creative and innovative tactical leadership strategies and styles by studying historical case studies and engaging in interactive student exercises. Focus is on continued development of the knowledge of leadership values and attributes through an understanding of rank, uniform, customs and courtesies.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MLSC 110 [Min Grade: B] or MLSC 120 [Min Grade: B]) and MLSC 130 [Min Grade: B]"
+      },
+      {
+            "Identifier": "MLSC 220",
+            "Title": "Leadership in Changing Environments",
+            "Number_of_credits": "Credits",
+            "Description": "Examines the challenges of leading in complex contemporary operational environments. Students/cadets are exposed to more complex land navigation/map reading tasks, as well as more advanced small unit operations/ leadership drills. Cadets develop greater self awareness as they practice communication and team building skills.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MLSC 110 [Min Grade: B] or MLSC 120 [Min Grade: B]) and MLSC 130 [Min Grade: B] and MLSC 210 [Min Grade: B]"
+      },
+      {
+            "Identifier": "MLSC 230",
+            "Title": "Adaptive Team Leadership",
+            "Number_of_credits": "Credits",
+            "Description": "Challenges cadets to study, practice, and evaluate adaptive leadership. Cadets begin to analyze and evaluate their own leadership values, attributes, skills, and actions. Primary attention is given to preparation for LDAC and the development of both tactical skills and leadership qualities.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MLSC 110 [Min Grade: B] or MLSC 120 [Min Grade: B]) and MLSC 130 [Min Grade: B] and MLSC 210 [Min Grade: B] and MLSC 220 [Min Grade: B]"
+      },
+      {
+            "Identifier": "MLSC 301",
+            "Title": "Leadership Lab/Practicum",
+            "Number_of_credits": "Credits",
+            "Description": "Provides hands-on experience to reinforce leadership fundamentals, while emphasizing increased awareness of and proficiency in military skills.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MLSC 110 [Min Grade: B] or MLSC 120 [Min Grade: B]) and MLSC 130 [Min Grade: B] and MLSC 210 [Min Grade: B] and MLSC 220 [Min Grade: B] and MLSC 230 [Min Grade: B]"
+      },
+      {
+            "Identifier": "MLSC 302",
+            "Title": "Leadership Lab/Practicum",
+            "Number_of_credits": "Credits",
+            "Description": "Provides hands-on experience to reinforce leadership fundamentals, while emphasizing increased awareness of and proficiency in military skills.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MLSC 110 [Min Grade: B] or MLSC 120 [Min Grade: B]) and MLSC 130 [Min Grade: B] and MLSC 210 [Min Grade: B] and MLSC 220 [Min Grade: B] and MLSC 230 [Min Grade: B] and MLSC 310 [Min Grade: B]"
+      },
+      {
+            "Identifier": "MLSC 303",
+            "Title": "Leadership Lab/Practicum",
+            "Number_of_credits": "Credits",
+            "Description": "Provides hands-on experience to reinforce leadership fundamentals, while emphasizing increased awareness of and proficiency in military skills.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MLSC 110 [Min Grade: B] or MLSC 120 [Min Grade: B]) and MLSC 130 [Min Grade: B] and MLSC 210 [Min Grade: B] and MLSC 220 [Min Grade: B] and MLSC 230 [Min Grade: B] and MLSC 310 [Min Grade: B] and MLSC 320 [Min Grade: B]"
+      },
+      {
+            "Identifier": "MLSC 310",
+            "Title": "Leadership in Contact",
+            "Number_of_credits": "Credits",
+            "Description": "Uses increasingly intense situational leadership challenges to build cadet awareness and skills in leading small units. Skills in decision-making, persuading, and motivating team members when \"in combat\" are explored, evaluated, and developed.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MLSC 110 [Min Grade: B] or MLSC 120 [Min Grade: B]) and MLSC 130 [Min Grade: B] and MLSC 210 [Min Grade: B] and MLSC 220 [Min Grade: B] and MLSC 230 [Min Grade: B]"
+      },
+      {
+            "Identifier": "MLSC 320",
+            "Title": "Complex Team Leadership Issues",
+            "Number_of_credits": "Credits",
+            "Description": "Challenges cadets with more complex leadership issues to further develop, practice, and evaluate adaptive leadership. Cadets continue to analyze and evaluate their own leadership values, attributes, skills, and actions in preparation for the Leadership Development and Assessment Course (LDAC). Primary attention is given to preparation for LDAC and the development of both tactical skills and leadership qualities.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MLSC 110 [Min Grade: B] or MLSC 120 [Min Grade: B]) and MLSC 130 [Min Grade: B] and MLSC 210 [Min Grade: B] and MLSC 220 [Min Grade: B] and MLSC 230 [Min Grade: B] and MLSC 310 [Min Grade: B]"
+      },
+      {
+            "Identifier": "MLSC 330",
+            "Title": "Military Leadership Co-op Preparation",
+            "Number_of_credits": "Credits",
+            "Description": "Continues the methodology ofMLSC\u00a0320by using increasingly intense situational leadership challenges to build cadet awareness and skills in leading small units. Skills in decision-making, persuading, and motivating team members when \"in combat\" are explored, evaluated, and developed. Emphasis is also placed on honing oral and written communication skills and mastering group dynamics while conducting tactical and Garrison operation orders.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MLSC 110 [Min Grade: B] or MLSC 120 [Min Grade: B]) and MLSC 130 [Min Grade: B] and MLSC 210 [Min Grade: B] and MLSC 220 [Min Grade: B] and MLSC 230 [Min Grade: B] and MLSC 310 [Min Grade: B] and MLSC 320 [Min Grade: B]"
+      },
+      {
+            "Identifier": "MLSC 390",
+            "Title": "Special Topics in Military Science",
+            "Number_of_credits": "Credits",
+            "Description": "Special Topics of interest in Military Science. May be repeated for credit.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MLSC 399",
+            "Title": "American Military History",
+            "Number_of_credits": "Credits",
+            "Description": "American Military History focuses on the American Military Experience from 1609 to the present. This course continues exploration of the dynamics of leading in the complex situations of historical and current military operations. Cadets examine differences in cultural environments, military law, principles of war, and rules of engagement throughout the course of American history. Aspects of interacting with non-government organizations, civilians on the battlefield, and host nation support are examined and evaluated. Integrate the Basic Knowledge of Military History to Your Education as a Future Office and constitutes 24 hours of instruction.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MLSC 401",
+            "Title": "Leadership Lab/Practicum",
+            "Number_of_credits": "Credits",
+            "Description": "Provides hands-on experience to reinforce leadership fundamentals, while emphasizing increased awareness of and proficiency in military skills.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MLSC 110 [Min Grade: B] or MLSC 120 [Min Grade: B]) and MLSC 130 [Min Grade: B] and MLSC 210 [Min Grade: B] and MLSC 220 [Min Grade: B] and MLSC 230 [Min Grade: B] and MLSC 310 [Min Grade: B] and MLSC 320 [Min Grade: B] and MLSC 330 [Min Grade: B]"
+      },
+      {
+            "Identifier": "MLSC 402",
+            "Title": "Leadership Lab/Practicum",
+            "Number_of_credits": "Credits",
+            "Description": "Provides hands-on experience to reinforce leadership fundamentals, while emphasizing increased awareness of and proficiency in military skills.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MLSC 110 [Min Grade: B] or MLSC 120 [Min Grade: B]) and MLSC 130 [Min Grade: B] and MLSC 210 [Min Grade: B] and MLSC 220 [Min Grade: B] and MLSC 230 [Min Grade: B] and MLSC 310 [Min Grade: B] and MLSC 320 [Min Grade: B] and MLSC 330 [Min Grade: B] and MLSC 410 [Min Grade: B]"
+      },
+      {
+            "Identifier": "MLSC 403",
+            "Title": "Leadership Lab/Practicum",
+            "Number_of_credits": "Credits",
+            "Description": "Provides hands-on experience to reinforce leadership fundamentals, while emphasizing increased awareness of and proficiency in military skills.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MLSC 110 [Min Grade: B] or MLSC 120 [Min Grade: B]) and MLSC 130 [Min Grade: B] and MLSC 210 [Min Grade: B] and MLSC 220 [Min Grade: B] and MLSC 230 [Min Grade: B] and MLSC 310 [Min Grade: B] and MLSC 320 [Min Grade: B] and MLSC 330 [Min Grade: B] and MLSC 410 [Min Grade: B] and MLSC 420 [Min Grade: B]"
+      },
+      {
+            "Identifier": "MLSC 410",
+            "Title": "Developing Adaptive Leaders",
+            "Number_of_credits": "Credits",
+            "Description": "Develops cadet proficiency in planning, executing, and assessing complex operations, functioning as a member of a staff, and providing leadership performance feedback to subordinates. Cadets are given situational opportunities to assess risk, make ethical decisions, and provide coaching to fellow ROTC cadets.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MLSC 110 [Min Grade: B] or MLSC 120 [Min Grade: B]) and MLSC 130 [Min Grade: B] and MLSC 210 [Min Grade: B] and MLSC 220 [Min Grade: B] and MLSC 230 [Min Grade: B] and MLSC 310 [Min Grade: B] and MLSC 320 [Min Grade: B] and MLSC 330 [Min Grade: B]"
+      },
+      {
+            "Identifier": "MLSC 420",
+            "Title": "Leadership in Contemporary Environments",
+            "Number_of_credits": "Credits",
+            "Description": "Explores the dynamics of leading in the complex situations of current military operations. Cadets examine differences in customs and courtesies, military law, principles of war, and rules of engagement in the face of international terrorism. Aspects of interacting with non-government organizations, civilians on the battlefield, and host nation support are examined and evaluated.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MLSC 110 [Min Grade: B] or MLSC 120 [Min Grade: B]) and MLSC 130 [Min Grade: B] and MLSC 210 [Min Grade: B] and MLSC 220 [Min Grade: B] and MLSC 230 [Min Grade: B] and MLSC 310 [Min Grade: B] and MLSC 320 [Min Grade: B] and MLSC 330 [Min Grade: B] and MLSC 410 [Min Grade: B]"
+      },
+      {
+            "Identifier": "MLSC 430",
+            "Title": "Advanced Leadership in Contemporary Environments",
+            "Number_of_credits": "Credits",
+            "Description": "Continues exploration of the dynamics of leading in the complex situations of current military operations. Culminates the ROTC curriculum with a capstone \"hands-on\" small unit leadership exercise which tests the cadet's tactical, technical and leadership skills utilizing an intense, realistic tactical scenario based on actual military operations in the contemporary operating environment of the 21st century.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MLSC 110 [Min Grade: B] or MLSC 120 [Min Grade: B]) and MLSC 130 [Min Grade: B] and MLSC 210 [Min Grade: B] and MLSC 220 [Min Grade: B] and MLSC 230 [Min Grade: B] and MLSC 310 [Min Grade: B] and MLSC 320 [Min Grade: B] and MLSC 330 [Min Grade: B] and MLSC 410 [Min Grade: B] and MLSC 420 [Min Grade: B]"
+      }
+]

@@ -1,0 +1,56 @@
+[
+      {
+            "Identifier": "LING 101",
+            "Title": "Introduction to Linguistics",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces major topics in the study of language, including language acquisition, language change, the social use of language, and the analysis of discourse, and teaches basic techniques in linguistic analysis through the use of a wide variety of language data.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LING 102",
+            "Title": "Language and Society",
+            "Number_of_credits": "Credits",
+            "Description": "Develops understanding of how language is involved with relations of class, ethnicity, gender and aesthetics in society. The course covers the social investigation of language use, politeness in languages, different varieties of English dialects, slang, and rap, bilingualism and languages in immigrant communities, and language planning.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LING T180",
+            "Title": "Special Topics in Linguistics",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LING T280",
+            "Title": "Special Topics in Linguistics",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LING T380",
+            "Title": "Special Topics in Linguistics",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "LING T480",
+            "Title": "Special Topics in Linguistics",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

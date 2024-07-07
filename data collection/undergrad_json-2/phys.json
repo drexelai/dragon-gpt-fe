@@ -1,0 +1,686 @@
+[
+      {
+            "Identifier": "PHYS 100",
+            "Title": "Preparation for Engineering Studies",
+            "Number_of_credits": "Credits",
+            "Description": "This is a basic mathematics foundational course to prepare the students for the beginning sequence of Engineering Physics. Topics include: simultaneous equations, fundamentals of plane and solid geometry, use of trigonometric functions and vectors and translational kinematics.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 101",
+            "Title": "Fundamentals of Physics I",
+            "Number_of_credits": "Credits",
+            "Description": "First of a three-course physics sequence introducing mechanics to engineering and science majors. Topics include: Translational kinematics of particles in one and two dimensions. Inertial and non-inertial frames, Newton's laws of motion, force, energy and momentum. Concepts of conservation of energy and momentum. Rotational kinematics and dynamics.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(APPH50 P or PHYS 100 [Min Grade: D] or APC 070) and (MATH 121 [Min Grade: C-] or MATH 117 [Min Grade: C-])"
+      },
+      {
+            "Identifier": "PHYS 102",
+            "Title": "Fundamentals of Physics II",
+            "Number_of_credits": "Credits",
+            "Description": "Second of a three-course physics sequence introducing electricity and magnetism to engineering and science majors. Topics include: Electrostatics, Coulomb's law, electric field and flux, and Gauss's law. Electric potential and potential energy and capacitors. Charges in motion, voltage and current measurements. Direct current circuit analysis using Ohm\u2019s law and Kirchhoff\u2019s rules. Sources of magnetic fields, concepts of magnetic flux and electromagnetic induction.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 101 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 105",
+            "Title": "Computational Physics I",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces computational physics. Covers analytical and numerical solutions of equations governing the behavior of physical systems. Includes the use of C/C++ and Python programming methods to solve selected problems. Introduces UNIX, X-windows, programming languages, and visualization and data analysis tools for problems in computational physics. Introduces elementary programming concepts as needed.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(PHYS 113 [Min Grade: D] or PHYS 101 [Min Grade: D]) and (CS 171 [Min Grade: D] or CS 143 [Min Grade: D] or ENGR 131 [Min Grade: D])"
+      },
+      {
+            "Identifier": "PHYS 107",
+            "Title": "Acoustics",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the theory describing sound, behavior and sound waves, resonance and harmonics, frequency analysis, electronic production of sound, sound perception by the human ear, sound recording and reproduction, and room acoustics. Emphasis will be placed on understanding how sound operates in the physical world and how our ears respond to it.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 113",
+            "Title": "Contemporary Physics I",
+            "Number_of_credits": "Credits",
+            "Description": "Part I in an introductory physics sequence for majors. This course combines the traditional lecture/lab format with real-time numerical simulations designed by the students. Topics include: the fundamental forces, Newton's laws, the atomic nature of matter, work and energy, light, friction, and atomic nuclei.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 114",
+            "Title": "Contemporary Physics II",
+            "Number_of_credits": "Credits",
+            "Description": "Part II in an introductory sequence for majors. This course combines the traditional lecture/lab format with real-time numerical simulations designed by the students. Topics include: angular momentum, entropy, gas dynamics, electric fields, electricity and matter, and electric potential.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 121 [Min Grade: D] (Can be taken Concurrently) and PHYS 113 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 115",
+            "Title": "Contemporary Physics III",
+            "Number_of_credits": "Credits",
+            "Description": "Part III in an introductory sequence for majors. This course combines the traditional lecture/lab format with real-time numerical simulation designed by the students. Topics include: magnetic fields, electronics, radiation, waves and particles, and an introduction to semiconductor devices.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 122 [Min Grade: D] (Can be taken Concurrently) and PHYS 114 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 128",
+            "Title": "Introduction to Experimental Physics",
+            "Number_of_credits": "Credits",
+            "Description": "This course will give students an introduction to all aspects of experimental physics, including experiment theory, laboratory techniques, data analysis, scientific writing, literature research, and presentations. Students are required to perform experiments in physics, such as the Millikan oil-drop experiment, the photoelectric effect measurement, the Michelson interferometer experiment, and radioactivity and spectroscopy measurements. Students are also required to write detailed laboratory reports and give an oral presentation. Students should anticipate a significant amount of writing in this course.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 113 [Min Grade: D] (Can be taken Concurrently)"
+      },
+      {
+            "Identifier": "PHYS 131",
+            "Title": "Survey of the Universe",
+            "Number_of_credits": "Credits",
+            "Description": "Provides an overview of modern astronomy, including the scientific method; telescopes; stars and star clusters; stellar evolution; galaxies and the large-scale structure of the universe; and the Big Bang. May also include periodic visits to the university observatory.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 151",
+            "Title": "Applied Physics",
+            "Number_of_credits": "Credits",
+            "Description": "Non-calculus-based introductory physics for business majors. Covers basic mechanics and simple harmonic motion, followed by an introduction to more advanced topics such as relativity, electromagnetism, and quantum phenomena.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 152",
+            "Title": "Introductory Physics I",
+            "Number_of_credits": "Credits",
+            "Description": "First part of a three-course algebra-based sequence providing a comprehensive introduction to Physics. Covers basic mechanics, including motion in 1, 2, and 3 Newton's laws, gravitation, energy, momentum, rotational motion and elastic properties of materials. Includes labs to enrich class material. High school physics not required.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 153",
+            "Title": "Introductory Physics II",
+            "Number_of_credits": "Credits",
+            "Description": "Second part of a three-course algebra-based sequence providing a comprehensive introduction to Physics. Covers fluids, vibrations, waves, sound, heat and thermodynamics, geometrical optics and optical instrumentation. Includes labs to enrich class material.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 152 [Min Grade: D] or PHYS 101 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 154",
+            "Title": "Introductory Physics III",
+            "Number_of_credits": "Credits",
+            "Description": "Third part of a three-course algebra-based sequence providing a comprehensive introduction to Physics. Covers fundamentals of electricity and magnetism, including charges, fields, potential, circuits, magnetic induction, electromagnetic waves, special relativity, and physical optics. Includes labs to enrich class material.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 101 [Min Grade: D] or PHYS 152 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 160",
+            "Title": "Introduction to Scientific Computing",
+            "Number_of_credits": "Credits",
+            "Description": "Basic introduction to scientific problem solving and numerical modeling of physical system using Excel and Maple.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 170",
+            "Title": "Electricity and Motion",
+            "Number_of_credits": "Credits",
+            "Description": "With an interactive lecture format and an inquiry-based student-centered recitation, \"Electricity and Motion\" will give a conceptual introduction to topics in physics such as motion, forces, electricity, and magnetism. Students will complete an interdisciplinary, real-world project that will relate their specific major to an area of physics. Students will also be able to solve one-step algebra problems and conceptually describe topics in physics.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 171",
+            "Title": "Computational Lab for Electricity and Motion",
+            "Number_of_credits": "Credit",
+            "Description": "Students will experiment with computational methods as they relate to physics topics such as motion, forces, electricity, and magnetism using tools such as Excel, Python, code.org, and Blockscad.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 172",
+            "Title": "Experimental Lab for Electricity and Motion",
+            "Number_of_credits": "Credit",
+            "Description": "Students will experiment with real world materials as they relate to physics topics such as motion, forces, electricity, and magnetism.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 175",
+            "Title": "Light and Sound",
+            "Number_of_credits": "Credits",
+            "Description": "With an interactive lecture format and an inquiry-based student-centered recitation, this course will give a conceptual introduction to topics in physics such as waves, sound, light, and color. Students will complete an interdisciplinary, real-world project that will relate their specific major to an area of physics. Students will also be able to solve one-step algebra problems and conceptually describe topics in physics.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 176",
+            "Title": "Computational Lab for Light and Sound",
+            "Number_of_credits": "Credit",
+            "Description": "Students will experiment with computational methods as they relate to physics topics such as waves, sound, light, and color using tools such as Excel, Python, code.org, and Blockscad.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 177",
+            "Title": "Experimental Lab for Light and Sound",
+            "Number_of_credits": "Credit",
+            "Description": "Students will experiment with real world materials as they relate to physics topics such as waves, sound, light, and color.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 181",
+            "Title": "Astronomy",
+            "Number_of_credits": "Credits",
+            "Description": "Provides an overview of modern astronomy, including the scientific method; telescopes; stars and star clusters; stellar evolution; galaxies and the large-scale structure of the universe; and the Big Bang. May also include periodic visits to the university observatory.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 182",
+            "Title": "Applied Physics I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers vectors; statics, kinematics, and classical dynamics, including Newton's laws, torque, projectile motion, and circular motion; work; power and energy; impulse and momentum; and rotation, in a non-calculus-based course. Fall.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 183 [Min Grade: D] or MATH 101 [Min Grade: D] or MATH 102 [Min Grade: D] or MATH 173 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 183",
+            "Title": "Applied Physics II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers fluids; elasticity; vibration, including simple harmonic motion; sound waves and acoustics; thermodynamics of temperature; heat; thermal-expansion; phase change; and heat transfer, in a non-calculus-based course. Winter.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 182 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 184",
+            "Title": "Applied Physics III",
+            "Number_of_credits": "Credits",
+            "Description": "Covers light and illumination, electrostatics, potential, direct-current electrical circuits, magnetic fields, induction, generators, motors, and AC circuits, in a non-calculus-based course. Spring.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 183 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 185",
+            "Title": "Fundamentals of Physics Lecture I",
+            "Number_of_credits": "Credits",
+            "Description": "First of a three course sequence teaching fundamental physics to engineering and science majors. Topics include: description of motion, inertial and non-inertial frames, special relativity, Newton's Laws, translational and rotational equilibrium, one- and two-dimensional motion, fundamental forces, inverse square laws, Gauss' Law, Bohr's quantization, rotational dynamics, potential energy, black holes, determinism and chaos.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 121 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 186",
+            "Title": "Physics I-A",
+            "Number_of_credits": "Credit",
+            "Description": "A companion course forPHYS\u00a0185. Students will perform experiments related to Mechanics. Some or all pre-requisites may be taken as either a pre-requisite or co-requisite. Please see the department for more information.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 185 [Min Grade: D] (Can be taken Concurrently)"
+      },
+      {
+            "Identifier": "PHYS 188",
+            "Title": "Physics II-A",
+            "Number_of_credits": "Credit",
+            "Description": "A companion course forPHYS\u00a0189. Students will perform experiments related to Electricity and Magnetism. Some or all pre-requisites may be taken as either a pre-requisite or co-requisite. Please see the department for more information.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 189 [Min Grade: D] (Can be taken Concurrently)"
+      },
+      {
+            "Identifier": "PHYS 189",
+            "Title": "Fundamentals of Physics Lecture II",
+            "Number_of_credits": "Credits",
+            "Description": "Second of a four course sequence teaching fundamental physics to engineering and science majors. Topics include: electrostatics, capacitors, charges in motion, insulators, semiconductors, voltage and current measurements, magnetism, electromagnetic induction, magnetic materials, quantum dots, magnetic resonance phenomenon.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 185 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 201",
+            "Title": "Fundamentals of Physics III",
+            "Number_of_credits": "Credits",
+            "Description": "Third of the three-course physics sequence introducing waves, relativity, and quantum mechanics to engineering and science majors. Topics include: Maxwell's equations, electromagnetic waves, interference and diffraction of electromagnetic waves. Introduction to special theory of relativity. De Broglie's wave-particle duality hypothesis, Compton scattering, Heisenberg uncertainty principle, and Schrodinger's equation.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 102 [Min Grade: D] and MATH 122 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 217",
+            "Title": "Thermodynamics",
+            "Number_of_credits": "Credits",
+            "Description": "Covers macro-thermodynamics: temperature, pressure, work, heat, equations of state, the first and second laws of thermodynamics and their applications, heat engines and refrigerators, thermodynamics potentials, Maxwell relations, theory of phase changes, kinetic theory and transport phenomena.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 200 [Min Grade: D] (Can be taken Concurrently) or (PHYS 114 [Min Grade: D] or PHYS 201 [Min Grade: D])"
+      },
+      {
+            "Identifier": "PHYS 226",
+            "Title": "Instrumentation for Scientists I",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces measurement concepts, including a systems approach to analog and digital measurement, amplification and feedback, electrical data domains, measurements of varying analog signals, time domain measurements and conversions, and A/D and D/A conversions.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 227",
+            "Title": "Instrumentation for Scientists II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers optimization of scientific measurements, including systems analysis, signal/noise, control of frequency response, modulation and demodulation, relation of sampling parameters to signal characteristics, and signal-to-noise ratio enhancement.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 226 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 231",
+            "Title": "Introductory Astrophysics",
+            "Number_of_credits": "Credits",
+            "Description": "An introductory astrophysics course aimed at science majors. Topics include a treatment of orbits, Kepler's laws, celestial coordinates, light, blackbodies, optics, stellar structure and evolution, galactic formation, and large scale evolution and structure of the universe.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(PHYS 101 [Min Grade: D] or PHYS 113 [Min Grade: D]) and MATH 121 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 232",
+            "Title": "Observational Astrophysics",
+            "Number_of_credits": "Credits",
+            "Description": "Covers photometric and spectroscopic properties of stars, galaxies, and quasars and fundamental astrophysics of these objects. The course contains a significant lab component, which includes training in methods of observation, using the Joseph Lynch Observatory on campus to obtain astronomical measurements, and analysis of data.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 113 [Min Grade: D] and MATH 121 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 233",
+            "Title": "Introduction to Relativity",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers foundational concepts in Einstein's Special Theory of Relativity, including the unification of space-time, transformations between inertial frames, relativity of simultaneity, length contraction and time dilation, and transformation between energy and momentum. Introductory concepts in General Relativity will be discussed, including space curvature and weak gravitational fields.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(PHYS 113 [Min Grade: D] or PHYS 101 [Min Grade: D]) and MATH 122 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 262",
+            "Title": "Introduction to Biophysics",
+            "Number_of_credits": "Credits",
+            "Description": "This is an introductory course to the wide field of Biophysics. The intended audience is undergraduate physics majors. However, the level and approach is also accessible to undergraduates from other concentrations, including Chemistry and Biology. Students will learn the basic principles behind cells, thermodynamics and statistical mechanics applied to cellular environments, forces affecting conformation of biological molecules, protein and nucleic acid biophysics, membrane biophysics, and basic physics principles behind nerve impulses.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(PHYS 115 [Min Grade: D] or PHYS 201 [Min Grade: D])"
+      },
+      {
+            "Identifier": "PHYS 280",
+            "Title": "Fundamentals of Physics Lecture III",
+            "Number_of_credits": "Credits",
+            "Description": "Third of a three course sequence teaching fundamental physics to engineering and science majors. Topics include: oscillations, EM waves, interference, diffraction, wave-particle duality, energy-matter equivalence, uncertainty relations, Schrodinger's equation, Hydrogen atom, laser, and nuclear physics.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 102 [Min Grade: D] or PHYS 189 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 282",
+            "Title": "Fundamentals of Physics Laboratory III",
+            "Number_of_credits": "Credit",
+            "Description": "A companion course forPHYS\u00a0280. Students will perform experiments related to Thermodynamics and modern physics. Some or all pre-requisites may be taken as either a pre-requisite or co-requisite. Please see the department for more information.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 280 [Min Grade: D] (Can be taken Concurrently)"
+      },
+      {
+            "Identifier": "PHYS 305",
+            "Title": "Computational Physics II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the application of computational techniques to problems in physics, including numerical solution of differential equations, computation and display of particle trajectories in arbitrary potentials, introduction to non-linear dynamics, random numbers and Monte-Carlo methods, and numerical implementation of selected methods in mathematical physics. Emphasizes hands-on experience in problem-solving, using both Maple and C.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 105 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 311",
+            "Title": "Classical Mechanics I",
+            "Number_of_credits": "Credits",
+            "Description": "An intermediate treatment of classical mechanics and dynamics. Topics will include central forces, oscillatory motion, Lagrangian and Hamiltonian mechanics, phase space, and collisions.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(PHYS 113 [Min Grade: D] or PHYS 101 [Min Grade: D]) and MATH 200 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 312",
+            "Title": "Classical Mechanics II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers motion of system of particles, center of mass and conservation of linear momentum, description of collisions, Rutherford scattering, dynamics of rigid bodies, coordinate systems, the restricted three-body problem, generalized coordinates, Lagrange's equations and Hamilton's equations, and rotation of frame.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 311 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 317",
+            "Title": "Statistical Mechanics",
+            "Number_of_credits": "Credits",
+            "Description": "Covers distribution molecular velocities, transport phenomena, Maxwell-Boltzmann statistics, and quantum statistics.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(PHYS 217 [Min Grade: D] or CHEM 253 [Min Grade: D] or ENGR 210 [Min Grade: D]) and MATH 200 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 321",
+            "Title": "Electromagnetic Fields I",
+            "Number_of_credits": "Credits",
+            "Description": "Covers fields due to specified charge distributions, Gauss' law, multipole expansion of the fields, Laplace's equation, method of images, dielectrics, and energy of an electrostatic field.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 115 [Min Grade: D] or PHYS 102 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 322",
+            "Title": "Electromagnetic Fields II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers electric current, continuity equation, electromotive forces, magnetic fields, electromagnetic induction, magnetic properties of matter, Maxwell's equations, radiation, and radiation by moving charges.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 321 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 324",
+            "Title": "Topics in Mathematical Physics",
+            "Number_of_credits": "Credits",
+            "Description": "This course presents the mathematical background needed for Thermodynamics, Classical Mechanics, Electricity & Magnetism, and Quantum Mechanics using the theory of linear vector spaces and the standard tools of elementary mathematical physics. Emphasis will be placed on the use of analytic and numerical programming techniques, using Maple, FORTRAN and C.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 122 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 325",
+            "Title": "Computational Physics III",
+            "Number_of_credits": "Credits",
+            "Description": "This is the third course in the Computational Physics sequence. It presents basic scientific programming techniques and problem-solving strategies, as applied to problems in electromagnetic theory and quantum mechanics. This hands-on focuses primarily on the solution of partial differential equations in physics, Monte-Carlo methods, and matrix methods, and includes solutions of Laplace's, Poisson's and Maxwell's equations, fields due to moving charges, Fast Fourier Transforms, and solutions of the time-independent and time-dependent Schroedinger equation.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 105 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 326",
+            "Title": "Quantum Mechanics I",
+            "Number_of_credits": "Credits",
+            "Description": "Explores the classical foundations of quantum mechanics, the Schrodinger equation, solutions of one-dimensional problems, and the one-dimensional harmonic oscillator.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 311 [Min Grade: D] and MATH 210 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 327",
+            "Title": "Quantum Mechanics II",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the three-dimensional Schrodinger equation, angular momentum, matrix mechanics, the hydrogen atom, and perturbation theory.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 326 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 328   [WI]",
+            "Title": "Advanced Laboratory",
+            "Number_of_credits": "Credits",
+            "Description": "Requires students to perform advanced laboratory experiments in the various fields of physics.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 223 [Min Grade: D] or PHYS 128 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 330",
+            "Title": "Introduction to Nuclear Physics",
+            "Number_of_credits": "Credits",
+            "Description": "Provides an overview of nuclear physics; including nuclear structure; nuclear stability; radioactivity and nuclear decay; nuclear forces and interactions; fission and fusion; and the interaction of particles with matter. A small amount of quantum mechanics will be included.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(PHYS 115 [Min Grade: D] or PHYS 201 [Min Grade: D]) and (MATH 210 [Min Grade: D] or ENGR 232 [Min Grade: D])"
+      },
+      {
+            "Identifier": "PHYS 405",
+            "Title": "Advanced Computational Physics",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the application of computational techniques to one or more research topics of current interest, including grid-based solutions of partial differential equations in one and two dimensions and particle methods in fluid mechanics. Introduces high-performance computation and massively parallel computing platforms.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 305 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PHYS 408",
+            "Title": "Physics Seminar",
+            "Number_of_credits": "Credit",
+            "Description": "Requires participation in weekly departmental colloquium.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 2 times for 3 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 428",
+            "Title": "Quantum Mechanics III",
+            "Number_of_credits": "Credits",
+            "Description": "Advanced topics in quantum mechanics including spin, addition of angular momentum, scattering theory, relativistic quantum mechanics, atoms and molecules, and radiation from atoms.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 327 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 431",
+            "Title": "Galactic Astrophysics",
+            "Number_of_credits": "Credits",
+            "Description": "This course presents an introduction to the processes responsible for the formation, structure, evolution, and present-day appearance of the Milky Way and other galaxies. Using the Milky Way Galaxy as a guide, we will develop analytical and numerical tools to help us understand of the properties of these magnificent objects, near and far. Topics will include stars, stellar formation, and stellar evolution, galactic structure and dynamics, and galaxy formation and evolution.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 311 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 432",
+            "Title": "Cosmology",
+            "Number_of_credits": "Credits",
+            "Description": "Covers cosmological models, age and distance scales in the universe, the hot big bang, primordial nucleosyntesis, inflation, baryonic and non-baryonic matter, galaxy formation and evolution, dynamics of structure formation, statistics of cosmological density fields, and cosmic background fluctuations.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 311 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 433",
+            "Title": "General Relativity",
+            "Number_of_credits": "Credits",
+            "Description": "Covers particle and field dynamics in general relativity, tensor calculus, and develops and solves Einstein's field equations. Particular solutions considered will include black holes, gravitational waves, and cosmological solutions to general relativity.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 321 [Min Grade: C-] or PHYS 233 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "PHYS 440",
+            "Title": "Big Data Physics",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides the framework for physics students at all levels to begin interacting with large data sets in physics. Data analysis will be done using Python tools, including standard libraries for machine learning. Practical application of classification and regression techniques for both unsupervised and supervised data are emphasized, in addition to dimensionality reduction techniques and time-domain analysis. An introduction to statistical methods, Bayesian inference, and Markov-chain Monte Carlo methods provide a foundation for application of machine learning tools.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 115 [Min Grade: D] or CS 171 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 452",
+            "Title": "Solid State Physics",
+            "Number_of_credits": "Credits",
+            "Description": "Atomic basis of the physical properties of materials, including crystalline and non-crystalline solids. Detailed introductory treatment of the structural, vibrational, and electronic properties of solid and their inter-relationships. Overview of other materials, properties, and scientific basis of technological applications.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 317 [Min Grade: D] and PHYS 326 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 453",
+            "Title": "Nanoscience",
+            "Number_of_credits": "Credits",
+            "Description": "Scientific basis of nanoscale materials and systems including discussions of low-dimensional structures and their physical properties, the self-assembly of nanostructures, applications in various fields of science and technology, and techniques for fabrication and characterization on the nanoscale.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 321 [Min Grade: D], PHYS 326 [Min Grade: D] (Can be taken Concurrently) and PHYS 311 [Min Grade: D] and PHYS 217 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 461",
+            "Title": "Biophysics",
+            "Number_of_credits": "Credits",
+            "Description": "A one course introduction to biological physics. Topics may include: structure of biomolecules, protein stability, electron transfer, protein folding, protein substrates, allostery, and self-assembly. No biological background is presumed.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated 1 times for 3 credits",
+            "Prerequisites": "PHYS 317 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 462",
+            "Title": "Computational Biophysics",
+            "Number_of_credits": "Credits",
+            "Description": "This course involves mathematical applications of biological simulations. Using classical and statistical mechanics, we will cover topics including atomic scale simulations, statistical sampling and models of molecular cellular systems and living processes.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 105 [Min Grade: D] and PHYS 217 [Min Grade: D] and MATH 210 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 476",
+            "Title": "Particle Physics",
+            "Number_of_credits": "Credits",
+            "Description": "This course will provide an introduction to the physics of fundamental particles. Topics including the fundamental forces, quarks and leptons, Feynman diagrams, symmetries and conservation laws, relativistic kinematics, bound states, and experimental methods.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 327 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 479",
+            "Title": "The Standard Model",
+            "Number_of_credits": "Credits",
+            "Description": "This class will focus on classical fields in general, as well as the relationship between classical and quantum fields. It will include discussions of special relativity, group theory, and simple lie groups, as well as the theoretical development of electromagnetism, the weak, and strong forces. The course will develop electroweak unification in particular, and unified theories in general. It will conclude with a discussion of Grand Unified Theories.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 327 [Min Grade: C-] or CHEM 355 [Min Grade: C-] or MATE 351 [Min Grade: C-]"
+      },
+      {
+            "Identifier": "PHYS 485",
+            "Title": "Research",
+            "Number_of_credits": "Credits",
+            "Description": "Covers research problems in physics.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 491",
+            "Title": "Senior Research I",
+            "Number_of_credits": "Credits",
+            "Description": "A three-term sequence devoted to theoretical or experimental activities in a specific area of physics or atmospheric science to be chosen in consultation with a faculty adviser. Requires students to learn to identify interesting problems, develop a plan of attack, and carry the project to completion. Requires written and oral report at the end of the third term.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS 492",
+            "Title": "Senior Research II",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesPHYS\u00a0491.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 491 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS 493   [WI]",
+            "Title": "Senior Research III",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesPHYS\u00a0492.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PHYS 492 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PHYS I199",
+            "Title": "Independent Study in PHYS",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS I299",
+            "Title": "Independent Study in PHYS",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS I399",
+            "Title": "Independent Study in PHYS",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS I499",
+            "Title": "Independent Study in PHYS",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS T180",
+            "Title": "Special Topics in Physics",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS T280",
+            "Title": "Special Topics in Physics",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS T380",
+            "Title": "Special Topics in Physics",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PHYS T480",
+            "Title": "Special Topics in Physics",
+            "Number_of_credits": "Credits",
+            "Description": "Covers selected topics in physics. May be repeated for credit.",
+            "College/Department": "College of Arts and Sciences",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

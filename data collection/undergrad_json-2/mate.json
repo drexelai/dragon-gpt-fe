@@ -1,0 +1,353 @@
+[
+      {
+            "Identifier": "MATE 100",
+            "Title": "Materials for Emerging Technologies",
+            "Number_of_credits": "Credits",
+            "Description": "Evolution of materials engineering; education and the profession; concepts, tools, and techniques; selection and design using metals, ceramics, polymers, and composites; application of materials in a technological society; and materials of the future.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATE 101",
+            "Title": "Fundamentals of Materials",
+            "Number_of_credits": "Credits",
+            "Description": "Examines principles underlying structure, properties, and behavior of engineering materials, including metals, ceramics, and polymers. Covers topics including bonding; crystal structure; defect structure; alloying; mechanical, electronic, and magnetic properties in relation to structure; phase equilibria; phase transformations; and oxidation and corrosion. All terms.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 102 [Min Grade: D] and MATH 122 [Min Grade: D] and PHYS 101 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATE 120",
+            "Title": "Modern Materials in Your World",
+            "Number_of_credits": "Credits",
+            "Description": "This undergraduate level introductory course in modern materials is designed as an elective course for non-engineering majors. It will introduce the field of materials science and engineering while stressing the importance of materials selection in modern day products. In addition, the course will highlight the importance of sustainable materials in product life cycle design in order to minimize environmental effects.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATE 121",
+            "Title": "Mechanical Behavior of Materials for Product Design",
+            "Number_of_credits": "Credit",
+            "Description": "This course introduces Product Design majors to mechanical behavior considerations for materials selection.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATE 214",
+            "Title": "Introduction to Polymers",
+            "Number_of_credits": "Credits",
+            "Description": "Covers polymer molecular structure, polymerization methods, semi-crystalline polymers, glass transition, polymer solution in blends, mechanical properties, and characterization methods.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MATE 221 [Min Grade: D] or MATE 230 [Min Grade: D]) and CHEM 241 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATE 220",
+            "Title": "Fundamentals of Materials",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces materials and their properties; atomic view and architecture of solids; atomic motion in solids, mechanical, magnetic, electrical and optical properties of materials. Corrosion and degradation of solids.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated 3 times for 16 credits",
+            "Prerequisites": "(CHEM 101 [Min Grade: D] and MATH 122 [Min Grade: D] and PHYS 101 [Min Grade: D])"
+      },
+      {
+            "Identifier": "MATE 230",
+            "Title": "Fundamentals of Materials II",
+            "Number_of_credits": "Credits",
+            "Description": "This course continues the introduction to materials science and engineering fromENGR\u00a0220by exploring additional topics including phase diagrams, phase transformations, mechanical behavior of materials, thermal properties, environmental considerations and society impacts. In addition, the course introduces concepts of data collection and analysis as it relates to mechanical property testing. The course also addresses techniques for successful technical communication.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGR 220 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATE 240",
+            "Title": "Thermodynamics of Materials",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the fundamental laws of thermodynamics, statistical meaning of entropy, thermodynamic functions, heat capacity, reactions in gases and condensed phases, phase diagrams, solutions, and reaction equilibria in condensed solutions.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MATE 221 [Min Grade: D] or MATE 230 [Min Grade: D]) and ENGR 210 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATE 245",
+            "Title": "Kinetics of Materials",
+            "Number_of_credits": "Credits",
+            "Description": "Covers chemical reaction kinetics, thermodynamics and structure of crystal defects, diffusion equations and numerical methods of solution, kinetics in interfacial phenomena, and diffusional transformations.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATE 240 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATE 280",
+            "Title": "Advanced Materials Laboratory",
+            "Number_of_credits": "Credits",
+            "Description": "The goal of the course is to introduce students to state-of-the-art experimental techniques for analysis of structure, composition and properties of materials. Electron microscopy, Raman spectroscopy, indentation and thermal analysis will be described.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGR 220 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATE 315",
+            "Title": "Processing Polymers",
+            "Number_of_credits": "Credits",
+            "Description": "Covers polymer processing, viscous flow and melt rheology, injection molding, extrusion, mechanical behavior, and applications and design.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATE 214 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATE 341",
+            "Title": "Defects in Solids",
+            "Number_of_credits": "Credits",
+            "Description": "Main classes of crystalline defects: vacancies, dislocations, stacking faults, surfaces, grain boundaries, geometry, energy considerations, and movement of defects. Defects in specific crystallographic systems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATE 355 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATE 345",
+            "Title": "Processing of Ceramics",
+            "Number_of_credits": "Credits",
+            "Description": "Covers powder production, materials characterization, stability of powder suspensions, rheological and viscoelastic properties of slurries, green-body consolidation, drying, sintering, and structure-property relationships.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATE 355 [Min Grade: D] (Can be taken Concurrently)"
+      },
+      {
+            "Identifier": "MATE 351",
+            "Title": "Electronic and Photonic Properties of Materials",
+            "Number_of_credits": "Credits",
+            "Description": "Electrons, principles of quantum mechanics, bonding, free electrons, and band theory solids; lattice vibrations, electronic and vibrational heat capacity; semiconductors and semiconductor devices; dielectrics, magnetic and optoelectronic materials and devices; superconductivity; applications and implications for energy-harvesting, conversion and storage.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATE 355 [Min Grade: D] (Can be taken Concurrently)"
+      },
+      {
+            "Identifier": "MATE 355",
+            "Title": "Structure and Characterization of Crystalline Materials",
+            "Number_of_credits": "Credits",
+            "Description": "Bonding in solids; classification of metals, semiconductors, and insulators; crystal systems; crystallographic systems in specific engineering materials, relationships, X-ray generation, X-ray absorption and emission; reciprocal space; geometric representation of crystals, small and wide angle scattering, electron microscope imaging and diffraction.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGR 220 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATE 366   [WI]",
+            "Title": "Processing of Metallic Materials",
+            "Number_of_credits": "Credits",
+            "Description": "Covers solidification processing, casting and welding, heat flow analysis, solid-state transformations, precipitation hardening, transformations in steels, martensite transformations, and industrial case studies.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATE 245 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATE 370",
+            "Title": "Mechanical Behavior of Solids",
+            "Number_of_credits": "Credits",
+            "Description": "Covers continuum mechanics: three-dimensional stress and strain, hydrostatic and deviatoric components, and isotropic elasticity; Mises yield criterion; fracture criteria; linear elastic fracture mechanics; materials selection; defect-tolerant and defect-free fatigue design; notch effects; and statistics of variation.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MATE 221 [Min Grade: D] or MATE 230 [Min Grade: D]) and (ENGR 231 [Min Grade: D] or MATH 261 [Min Grade: D] or MATH 201 [Min Grade: D])"
+      },
+      {
+            "Identifier": "MATE 375",
+            "Title": "Materials Selection for Industrial Applications",
+            "Number_of_credits": "Credits",
+            "Description": "Selection of materials for industrial applications entails a balance between multiple constraints. In this course, students will learn methodologies that consider factors such as material properties, processing techniques, shape, cost, environmental impact, health and safety, and social concerns to determine appropriate materials for industrial applications. Often conflicting constraints that result from these factors need to be evaluated.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATE 315 [Min Grade: D], MATE 345 [Min Grade: D], MATE 366 [Min Grade: D] (Can be taken Concurrently)"
+      },
+      {
+            "Identifier": "MATE 410",
+            "Title": "Case Studies in Materials",
+            "Number_of_credits": "Credits",
+            "Description": "Covers interaction of materials processing and design, materials selection, the design-failure interface, cost and capacity in manufacturing. Taught via case studies.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATE 221 [Min Grade: D] or MATE 230 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATE 450",
+            "Title": "The Nuclear Fuel Cycle & Materials",
+            "Number_of_credits": "Credits",
+            "Description": "Nuclear fuel cycle, including extraction, enrichment, transmutation in a nuclear reactor, reprocessing, waste processing, repository performance. Materials for nuclear reactors, mechanical and thermal performance, radiation damage.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGR 220 [Min Grade: D] and (MEM 371 [Min Grade: D] or ECEP 404 [Min Grade: D]) and ECEP 402 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATE 455",
+            "Title": "Biomedical Materials",
+            "Number_of_credits": "Credits",
+            "Description": "Familiarizes students with natural tissues and the implants designed to replace them, treating both components as engineering materials. Includes a review of fundamental topics of materials structure and testing, and case studies.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATE 458",
+            "Title": "Advanced Biomaterials",
+            "Number_of_credits": "Credits",
+            "Description": "Tissue Engineering, matrices, cells, scaffold, engineering properties, constitutive relations, absorbable polymers, cell seeding, cellular isolation, cell-scaffold interaction. May be repeated for credit.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATE 460",
+            "Title": "Engineering Computational Laboratory",
+            "Number_of_credits": "Credits",
+            "Description": "Covers numerical techniques, finite differences and finite elements, convergence, and applications in engineering design.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MATE 221 [Min Grade: D] or MATE 230 [Min Grade: D]) and (ENGR 232 [Min Grade: D] or MATH 210 [Min Grade: D]) and MATH 200 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATE 462",
+            "Title": "Powder Metallurgy",
+            "Number_of_credits": "Credits",
+            "Description": "Covers commercial and near-commercial methods of powder making, material and process variables, atomization mechanisms, powder properties and characterization, powder compaction, and properties in the green state.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATE 366 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATE 475",
+            "Title": "Materials Data Analysis",
+            "Number_of_credits": "Credits",
+            "Description": "Students will learn and exercise common statistical methods for the analysis and interpretation of numerical data in materials science and engineering. Students will also be exposed to the data mining and machine learning techniques applied in materials science and engineering. The course will emphasize providing students fruitful hands-on experience of commonly used platforms to perform (big) data analysis and solve materials-relevant problems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CIVE 375 [Min Grade: D] or MATE 370 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATE 476",
+            "Title": "Recycling of Materials",
+            "Number_of_credits": "Credits",
+            "Description": "This course will examine the selection criteria for recycling component materials. Recycling involves both reusing materials for energy applications and reprocessing materials into new products.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATE 240 [Min Grade: D] and MATE 245 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATE 482",
+            "Title": "Materials for Energy Storage",
+            "Number_of_credits": "Credits",
+            "Description": "The course will address principles of operation of electrochemical energy storage devices and describe materials used in those devices.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "ENGR 220 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATE 483",
+            "Title": "Environmental Effects on Materials",
+            "Number_of_credits": "Credits",
+            "Description": "Environmental degradation is explored with a focus on electrochemical corrosion reactions in metals and alloys due to atmospheric, aqueous, chemical or elevated temperature exposure. In addition, high temperature degradation of ceramics and degradation of polymers due to exposure to heat, light and chemicals will be addressed. The role of these environmental effects during service and the impact on performance and reliability will be explored.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATE 245 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATE 491   [WI]",
+            "Title": "Senior Project Design I",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces the design process, including information retrieval, problem definition, proposal writing, patents, and design notebooks. Includes presentations on problem areas by experts from industry, government, and education.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATE 280 [Min Grade: D] and MATE 315 [Min Grade: D] and MATE 351 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATE 492",
+            "Title": "Senior Project Design II",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesMATE\u00a0491. Requires written and oral progress reports.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATE 491 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATE 493   [WI]",
+            "Title": "Senior Project Design III",
+            "Number_of_credits": "Credits",
+            "Description": "ContinuesMATE\u00a0492. Requires written and oral final reports, including oral presentations by each design team.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATE 492 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MATE I199",
+            "Title": "Independent Study in MATE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATE I299",
+            "Title": "Independent Study in MATE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATE I399",
+            "Title": "Independent Study in MATE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATE I499",
+            "Title": "Independent Study in MATE",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATE T180",
+            "Title": "Special Topics in MATE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATE T280",
+            "Title": "Special Topics in MATE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATE T380",
+            "Title": "Special Topics in MATE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MATE T480",
+            "Title": "Special Topics in MATE",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]

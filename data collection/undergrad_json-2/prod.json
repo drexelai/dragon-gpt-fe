@@ -1,0 +1,290 @@
+[
+      {
+            "Identifier": "PROD 101",
+            "Title": "History and Analysis of Product Design",
+            "Number_of_credits": "Credits",
+            "Description": "This class studies the chronological context of the development of the product design profession, relating it to the social, cultural and economic events that helped shape our modern day society. Studies are focuses on major industrial designers and innovations. This course has both a project and written analysis paper component.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PROD 205",
+            "Title": "Applied Making I",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces the development of rapid study models and mid-fidelity prototypes related to product design. Students, through a series of exercises, build study models of products to professional standards of accuracy and finish, with an emphasis on rapid development. Aspects of workshop practice and safety are emphasized.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "WEST 107 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PROD 210",
+            "Title": "Introduction to Product Design",
+            "Number_of_credits": "Credits",
+            "Description": "This course introduces students to the product development process. It combines lectures, demonstrations, and discussions. Through a series of human-centered and form-based problem solving exercises, students explore design as a creative process to produce in physical objects. Students apply form development with product development and continue to build technical skills in physical modeling and visual communication of their novel solutions.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PROD 101 [Min Grade: D] and PROD 220 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PROD 215",
+            "Title": "Design Thinking in Product Design",
+            "Number_of_credits": "Credits",
+            "Description": "This course is an integrated lecture/lab introducing principles and theories of product design, systematic design process, problem-solving, decision making and design as authorship. The course uses design research methods, and topical design issues to explore and experience design thinking.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PROD 220",
+            "Title": "Product Design Form Studio",
+            "Number_of_credits": "Credits",
+            "Description": "This course uses principles of visual design in the organization of physical elements and analysis of form. Building on abstract relationships, natural inspiration, and the study of visual reference, students develop a sensitivity to form language, semantics, materials, and aesthetics of 3D objects of design. They learn to synthesize this abstract language into functional objects.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "WEST 107 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PROD 225",
+            "Title": "Computer Aided Imagining in Product Design",
+            "Number_of_credits": "Credits",
+            "Description": "This is an applied computer class in which students pursue the development of design projects using current product design photo-realistic rendering softward for object design and three-dimensional modeling of products applicable to rapid prototyping.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PROD 265 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PROD 230",
+            "Title": "Product Design Process Studio",
+            "Number_of_credits": "Credits",
+            "Description": "In this course students are presented complex design issues in mass-produced objects. Students develop an understanding of the product development process focusing on the designers skills and technical knowledge to formulate appropriate design solutions. Students practice collaboration of ideas with engineers, marketing, users and shareholders.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PROD 210 [Min Grade: C] and PROD 220 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PROD 235",
+            "Title": "Applied Design Visualization",
+            "Number_of_credits": "Credits",
+            "Description": "This course will provide students with schemas and strategies for using visualization as a thinking tool, as well as persuasive techniques for communicating design intent. It will put into practice the essential techniques that product designers use to think and communicate visually.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PROD 240",
+            "Title": "Smart Product Design",
+            "Number_of_credits": "Credits",
+            "Description": "To explore ideas around tangible interaction, this course will introduce the smart product development process and combine basic microcontroller programming with digital application development to conceptualize responsive products, environments, and/or materials. Students will design and prototype functional devices that operate using embedded technologies that enhance user experience.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "WEST 107 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PROD 245",
+            "Title": "Seminar Professional Landscape",
+            "Number_of_credits": "Credits",
+            "Description": "In this course students explore current trends in the product design profession today. Students will research and present insights into important design issues, trends, and criticism in contemporary product design. Through extensive readings and discussions, students develop an understanding of the relationship of product design to society and culture.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PROD 220 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PROD 255",
+            "Title": "Applied Materials in Product Design",
+            "Number_of_credits": "Credits",
+            "Description": "The course emphasizes the practical relationship between product design and the manufacturing industry and the technical considerations that influence the choice of material and process for small batch and mass production.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PROD 235 [Min Grade: C] and MATE 120 [Min Grade: D] and MATE 121 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PROD 265",
+            "Title": "Introduction to CAD Product Design",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces the creation and manipulation of three-dimensional digital models and the resultant two-dimensional drawings using computer techniques.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "WEST 107 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PROD 275",
+            "Title": "Visual Communication for Product Design",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores the various types of visual communication and presentation fundamentals applying the layout and composition type, color, images, and graphic assets used in product and visual presentation applications.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PROD 305",
+            "Title": "Soft Goods for Product Design",
+            "Number_of_credits": "Credits",
+            "Description": "This course combines studio and lecture to introduce students to a variety of soft material structures and soft fabrication methods, and guides them towards purposeful use and innovative applications. Through hands-on prompted experimentation, materials research, materials presentations, instructive editing, and group critique, students will explore the unique role of soft goods in contemporary design.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PROD 325",
+            "Title": "Speaker Making",
+            "Number_of_credits": "Credits",
+            "Description": "This course will focus on the art and design of building quality speakers. Students will be expected to design and build either a bluetooth speaker or a set of bookshelf speakers. Students will learn how to select drivers, crossovers as well as learn how to calculate the right size enclosure to get the optimum sound out of your speakers. Students will be expected to make a well-crafted and good sounding set of speakers as a final assignment.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PROD 340",
+            "Title": "Interdisciplinary Product Design Studio",
+            "Number_of_credits": "Credits",
+            "Description": "Through a focused design project, students of various backgrounds and departments collaborate on complex design issues as they seek to create an appropriate and novel solution to the assigned design problem. Bringing both the PROD majors and PROD minors together, students work as teams through the product development cycle.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PROD 230 [Min Grade: C] and PROD 235 [Min Grade: C] and PROD 255 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PROD 345",
+            "Title": "Applied Human Centered Design",
+            "Number_of_credits": "Credits",
+            "Description": "This course explores the physical, psychological, perceptual, and behavioral characteristics of humans. Through a series of lectures and projects, this information is applied to the field of product design to develop safe and effective products.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PSY 101 [Min Grade: D] and PROD 340 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PROD 405",
+            "Title": "Experimental Design",
+            "Number_of_credits": "Credits",
+            "Description": "This course is a study into the experimentation and rapid three-dimensional visualization and manipulation of material, form, and function of designed objects no larger than the human body. Students will apply iterative hands-on design process to work through guided assignments to create self-directed project ideas for a variety of contexts. Students will deconstruct preconceived notions of everyday materials, objects, and functions\u2014resolving ideas through technical problem-solving, analog and digital manufacturing, and various CAD software and digital tools.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "VSST 102 [Min Grade: D] and (DSMR 100 [Min Grade: D] or WEST 100 [Min Grade: D])"
+      },
+      {
+            "Identifier": "PROD 425",
+            "Title": "Applied Design Research",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers diverse theories and methods for conducting product design research. Emphasis is given to understanding quantitative and qualitative research methods and the role the designer in synthesizing and applying research as a critical part of the design process. This course combines writing and short projects.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "COM 220 [Min Grade: D] and PROD 345 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PROD 455",
+            "Title": "Design for Manufacturing",
+            "Number_of_credits": "Credits",
+            "Description": "In Design for Manufacturing, students will have the opportunity to translate a conceptualized idea and design into a portfolio ready, high fidelity prototype. Using methods of contemporary production, each student will undergo the process of designing a product and developing presentable drawings that will be used to fabricate their parts for final assembly. Within this course, there will be an emphasis on computer aided systems that augment conceptual exploration and rapid manufacturing techniques. Vocabulary will be developed via an understanding of and engagement with tooling capabilities, CAD modeling, critical dialogue and investigating the relationship between design and fabrication.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PROD 460",
+            "Title": "Research Synthesis Studio",
+            "Number_of_credits": "Credits",
+            "Description": "In this first of two senior studios, students apply their skills to initiate research on an opportunity of their selection. Under supervision, students demonstrate control of applied design research and synthesis. This course focuses on the information gathering, study, and analysis that product designers do to inspire and inform themselves.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PROD 340 [Min Grade: C] and PROD 345 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PROD 470",
+            "Title": "Create Build Studio",
+            "Number_of_credits": "Credits",
+            "Description": "In this second of two studios, students apply their skills to develop a solution based on the research conducted in the previous studio. Under supervision, students will demonstrate control of the product design process in the producation of a novel and appropriate user-focused solution.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PROD 460 [Min Grade: C] and PROD 425 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PROD 475",
+            "Title": "Professional Practice in Product Design",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides information about career planning and job seeking, including the development of cover letters, resumes, online and physical portfolios and the interview process. Practicing design professionals serve as guest speakers and conduct mock interviews to address topics relevant to the practice of product design.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PROD 460 [Min Grade: D]"
+      },
+      {
+            "Identifier": "PROD 480",
+            "Title": "Exhibition Studio",
+            "Number_of_credits": "Credits",
+            "Description": "This final studio is a culmination of the educational experience in the production of a senior exhibition highlighting the students' accomplishments. Under supervision, students work together to demonstrate control of all aspects of the design process and visual communication in the production of a graduation exhibition.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "PROD 470 [Min Grade: C]"
+      },
+      {
+            "Identifier": "PROD I199",
+            "Title": "Independent Study in Product Design",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PROD I299",
+            "Title": "Independent Study in Product Design",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PROD I399",
+            "Title": "Independent Study in Product Design",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated 2 times for 9 credits",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PROD I499",
+            "Title": "Independent Study in Product Design",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PROD T180",
+            "Title": "Special Topics in Product Design",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PROD T280",
+            "Title": "Special Topics in Product Design",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PROD T380",
+            "Title": "Special Topics in Product Design",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "PROD T480",
+            "Title": "Special Topics in Product Design",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "Antoinette Westphal College of Media Arts & Design",
+            "Repeat Status": "Can be repeated 6 times for 28 credits",
+            "Prerequisites": "Null"
+      }
+]

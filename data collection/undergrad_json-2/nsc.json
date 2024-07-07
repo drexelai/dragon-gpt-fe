@@ -1,0 +1,101 @@
+[
+      {
+            "Identifier": "NSC 100",
+            "Title": "Naval Science Drill",
+            "Number_of_credits": "Credits",
+            "Description": "A professional laboratory covering various aspects of naval leadership and professional development. While emphasis is given to military marching, formation, and parade, the course also includes lectures from sources in and out of the Navy. Guest speakers cover topics such as leadership, Navy career paths, equal opportunity, rights and responsibilities, AIDS awareness, terrorism/counter-terrorism, naval warfare doctrine, employment of naval forces, ethics and values, operations security, and safety.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NSC 101",
+            "Title": "Naval Orientation/Introduction to Naval Science",
+            "Number_of_credits": "Credits",
+            "Description": "A course designed to familiarize the student with the history, characteristics and present employment of sea power. Particular emphasis is placed upon our naval forces and their capability in achieving and maintaining our national objectives. Naval organization and operational functions are discussed in conjunction with sea power concepts. Additionally, the student is given an insight into the Naval Service, shipboard organization and safety, time management skills and study techniques.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NSC 102",
+            "Title": "Seapower and Maritime Affairs",
+            "Number_of_credits": "Credits",
+            "Description": "A broad survey of naval history designed to add historical perspective to current defense problems. Topics covered include: naval power as an aspect of national defense policy, navies as an instrument of foreign policy, strategy selection, resource control, technology, and manning.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NSC 201",
+            "Title": "Leadership & Management",
+            "Number_of_credits": "Credits",
+            "Description": "This course emphasizes principles of leadership, personnel and material management, and subordinate development in the context of the naval organization. Practical applications are explored through experiential exercises and case studies.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NSC 202",
+            "Title": "Navigation I",
+            "Number_of_credits": "Credits",
+            "Description": "A comprehensive study of the theory and practice of terrestrial, and electronic navigation and the laws of vessel operations. Topics include fundamentals of coastal and harbor piloting, electronic navigation and mean of navigating without reference to land. An in-depth study of the international and inland nautical Rules of the Road is also included. Case studies and practical exercises are used to reinforce the fundamentals of marine navigation.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NSC 301",
+            "Title": "Engineering",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an overview of how propulsion and electricity are provided to our Navy's fighting ships. The basic engineering principles relating to thermodynamics, steam propulsion (conventional and nuclear), gas turbine propulsion, internal combustion engines, electricity generation and distribution, and various support systems will be taught. Ship design, stability, damage control, and some engineering-related ethical issues will also be discussed.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NSC 302",
+            "Title": "Weapons",
+            "Number_of_credits": "Credits",
+            "Description": "This course provides an overview of the theory and concepts underlying modern weapons systems. The principles behind sensors and detection systems, tracking systems, computational systems, weapon delivery systems, and the fire control problem will be examined, with a consistent emphasis on the integration of these components into a \"weapons system\". Case studies will be used to illustrate and reinforce concepts introduced in the course.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NSC 310",
+            "Title": "Evolution of Warfare",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to add broad historical perspective to understanding military power. Treating war and the military as an integral part of society, the course deals with such topics as: war as an instrument of foreign policy, military influences on foreign policy, the military as a reflection of society, manning and strategy selection.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NSC 401",
+            "Title": "Navigation II",
+            "Number_of_credits": "Credits",
+            "Description": "Insight into modern naval operations is gained through analysis of relative motion pertaining to ships at sea, underway replenishment, ship handling, and tactical communications. The process of command and control and leadership is examined through case studies of actual incidents at sea.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NSC 402",
+            "Title": "Leadership and Ethics",
+            "Number_of_credits": "Credits",
+            "Description": "The capstone course of the NROTC curriculum, this course is intended to provide the midshipman with the ethical foundation and basic leadership tools to be effective junior officers. Topics such as responsibility, accountability, ethics, the law of armed conflict, military law, division organization and training, and discipline are introduced through practical exercises, group discussion, and case studies.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "NSC 410",
+            "Title": "Fundamentals of Maneuver Warfare",
+            "Number_of_credits": "Credits",
+            "Description": "Maneuver Warfare is designed to provide a foundation of knowledge regarding leadership, tactics, and general military skills. Specific topics range from introduction to leadership and problem resolution, to Boyd's decision cycle and military law. Ideas are introduced and reinforced through a wide range of instructional methods, to include lecture, group discussion, practical application, and case studies.",
+            "College/Department": "University Courses",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      }
+]

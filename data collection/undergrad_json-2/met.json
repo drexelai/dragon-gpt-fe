@@ -1,0 +1,308 @@
+[
+      {
+            "Identifier": "MET 100",
+            "Title": "Graphical Communication",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces engineering graphics and fundamentals of computer aided design using the interactive software package AutoCAD on a personal computer.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MET 101",
+            "Title": "Engineering Materials",
+            "Number_of_credits": "Credits",
+            "Description": "Study of tests used to characterize properties of ceramic, polymeric, and metallic materials and how material properties influence their use and design for engineering applications. Testing procedures demonstrations.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(CHEM 111 [Min Grade: D] and CHEM 113 [Min Grade: D]) or CHEM 101 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MET 201",
+            "Title": "Introduction to Manufacturing Processes",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces manufacturing and its managed activities: research and development, production, marketing, industrial relations, and finance. Includes laboratory work in organization, staffing, and operating a model manufacturing enterprise.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MATH 110 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MET 202",
+            "Title": "Computer-Aided Drafting",
+            "Number_of_credits": "Credits",
+            "Description": "Introduces computer design using an interactive software package on a microcomputer.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MET 204",
+            "Title": "Applied Quality Control",
+            "Number_of_credits": "Credits",
+            "Description": "Covers variables, procedures, and processes of total quality control within the manufacturing industries. Includes instrumentation for material evaluation, attribute inspection and sampling, supervising for organizational quality improvements, and statistical control. Emphasizes directed laboratory experiences.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "STAT 201 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MET 205",
+            "Title": "Robotics and Mechatronics",
+            "Number_of_credits": "Credits",
+            "Description": "Provides a comprehensive technical introduction to robotics and automation in manufacturing. Topics include flow line production, material handling, group technology, and flexible and mechatronics-integrated manufacturing.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(PHYS 153 [Min Grade: D] or PHYS 101 [Min Grade: D]) and MATH 110 [Min Grade: C] or (MATH 121 [Min Grade: C] or MATH 101 [Min Grade: C])"
+      },
+      {
+            "Identifier": "MET 209",
+            "Title": "Fluid Power",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the fundamentals of hydraulic/pneumatic systems with an emphasis on applications of Bernoulli's equation. Topics include component types and designs, hydraulic/pneumatic circuit analysis and design of hydraulic/pneumatic systems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(PHYS 153 [Min Grade: D] or PHYS 101 [Min Grade: D]) and (PHYS 154 [Min Grade: D] or PHYS 102 [Min Grade: D])"
+      },
+      {
+            "Identifier": "MET 213",
+            "Title": "Applied Mechanics",
+            "Number_of_credits": "Credits",
+            "Description": "Applications of statics and strength of materials with applications to problems in manufacturing. A combined statics and strength of materials course with applications in manufacturing, including: design of bolted connections, simple structures, and beam design.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(PHYS 154 [Min Grade: D] or PHYS 102 [Min Grade: D]) and MATH 122 [Min Grade: D] and (MET 101 [Min Grade: D] or ENGR 220 [Min Grade: D])"
+      },
+      {
+            "Identifier": "MET 300",
+            "Title": "Principles of Engineering Design",
+            "Number_of_credits": "Credits",
+            "Description": "This course is designed to introduce students to the concepts of engineering design. Students will develop a thorough understanding of the design process through collaboratively thinking. This course will allow students to apply iterative design process in creating a new product while integrating the marketing, design, and manufacturing functions of the firm. Students will explore design challenges and employ the product design and development process to design a product to meet the challenge.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MHT 226 [Min Grade: D] and EET 311 [Min Grade: D] and MET 213 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MET 301",
+            "Title": "Advanced Design Graphics",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the theory and practice of industry's parts and assembly drawings with a specialization in tolerance and geometric dimensioning. Discusses industrial procedures and standards.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MET 100 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MET 307",
+            "Title": "HazMat for Manufacturing",
+            "Number_of_credits": "Credits",
+            "Description": "Covers the characteristics of hazardous substances and wastes, medical surveillance for plant personnel, toxicology, respirators and protective clothing, environmental direct reading indicators, decontamination procedures, and safe working practices.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "BIO 161 [Min Grade: D] and CHEM 162 [Min Grade: D] and CHEM 164 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MET 308",
+            "Title": "Maritime Manufacturing",
+            "Number_of_credits": "Credits",
+            "Description": "Provides an overview of the key engineering standards, laws, and regulations governing the construction of commercial vessels in the United States and methods of complying with these requirements. Focuses on the ship manufacturing process and the installation and testing of ship systems.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MET 310",
+            "Title": "Advanced Robotics and Mechatronics",
+            "Number_of_credits": "Credits",
+            "Description": "Covers applied topics related to the integration of computer, robotics, and internet-based automation technologies in modern manufacturing.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MET 205 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MET 316",
+            "Title": "Computer Numerical Control",
+            "Number_of_credits": "Credits",
+            "Description": "Discusses theory and application of computer numerical control machines in the manufacturing environment. The laboratory focuses on the programming and operation of CNC machine tools.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MATH 110 [Min Grade: D] or MATH 121 [Min Grade: C] or MATH 101 [Min Grade: D]) and MET 100 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MET 321",
+            "Title": "Changing World of 3D Printing and Rapid Prototyping",
+            "Number_of_credits": "Credits",
+            "Description": "This course is an introduction and survey of rapid-prototyping, especially centered on the advent, impact, and utility of 3D printers and supporting digital technology: computer-aided design (CAD) and computer-aided manufacturing (CAM) software. The course will cover both the concepts and practice of 3D printing and prototyping, emphasizing hands-on work developing computer-based design models (\u201cdrawings\u201d) and fabricating prototypes (\u201cparts\u201d) using current tools for desktop manufacturing including 3D printers, laser cutters, desktop engravers, and micromolding and printing. With this knowledge and skill set, students will be able to design, develop and demonstrate a working product suitable for commercialization.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MET 100 [Min Grade: D] or MEM 201 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MET 322",
+            "Title": "Design for Manufacturing and Assembly",
+            "Number_of_credits": "Credits",
+            "Description": "One of the final steps in creating a marketable product is the manufacturing of the components. Throughout the design process, engineers must fully understand a variety of processes in which parts can be produced and assembled. Selecting a manufacturing method and ensuring the parts are capable of production is a difficult but critical part of the product design process. This course will allow students to apply the theory of design for manufacturing (DFM) and design for assembly (DFA) to the overall design process. Topics include practical techniques for selection of materials and processes, design considerations for production, manual assembly and automated assembly, and Boothroyd and Dewhurst methods. Students review case studies and analyze production assemblies.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MET 100 [Min Grade: D] and MET 201 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MET 402",
+            "Title": "Manufacturing Design with CAD",
+            "Number_of_credits": "Credits",
+            "Description": "Covers design of tools and fixtures for manufacturing, including general-purpose work holders, modular and dedicated fixtures, jigs, fixturing principles, degree of freedom, locating and clamping components, wire frame and solid modeling, and 3d to 2D conversion. Students design models of fixtures.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MET 301 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MET 403",
+            "Title": "Three Dimensional Modeling",
+            "Number_of_credits": "Credits",
+            "Description": "Covers three-dimensional design with emphasis on manufacturing and industrial standards. Includes computer-aided-manufacturing using solid, surface, and wire-frame models.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MET 100 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MET 404",
+            "Title": "Digital Instrumentation",
+            "Number_of_credits": "Credits",
+            "Description": "Covers digital technology and its application in manufacturing. Covers variables, procedures, and processes of total quality control.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "EET 201 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MET 407",
+            "Title": "Manufacturing Processes",
+            "Number_of_credits": "Credits",
+            "Description": "Covers a systematic understanding of the operations, applications, and planning of manufacturing processes. Discusses quantitative evaluations of processing parameters influencing product quality.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "(MET 101 [Min Grade: D] or ENGR 220 [Min Grade: D]) and MATH 122 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MET 408",
+            "Title": "MFG Information Management",
+            "Number_of_credits": "Credits",
+            "Description": "Covers information management in manufacturing. Topics include cost estimation and control, manufacturing resources planning (MRP), just-in-time (JIT), production and inventory controls, management information systems (MIS), supply chain management (SCM), and other advanced information management technology.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MET 205 [Min Grade: D] and MATH 122 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MET 409",
+            "Title": "Green Manufacturing",
+            "Number_of_credits": "Credits",
+            "Description": "Covers life cycle analysis, pollution prevention, recycling, and lean manufacturing, including characteristics of hazardous substances and wastes, medical surveillance for plant personnel, toxicology, respirators and protective, environmental direct reading indicators, decontamination procedures and safe working practices for MFG.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "CHEM 111 [Min Grade: D] and CHEM 113 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MET 411",
+            "Title": "Advanced Computer Numerical Control",
+            "Number_of_credits": "Credits",
+            "Description": "This course covers applied topics related to the integration of computer, CNC machines, and internet-based automation technologies in modern manufacturing.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MET 316 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MET 421   [WI]",
+            "Title": "Senior Design Project I",
+            "Number_of_credits": "Credits",
+            "Description": "This course constitutes the first course of a three-quarter course sequence. It aims to train the students in identifying projects of relevance to the society, in planning and scheduling a solution, and in entrepreneurial activities that may result from the project. The course is also intended to cover an industrial project starting from the proposal writing and conceptual design to final steps. This course is focused on proposal writing.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MET 422",
+            "Title": "Senior Design Project II",
+            "Number_of_credits": "Credits",
+            "Description": "This course constitutes the second course of a three-quarter course sequence and continuesMET\u00a0421. It aims to train the students in maintaining the progress of a project on schedule, including resolving any team conflicts. It also trains them how to prepare oral, and submit written progress reports. The students supply summary reports to his/her advisor. This course is focused on following standard design steps from the conceptual to final design.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MET 421 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MET 423   [WI]",
+            "Title": "Senior Design Project III",
+            "Number_of_credits": "Credits",
+            "Description": "This is the final installment of a 3 course sequence. The course objective is to train students in a project from the initial conceptual design stage to the preliminary and the final design completion, how to conduct design reviews, and how to document and present findings, design concepts, and conclusion in both oral and written formats. Students are also required to build a working prototype of their final design concept and present it during final presentation of the project.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Not repeatable for credit",
+            "Prerequisites": "MET 422 [Min Grade: D]"
+      },
+      {
+            "Identifier": "MET I199",
+            "Title": "Independent Study in MET",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MET I299",
+            "Title": "Independent Study in MET",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MET I399",
+            "Title": "Independent Study in MET",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MET I499",
+            "Title": "Independent Study in MET",
+            "Number_of_credits": "Credits",
+            "Description": "Self-directed within the area of study requiring intermittent consultation with a designated instructor.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MET T180",
+            "Title": "Special Topics in MET",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MET T280",
+            "Title": "Special Topics in MET",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MET T380",
+            "Title": "Special Topics in MET",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      },
+      {
+            "Identifier": "MET T480",
+            "Title": "Special Topics in MET",
+            "Number_of_credits": "Credits",
+            "Description": "Topics decided upon by faculty will vary within the area of study.",
+            "College/Department": "College of Engineering",
+            "Repeat Status": "Can be repeated multiple times for credit",
+            "Prerequisites": "Null"
+      }
+]
