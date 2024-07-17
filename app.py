@@ -2,7 +2,7 @@ import os
 import sys
 from dotenv import load_dotenv
 from langchain import hub
-from langchain_community.document_loaders import JSONLoader
+from langchain_community.document_loaders import JSONLoader, WebBaseLoader
 from langchain_openai import OpenAIEmbeddings
 from langchain_openai import ChatOpenAI
 from langchain.text_splitter import CharacterTextSplitter
@@ -45,7 +45,9 @@ loader = JSONLoader(
     jq_schema=jq_filter_2,
     text_content=False
 )
+
 docs = loader.load()
+
 
 
 txt_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=0)

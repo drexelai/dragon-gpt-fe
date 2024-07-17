@@ -141,10 +141,6 @@ test = ["anyio[trio]", "coverage[toml] (>=7)", "exceptiongroup (>=1.2.0)", "hypo
 trio = ["trio (>=0.23)"]
 
 [[package]]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "asgiref"
 version = "3.8.1"
 description = "ASGI specs, helper code, and adapters"
@@ -159,11 +155,6 @@ files = [
 tests = ["mypy (>=0.800)", "pytest", "pytest-asyncio"]
 
 [[package]]
-<<<<<<< HEAD
-=======
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "attrs"
 version = "23.2.0"
 description = "Classes Without Boilerplate"
@@ -183,10 +174,6 @@ tests-mypy = ["mypy (>=1.6)", "pytest-mypy-plugins"]
 tests-no-zope = ["attrs[tests-mypy]", "cloudpickle", "hypothesis", "pympler", "pytest (>=4.3.0)", "pytest-xdist[psutil]"]
 
 [[package]]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "backoff"
 version = "2.2.1"
 description = "Function decoration for backoff and retry"
@@ -272,11 +259,6 @@ files = [
 ]
 
 [[package]]
-<<<<<<< HEAD
-=======
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "certifi"
 version = "2024.7.4"
 description = "Python package for providing Mozilla's CA Bundle."
@@ -387,10 +369,6 @@ files = [
 ]
 
 [[package]]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "chroma-hnswlib"
 version = "0.7.5"
 description = "Chromas fork of hnswlib"
@@ -487,11 +465,6 @@ files = [
 colorama = {version = "*", markers = "platform_system == \"Windows\""}
 
 [[package]]
-<<<<<<< HEAD
-=======
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "colorama"
 version = "0.4.6"
 description = "Cross-platform colored terminal text."
@@ -503,10 +476,6 @@ files = [
 ]
 
 [[package]]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "coloredlogs"
 version = "15.0.1"
 description = "Colored terminal output for Python's logging module"
@@ -524,11 +493,6 @@ humanfriendly = ">=9.1"
 cron = ["capturer (>=2.4)"]
 
 [[package]]
-<<<<<<< HEAD
-=======
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "dataclasses-json"
 version = "0.6.7"
 description = "Easily serialize dataclasses to and from JSON."
@@ -544,10 +508,6 @@ marshmallow = ">=3.18.0,<4.0.0"
 typing-inspect = ">=0.4.0,<1"
 
 [[package]]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "deprecated"
 version = "1.2.14"
 description = "Python @deprecated decorator to deprecate old python classes, functions or methods."
@@ -565,111 +525,6 @@ wrapt = ">=1.10,<2"
 dev = ["PyTest", "PyTest-Cov", "bump2version (<1)", "sphinx (<2)", "tox"]
 
 [[package]]
-<<<<<<< HEAD
-name = "dnspython"
-version = "2.6.1"
-description = "DNS toolkit"
-optional = false
-python-versions = ">=3.8"
-files = [
-    {file = "dnspython-2.6.1-py3-none-any.whl", hash = "sha256:5ef3b9680161f6fa89daf8ad451b5f1a33b18ae8a1c6778cdf4b43f08c0a6e50"},
-    {file = "dnspython-2.6.1.tar.gz", hash = "sha256:e8f0f9c23a7b7cb99ded64e6c3a6f3e701d78f50c55e002b839dea7225cff7cc"},
-]
-
-[package.extras]
-dev = ["black (>=23.1.0)", "coverage (>=7.0)", "flake8 (>=7)", "mypy (>=1.8)", "pylint (>=3)", "pytest (>=7.4)", "pytest-cov (>=4.1.0)", "sphinx (>=7.2.0)", "twine (>=4.0.0)", "wheel (>=0.42.0)"]
-dnssec = ["cryptography (>=41)"]
-doh = ["h2 (>=4.1.0)", "httpcore (>=1.0.0)", "httpx (>=0.26.0)"]
-doq = ["aioquic (>=0.9.25)"]
-idna = ["idna (>=3.6)"]
-trio = ["trio (>=0.23)"]
-wmi = ["wmi (>=1.5.1)"]
-
-[[package]]
-name = "email-validator"
-version = "2.2.0"
-description = "A robust email address syntax and deliverability validation library."
-optional = false
-python-versions = ">=3.8"
-files = [
-    {file = "email_validator-2.2.0-py3-none-any.whl", hash = "sha256:561977c2d73ce3611850a06fa56b414621e0c8faa9d66f2611407d87465da631"},
-    {file = "email_validator-2.2.0.tar.gz", hash = "sha256:cb690f344c617a714f22e66ae771445a1ceb46821152df8e165c5f9a364582b7"},
-]
-
-[package.dependencies]
-dnspython = ">=2.0.0"
-idna = ">=2.0.0"
-
-[[package]]
-name = "fastapi"
-version = "0.111.1"
-description = "FastAPI framework, high performance, easy to learn, fast to code, ready for production"
-optional = false
-python-versions = ">=3.8"
-files = [
-    {file = "fastapi-0.111.1-py3-none-any.whl", hash = "sha256:4f51cfa25d72f9fbc3280832e84b32494cf186f50158d364a8765aabf22587bf"},
-    {file = "fastapi-0.111.1.tar.gz", hash = "sha256:ddd1ac34cb1f76c2e2d7f8545a4bcb5463bce4834e81abf0b189e0c359ab2413"},
-]
-
-[package.dependencies]
-email_validator = ">=2.0.0"
-fastapi-cli = ">=0.0.2"
-httpx = ">=0.23.0"
-jinja2 = ">=2.11.2"
-pydantic = ">=1.7.4,<1.8 || >1.8,<1.8.1 || >1.8.1,<2.0.0 || >2.0.0,<2.0.1 || >2.0.1,<2.1.0 || >2.1.0,<3.0.0"
-python-multipart = ">=0.0.7"
-starlette = ">=0.37.2,<0.38.0"
-typing-extensions = ">=4.8.0"
-uvicorn = {version = ">=0.12.0", extras = ["standard"]}
-
-[package.extras]
-all = ["email_validator (>=2.0.0)", "httpx (>=0.23.0)", "itsdangerous (>=1.1.0)", "jinja2 (>=2.11.2)", "orjson (>=3.2.1)", "pydantic-extra-types (>=2.0.0)", "pydantic-settings (>=2.0.0)", "python-multipart (>=0.0.7)", "pyyaml (>=5.3.1)", "ujson (>=4.0.1,!=4.0.2,!=4.1.0,!=4.2.0,!=4.3.0,!=5.0.0,!=5.1.0)", "uvicorn[standard] (>=0.12.0)"]
-
-[[package]]
-name = "fastapi-cli"
-version = "0.0.4"
-description = "Run and manage FastAPI apps from the command line with FastAPI CLI. 🚀"
-optional = false
-python-versions = ">=3.8"
-files = [
-    {file = "fastapi_cli-0.0.4-py3-none-any.whl", hash = "sha256:a2552f3a7ae64058cdbb530be6fa6dbfc975dc165e4fa66d224c3d396e25e809"},
-    {file = "fastapi_cli-0.0.4.tar.gz", hash = "sha256:e2e9ffaffc1f7767f488d6da34b6f5a377751c996f397902eb6abb99a67bde32"},
-]
-
-[package.dependencies]
-typer = ">=0.12.3"
-
-[package.extras]
-standard = ["fastapi", "uvicorn[standard] (>=0.15.0)"]
-
-[[package]]
-name = "filelock"
-version = "3.15.4"
-description = "A platform independent file lock."
-optional = false
-python-versions = ">=3.8"
-files = [
-    {file = "filelock-3.15.4-py3-none-any.whl", hash = "sha256:6ca1fffae96225dab4c6eaf1c4f4f28cd2568d3ec2a44e15a08520504de468e7"},
-    {file = "filelock-3.15.4.tar.gz", hash = "sha256:2207938cbc1844345cb01a5a95524dae30f0ce089eba5b00378295a17e3e90cb"},
-]
-
-[package.extras]
-docs = ["furo (>=2023.9.10)", "sphinx (>=7.2.6)", "sphinx-autodoc-typehints (>=1.25.2)"]
-testing = ["covdefaults (>=2.3)", "coverage (>=7.3.2)", "diff-cover (>=8.0.1)", "pytest (>=7.4.3)", "pytest-asyncio (>=0.21)", "pytest-cov (>=4.1)", "pytest-mock (>=3.12)", "pytest-timeout (>=2.2)", "virtualenv (>=20.26.2)"]
-typing = ["typing-extensions (>=4.8)"]
-
-[[package]]
-name = "flatbuffers"
-version = "24.3.25"
-description = "The FlatBuffers serialization format for Python"
-optional = false
-python-versions = "*"
-files = [
-    {file = "flatbuffers-24.3.25-py2.py3-none-any.whl", hash = "sha256:8dbdec58f935f3765e4f7f3cf635ac3a77f83568138d6a2311f524ec96364812"},
-    {file = "flatbuffers-24.3.25.tar.gz", hash = "sha256:de2ec5b203f21441716617f38443e0a8ebf3d25bf0d9c0bb0ce68fa00ad546a4"},
-=======
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "distro"
 version = "1.9.0"
 description = "Distro - an OS platform information API"
@@ -678,7 +533,6 @@ python-versions = ">=3.6"
 files = [
     {file = "distro-1.9.0-py3-none-any.whl", hash = "sha256:7bffd925d65168f85027d8da9af6bddab658135b840670a223589bc0c8ef02b2"},
     {file = "distro-1.9.0.tar.gz", hash = "sha256:2fa77c6fd8940f116ee1d6b94a2f90b13b5ea8d019b98bc8bafdcabcdd9bdbed"},
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
 ]
 
 [[package]]
@@ -872,10 +726,6 @@ files = [
 ]
 
 [[package]]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "fsspec"
 version = "2024.6.1"
 description = "File-system specification"
@@ -955,11 +805,6 @@ protobuf = ">=3.20.2,<4.21.1 || >4.21.1,<4.21.2 || >4.21.2,<4.21.3 || >4.21.3,<4
 grpc = ["grpcio (>=1.44.0,<2.0.0.dev0)"]
 
 [[package]]
-<<<<<<< HEAD
-=======
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "greenlet"
 version = "3.0.3"
 description = "Lightweight in-process concurrent programming"
@@ -1031,10 +876,6 @@ docs = ["Sphinx", "furo"]
 test = ["objgraph", "psutil"]
 
 [[package]]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "grpcio"
 version = "1.64.1"
 description = "HTTP/2-based RPC framework"
@@ -1093,11 +934,6 @@ files = [
 protobuf = ["grpcio-tools (>=1.64.1)"]
 
 [[package]]
-<<<<<<< HEAD
-=======
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "h11"
 version = "0.14.0"
 description = "A pure-Python, bring-your-own-I/O implementation of HTTP/1.1"
@@ -1130,10 +966,6 @@ socks = ["socksio (==1.*)"]
 trio = ["trio (>=0.22.0,<0.26.0)"]
 
 [[package]]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "httptools"
 version = "0.6.1"
 description = "A collection of framework independent HTTP protocol utils."
@@ -1182,11 +1014,6 @@ files = [
 test = ["Cython (>=0.29.24,<0.30.0)"]
 
 [[package]]
-<<<<<<< HEAD
-=======
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "httpx"
 version = "0.27.0"
 description = "The next generation HTTP client."
@@ -1211,25 +1038,14 @@ http2 = ["h2 (>=3,<5)"]
 socks = ["socksio (==1.*)"]
 
 [[package]]
-<<<<<<< HEAD
-<<<<<<< HEAD
-name = "huggingface-hub"
-version = "0.23.4"
-=======
 name = "huggingface-hub"
 version = "0.23.5"
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 description = "Client library to download and publish models, datasets and other repos on the huggingface.co hub"
 optional = false
 python-versions = ">=3.8.0"
 files = [
-<<<<<<< HEAD
-    {file = "huggingface_hub-0.23.4-py3-none-any.whl", hash = "sha256:3a0b957aa87150addf0cc7bd71b4d954b78e749850e1e7fb29ebbd2db64ca037"},
-    {file = "huggingface_hub-0.23.4.tar.gz", hash = "sha256:35d99016433900e44ae7efe1c209164a5a81dbbcd53a52f99c281dcd7ce22431"},
-=======
     {file = "huggingface_hub-0.23.5-py3-none-any.whl", hash = "sha256:d7a7d337615e11a45cc14a0ce5a605db6b038dc24af42866f731684825226e90"},
     {file = "huggingface_hub-0.23.5.tar.gz", hash = "sha256:67a9caba79b71235be3752852ca27da86bd54311d2424ca8afdb8dda056edf98"},
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 ]
 
 [package.dependencies]
@@ -1270,11 +1086,6 @@ files = [
 pyreadline3 = {version = "*", markers = "sys_platform == \"win32\" and python_version >= \"3.8\""}
 
 [[package]]
-<<<<<<< HEAD
-=======
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "idna"
 version = "3.7"
 description = "Internationalized Domain Names in Applications (IDNA)"
@@ -1286,10 +1097,6 @@ files = [
 ]
 
 [[package]]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "importlib-metadata"
 version = "7.1.0"
 description = "Read metadata from Python packages"
@@ -1340,11 +1147,7 @@ MarkupSafe = ">=2.0"
 [package.extras]
 i18n = ["Babel (>=2.7)"]
 
-<<<<<<< HEAD
-=======
-=======
 [[package]]
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "jq"
 version = "1.7.0"
 description = "jq is a lightweight and flexible JSON processor."
@@ -1426,7 +1229,6 @@ files = [
     {file = "jq-1.7.0.tar.gz", hash = "sha256:f460d1f2c3791617e4fb339fa24efbdbebe672b02c861f057358553642047040"},
 ]
 
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
 [[package]]
 name = "jsonpatch"
 version = "1.33"
@@ -1453,10 +1255,6 @@ files = [
 ]
 
 [[package]]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "kubernetes"
 version = "30.1.0"
 description = "Kubernetes python client"
@@ -1483,11 +1281,6 @@ websocket-client = ">=0.32.0,<0.40.0 || >0.40.0,<0.41.dev0 || >=0.43.dev0"
 adal = ["adal (>=1.0.2)"]
 
 [[package]]
-<<<<<<< HEAD
-=======
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "langchain"
 version = "0.2.8"
 description = "Building applications with LLMs through composability"
@@ -1511,7 +1304,6 @@ SQLAlchemy = ">=1.4,<3"
 tenacity = ">=8.1.0,<8.4.0 || >8.4.0,<9.0.0"
 
 [[package]]
-<<<<<<< HEAD
 name = "langchain-chroma"
 version = "0.1.2"
 description = "An integration package connecting Chroma and LangChain"
@@ -1529,8 +1321,6 @@ langchain-core = ">=0.1.40,<0.3"
 numpy = {version = ">=1.26.0,<2.0.0", markers = "python_version >= \"3.12\""}
 
 [[package]]
-=======
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
 name = "langchain-community"
 version = "0.2.7"
 description = "Community contributed LangChain integrations."
@@ -1555,22 +1345,13 @@ tenacity = ">=8.1.0,<8.4.0 || >8.4.0,<9.0.0"
 
 [[package]]
 name = "langchain-core"
-<<<<<<< HEAD
-version = "0.2.19"
-=======
 version = "0.2.20"
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
 description = "Building applications with LLMs through composability"
 optional = false
 python-versions = "<4.0,>=3.8.1"
 files = [
-<<<<<<< HEAD
-    {file = "langchain_core-0.2.19-py3-none-any.whl", hash = "sha256:5b3cd34395be274c89e822c84f0e03c4da14168c177a83921c5b9414ac7a0651"},
-    {file = "langchain_core-0.2.19.tar.gz", hash = "sha256:13043a83e5c9ab58b9f5ce2a56896e7e88b752e8891b2958960a98e71801471e"},
-=======
     {file = "langchain_core-0.2.20-py3-none-any.whl", hash = "sha256:16cc4da6f7ebf33accea7af45a70480733dc852ab291030fb6924865bd7caf76"},
     {file = "langchain_core-0.2.20.tar.gz", hash = "sha256:a66c439e085d8c75f822f7650a5551d17bada4003521173c763d875d949e4ed5"},
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
 ]
 
 [package.dependencies]
@@ -1585,8 +1366,6 @@ PyYAML = ">=5.3"
 tenacity = ">=8.1.0,<8.4.0 || >8.4.0,<9.0.0"
 
 [[package]]
-<<<<<<< HEAD
-=======
 name = "langchain-openai"
 version = "0.1.16"
 description = "An integration package connecting OpenAI and LangChain"
@@ -1603,7 +1382,6 @@ openai = ">=1.32.0,<2.0.0"
 tiktoken = ">=0.7,<1"
 
 [[package]]
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
 name = "langchain-text-splitters"
 version = "0.2.2"
 description = "LangChain text splitting utilities"
@@ -1635,22 +1413,13 @@ types-requests = ">=2.31.0.2,<3.0.0.0"
 
 [[package]]
 name = "langsmith"
-<<<<<<< HEAD
-version = "0.1.85"
-=======
 version = "0.1.88"
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
 description = "Client library to connect to the LangSmith LLM Tracing and Evaluation Platform."
 optional = false
 python-versions = "<4.0,>=3.8.1"
 files = [
-<<<<<<< HEAD
-    {file = "langsmith-0.1.85-py3-none-any.whl", hash = "sha256:c1f94384f10cea96f7b4d33fd3db7ec180c03c7468877d50846f881d2017ff94"},
-    {file = "langsmith-0.1.85.tar.gz", hash = "sha256:acff31f9e53efa48586cf8e32f65625a335c74d7c4fa306d1655ac18452296f6"},
-=======
     {file = "langsmith-0.1.88-py3-none-any.whl", hash = "sha256:460ebb7de440afd150fcea8f54ca8779821f2228cd59e149e5845c9dbe06db16"},
     {file = "langsmith-0.1.88.tar.gz", hash = "sha256:28a07dec19197f4808aa2628d5a3ccafcbe14cc137aef0e607bbd128e7907821"},
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
 ]
 
 [package.dependencies]
@@ -1662,10 +1431,6 @@ pydantic = [
 requests = ">=2,<3"
 
 [[package]]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "markdown-it-py"
 version = "3.0.0"
 description = "Python port of markdown-it. Markdown parsing, done right!"
@@ -1759,11 +1524,6 @@ files = [
 ]
 
 [[package]]
-<<<<<<< HEAD
-=======
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "marshmallow"
 version = "3.21.3"
 description = "A lightweight library for converting complex datatypes to and from native Python datatypes."
@@ -1783,10 +1543,6 @@ docs = ["alabaster (==0.7.16)", "autodocsumm (==0.2.12)", "sphinx (==7.3.7)", "s
 tests = ["pytest", "pytz", "simplejson"]
 
 [[package]]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "mdurl"
 version = "0.1.2"
 description = "Markdown URL utilities"
@@ -1918,11 +1674,6 @@ gmpy = ["gmpy2 (>=2.1.0a4)"]
 tests = ["pytest (>=4.6)"]
 
 [[package]]
-<<<<<<< HEAD
-=======
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "multidict"
 version = "6.0.5"
 description = "multidict implementation"
@@ -2078,10 +1829,6 @@ files = [
 ]
 
 [[package]]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "oauthlib"
 version = "3.2.2"
 description = "A generic, spec-compliant, thorough implementation of the OAuth request-signing logic"
@@ -2140,170 +1887,6 @@ protobuf = "*"
 sympy = "*"
 
 [[package]]
-<<<<<<< HEAD
-name = "opentelemetry-api"
-version = "1.25.0"
-description = "OpenTelemetry Python API"
-optional = false
-python-versions = ">=3.8"
-files = [
-    {file = "opentelemetry_api-1.25.0-py3-none-any.whl", hash = "sha256:757fa1aa020a0f8fa139f8959e53dec2051cc26b832e76fa839a6d76ecefd737"},
-    {file = "opentelemetry_api-1.25.0.tar.gz", hash = "sha256:77c4985f62f2614e42ce77ee4c9da5fa5f0bc1e1821085e9a47533a9323ae869"},
-]
-
-[package.dependencies]
-deprecated = ">=1.2.6"
-importlib-metadata = ">=6.0,<=7.1"
-
-[[package]]
-name = "opentelemetry-exporter-otlp-proto-common"
-version = "1.25.0"
-description = "OpenTelemetry Protobuf encoding"
-optional = false
-python-versions = ">=3.8"
-files = [
-    {file = "opentelemetry_exporter_otlp_proto_common-1.25.0-py3-none-any.whl", hash = "sha256:15637b7d580c2675f70246563363775b4e6de947871e01d0f4e3881d1848d693"},
-    {file = "opentelemetry_exporter_otlp_proto_common-1.25.0.tar.gz", hash = "sha256:c93f4e30da4eee02bacd1e004eb82ce4da143a2f8e15b987a9f603e0a85407d3"},
-]
-
-[package.dependencies]
-opentelemetry-proto = "1.25.0"
-
-[[package]]
-name = "opentelemetry-exporter-otlp-proto-grpc"
-version = "1.25.0"
-description = "OpenTelemetry Collector Protobuf over gRPC Exporter"
-optional = false
-python-versions = ">=3.8"
-files = [
-    {file = "opentelemetry_exporter_otlp_proto_grpc-1.25.0-py3-none-any.whl", hash = "sha256:3131028f0c0a155a64c430ca600fd658e8e37043cb13209f0109db5c1a3e4eb4"},
-    {file = "opentelemetry_exporter_otlp_proto_grpc-1.25.0.tar.gz", hash = "sha256:c0b1661415acec5af87625587efa1ccab68b873745ca0ee96b69bb1042087eac"},
-]
-
-[package.dependencies]
-deprecated = ">=1.2.6"
-googleapis-common-protos = ">=1.52,<2.0"
-grpcio = ">=1.0.0,<2.0.0"
-opentelemetry-api = ">=1.15,<2.0"
-opentelemetry-exporter-otlp-proto-common = "1.25.0"
-opentelemetry-proto = "1.25.0"
-opentelemetry-sdk = ">=1.25.0,<1.26.0"
-
-[[package]]
-name = "opentelemetry-instrumentation"
-version = "0.46b0"
-description = "Instrumentation Tools & Auto Instrumentation for OpenTelemetry Python"
-optional = false
-python-versions = ">=3.8"
-files = [
-    {file = "opentelemetry_instrumentation-0.46b0-py3-none-any.whl", hash = "sha256:89cd721b9c18c014ca848ccd11181e6b3fd3f6c7669e35d59c48dc527408c18b"},
-    {file = "opentelemetry_instrumentation-0.46b0.tar.gz", hash = "sha256:974e0888fb2a1e01c38fbacc9483d024bb1132aad92d6d24e2e5543887a7adda"},
-]
-
-[package.dependencies]
-opentelemetry-api = ">=1.4,<2.0"
-setuptools = ">=16.0"
-wrapt = ">=1.0.0,<2.0.0"
-
-[[package]]
-name = "opentelemetry-instrumentation-asgi"
-version = "0.46b0"
-description = "ASGI instrumentation for OpenTelemetry"
-optional = false
-python-versions = ">=3.8"
-files = [
-    {file = "opentelemetry_instrumentation_asgi-0.46b0-py3-none-any.whl", hash = "sha256:f13c55c852689573057837a9500aeeffc010c4ba59933c322e8f866573374759"},
-    {file = "opentelemetry_instrumentation_asgi-0.46b0.tar.gz", hash = "sha256:02559f30cf4b7e2a737ab17eb52aa0779bcf4cc06573064f3e2cb4dcc7d3040a"},
-]
-
-[package.dependencies]
-asgiref = ">=3.0,<4.0"
-opentelemetry-api = ">=1.12,<2.0"
-opentelemetry-instrumentation = "0.46b0"
-opentelemetry-semantic-conventions = "0.46b0"
-opentelemetry-util-http = "0.46b0"
-
-[package.extras]
-instruments = ["asgiref (>=3.0,<4.0)"]
-
-[[package]]
-name = "opentelemetry-instrumentation-fastapi"
-version = "0.46b0"
-description = "OpenTelemetry FastAPI Instrumentation"
-optional = false
-python-versions = ">=3.8"
-files = [
-    {file = "opentelemetry_instrumentation_fastapi-0.46b0-py3-none-any.whl", hash = "sha256:e0f5d150c6c36833dd011f0e6ef5ede6d7406c1aed0c7c98b2d3b38a018d1b33"},
-    {file = "opentelemetry_instrumentation_fastapi-0.46b0.tar.gz", hash = "sha256:928a883a36fc89f9702f15edce43d1a7104da93d740281e32d50ffd03dbb4365"},
-]
-
-[package.dependencies]
-opentelemetry-api = ">=1.12,<2.0"
-opentelemetry-instrumentation = "0.46b0"
-opentelemetry-instrumentation-asgi = "0.46b0"
-opentelemetry-semantic-conventions = "0.46b0"
-opentelemetry-util-http = "0.46b0"
-
-[package.extras]
-instruments = ["fastapi (>=0.58,<1.0)"]
-
-[[package]]
-name = "opentelemetry-proto"
-version = "1.25.0"
-description = "OpenTelemetry Python Proto"
-optional = false
-python-versions = ">=3.8"
-files = [
-    {file = "opentelemetry_proto-1.25.0-py3-none-any.whl", hash = "sha256:f07e3341c78d835d9b86665903b199893befa5e98866f63d22b00d0b7ca4972f"},
-    {file = "opentelemetry_proto-1.25.0.tar.gz", hash = "sha256:35b6ef9dc4a9f7853ecc5006738ad40443701e52c26099e197895cbda8b815a3"},
-]
-
-[package.dependencies]
-protobuf = ">=3.19,<5.0"
-
-[[package]]
-name = "opentelemetry-sdk"
-version = "1.25.0"
-description = "OpenTelemetry Python SDK"
-optional = false
-python-versions = ">=3.8"
-files = [
-    {file = "opentelemetry_sdk-1.25.0-py3-none-any.whl", hash = "sha256:d97ff7ec4b351692e9d5a15af570c693b8715ad78b8aafbec5c7100fe966b4c9"},
-    {file = "opentelemetry_sdk-1.25.0.tar.gz", hash = "sha256:ce7fc319c57707ef5bf8b74fb9f8ebdb8bfafbe11898410e0d2a761d08a98ec7"},
-]
-
-[package.dependencies]
-opentelemetry-api = "1.25.0"
-opentelemetry-semantic-conventions = "0.46b0"
-typing-extensions = ">=3.7.4"
-
-[[package]]
-name = "opentelemetry-semantic-conventions"
-version = "0.46b0"
-description = "OpenTelemetry Semantic Conventions"
-optional = false
-python-versions = ">=3.8"
-files = [
-    {file = "opentelemetry_semantic_conventions-0.46b0-py3-none-any.whl", hash = "sha256:6daef4ef9fa51d51855d9f8e0ccd3a1bd59e0e545abe99ac6203804e36ab3e07"},
-    {file = "opentelemetry_semantic_conventions-0.46b0.tar.gz", hash = "sha256:fbc982ecbb6a6e90869b15c1673be90bd18c8a56ff1cffc0864e38e2edffaefa"},
-]
-
-[package.dependencies]
-opentelemetry-api = "1.25.0"
-
-[[package]]
-name = "opentelemetry-util-http"
-version = "0.46b0"
-description = "Web util for OpenTelemetry"
-optional = false
-python-versions = ">=3.8"
-files = [
-    {file = "opentelemetry_util_http-0.46b0-py3-none-any.whl", hash = "sha256:8dc1949ce63caef08db84ae977fdc1848fe6dc38e6bbaad0ae3e6ecd0d451629"},
-    {file = "opentelemetry_util_http-0.46b0.tar.gz", hash = "sha256:03b6e222642f9c7eae58d9132343e045b50aca9761fcb53709bd2b663571fdf6"},
-]
-=======
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "openai"
 version = "1.35.14"
 description = "The official Python library for the openai API"
@@ -2325,7 +1908,6 @@ typing-extensions = ">=4.7,<5"
 
 [package.extras]
 datalib = ["numpy (>=1)", "pandas (>=1.2.3)", "pandas-stubs (>=1.1.0.11)"]
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
 
 [[package]]
 name = "opentelemetry-api"
@@ -2550,10 +2132,6 @@ files = [
 ]
 
 [[package]]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "overrides"
 version = "7.7.0"
 description = "A decorator to automatically detect mismatch when overriding a method."
@@ -2565,11 +2143,6 @@ files = [
 ]
 
 [[package]]
-<<<<<<< HEAD
-=======
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "packaging"
 version = "24.1"
 description = "Core utilities for Python packages"
@@ -2581,10 +2154,6 @@ files = [
 ]
 
 [[package]]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "posthog"
 version = "3.5.0"
 description = "Integrate PostHog into any python application."
@@ -2653,11 +2222,6 @@ files = [
 pyasn1 = ">=0.4.6,<0.7.0"
 
 [[package]]
-<<<<<<< HEAD
-=======
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "pydantic"
 version = "2.8.2"
 description = "Data validation using Python type hints"
@@ -2781,10 +2345,6 @@ files = [
 typing-extensions = ">=4.6.0,<4.7.0 || >4.7.0"
 
 [[package]]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "pygments"
 version = "2.18.0"
 description = "Pygments is a syntax highlighting package written in Python."
@@ -2845,11 +2405,6 @@ files = [
 six = ">=1.5"
 
 [[package]]
-<<<<<<< HEAD
-=======
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "python-dotenv"
 version = "1.0.1"
 description = "Read key-value pairs from a .env file and set them as environment variables"
@@ -2864,10 +2419,6 @@ files = [
 cli = ["click (>=5.0)"]
 
 [[package]]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "python-multipart"
 version = "0.0.9"
 description = "A streaming multipart parser for Python"
@@ -2882,11 +2433,6 @@ files = [
 dev = ["atomicwrites (==1.4.1)", "attrs (==23.2.0)", "coverage (==7.4.1)", "hatch", "invoke (==2.2.0)", "more-itertools (==10.2.0)", "pbr (==6.0.0)", "pluggy (==1.4.0)", "py (==1.11.0)", "pytest (==8.0.0)", "pytest-cov (==4.1.0)", "pytest-timeout (==2.2.0)", "pyyaml (==6.0.1)", "ruff (==0.2.1)"]
 
 [[package]]
-<<<<<<< HEAD
-=======
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "pyyaml"
 version = "6.0.1"
 description = "YAML parser and emitter for Python"
@@ -2946,8 +2492,6 @@ files = [
 ]
 
 [[package]]
-<<<<<<< HEAD
-=======
 name = "regex"
 version = "2024.5.15"
 description = "Alternative regular expression module, to replace re."
@@ -3036,7 +2580,6 @@ files = [
 ]
 
 [[package]]
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
 name = "requests"
 version = "2.32.3"
 description = "Python HTTP for Humans."
@@ -3058,10 +2601,6 @@ socks = ["PySocks (>=1.5.6,!=1.5.7)"]
 use-chardet-on-py3 = ["chardet (>=3.0.2,<6)"]
 
 [[package]]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "requests-oauthlib"
 version = "2.0.0"
 description = "OAuthlib authentication support for Requests."
@@ -3149,11 +2688,6 @@ files = [
 ]
 
 [[package]]
-<<<<<<< HEAD
-=======
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "sniffio"
 version = "1.3.1"
 description = "Sniff out which async library your code is running under"
@@ -3252,10 +2786,6 @@ pymysql = ["pymysql"]
 sqlcipher = ["sqlcipher3_binary"]
 
 [[package]]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "starlette"
 version = "0.37.2"
 description = "The little ASGI library that shines."
@@ -3290,11 +2820,6 @@ mpmath = ">=1.1.0,<1.4"
 dev = ["hypothesis (>=6.70.0)", "pytest (>=7.1.0)"]
 
 [[package]]
-<<<<<<< HEAD
-=======
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "tenacity"
 version = "8.5.0"
 description = "Retry code until it succeeds"
@@ -3310,123 +2835,6 @@ doc = ["reno", "sphinx"]
 test = ["pytest", "tornado (>=4.5)", "typeguard"]
 
 [[package]]
-<<<<<<< HEAD
-name = "tokenizers"
-version = "0.19.1"
-description = ""
-optional = false
-python-versions = ">=3.7"
-files = [
-    {file = "tokenizers-0.19.1-cp310-cp310-macosx_10_12_x86_64.whl", hash = "sha256:952078130b3d101e05ecfc7fc3640282d74ed26bcf691400f872563fca15ac97"},
-    {file = "tokenizers-0.19.1-cp310-cp310-macosx_11_0_arm64.whl", hash = "sha256:82c8b8063de6c0468f08e82c4e198763e7b97aabfe573fd4cf7b33930ca4df77"},
-    {file = "tokenizers-0.19.1-cp310-cp310-manylinux_2_12_i686.manylinux2010_i686.whl", hash = "sha256:f03727225feaf340ceeb7e00604825addef622d551cbd46b7b775ac834c1e1c4"},
-    {file = "tokenizers-0.19.1-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:453e4422efdfc9c6b6bf2eae00d5e323f263fff62b29a8c9cd526c5003f3f642"},
-    {file = "tokenizers-0.19.1-cp310-cp310-manylinux_2_17_armv7l.manylinux2014_armv7l.whl", hash = "sha256:02e81bf089ebf0e7f4df34fa0207519f07e66d8491d963618252f2e0729e0b46"},
-    {file = "tokenizers-0.19.1-cp310-cp310-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl", hash = "sha256:b07c538ba956843833fee1190cf769c60dc62e1cf934ed50d77d5502194d63b1"},
-    {file = "tokenizers-0.19.1-cp310-cp310-manylinux_2_17_s390x.manylinux2014_s390x.whl", hash = "sha256:e28cab1582e0eec38b1f38c1c1fb2e56bce5dc180acb1724574fc5f47da2a4fe"},
-    {file = "tokenizers-0.19.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:8b01afb7193d47439f091cd8f070a1ced347ad0f9144952a30a41836902fe09e"},
-    {file = "tokenizers-0.19.1-cp310-cp310-musllinux_1_1_aarch64.whl", hash = "sha256:7fb297edec6c6841ab2e4e8f357209519188e4a59b557ea4fafcf4691d1b4c98"},
-    {file = "tokenizers-0.19.1-cp310-cp310-musllinux_1_1_x86_64.whl", hash = "sha256:2e8a3dd055e515df7054378dc9d6fa8c8c34e1f32777fb9a01fea81496b3f9d3"},
-    {file = "tokenizers-0.19.1-cp310-none-win32.whl", hash = "sha256:7ff898780a155ea053f5d934925f3902be2ed1f4d916461e1a93019cc7250837"},
-    {file = "tokenizers-0.19.1-cp310-none-win_amd64.whl", hash = "sha256:bea6f9947e9419c2fda21ae6c32871e3d398cba549b93f4a65a2d369662d9403"},
-    {file = "tokenizers-0.19.1-cp311-cp311-macosx_10_12_x86_64.whl", hash = "sha256:5c88d1481f1882c2e53e6bb06491e474e420d9ac7bdff172610c4f9ad3898059"},
-    {file = "tokenizers-0.19.1-cp311-cp311-macosx_11_0_arm64.whl", hash = "sha256:ddf672ed719b4ed82b51499100f5417d7d9f6fb05a65e232249268f35de5ed14"},
-    {file = "tokenizers-0.19.1-cp311-cp311-manylinux_2_12_i686.manylinux2010_i686.whl", hash = "sha256:dadc509cc8a9fe460bd274c0e16ac4184d0958117cf026e0ea8b32b438171594"},
-    {file = "tokenizers-0.19.1-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:dfedf31824ca4915b511b03441784ff640378191918264268e6923da48104acc"},
-    {file = "tokenizers-0.19.1-cp311-cp311-manylinux_2_17_armv7l.manylinux2014_armv7l.whl", hash = "sha256:ac11016d0a04aa6487b1513a3a36e7bee7eec0e5d30057c9c0408067345c48d2"},
-    {file = "tokenizers-0.19.1-cp311-cp311-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl", hash = "sha256:76951121890fea8330d3a0df9a954b3f2a37e3ec20e5b0530e9a0044ca2e11fe"},
-    {file = "tokenizers-0.19.1-cp311-cp311-manylinux_2_17_s390x.manylinux2014_s390x.whl", hash = "sha256:b342d2ce8fc8d00f376af068e3274e2e8649562e3bc6ae4a67784ded6b99428d"},
-    {file = "tokenizers-0.19.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:d16ff18907f4909dca9b076b9c2d899114dd6abceeb074eca0c93e2353f943aa"},
-    {file = "tokenizers-0.19.1-cp311-cp311-musllinux_1_1_aarch64.whl", hash = "sha256:706a37cc5332f85f26efbe2bdc9ef8a9b372b77e4645331a405073e4b3a8c1c6"},
-    {file = "tokenizers-0.19.1-cp311-cp311-musllinux_1_1_x86_64.whl", hash = "sha256:16baac68651701364b0289979ecec728546133e8e8fe38f66fe48ad07996b88b"},
-    {file = "tokenizers-0.19.1-cp311-none-win32.whl", hash = "sha256:9ed240c56b4403e22b9584ee37d87b8bfa14865134e3e1c3fb4b2c42fafd3256"},
-    {file = "tokenizers-0.19.1-cp311-none-win_amd64.whl", hash = "sha256:ad57d59341710b94a7d9dbea13f5c1e7d76fd8d9bcd944a7a6ab0b0da6e0cc66"},
-    {file = "tokenizers-0.19.1-cp312-cp312-macosx_10_12_x86_64.whl", hash = "sha256:621d670e1b1c281a1c9698ed89451395d318802ff88d1fc1accff0867a06f153"},
-    {file = "tokenizers-0.19.1-cp312-cp312-macosx_11_0_arm64.whl", hash = "sha256:d924204a3dbe50b75630bd16f821ebda6a5f729928df30f582fb5aade90c818a"},
-    {file = "tokenizers-0.19.1-cp312-cp312-manylinux_2_12_i686.manylinux2010_i686.whl", hash = "sha256:4f3fefdc0446b1a1e6d81cd4c07088ac015665d2e812f6dbba4a06267d1a2c95"},
-    {file = "tokenizers-0.19.1-cp312-cp312-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:9620b78e0b2d52ef07b0d428323fb34e8ea1219c5eac98c2596311f20f1f9266"},
-    {file = "tokenizers-0.19.1-cp312-cp312-manylinux_2_17_armv7l.manylinux2014_armv7l.whl", hash = "sha256:04ce49e82d100594715ac1b2ce87d1a36e61891a91de774755f743babcd0dd52"},
-    {file = "tokenizers-0.19.1-cp312-cp312-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl", hash = "sha256:c5c2ff13d157afe413bf7e25789879dd463e5a4abfb529a2d8f8473d8042e28f"},
-    {file = "tokenizers-0.19.1-cp312-cp312-manylinux_2_17_s390x.manylinux2014_s390x.whl", hash = "sha256:3174c76efd9d08f836bfccaca7cfec3f4d1c0a4cf3acbc7236ad577cc423c840"},
-    {file = "tokenizers-0.19.1-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:7c9d5b6c0e7a1e979bec10ff960fae925e947aab95619a6fdb4c1d8ff3708ce3"},
-    {file = "tokenizers-0.19.1-cp312-cp312-musllinux_1_1_aarch64.whl", hash = "sha256:a179856d1caee06577220ebcfa332af046d576fb73454b8f4d4b0ba8324423ea"},
-    {file = "tokenizers-0.19.1-cp312-cp312-musllinux_1_1_x86_64.whl", hash = "sha256:952b80dac1a6492170f8c2429bd11fcaa14377e097d12a1dbe0ef2fb2241e16c"},
-    {file = "tokenizers-0.19.1-cp312-none-win32.whl", hash = "sha256:01d62812454c188306755c94755465505836fd616f75067abcae529c35edeb57"},
-    {file = "tokenizers-0.19.1-cp312-none-win_amd64.whl", hash = "sha256:b70bfbe3a82d3e3fb2a5e9b22a39f8d1740c96c68b6ace0086b39074f08ab89a"},
-    {file = "tokenizers-0.19.1-cp37-cp37m-macosx_10_12_x86_64.whl", hash = "sha256:bb9dfe7dae85bc6119d705a76dc068c062b8b575abe3595e3c6276480e67e3f1"},
-    {file = "tokenizers-0.19.1-cp37-cp37m-macosx_11_0_arm64.whl", hash = "sha256:1f0360cbea28ea99944ac089c00de7b2e3e1c58f479fb8613b6d8d511ce98267"},
-    {file = "tokenizers-0.19.1-cp37-cp37m-manylinux_2_12_i686.manylinux2010_i686.whl", hash = "sha256:71e3ec71f0e78780851fef28c2a9babe20270404c921b756d7c532d280349214"},
-    {file = "tokenizers-0.19.1-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:b82931fa619dbad979c0ee8e54dd5278acc418209cc897e42fac041f5366d626"},
-    {file = "tokenizers-0.19.1-cp37-cp37m-manylinux_2_17_armv7l.manylinux2014_armv7l.whl", hash = "sha256:e8ff5b90eabdcdaa19af697885f70fe0b714ce16709cf43d4952f1f85299e73a"},
-    {file = "tokenizers-0.19.1-cp37-cp37m-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl", hash = "sha256:e742d76ad84acbdb1a8e4694f915fe59ff6edc381c97d6dfdd054954e3478ad4"},
-    {file = "tokenizers-0.19.1-cp37-cp37m-manylinux_2_17_s390x.manylinux2014_s390x.whl", hash = "sha256:d8c5d59d7b59885eab559d5bc082b2985555a54cda04dda4c65528d90ad252ad"},
-    {file = "tokenizers-0.19.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:6b2da5c32ed869bebd990c9420df49813709e953674c0722ff471a116d97b22d"},
-    {file = "tokenizers-0.19.1-cp37-cp37m-musllinux_1_1_aarch64.whl", hash = "sha256:638e43936cc8b2cbb9f9d8dde0fe5e7e30766a3318d2342999ae27f68fdc9bd6"},
-    {file = "tokenizers-0.19.1-cp37-cp37m-musllinux_1_1_x86_64.whl", hash = "sha256:78e769eb3b2c79687d9cb0f89ef77223e8e279b75c0a968e637ca7043a84463f"},
-    {file = "tokenizers-0.19.1-cp37-none-win32.whl", hash = "sha256:72791f9bb1ca78e3ae525d4782e85272c63faaef9940d92142aa3eb79f3407a3"},
-    {file = "tokenizers-0.19.1-cp37-none-win_amd64.whl", hash = "sha256:f3bbb7a0c5fcb692950b041ae11067ac54826204318922da754f908d95619fbc"},
-    {file = "tokenizers-0.19.1-cp38-cp38-macosx_10_12_x86_64.whl", hash = "sha256:07f9295349bbbcedae8cefdbcfa7f686aa420be8aca5d4f7d1ae6016c128c0c5"},
-    {file = "tokenizers-0.19.1-cp38-cp38-macosx_11_0_arm64.whl", hash = "sha256:10a707cc6c4b6b183ec5dbfc5c34f3064e18cf62b4a938cb41699e33a99e03c1"},
-    {file = "tokenizers-0.19.1-cp38-cp38-manylinux_2_12_i686.manylinux2010_i686.whl", hash = "sha256:6309271f57b397aa0aff0cbbe632ca9d70430839ca3178bf0f06f825924eca22"},
-    {file = "tokenizers-0.19.1-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:4ad23d37d68cf00d54af184586d79b84075ada495e7c5c0f601f051b162112dc"},
-    {file = "tokenizers-0.19.1-cp38-cp38-manylinux_2_17_armv7l.manylinux2014_armv7l.whl", hash = "sha256:427c4f0f3df9109314d4f75b8d1f65d9477033e67ffaec4bca53293d3aca286d"},
-    {file = "tokenizers-0.19.1-cp38-cp38-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl", hash = "sha256:e83a31c9cf181a0a3ef0abad2b5f6b43399faf5da7e696196ddd110d332519ee"},
-    {file = "tokenizers-0.19.1-cp38-cp38-manylinux_2_17_s390x.manylinux2014_s390x.whl", hash = "sha256:c27b99889bd58b7e301468c0838c5ed75e60c66df0d4db80c08f43462f82e0d3"},
-    {file = "tokenizers-0.19.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:bac0b0eb952412b0b196ca7a40e7dce4ed6f6926489313414010f2e6b9ec2adf"},
-    {file = "tokenizers-0.19.1-cp38-cp38-musllinux_1_1_aarch64.whl", hash = "sha256:8a6298bde623725ca31c9035a04bf2ef63208d266acd2bed8c2cb7d2b7d53ce6"},
-    {file = "tokenizers-0.19.1-cp38-cp38-musllinux_1_1_x86_64.whl", hash = "sha256:08a44864e42fa6d7d76d7be4bec62c9982f6f6248b4aa42f7302aa01e0abfd26"},
-    {file = "tokenizers-0.19.1-cp38-none-win32.whl", hash = "sha256:1de5bc8652252d9357a666e609cb1453d4f8e160eb1fb2830ee369dd658e8975"},
-    {file = "tokenizers-0.19.1-cp38-none-win_amd64.whl", hash = "sha256:0bcce02bf1ad9882345b34d5bd25ed4949a480cf0e656bbd468f4d8986f7a3f1"},
-    {file = "tokenizers-0.19.1-cp39-cp39-macosx_10_12_x86_64.whl", hash = "sha256:0b9394bd204842a2a1fd37fe29935353742be4a3460b6ccbaefa93f58a8df43d"},
-    {file = "tokenizers-0.19.1-cp39-cp39-macosx_11_0_arm64.whl", hash = "sha256:4692ab92f91b87769d950ca14dbb61f8a9ef36a62f94bad6c82cc84a51f76f6a"},
-    {file = "tokenizers-0.19.1-cp39-cp39-manylinux_2_12_i686.manylinux2010_i686.whl", hash = "sha256:6258c2ef6f06259f70a682491c78561d492e885adeaf9f64f5389f78aa49a051"},
-    {file = "tokenizers-0.19.1-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:c85cf76561fbd01e0d9ea2d1cbe711a65400092bc52b5242b16cfd22e51f0c58"},
-    {file = "tokenizers-0.19.1-cp39-cp39-manylinux_2_17_armv7l.manylinux2014_armv7l.whl", hash = "sha256:670b802d4d82bbbb832ddb0d41df7015b3e549714c0e77f9bed3e74d42400fbe"},
-    {file = "tokenizers-0.19.1-cp39-cp39-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl", hash = "sha256:85aa3ab4b03d5e99fdd31660872249df5e855334b6c333e0bc13032ff4469c4a"},
-    {file = "tokenizers-0.19.1-cp39-cp39-manylinux_2_17_s390x.manylinux2014_s390x.whl", hash = "sha256:cbf001afbbed111a79ca47d75941e9e5361297a87d186cbfc11ed45e30b5daba"},
-    {file = "tokenizers-0.19.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:b4c89aa46c269e4e70c4d4f9d6bc644fcc39bb409cb2a81227923404dd6f5227"},
-    {file = "tokenizers-0.19.1-cp39-cp39-musllinux_1_1_aarch64.whl", hash = "sha256:39c1ec76ea1027438fafe16ecb0fb84795e62e9d643444c1090179e63808c69d"},
-    {file = "tokenizers-0.19.1-cp39-cp39-musllinux_1_1_x86_64.whl", hash = "sha256:c2a0d47a89b48d7daa241e004e71fb5a50533718897a4cd6235cb846d511a478"},
-    {file = "tokenizers-0.19.1-cp39-none-win32.whl", hash = "sha256:61b7fe8886f2e104d4caf9218b157b106207e0f2a4905c9c7ac98890688aabeb"},
-    {file = "tokenizers-0.19.1-cp39-none-win_amd64.whl", hash = "sha256:f97660f6c43efd3e0bfd3f2e3e5615bf215680bad6ee3d469df6454b8c6e8256"},
-    {file = "tokenizers-0.19.1-pp310-pypy310_pp73-macosx_10_12_x86_64.whl", hash = "sha256:3b11853f17b54c2fe47742c56d8a33bf49ce31caf531e87ac0d7d13d327c9334"},
-    {file = "tokenizers-0.19.1-pp310-pypy310_pp73-macosx_11_0_arm64.whl", hash = "sha256:d26194ef6c13302f446d39972aaa36a1dda6450bc8949f5eb4c27f51191375bd"},
-    {file = "tokenizers-0.19.1-pp310-pypy310_pp73-manylinux_2_12_i686.manylinux2010_i686.whl", hash = "sha256:e8d1ed93beda54bbd6131a2cb363a576eac746d5c26ba5b7556bc6f964425594"},
-    {file = "tokenizers-0.19.1-pp310-pypy310_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:ca407133536f19bdec44b3da117ef0d12e43f6d4b56ac4c765f37eca501c7bda"},
-    {file = "tokenizers-0.19.1-pp310-pypy310_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:ce05fde79d2bc2e46ac08aacbc142bead21614d937aac950be88dc79f9db9022"},
-    {file = "tokenizers-0.19.1-pp310-pypy310_pp73-musllinux_1_1_aarch64.whl", hash = "sha256:35583cd46d16f07c054efd18b5d46af4a2f070a2dd0a47914e66f3ff5efb2b1e"},
-    {file = "tokenizers-0.19.1-pp310-pypy310_pp73-musllinux_1_1_x86_64.whl", hash = "sha256:43350270bfc16b06ad3f6f07eab21f089adb835544417afda0f83256a8bf8b75"},
-    {file = "tokenizers-0.19.1-pp37-pypy37_pp73-macosx_10_12_x86_64.whl", hash = "sha256:b4399b59d1af5645bcee2072a463318114c39b8547437a7c2d6a186a1b5a0e2d"},
-    {file = "tokenizers-0.19.1-pp37-pypy37_pp73-manylinux_2_12_i686.manylinux2010_i686.whl", hash = "sha256:6852c5b2a853b8b0ddc5993cd4f33bfffdca4fcc5d52f89dd4b8eada99379285"},
-    {file = "tokenizers-0.19.1-pp37-pypy37_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:bcd266ae85c3d39df2f7e7d0e07f6c41a55e9a3123bb11f854412952deacd828"},
-    {file = "tokenizers-0.19.1-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:ecb2651956eea2aa0a2d099434134b1b68f1c31f9a5084d6d53f08ed43d45ff2"},
-    {file = "tokenizers-0.19.1-pp37-pypy37_pp73-musllinux_1_1_aarch64.whl", hash = "sha256:b279ab506ec4445166ac476fb4d3cc383accde1ea152998509a94d82547c8e2a"},
-    {file = "tokenizers-0.19.1-pp37-pypy37_pp73-musllinux_1_1_x86_64.whl", hash = "sha256:89183e55fb86e61d848ff83753f64cded119f5d6e1f553d14ffee3700d0a4a49"},
-    {file = "tokenizers-0.19.1-pp38-pypy38_pp73-macosx_10_12_x86_64.whl", hash = "sha256:b2edbc75744235eea94d595a8b70fe279dd42f3296f76d5a86dde1d46e35f574"},
-    {file = "tokenizers-0.19.1-pp38-pypy38_pp73-macosx_11_0_arm64.whl", hash = "sha256:0e64bfde9a723274e9a71630c3e9494ed7b4c0f76a1faacf7fe294cd26f7ae7c"},
-    {file = "tokenizers-0.19.1-pp38-pypy38_pp73-manylinux_2_12_i686.manylinux2010_i686.whl", hash = "sha256:0b5ca92bfa717759c052e345770792d02d1f43b06f9e790ca0a1db62838816f3"},
-    {file = "tokenizers-0.19.1-pp38-pypy38_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:6f8a20266e695ec9d7a946a019c1d5ca4eddb6613d4f466888eee04f16eedb85"},
-    {file = "tokenizers-0.19.1-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:63c38f45d8f2a2ec0f3a20073cccb335b9f99f73b3c69483cd52ebc75369d8a1"},
-    {file = "tokenizers-0.19.1-pp38-pypy38_pp73-musllinux_1_1_aarch64.whl", hash = "sha256:dd26e3afe8a7b61422df3176e06664503d3f5973b94f45d5c45987e1cb711876"},
-    {file = "tokenizers-0.19.1-pp38-pypy38_pp73-musllinux_1_1_x86_64.whl", hash = "sha256:eddd5783a4a6309ce23432353cdb36220e25cbb779bfa9122320666508b44b88"},
-    {file = "tokenizers-0.19.1-pp39-pypy39_pp73-macosx_10_12_x86_64.whl", hash = "sha256:56ae39d4036b753994476a1b935584071093b55c7a72e3b8288e68c313ca26e7"},
-    {file = "tokenizers-0.19.1-pp39-pypy39_pp73-macosx_11_0_arm64.whl", hash = "sha256:f9939ca7e58c2758c01b40324a59c034ce0cebad18e0d4563a9b1beab3018243"},
-    {file = "tokenizers-0.19.1-pp39-pypy39_pp73-manylinux_2_12_i686.manylinux2010_i686.whl", hash = "sha256:6c330c0eb815d212893c67a032e9dc1b38a803eccb32f3e8172c19cc69fbb439"},
-    {file = "tokenizers-0.19.1-pp39-pypy39_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl", hash = "sha256:ec11802450a2487cdf0e634b750a04cbdc1c4d066b97d94ce7dd2cb51ebb325b"},
-    {file = "tokenizers-0.19.1-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:a2b718f316b596f36e1dae097a7d5b91fc5b85e90bf08b01ff139bd8953b25af"},
-    {file = "tokenizers-0.19.1-pp39-pypy39_pp73-musllinux_1_1_aarch64.whl", hash = "sha256:ed69af290c2b65169f0ba9034d1dc39a5db9459b32f1dd8b5f3f32a3fcf06eab"},
-    {file = "tokenizers-0.19.1-pp39-pypy39_pp73-musllinux_1_1_x86_64.whl", hash = "sha256:f8a9c828277133af13f3859d1b6bf1c3cb6e9e1637df0e45312e6b7c2e622b1f"},
-    {file = "tokenizers-0.19.1.tar.gz", hash = "sha256:ee59e6680ed0fdbe6b724cf38bd70400a0c1dd623b07ac729087270caeac88e3"},
-]
-
-[package.dependencies]
-huggingface-hub = ">=0.16.4,<1.0"
-
-[package.extras]
-dev = ["tokenizers[testing]"]
-docs = ["setuptools-rust", "sphinx", "sphinx-rtd-theme"]
-testing = ["black (==22.3)", "datasets", "numpy", "pytest", "requests", "ruff"]
-=======
 name = "tiktoken"
 version = "0.7.0"
 description = "tiktoken is a fast BPE tokeniser for use with OpenAI's models"
@@ -3477,7 +2885,6 @@ requests = ">=2.26.0"
 
 [package.extras]
 blobfile = ["blobfile (>=2)"]
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
 
 [[package]]
 name = "tokenizers"
@@ -3617,10 +3024,6 @@ slack = ["slack-sdk"]
 telegram = ["requests"]
 
 [[package]]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "typer"
 version = "0.12.3"
 description = "Typer, build great CLIs. Easy to code. Based on Python type hints."
@@ -3638,10 +3041,6 @@ shellingham = ">=1.3.0"
 typing-extensions = ">=3.7.4.3"
 
 [[package]]
-<<<<<<< HEAD
-=======
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
-=======
 name = "types-requests"
 version = "2.32.0.20240712"
 description = "Typing stubs for requests"
@@ -3656,7 +3055,6 @@ files = [
 urllib3 = ">=2"
 
 [[package]]
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "typing-extensions"
 version = "4.12.2"
 description = "Backported and Experimental Type Hints for Python 3.8+"
@@ -3700,10 +3098,6 @@ socks = ["pysocks (>=1.5.6,!=1.5.7,<2.0)"]
 zstd = ["zstandard (>=0.18.0)"]
 
 [[package]]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "uvicorn"
 version = "0.30.1"
 description = "The lightning-fast ASGI server."
@@ -4036,11 +3430,6 @@ files = [
 ]
 
 [[package]]
-<<<<<<< HEAD
-=======
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 name = "yarl"
 version = "1.9.4"
 description = "Yet another URL library"
@@ -4143,10 +3532,6 @@ files = [
 idna = ">=2.0"
 multidict = ">=4.0"
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
 [[package]]
 name = "zipp"
 version = "3.19.2"
@@ -4162,20 +3547,7 @@ files = [
 doc = ["furo", "jaraco.packaging (>=9.3)", "jaraco.tidelift (>=1.4)", "rst.linker (>=1.9)", "sphinx (>=3.5)", "sphinx-lint"]
 test = ["big-O", "importlib-resources", "jaraco.functools", "jaraco.itertools", "jaraco.test", "more-itertools", "pytest (>=6,!=8.1.*)", "pytest-checkdocs (>=2.4)", "pytest-cov", "pytest-enabler (>=2.2)", "pytest-ignore-flaky", "pytest-mypy", "pytest-ruff (>=0.2.1)"]
 
-<<<<<<< HEAD
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.12"
-content-hash = "e581e9defb7e275776b3460e01afda3c8ef4a536b8f8ef3c09175d13c0df3cdc"
-=======
-[metadata]
-lock-version = "2.0"
-python-versions = "^3.12"
-content-hash = "c821de1dfc02a184844481ab778c528af7325911f4d9f069fc53af04d9fe38cd"
->>>>>>> 878ec00 (refactoring + added poetry for dependency management)
-=======
-[metadata]
-lock-version = "2.0"
-python-versions = "^3.12"
-content-hash = "a3cc5127cb20c6894646eef85780f517cfd2b88d958749538292518e17ac29fa"
->>>>>>> 0d4aa81 (chore: Add write_courses_to_csv tool for exporting course details to CSV file)
+content-hash = "e1be03f074ec2108afd53cff86f3ae4901a979cec09f538e4cc13407df6653a4"
