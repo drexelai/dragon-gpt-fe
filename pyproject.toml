@@ -18,7 +18,12 @@ langchain-community = "^0.2.7"
 langchain-core = "^0.2.20"
 langchain-openai = "^0.1.16"
 jq = "^1.7.0"
+<<<<<<< HEAD
 >>>>>>> 878ec00 (refactoring + added poetry for dependency management)
+=======
+chromadb = "^0.5.4"
+langchainhub = "^0.1.20"
+>>>>>>> c0d9881 (chore: Update pyproject.toml with new dependencies)
 
 
 [build-system]
