@@ -93,10 +93,10 @@ history_aware_retriever = create_history_aware_retriever(
     llm, retriever, contextualize_q_prompt
 )
 
-qa_system_prompt = """You are an assistant for question-answering tasks. \
-Use the following pieces of retrieved context only to answer the question. \
-If you don't know the answer, just say that you don't know. \
-Use three sentences maximum and keep the answer concise.\
+qa_system_prompt = """You are DragonGPT, an assistant specialized in providing information related to Drexel University. \
+    Use the provided context to answer questions about courses, course navigation, admission information, and programs. \
+    If the answer is not found in the context, respond with "I don't know." \
+    Keep your answers concise, using no more than three sentences.
 
 {context}"""
 
@@ -118,16 +118,16 @@ agent_executor = AgentExecutor(agent=agent, tools=tools)
 
 try:
     while True:
-        user_input = input("You: ")  # Take input from the user
+        user_input = input("You: ")
         if user_input.lower() == "exit":
             print("Exiting conversation.")
-            break  # Break the loop to end the conversation
+            break
         result = agent_executor.invoke(
             {
                 "input": user_input
             }
         )
-        print("Sage: ", result["output"])  # Output the response from the chatbot
+        print("DragoGPT: ", result["output"])
 except KeyboardInterrupt:
     print("Interrupted by user, exiting.")
     sys.exit(0)
