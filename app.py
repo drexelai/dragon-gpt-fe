@@ -17,6 +17,7 @@ from langchain_core.messages import HumanMessage
 from langchain.tools import tool
 from langchain.tools.retriever import create_retriever_tool
 from langchain.agents import AgentExecutor, create_openai_tools_agent
+from additional_tools import write_courses_to_csv
 
 load_dotenv(dotenv_path='.env.local')
 
@@ -64,7 +65,7 @@ retriever_tool = create_retriever_tool(
 
 models = ["gpt-3.5-turbo-0125", "gpt-4-turbo-2024-04-09"]
 
-tools = [retriever_tool]
+tools = [retriever_tool, write_courses_to_csv]
 
 prompt = hub.pull("hwchase17/openai-tools-agent")
 prompt.messages
