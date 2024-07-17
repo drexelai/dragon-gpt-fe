@@ -7,9 +7,18 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
+<<<<<<< HEAD
 langchain = "^0.2.8"
 langchain-community = "^0.2.7"
 langchain-chroma = "^0.1.2"
+=======
+python-dotenv = "^1.0.1"
+langchain = "^0.2.8"
+langchain-community = "^0.2.7"
+langchain-core = "^0.2.20"
+langchain-openai = "^0.1.16"
+jq = "^1.7.0"
+>>>>>>> 878ec00 (refactoring + added poetry for dependency management)
 
 
 [build-system]
