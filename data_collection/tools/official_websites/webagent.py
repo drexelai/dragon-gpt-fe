@@ -9,7 +9,7 @@ from langchain_openai import ChatOpenAI
 from dotenv import load_dotenv
 import bs4
 
-load_dotenv(dotenv_path=".env.local")
+load_dotenv(dotenv_path="keys.env")
 
 llm = ChatOpenAI(model="gpt-4-turbo-2024-04-09")
 

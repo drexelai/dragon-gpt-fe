@@ -3,11 +3,10 @@ import json
 from bs4 import BeautifulSoup
 import requests
 
-# Define the file containing the URLs
-file_path = "undergrad_quarter_majors.txt"
-
+cwd = os.path.join("data_collection", "tools", "drexel_catalog")
 # Create a directory to store the JSON files
-os.makedirs('json_files', exist_ok=True)
+output_dir = "course_desc_json_files"
+os.makedirs(os.path.join(cwd, output_dir), exist_ok=True)
 
 # Function to parse a course section
 def parse_course_section(section):
@@ -17,10 +16,10 @@ def parse_course_section(section):
     if len(cdspacing_elements) >= 3:
         course['Identifier'] = cdspacing_elements[0].get_text(strip=True).replace('\u00a0', ' ')
         course['Title'] = cdspacing_elements[1].get_text(strip=True)
-        course['Number_of_credits'] = cdspacing_elements[2].get_text(strip=True)
+    
+    course['Number_of_credits'] = section.find('p', class_='courseblocktitle').text.split(" ")[-2]
 
-    description = section.find('p', class_='courseblockdesc')
-    course['Description'] = description.get_text(strip=True) if description else ''
+    course['Description'] = section.find('p', class_='courseblockdesc').get_text(strip=True)
 
     for b_tag in section.find_all('b'):
         text = b_tag.get_text(strip=True)
@@ -39,9 +38,10 @@ def parse_course_section(section):
     return course
 
 # Function to process each URL and save course information to JSON
-def process_urls(file_path):
+def process_urls(file_name):
     try:
-        with open(file_path, 'r') as opened_file:
+        with open(os.path.join(cwd, file_name), 'r') as opened_file:
+            courses = []
             for line in opened_file:
                 line = line.strip()
                 if not line:
@@ -57,26 +57,27 @@ def process_urls(file_path):
                 soup = BeautifulSoup(response.content, 'html.parser')
 
                 # Define a list to hold course information
-                courses = []
+                subject_courses = []
 
                 # Find all sections containing course information
                 sections = soup.find_all('div', class_='courseblock')
 
                 for section in sections:
                     course = parse_course_section(section)
-                    courses.append(course)
+                    subject_courses.append({"data":course, "url":line})
+                courses += subject_courses
+            # Write the data to a JSON file
+            name = file_name.split(".")[0]
+            json_filename = os.path.join(os.path.join(cwd, output_dir), f'{name}.json')
+            with open(json_filename, 'w') as f:
+                json.dump(courses, f, indent=6)
 
-                # Write the data to a JSON file
-                name = line.rstrip('/').split('/')[-1]
-                json_filename = os.path.join('json_files', f'{name}.json')
-                with open(json_filename, 'w') as f:
-                    json.dump(courses, f, indent=6)
-
-        print("All majors information have been saved to the folder of .json files.")
+            print(f"{name} has been saved to {output_dir}")
     except FileNotFoundError:
-        print(f"Cannot open the file: {file_path}")
+        print(f"Cannot open the file: {file_name}")
     except Exception as e:
         print(f"An error occurred: {e}")
 
 # Call the function to process URLs
-process_urls(file_path)
+process_urls('undergrad_quarter_majors.txt')
+process_urls('grad_quarter_majors.txt')
