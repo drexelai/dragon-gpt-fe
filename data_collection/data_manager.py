@@ -6,6 +6,7 @@ import os
 import time
 import json
 from dotenv import load_dotenv
+from itertools import islice
 
 load_dotenv("keys.env")
 
@@ -35,45 +36,52 @@ def make_index(index_name):
 def create_vector(json_data):
     return embedding_model.encode(json.dumps(json_data))
 
+def chunks(iterable, batch_size=200):
+    """A helper function to break an iterable into chunks of size batch_size."""
+    it = iter(iterable)
+    chunk = tuple(islice(it, batch_size))
+    while chunk:
+        yield chunk
+        chunk = tuple(islice(it, batch_size))
 
-# TODO THIS DATA NEEDS TO BE BATCHED or PARALELLIZED
-def add_json_file_to_index(filepath):
-    filepath = r"data_collection\tools\drexel_catalog\course_desc_json_files\undergrad_quarter_majors.json"
+# json must be structured as a list of jsons [{"data": data, "url": url},...]
+def upload_json_file_to_index(filepath, batch_size=200):
     with open(filepath, "r") as f:
-        # data must be a list of jsons [{"data": data, "url": url},...]
         data = json.load(f)
 
     pinecone_data = []
     for item in tqdm(data):
-        data = item['data']
-        vector = create_vector(data)
+        data_item = item['data']
+        vector = create_vector(data_item)
         metadata = {
-            'Identifier': data['Identifier'],
-            'Title': data['Title'],
-            'Number_of_credits': data['Number_of_credits'],
-            'Description': data['Description'],
-            'College/Department': data['College/Department'],
-            'Repeat Status': data['Repeat Status'],
-            'Prerequisites': data['Prerequisites'],
+            'Identifier': data_item['Identifier'],
+            'Title': data_item['Title'],
+            'Number_of_credits': data_item['Number_of_credits'],
+            'Description': data_item['Description'],
+            'College/Department': data_item['College/Department'],
+            'Repeat Status': data_item['Repeat Status'],
+            'Prerequisites': data_item['Prerequisites'],
             'url': item['url']
         }
         pinecone_data.append({
-            'id': data['Identifier'],
+            'id': data_item['Identifier'],
             'values': vector,
             'metadata': metadata
         })
 
-    index.upsert(pinecone_data)
+    for ids_vectors_chunk in chunks(pinecone_data, batch_size=batch_size):
+        index.upsert(vectors=ids_vectors_chunk)
 
     print("Added data to index")
-
+    print("Here is what the index looks like:")
     print(index.describe_index_stats())
 
+def query_from_index(prompt, k=3):
+        return index.query(
+            vector=embedding_model.encode(prompt).tolist(),
+            top_k=k,
+            include_values=True,
+            include_metadata=True
+        )
 
-def query_from_index(prompt):
-    print(index.query(
-        vector=embedding_model.encode(prompt),
-        top_k=5,
-        include_values=True
-        ))
-query_from_index("Computer Science")
+print(query_from_index("Computer Science"))
