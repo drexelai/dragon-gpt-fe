@@ -163,3 +163,4 @@ cython_debug/
 
 *.json
 *.txt
+keys.env

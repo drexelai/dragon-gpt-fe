@@ -76,12 +76,14 @@ def upload_json_file_to_index(filepath, batch_size=200):
     print("Here is what the index looks like:")
     print(index.describe_index_stats())
 
-def query_from_index(prompt, k=3):
-        return index.query(
+def query_from_index(prompt:str, k=3)-> str:
+        result = index.query(
             vector=embedding_model.encode(prompt).tolist(),
             top_k=k,
             include_values=True,
             include_metadata=True
         )
-
-print(query_from_index("Computer Science"))
+        matches = result['matches']
+        print(matches)
+        metadata_list = [match['metadata'] for match in matches]
+        return "\n".join(str(metadata) for metadata in metadata_list)

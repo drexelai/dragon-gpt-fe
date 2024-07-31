@@ -1,4 +1,10 @@
-<html><head><base href="https://www.drexel.edu/"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Mario - Drexel University Chatbot</title>
+<!DOCTYPE html>
+<html>
+<head>
+<base href="https://www.drexel.edu/">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mario - Drexel University Chatbot</title>
 <style>
 body {
     font-family: Arial, sans-serif;
@@ -45,6 +51,8 @@ body {
 .bot-message {
     background-color: #f0f0f0;
     margin-right: 20%;
+    display: flex;
+    align-items: center;
 }
 .chat-input {
     display: flex;
@@ -55,6 +63,7 @@ body {
     padding: 10px;
     border: 1px solid #07294d;
     border-radius: 5px;
+    autocomplete: off;
 }
 #send-button {
     background-color: #07294d;
@@ -69,26 +78,24 @@ body {
     width: 50px;
     height: 50px;
     margin-right: 10px;
+    border-radius: 50%;
+    object-fit: cover;
 }
 </style>
 </head>
-<body>
+<body onload="focusInput()">
 <div class="chat-container">
     <div class="chat-header">
         <h1>Mario - Drexel University Chatbot</h1>
     </div>
     <div class="chat-messages" id="chat-messages">
         <div class="message bot-message">
-            <svg class="mario-avatar" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-                <rect x="0" y="0" width="100" height="100" fill="#07294d"/>
-                <path d="M50 20 L80 80 L20 80 Z" fill="#ffc600"/>
-                <circle cx="50" cy="45" r="10" fill="#ffc600"/>
-            </svg>
+            <img src="https://i.redd.it/drexel-nfts-70k-each-do-not-screenshot-v0-odhpl9dduz981.png?width=2364&format=png&auto=webp&s=bca7f9a8d8d471dc966d2fdeb8dc58f8ea2e5838" alt="Mario Avatar" class="mario-avatar">
             Hello! I'm Mario, the Drexel University chatbot and mascot. How can I help you today?
         </div>
     </div>
     <div class="chat-input">
-        <input type="text" id="user-input" placeholder="Type your question here...">
+        <input type="text" id="user-input" placeholder="Type your question here..." autocomplete="off">
         <button id="send-button">Send</button>
     </div>
 </div>
@@ -98,18 +105,32 @@ const chatMessages = document.getElementById('chat-messages');
 const userInput = document.getElementById('user-input');
 const sendButton = document.getElementById('send-button');
 
-const drexelInfo = {
-    "founding": "Drexel University was founded in 1891 by Anthony J. Drexel, a financier and philanthropist.",
-    "location": "I'm proud to say that Drexel University is located in Philadelphia, Pennsylvania.",
-    "mascot": "As the mascot myself, I can tell you that I'm Mario the Magnificent Dragon!",
-    "colors": "Our official colors are blue and gold, which I wear proudly!",
-    "programs": "We offer over 200 degree programs across our colleges and schools. There's something for everyone!",
-    "co-op": "One of our best features is the cooperative education program, which allows students to gain up to 18 months of work experience before graduating.",
-    "campus": "Our main campus is in University City, Philadelphia, with additional campuses in Center City and Queen Lane. I love flying between them!",
-    "ranking": "I'm happy to say that Drexel is consistently ranked among the top national universities by U.S. News & World Report.",
-    "sports": "Our athletic teams compete in NCAA Division I as the Dragons. Go Dragons!",
-    "library": "The W. W. Hagerty Library is our main library, housing over 500,000 books and other materials. It's a great place to study!"
-};
+function focusInput() {
+    userInput.focus();
+}
+
+async function getBotResponse(userQuestion) {
+    try {
+        const response = await fetch('http://127.0.0.1:8000/query', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ query: userQuestion })
+        });
+
+        if (!response.ok) {
+            throw new Error('Network response was not ok');
+        }
+
+        const data = await response.json();
+        console.log(data); // Log the response for debugging
+        return data.answer;
+    } catch (error) {
+        console.error('Error fetching bot response:', error);
+        return "I'm sorry, I couldn't process your request at this moment.";
+    }
+}
 
 function addMessage(message, isUser = false) {
     const messageDiv = document.createElement('div');
@@ -117,44 +138,48 @@ function addMessage(message, isUser = false) {
     messageDiv.classList.add(isUser ? 'user-message' : 'bot-message');
     
     if (!isUser) {
-        const avatar = document.createElementNS("http://www.w3.org/2000/svg", "svg");
-        avatar.setAttribute("class", "mario-avatar");
-        avatar.setAttribute("viewBox", "0 0 100 100");
-        avatar.innerHTML = `
-            <rect x="0" y="0" width="100" height="100" fill="#07294d"/>
-            <path d="M50 20 L80 80 L20 80 Z" fill="#ffc600"/>
-            <circle cx="50" cy="45" r="10" fill="#ffc600"/>
-        `;
+        const avatar = document.createElement('img');
+        avatar.setAttribute('src', 'https://i.redd.it/drexel-nfts-70k-each-do-not-screenshot-v0-odhpl9dduz981.png?width=2364&format=png&auto=webp&s=bca7f9a8d8d471dc966d2fdeb8dc58f8ea2e5838'); // Replace with the correct path to your custom image
+        avatar.setAttribute('alt', 'Mario Avatar');
+        avatar.setAttribute('class', 'mario-avatar');
         messageDiv.appendChild(avatar);
     }
     
-    messageDiv.appendChild(document.createTextNode(message));
+    const textNode = document.createElement('span');
+    messageDiv.appendChild(textNode);
     chatMessages.appendChild(messageDiv);
     chatMessages.scrollTop = chatMessages.scrollHeight;
-}
-
-function getBotResponse(userQuestion) {
-    const question = userQuestion.toLowerCase();
-    let response = "I'm sorry, I don't have information about that. As Mario, I can tell you about Drexel's founding, location, mascot (that's me!), colors, programs, co-op, campus, ranking, sports, or library. What would you like to know?";
-
-    for (const [key, value] of Object.entries(drexelInfo)) {
-        if (question.includes(key)) {
-            response = value;
-            break;
-        }
+    
+    if (!isUser) {
+        typeWriterEffect(message, textNode);
+    } else {
+        textNode.textContent = message;
     }
-
-    return response;
 }
 
-function handleUserInput() {
+async function handleUserInput() {
     const userMessage = userInput.value.trim();
     if (userMessage) {
         addMessage(userMessage, true);
-        const botResponse = getBotResponse(userMessage);
-        setTimeout(() => addMessage(botResponse), 500);
-        userInput.value = '';
+        userInput.value = ''; // Clear the input box immediately
+        const botResponse = await getBotResponse(userMessage);
+        addMessage(botResponse);
     }
+}
+
+function typeWriterEffect(text, element) {
+    const words = text.split(' ');
+    let index = 0;
+
+    function addWord() {
+        if (index < words.length) {
+            element.textContent += (index > 0 ? ' ' : '') + words[index];
+            index++;
+            setTimeout(addWord, 200);
+        }
+    }
+
+    addWord();
 }
 
 sendButton.addEventListener('click', handleUserInput);
@@ -164,4 +189,5 @@ userInput.addEventListener('keypress', (e) => {
     }
 });
 </script>
-</body></html>
+</body>
+</html>
