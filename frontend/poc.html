@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <base href="https://www.drexel.edu/">
 <meta charset="utf-8">
@@ -80,6 +80,19 @@ body {
     margin-right: 10px;
     border-radius: 50%;
     object-fit: cover;
+    flex-shrink: 0; /* Prevents the avatar from growing */
+}
+#mic-button {
+    background-color: #07294d;
+    color: #ffc600;
+    border: none;
+    padding: 10px 20px;
+    margin-left: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px; /* Adjust font size for the microphone icon */
+    display: flex;
+    align-items: center;
 }
 </style>
 </head>
@@ -91,12 +104,13 @@ body {
     <div class="chat-messages" id="chat-messages">
         <div class="message bot-message">
             <img src="https://i.redd.it/drexel-nfts-70k-each-do-not-screenshot-v0-odhpl9dduz981.png?width=2364&format=png&auto=webp&s=bca7f9a8d8d471dc966d2fdeb8dc58f8ea2e5838" alt="Mario Avatar" class="mario-avatar">
-            Hello! I'm Mario, the Drexel University chatbot and mascot. How can I help you today?
+            <span>Hello! I'm Mario, the Drexel University chatbot and mascot. How can I help you today?</span>
         </div>
     </div>
     <div class="chat-input">
         <input type="text" id="user-input" placeholder="Type your question here..." autocomplete="off">
         <button id="send-button">Send</button>
+        <button id="mic-button">🎤</button>
     </div>
 </div>
 
@@ -104,6 +118,7 @@ body {
 const chatMessages = document.getElementById('chat-messages');
 const userInput = document.getElementById('user-input');
 const sendButton = document.getElementById('send-button');
+const micButton = document.getElementById('mic-button');
 
 function focusInput() {
     userInput.focus();
@@ -116,7 +131,7 @@ async function getBotResponse(userQuestion) {
             headers: {
                 'Content-Type': 'application/json'
             },
-            body: JSON.stringify({ query: userQuestion })
+            body: JSON.stringify({ query: userQuestion})
         });
 
         if (!response.ok) {
@@ -139,7 +154,7 @@ function addMessage(message, isUser = false) {
     
     if (!isUser) {
         const avatar = document.createElement('img');
-        avatar.setAttribute('src', 'https://i.redd.it/drexel-nfts-70k-each-do-not-screenshot-v0-odhpl9dduz981.png?width=2364&format=png&auto=webp&s=bca7f9a8d8d471dc966d2fdeb8dc58f8ea2e5838'); // Replace with the correct path to your custom image
+        avatar.setAttribute('src', 'https://i.redd.it/drexel-nfts-70k-each-do-not-screenshot-v0-odhpl9dduz981.png?width=2364&format=png&auto=webp&s=bca7f9a8d8d471dc966d2fdeb8dc58f8ea2e5838'); 
         avatar.setAttribute('alt', 'Mario Avatar');
         avatar.setAttribute('class', 'mario-avatar');
         messageDiv.appendChild(avatar);
@@ -161,7 +176,7 @@ async function handleUserInput() {
     const userMessage = userInput.value.trim();
     if (userMessage) {
         addMessage(userMessage, true);
-        userInput.value = ''; // Clear the input box immediately
+        userInput.value = ''; 
         const botResponse = await getBotResponse(userMessage);
         addMessage(botResponse);
     }
@@ -187,6 +202,34 @@ userInput.addEventListener('keypress', (e) => {
     if (e.key === 'Enter') {
         handleUserInput();
     }
+});
+
+// Voice Input via Microphone and Web Speech API
+
+micButton.addEventListener('click', () => {
+    const recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
+    recognition.lang = 'en-US';
+    recognition.interimResults = false;
+
+    recognition.onstart = function() {
+        console.log('Voice recognition started. Speak into the microphone.');
+    };
+
+    recognition.onresult = function(event) {
+        const transcript = event.results[0][0].transcript;
+        userInput.value = transcript;
+        handleUserInput();
+    };
+
+    recognition.onerror = function(event) {
+        console.error('Speech recognition error detected: ' + event.error);
+    };
+
+    recognition.onend = function() {
+        console.log('Voice recognition ended.');
+    };
+
+    recognition.start();
 });
 </script>
 </body>

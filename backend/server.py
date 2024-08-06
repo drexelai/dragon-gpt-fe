@@ -63,7 +63,7 @@ def generate_response(prompt):
     response = client.chat.completions.create(
     model="gpt-4o",
     messages=[
-        {"role": "system", "content": "You are a helpful assistant that answers my questions about Drexel University using the latest and most up to date information. Please answer only in 1 paragraph."},
+        {"role": "system", "content": "You are a helpful assistant that answers my questions about Drexel University using the latest and most up to date information. Please answer in a couple sentences and using markdown formatting to organize your response in a readable manner."},
         {"role": "user", "content": prompt}
     ])
     #print(response.choices)
@@ -83,4 +83,4 @@ async def query_llm(request: QueryRequest):
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
-# To run the server, use: uvicorn main:app --reload
+# To run the server, use: uvicorn backend.server:app --reload

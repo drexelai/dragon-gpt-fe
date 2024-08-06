@@ -80,7 +80,6 @@ def query_from_index(prompt:str, k=3)-> str:
         result = index.query(
             vector=embedding_model.encode(prompt).tolist(),
             top_k=k,
-            include_values=True,
             include_metadata=True
         )
         matches = result['matches']
