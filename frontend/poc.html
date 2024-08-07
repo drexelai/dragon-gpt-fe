@@ -80,7 +80,7 @@ body {
     margin-right: 10px;
     border-radius: 50%;
     object-fit: cover;
-    flex-shrink: 0; /* Prevents the avatar from growing */
+    flex-shrink: 0;
 }
 #mic-button {
     background-color: #07294d;
@@ -90,7 +90,7 @@ body {
     margin-left: 10px;
     border-radius: 5px;
     cursor: pointer;
-    font-size: 18px; /* Adjust font size for the microphone icon */
+    font-size: 18px;
     display: flex;
     align-items: center;
 }
@@ -131,7 +131,7 @@ async function getBotResponse(userQuestion) {
             headers: {
                 'Content-Type': 'application/json'
             },
-            body: JSON.stringify({ query: userQuestion})
+            body: JSON.stringify({ query: userQuestion })
         });
 
         if (!response.ok) {
@@ -139,7 +139,7 @@ async function getBotResponse(userQuestion) {
         }
 
         const data = await response.json();
-        console.log(data); // Log the response for debugging
+        //console.log(data); // Log the response for debugging
         return data.answer;
     } catch (error) {
         console.error('Error fetching bot response:', error);
@@ -190,7 +190,7 @@ function typeWriterEffect(text, element) {
         if (index < words.length) {
             element.textContent += (index > 0 ? ' ' : '') + words[index];
             index++;
-            setTimeout(addWord, 200);
+            setTimeout(addWord, 100); // Adjust this value to make the typing faster or slower
         }
     }
 
