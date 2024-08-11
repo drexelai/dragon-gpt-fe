@@ -41,7 +41,7 @@ class QueryResponse(BaseModel):
 def generate_response(prompt):
     client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
     response = client.chat.completions.create(
-    model="gpt-4o",
+    model="gpt-4o-mini",
     messages=[
         {"role": "system", "content": "You are a helpful assistant that answers my questions about Drexel University using the latest and most up to date information"},
         {"role": "user", "content": prompt + "\nPlease answer only in a couple sentences and use markdown formatting to organize your response in a readable manner."}
@@ -54,6 +54,8 @@ async def query_llm(request: QueryRequest):
         query = request.query
         if not query:
             raise HTTPException(status_code=400, detail="Query is required")
+        
+        # verify if web needs to be searched with web agent
         RAG = data_manager.query_from_index(query)
         print(RAG)
         print(query)

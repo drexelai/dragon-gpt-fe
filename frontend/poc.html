@@ -190,7 +190,7 @@ function typeWriterEffect(text, element) {
         if (index < words.length) {
             element.textContent += (index > 0 ? ' ' : '') + words[index];
             index++;
-            setTimeout(addWord, 100); // Adjust this value to make the typing faster or slower
+            setTimeout(addWord, 50); // Adjust this value to make the typing faster or slower
         }
     }
 
