@@ -164,4 +164,21 @@ h1 {
 .highlighted-link {
     color: blue;
     text-decoration: underline;
-  }
+}
+
+.scroll-down {
+    position: fixed;
+    bottom: 80px;
+    right: 20px;
+    background-color: #07294d;
+    color: #ffc600;
+    border: none;
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}

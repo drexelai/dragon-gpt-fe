@@ -9,9 +9,10 @@ import data_manager
 load_dotenv("keys.env")
 
 app = Flask(__name__)
+app.config['DEBUG'] = os.environ["DEBUG_FLASK"]
 
 from flask_cors import CORS
-CORS(app, resources={r"/*": {"origins": ["http://localhost:3000"]}})
+CORS(app)
 
 client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
@@ -51,4 +52,4 @@ def query_llm():
         return jsonify({"answer": str(e)}), 500
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=8000, debug=True)
+    app.run()
