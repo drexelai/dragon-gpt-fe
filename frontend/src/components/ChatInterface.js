@@ -1,9 +1,9 @@
 import React, { useState, useEffect, useRef } from 'react';
-import ChatMessages from './ChatMessages';
-import ChatInput from './ChatInput';
+import ChatMessages from './MessageList';
+import ChatInput from './MessageInput';
 import '../styles/ChatContainer.css';
 
-function ChatContainer() {
+function ChatInterface() {
   const [messages, setMessages] = useState([]);
   const [isStreaming, setIsStreaming] = useState(false);
   const inputRef = useRef(null);
@@ -18,7 +18,7 @@ function ChatContainer() {
     setIsStreaming(true);
 
     try {
-      const response = await fetch('http://127.0.0.1:8000/query', {
+      const response = await fetch('http://127.0.0.1:5000/query', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ query: message })
@@ -48,7 +48,7 @@ function ChatContainer() {
         updateMessages(accumulatedChunks);
       }
     } catch (error) {
-      console.error('Error fetching bot response:', error);
+      console.error('Error fetching bot response:', error.message);
       setMessages(prev => {
         const newMessages = [...prev];
         newMessages[newMessages.length - 1].text = "I'm sorry, I couldn't process your request at this moment.";
@@ -70,4 +70,4 @@ function ChatContainer() {
   );
 }
 
-export default ChatContainer;
+export default ChatInterface;

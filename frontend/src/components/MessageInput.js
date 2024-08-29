@@ -28,7 +28,6 @@ function ChatInput({ onSendMessage, inputRef }) {
     recognition.onresult = function(event) {
       const transcript = event.results[0][0].transcript;
       setInputValue(transcript);
-      handleSend();
     };
 
     recognition.onerror = function(event) {
@@ -37,6 +36,7 @@ function ChatInput({ onSendMessage, inputRef }) {
 
     recognition.onend = function() {
       console.log('Voice recognition ended.');
+      document.getElementById('send-button').click(); // Simulate click on send button
     };
 
     recognition.start();

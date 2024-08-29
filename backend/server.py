@@ -3,8 +3,8 @@ from flask import Flask, request, jsonify, Response
 from dotenv import load_dotenv
 from openai import OpenAI
 import sys
-sys.path.append(os.path.join(os.path.dirname(__file__), '../data_collection'))
-import data_manager
+sys.path.append('./')
+from data_collection import data_manager
 
 load_dotenv("keys.env")
 
@@ -27,7 +27,7 @@ def query_llm():
         RAG = data_manager.query_from_index(query)
         
         system_prompt = "You are a helpful assistant that answers questions about Drexel University using the latest and most up to date information"
-        user_prompt = f"{RAG}\n\nGiven the above context, accurately answer the following query. Forget everything you knew before and only use the information found in the context to answer the prompt. If you can't answer the prompt with the information provided, say that you're not sure and provide some helpful links to find the information:\n\n{query}"
+        user_prompt = f"{RAG}\n\nGiven the above context, accurately answer the following query. Forget everything you knew before and only use the information found in the context to answer the prompt. If you can't answer the prompt with the information provided, say that you're not sure and provide some helpful links to find the information. Think step by step, take a deep breath, and do not hallucinate:\n\n{query}"
         output_format = "\nPlease answer only in a couple sentences and render the entire response in markdown."
 
         def generate():
