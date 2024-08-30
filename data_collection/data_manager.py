@@ -8,6 +8,8 @@ import json
 from dotenv import load_dotenv
 from itertools import islice
 import unicodedata
+import requests
+from duckduckgo_search import DDGS
 
 # Load environment variables
 load_dotenv("keys.env")
@@ -194,9 +196,26 @@ def query_from_index(prompt:str, k=5) -> str:
         include_metadata=True
     )
     matches = result['matches']
-    print(matches)
     metadata_list = [match['metadata'] for match in matches]
     return "\n".join(str(metadata) for metadata in metadata_list)
+
+def fetch_url_content(urls):
+    content = ""
+    if type(urls) == str:
+        urls = [urls]
+    for url in urls:
+        if url.startswith("http") and not url.split('.')[-1] in ['html', 'htm', 'php', 'asp', 'aspx'] and not "reddit" in url:
+            try:
+                response = requests.get(url)
+                if response.status_code == 200:
+                    content += f"\n{response.text}"
+            except requests.RequestException as e:
+                print(f"Error fetching {url}: {e}")
+                continue
+    return content
+
+def duckduckgo_search(query):
+    return DDGS().text(query, max_results=3)
 
 if __name__ == "__main__":
     pass

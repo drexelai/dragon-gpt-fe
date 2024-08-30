@@ -16,6 +16,37 @@ CORS(app)
 
 client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
+
+def check_rag_with_openai_api(RAG, query):
+    check_prompt = f"Does the following context answer the query?\n\nContext: {RAG}\n\nQuery: {query}\n\nAnswer with 'yes' or 'no' in lowercase only please."
+    check_response = client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[
+                    {"role": "system", "content": "You are a helpful assistant that answers questions about Drexel University using the latest and most up to date information"},
+                    {"role": "user", "content":check_prompt}
+                ]
+    )
+    return check_response.choices[0].message.content
+
+def parse_urls_from_rag(RAG):
+    return [metadata['URL'] for metadata in RAG.split('\n') if 'URL' in metadata]
+
+# Improve the RAG by adding more information from the web if the initial RAG does not answer the query
+def improve_rag(RAG, query):
+    check_answer = check_rag_with_openai_api(RAG, query)
+
+    if check_answer.lower() != 'yes':
+        urls = parse_urls_from_rag(RAG)
+        RAG += data_manager.fetch_url_content(urls)
+
+        search_results = data_manager.duckduckgo_search(query + "at Drexel University 2024")
+        for result in search_results:
+            moreinfo = data_manager.fetch_url_content(result["href"])
+            RAG += moreinfo + result["href"]
+            print(result["href"])
+            print(moreinfo)
+    return RAG
+
 @app.route("/query", methods=["POST"])
 def query_llm():
     try:
@@ -25,9 +56,10 @@ def query_llm():
             return jsonify({"detail": "Query is required"}), 400
 
         RAG = data_manager.query_from_index(query)
+        RAG = improve_rag(RAG, query)
         
-        system_prompt = "You are a helpful assistant that answers questions about Drexel University using the latest and most up to date information"
-        user_prompt = f"{RAG}\n\nGiven the above context, accurately answer the following query. Forget everything you knew before and only use the information found in the context to answer the prompt. If you can't answer the prompt with the information provided, say that you're not sure and provide some helpful links to find the information. Think step by step, take a deep breath, and do not hallucinate:\n\n{query}"
+        system_prompt = "You are a helpful assistant that answers questions about Drexel University using the latest and most up to date information. Do not hallucinate"
+        user_prompt = f"{RAG}\n\nGiven the above context, accurately answer the following query. Forget everything you knew before and only use the information found in the context to answer the prompt. If you can't answer the prompt with the information provided, say that you're not sure and provide some helpful links to find the information. Think step by step, take a deep breath:\n\n{query}"
         output_format = "\nPlease answer only in a couple sentences and render the entire response in markdown."
 
         def generate():

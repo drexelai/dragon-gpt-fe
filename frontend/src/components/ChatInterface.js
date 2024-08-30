@@ -51,7 +51,7 @@ function ChatInterface() {
       console.error('Error fetching bot response:', error.message);
       setMessages(prev => {
         const newMessages = [...prev];
-        newMessages[newMessages.length - 1].text = "I'm sorry, I couldn't process your request at this moment.";
+        newMessages[newMessages.length - 1].text = "I'm sorry, I couldn't process your request at this moment. Please contact the developers with this error message: " + error.message;
         return newMessages;
       });
     } finally {
