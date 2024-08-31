@@ -47,6 +47,10 @@ def improve_rag(RAG, query):
             print(moreinfo)
     return RAG
 
+@app.route("/")
+def test():
+    return "Server is running"
+
 @app.route("/query", methods=["POST"])
 def query_llm():
     try:

@@ -60,12 +60,16 @@ function ChatInterface() {
   };
 
   return (
-    <div className="chat-container bg-white rounded-lg shadow-lg w-full max-w-2xl h-[80vh] flex flex-col mx-auto">
-      <div className="chat-header">
-        <h1>DragonGPT</h1>
+    <div>
+      <div className="chat-container bg-white rounded-lg shadow-lg w-full max-w-2xl h-[80vh] flex flex-col mx-auto">
+        <div className="chat-header">
+          <h1>DragonGPT</h1>
+        </div>
+        <ChatMessages messages={messages} isStreaming={isStreaming} />
+        <ChatInput onSendMessage={handleSendMessage} inputRef={inputRef} />
       </div>
-      <ChatMessages messages={messages} isStreaming={isStreaming} />
-      <ChatInput onSendMessage={handleSendMessage} inputRef={inputRef} />
+      <br/>
+      <p>DragonGPT is a chatbot that answers any question you have about Drexel in seconds. Please note this product is in alpha testing and may act as unexpectedly as the recent departure of John Fry.</p>
     </div>
   );
 }
