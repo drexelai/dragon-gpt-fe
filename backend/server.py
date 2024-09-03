@@ -5,14 +5,15 @@ from openai import OpenAI
 import sys
 sys.path.append('./')
 from data_collection import data_manager
+import ast
 
-# load_dotenv("keys.env")
+load_dotenv("keys.env")
 
 app = Flask(__name__)
 # app.config['DEBUG'] = os.environ["DEBUG_FLASK"]
 
 from flask_cors import CORS
-CORS(app)
+CORS(app, origins=["http://localhost:3000", "https://drexelai.github.io"])
 
 client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
@@ -29,7 +30,7 @@ def check_rag_with_openai_api(RAG, query):
     return check_response.choices[0].message.content
 
 def parse_urls_from_rag(RAG):
-    return [metadata['URL'] for metadata in RAG.split('\n') if 'URL' in metadata]
+    return [metadata['URL'] for metadata in [ast.literal_eval(d) for d in RAG.split("\n")] if 'URL' in metadata]
 
 # Improve the RAG by adding more information from the web if the initial RAG does not answer the query
 def improve_rag(RAG, query):
@@ -37,14 +38,14 @@ def improve_rag(RAG, query):
 
     if check_answer.lower() != 'yes':
         urls = parse_urls_from_rag(RAG)
-        RAG += data_manager.fetch_url_content(urls)
-
-        search_results = data_manager.duckduckgo_search(query + "at Drexel University 2024")
+        RAG += data_manager.fetch_content_from_urls(urls)
+        search_results = data_manager.duckduckgo_search(query + " at Drexel University 2024")
         for result in search_results:
-            moreinfo = data_manager.fetch_url_content(result["href"])
-            RAG += moreinfo + result["href"]
-            #print(result["href"])
-            #print(moreinfo)
+            moreinfo = data_manager.fetch_content_from_urls(result["href"])
+            if result["href"] not in urls:
+                RAG += moreinfo + result["href"]
+                #print(result["href"])
+                #print(moreinfo)
     return RAG
 
 @app.route("/")
@@ -61,11 +62,9 @@ def query_llm():
 
         RAG = data_manager.query_from_index(query)
         RAG = improve_rag(RAG, query)
-        
         system_prompt = "You are a helpful assistant that answers questions about Drexel University using the latest and most up to date information. Do not hallucinate"
         user_prompt = f"{RAG}\n\nGiven the above context, accurately answer the following query. Forget everything you knew before and only use the information found in the context to answer the prompt. If you can't answer the prompt with the information provided, say that you're not sure and provide some helpful links to find the information. Think step by step, take a deep breath:\n\n{query}"
         output_format = "\nPlease answer only in a couple sentences and render the entire response in markdown."
-
         def generate():
             stream = client.chat.completions.create(
                 model="gpt-4o-mini",
@@ -80,7 +79,7 @@ def query_llm():
                     content = chunk.choices[0].delta.content
                     #print(content)  # Print the content for debugging purposes
                     yield content
-
+        print(f"Response to question {query} has been generated")
         return Response(generate(), content_type="text/plain-text")
     
     except Exception as e:

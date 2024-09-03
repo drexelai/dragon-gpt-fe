@@ -12,7 +12,7 @@ import requests
 from duckduckgo_search import DDGS
 
 # Load environment variables
-# load_dotenv("keys.env") not needed for deployment
+load_dotenv("keys.env") #not needed for deployment
 
 # Initialize Pinecone and embedding model
 pc = Pinecone(api_key=os.environ["PINECONE_API_KEY"])
@@ -199,18 +199,18 @@ def query_from_index(prompt:str, k=5) -> str:
     metadata_list = [match['metadata'] for match in matches]
     return "\n".join(str(metadata) for metadata in metadata_list)
 
-def fetch_url_content(urls):
+def fetch_content_from_urls(urls):
     content = ""
     if type(urls) == str:
         urls = [urls]
     for url in urls:
-        if url.startswith("http") and not any(ext in url.split('.')[-1] for ext in ['asp', 'aspx', 'ashx']) and not "reddit" in url:
+        if url.startswith("http") and not any(file in url.split('.')[-1] for file in ['asp', 'aspx', 'ashx']) and not "reddit" in url:
             try:
                 response = requests.get(url)
                 if response.status_code == 200:
                     content += f"\n{response.text}"
             except requests.RequestException as e:
-                print(f"Error fetching {url}: {e}")
+                #print(f"Error fetching {url}: {e}")
                 continue
     return content
 
