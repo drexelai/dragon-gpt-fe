@@ -22,7 +22,7 @@ function ChatInput({ onSendMessage, inputRef }) {
     recognition.interimResults = false;
 
     recognition.onstart = function() {
-      console.log('Voice recognition started. Speak into the microphone.');
+      //console.log('Voice recognition started. Speak into the microphone.');
     };
 
     recognition.onresult = function(event) {
@@ -31,11 +31,11 @@ function ChatInput({ onSendMessage, inputRef }) {
     };
 
     recognition.onerror = function(event) {
-      console.error('Speech recognition error detected: ' + event.error);
+      //console.error('Speech recognition error detected: ' + event.error);
     };
 
     recognition.onend = function() {
-      console.log('Voice recognition ended.');
+      //console.log('Voice recognition ended.');
       document.getElementById('send-button').click(); // Simulate click on send button
     };
 
@@ -47,7 +47,7 @@ function ChatInput({ onSendMessage, inputRef }) {
       <input
         type="text"
         id="user-input"
-        placeholder="Type your question here..."
+        placeholder="Enter your question here"
         value={inputValue}
         onChange={(e) => setInputValue(e.target.value)}
         onKeyPress={handleKeyPress}

@@ -69,7 +69,9 @@ function ChatInterface() {
         <ChatInput onSendMessage={handleSendMessage} inputRef={inputRef} />
       </div>
       <br/>
-      <p>DragonGPT is a chatbot that answers any question you have about Drexel in seconds. Please note this product is in beta user testing and may act as unexpectedly as the recent departure of John Fry. Any issues you see, please send a screenshot to <a href="mailto:az548@drexel.edu">az548@drexel.edu</a></p>
+      <div style={{ padding: '10px 50px' }}>
+        <p>DragonGPT is a chatbot that answers any question you have about Drexel in seconds. Please note this product is in beta user testing and may act as unexpectedly as the recent departure of John Fry. Any issues you see, please email a screenshot to <a href="mailto:az548@drexel.edu">az548@drexel.edu</a></p>
+      </div>
     </div>
   );
 }
