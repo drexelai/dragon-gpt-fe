@@ -18,7 +18,7 @@ function ChatInterface() {
     setIsStreaming(true);
 
     try {
-      const response = await fetch('http://127.0.0.1:5000/query', {
+      const response = await fetch('https://dragongptbackend-93699225667.us-east1.run.app/query', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ query: message })
