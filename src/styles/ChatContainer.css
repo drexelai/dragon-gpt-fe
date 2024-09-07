@@ -29,6 +29,7 @@ h1 {
     border-top-right-radius: 10px;
     text-align: center;
     font-size: 42px;
+    font-weight: bold;
 }
 
 .chat-messages {
