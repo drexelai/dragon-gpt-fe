@@ -18,7 +18,7 @@ function ChatInterface() {
     setIsStreaming(true);
 
     try {
-      const response = await fetch('https://dragongptbackend-93699225667.us-east1.run.app/query', {
+      const response = await fetch('https://dragongptbackend-c8drhcbng5cqf7aw.eastus2-01.azurewebsites.net/query', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ query: message })
@@ -51,7 +51,7 @@ function ChatInterface() {
       console.error('Error fetching bot response:', error.message);
       setMessages(prev => {
         const newMessages = [...prev];
-        newMessages[newMessages.length - 1].text = "I'm sorry, I couldn't process your request at this moment. Please contact the developers with this error message: " + error.message;
+        newMessages[newMessages.length - 1].text = "I'm sorry, I couldn't process your request at this moment. Please contact the developers with this error message: " + error.message + " for question " + message;
         return newMessages;
       });
     } finally {
@@ -69,7 +69,7 @@ function ChatInterface() {
         <ChatInput onSendMessage={handleSendMessage} inputRef={inputRef} />
       </div>
       <br/>
-      <p>DragonGPT is a chatbot that answers any question you have about Drexel in seconds. Please note this product is in alpha testing and may act as unexpectedly as the recent departure of John Fry.</p>
+      <p>DragonGPT is a chatbot that answers any question you have about Drexel in seconds. Please note this product is in beta user testing and may act as unexpectedly as the recent departure of John Fry. Any issues you see, please send a screenshot to <a href="mailto:az548@drexel.edu">az548@drexel.edu</a></p>
     </div>
   );
 }
