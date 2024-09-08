@@ -1,7 +1,14 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react'; // Added useEffect
 
 function ChatInput({ onSendMessage, inputRef }) {
   const [inputValue, setInputValue] = useState('');
+
+  // New effect to focus the input on component mount
+  useEffect(() => {
+    if (inputRef.current) {
+      inputRef.current.focus();
+    }
+  }, [inputRef]);
 
   const handleSend = () => {
     if (inputValue.trim()) {
