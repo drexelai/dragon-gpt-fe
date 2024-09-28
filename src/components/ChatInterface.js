@@ -18,7 +18,7 @@ function ChatInterface() {
     setIsStreaming(true);
 
     try {
-      const response = await fetch('https://dragongptbackend-c8drhcbng5cqf7aw.eastus2-01.azurewebsites.net/query', {
+      const response = await fetch('http://localhost:8080/query', { //https://dragongptbackend-c8drhcbng5cqf7aw.eastus2-01.azurewebsites.net/query
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ query: message })

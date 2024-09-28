@@ -1,9 +1,11 @@
-import React, { useState, useEffect } from 'react'; // Added useEffect
+import React, { useState, useEffect } from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faMicrophone } from '@fortawesome/free-solid-svg-icons'; // Import the FontAwesome microphone icon
 
 function ChatInput({ onSendMessage, inputRef }) {
   const [inputValue, setInputValue] = useState('');
 
-  // New effect to focus the input on component mount
+  // Effect to focus the input on component mount
   useEffect(() => {
     if (inputRef.current) {
       inputRef.current.focus();
@@ -29,7 +31,7 @@ function ChatInput({ onSendMessage, inputRef }) {
     recognition.interimResults = false;
 
     recognition.onstart = function() {
-      //console.log('Voice recognition started. Speak into the microphone.');
+      // console.log('Voice recognition started. Speak into the microphone.');
     };
 
     recognition.onresult = function(event) {
@@ -38,11 +40,11 @@ function ChatInput({ onSendMessage, inputRef }) {
     };
 
     recognition.onerror = function(event) {
-      //console.error('Speech recognition error detected: ' + event.error);
+      // console.error('Speech recognition error detected: ' + event.error);
     };
 
     recognition.onend = function() {
-      //console.log('Voice recognition ended.');
+      // console.log('Voice recognition ended.');
       document.getElementById('send-button').click(); // Simulate click on send button
     };
 
@@ -62,7 +64,9 @@ function ChatInput({ onSendMessage, inputRef }) {
         autoComplete="off"
       />
       <button id="send-button" onClick={handleSend}>Send</button>
-      <button id="mic-button" onClick={handleMicClick}>🎤</button>
+      <button id="mic-button" onClick={handleMicClick}>
+        <FontAwesomeIcon icon={faMicrophone} className="text-xl text-yellow-500" />
+      </button>
     </div>
   );
 }
