@@ -8,6 +8,9 @@ module.exports = {
         'drexel-blue': '#07294d',
         'drexel-yellow': '#ffc600',
       },
+      animation: {
+        'pulse-fast': 'pulse 0.5s cubic-bezier(0.4, 0, 0.6, 1) infinite', // Faster pulse animation
+      },
     },
   },
   plugins: [

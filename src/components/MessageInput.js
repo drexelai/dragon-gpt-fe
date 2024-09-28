@@ -1,9 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faMicrophone } from '@fortawesome/free-solid-svg-icons'; // Import the FontAwesome microphone icon
+import { faMicrophone } from '@fortawesome/free-solid-svg-icons';
 
 function ChatInput({ onSendMessage, inputRef }) {
   const [inputValue, setInputValue] = useState('');
+  const [isRecording, setIsRecording] = useState(false);
+  const [isSending, setIsSending] = useState(false);
 
   // Effect to focus the input on component mount
   useEffect(() => {
@@ -14,8 +16,10 @@ function ChatInput({ onSendMessage, inputRef }) {
 
   const handleSend = () => {
     if (inputValue.trim()) {
+      setIsSending(true);
       onSendMessage(inputValue);
       setInputValue('');
+      setTimeout(() => setIsSending(false), 500); // Remove sending state after 0.5s
     }
   };
 
@@ -31,7 +35,7 @@ function ChatInput({ onSendMessage, inputRef }) {
     recognition.interimResults = false;
 
     recognition.onstart = function() {
-      // console.log('Voice recognition started. Speak into the microphone.');
+      setIsRecording(true); // Start recording
     };
 
     recognition.onresult = function(event) {
@@ -39,12 +43,12 @@ function ChatInput({ onSendMessage, inputRef }) {
       setInputValue(transcript);
     };
 
-    recognition.onerror = function(event) {
-      // console.error('Speech recognition error detected: ' + event.error);
+    recognition.onerror = function() {
+      setIsRecording(false); // Stop recording in case of error
     };
 
     recognition.onend = function() {
-      // console.log('Voice recognition ended.');
+      setIsRecording(false); // Stop recording
       document.getElementById('send-button').click(); // Simulate click on send button
     };
 
@@ -52,7 +56,7 @@ function ChatInput({ onSendMessage, inputRef }) {
   };
 
   return (
-    <div className="chat-input">
+    <div className="chat-input flex items-center">
       <input
         type="text"
         id="user-input"
@@ -62,10 +66,30 @@ function ChatInput({ onSendMessage, inputRef }) {
         onKeyPress={handleKeyPress}
         ref={inputRef}
         autoComplete="off"
+        className="flex-grow p-2 border border-gray-400 rounded-lg"
       />
-      <button id="send-button" onClick={handleSend}>Send</button>
-      <button id="mic-button" onClick={handleMicClick}>
-        <FontAwesomeIcon icon={faMicrophone} className="text-xl text-yellow-500" />
+      <button
+        onClick={handleSend}
+        className={`ml-2 px-4 py-2 rounded-lg text-lg font-bold transition-colors duration-300 ${
+          isSending
+            ? 'bg-red-500 animate-pulse-fast text-white'
+            : 'bg-[#07294d] text-[#ffc600] hover:bg-[#ffc600] hover:text-[#07294d]'
+        }`}
+      >
+        Send
+      </button>
+      <button
+        onClick={handleMicClick}
+        className={`ml-2 px-4 py-2 rounded-lg transition-colors duration-300 flex items-center justify-center ${
+          isRecording
+            ? 'bg-red-500 animate-pulse-fast text-white'
+            : 'bg-[#07294d] text-[#ffc600] hover:bg-[#ffc600] hover:text-[#07294d]'
+        }`}
+      >
+        <FontAwesomeIcon
+          icon={faMicrophone}
+          className={`text-3xl`}
+        />
       </button>
     </div>
   );

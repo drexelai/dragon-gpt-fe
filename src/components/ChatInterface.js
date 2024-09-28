@@ -63,7 +63,7 @@ function ChatInterface() {
     <div>
       <div className="chat-container bg-white rounded-lg shadow-lg w-full max-w-2xl h-[80vh] flex flex-col mx-auto">
         <div className="chat-header">
-          <h1>DragonGPT</h1>
+          <h1 className="bg-[#07294d] text-[#ffc600] py-5 rounded-t-lg text-center text-5xl font-bold">DragonGPT</h1>
         </div>
         <ChatMessages messages={messages} isStreaming={isStreaming} />
         <ChatInput onSendMessage={handleSendMessage} inputRef={inputRef} />
