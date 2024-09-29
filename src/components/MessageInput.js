@@ -33,27 +33,30 @@ function ChatInput({ onSendMessage, inputRef }) {
     const recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
     recognition.lang = 'en-US';
     recognition.interimResults = false;
-
+  
     recognition.onstart = function() {
       setIsRecording(true); // Start recording
     };
-
+  
     recognition.onresult = function(event) {
       const transcript = event.results[0][0].transcript;
       setInputValue(transcript);
+      // Automatically send the recognized speech
+      onSendMessage(transcript);
+      setInputValue('');
     };
-
+  
     recognition.onerror = function() {
       setIsRecording(false); // Stop recording in case of error
     };
-
+  
     recognition.onend = function() {
       setIsRecording(false); // Stop recording
-      document.getElementById('send-button').click(); // Simulate click on send button
     };
-
+  
     recognition.start();
   };
+  
 
   return (
     <div className="chat-input flex items-center">
