@@ -1,9 +1,13 @@
-import React, { useState, useEffect } from 'react'; // Added useEffect
+import React, { useState, useEffect } from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faMicrophone } from '@fortawesome/free-solid-svg-icons';
 
 function ChatInput({ onSendMessage, inputRef }) {
   const [inputValue, setInputValue] = useState('');
+  const [isRecording, setIsRecording] = useState(false);
+  const [isSending, setIsSending] = useState(false);
 
-  // New effect to focus the input on component mount
+  // Effect to focus the input on component mount
   useEffect(() => {
     if (inputRef.current) {
       inputRef.current.focus();
@@ -12,8 +16,10 @@ function ChatInput({ onSendMessage, inputRef }) {
 
   const handleSend = () => {
     if (inputValue.trim()) {
+      setIsSending(true);
       onSendMessage(inputValue);
       setInputValue('');
+      setTimeout(() => setIsSending(false), 500); // Remove sending state after 0.5s
     }
   };
 
@@ -27,30 +33,33 @@ function ChatInput({ onSendMessage, inputRef }) {
     const recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
     recognition.lang = 'en-US';
     recognition.interimResults = false;
-
+  
     recognition.onstart = function() {
-      //console.log('Voice recognition started. Speak into the microphone.');
+      setIsRecording(true); // Start recording
     };
-
+  
     recognition.onresult = function(event) {
       const transcript = event.results[0][0].transcript;
       setInputValue(transcript);
+      // Automatically send the recognized speech
+      onSendMessage(transcript);
+      setInputValue('');
     };
-
-    recognition.onerror = function(event) {
-      //console.error('Speech recognition error detected: ' + event.error);
+  
+    recognition.onerror = function() {
+      setIsRecording(false); // Stop recording in case of error
     };
-
+  
     recognition.onend = function() {
-      //console.log('Voice recognition ended.');
-      document.getElementById('send-button').click(); // Simulate click on send button
+      setIsRecording(false); // Stop recording
     };
-
+  
     recognition.start();
   };
+  
 
   return (
-    <div className="chat-input">
+    <div className="chat-input flex items-center">
       <input
         type="text"
         id="user-input"
@@ -60,9 +69,31 @@ function ChatInput({ onSendMessage, inputRef }) {
         onKeyPress={handleKeyPress}
         ref={inputRef}
         autoComplete="off"
+        className="flex-grow p-2 border border-gray-400 rounded-lg"
       />
-      <button id="send-button" onClick={handleSend}>Send</button>
-      <button id="mic-button" onClick={handleMicClick}>🎤</button>
+      <button
+        onClick={handleSend}
+        className={`ml-2 px-4 py-2 rounded-lg text-lg font-bold transition-colors duration-300 ${
+          isSending
+            ? 'bg-red-500 animate-pulse-fast text-white'
+            : 'bg-[#07294d] text-[#ffc600] hover:bg-[#ffc600] hover:text-[#07294d]'
+        }`}
+      >
+        Send
+      </button>
+      <button
+        onClick={handleMicClick}
+        className={`ml-2 px-4 py-2 rounded-lg transition-colors duration-300 flex items-center justify-center ${
+          isRecording
+            ? 'bg-red-500 animate-pulse-fast text-white'
+            : 'bg-[#07294d] text-[#ffc600] hover:bg-[#ffc600] hover:text-[#07294d]'
+        }`}
+      >
+        <FontAwesomeIcon
+          icon={faMicrophone}
+          className={`text-3xl`}
+        />
+      </button>
     </div>
   );
 }

@@ -40,7 +40,7 @@ function ChatMessages({ messages, isStreaming }) {
               className="mario-avatar"
             />
           )}  
-          {/* {console.log(message.text)} */}
+          {console.log(message.text)}
           <span dangerouslySetInnerHTML={{ __html: marked.parse(message.text) }} />
           {isStreaming && index === messages.length - 1 && <span className="cursor"></span>}
         </div>
