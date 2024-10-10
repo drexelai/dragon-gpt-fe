@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dragon-gpt/static/css/main.2d9bcb35.css",
-    "main.js": "/dragon-gpt/static/js/main.bb82dd7d.js",
-    "static/js/453.8ab44547.chunk.js": "/dragon-gpt/static/js/453.8ab44547.chunk.js",
-    "index.html": "/dragon-gpt/index.html",
-    "main.2d9bcb35.css.map": "/dragon-gpt/static/css/main.2d9bcb35.css.map",
-    "main.bb82dd7d.js.map": "/dragon-gpt/static/js/main.bb82dd7d.js.map",
-    "453.8ab44547.chunk.js.map": "/dragon-gpt/static/js/453.8ab44547.chunk.js.map"
+    "main.css": "/dragon-gpt-fe/static/css/main.2d9bcb35.css",
+    "main.js": "/dragon-gpt-fe/static/js/main.c8bad77c.js",
+    "static/js/453.8ab44547.chunk.js": "/dragon-gpt-fe/static/js/453.8ab44547.chunk.js",
+    "index.html": "/dragon-gpt-fe/index.html",
+    "main.2d9bcb35.css.map": "/dragon-gpt-fe/static/css/main.2d9bcb35.css.map",
+    "main.c8bad77c.js.map": "/dragon-gpt-fe/static/js/main.c8bad77c.js.map",
+    "453.8ab44547.chunk.js.map": "/dragon-gpt-fe/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d9bcb35.css",
-    "static/js/main.bb82dd7d.js"
+    "static/js/main.c8bad77c.js"
   ]
 }
