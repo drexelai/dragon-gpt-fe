@@ -1,9 +1,7 @@
-import { useEffect, useRef, useState } from "react";
-import { Input } from "./ui/input";
+import { useEffect, useState } from "react";
 import { Button } from "./ui/button";
 import { Mic, Send } from "lucide-react";
-import { Textarea } from "./ui/textarea";
-import { AlertDialog, AlertDialogAction, AlertDialogCancel, AlertDialogContent, AlertDialogDescription, AlertDialogFooter, AlertDialogHeader, AlertDialogTitle, AlertDialogTrigger } from "./ui/alert-dialog";
+import { AlertDialog, AlertDialogCancel, AlertDialogContent, AlertDialogDescription, AlertDialogFooter, AlertDialogHeader, AlertDialogTitle, AlertDialogTrigger } from "./ui/alert-dialog";
 
 export default function ChatInput({
 	onSendMessage,
@@ -58,8 +56,8 @@ export default function ChatInput({
 
 	const handleMicClick = () => {
 		const SpeechRecognition =
-			(window as any).SpeechRecognition ||
-			(window as any).webkitSpeechRecognition;
+			window.SpeechRecognition ??
+			window.webkitSpeechRecognition;
 		const recognition = new SpeechRecognition();
 		recognition.lang = "en-US";
 		recognition.interimResults = false;
@@ -67,8 +65,8 @@ export default function ChatInput({
 		recognition.onstart = () => {
 			setIsRecording(true);
 		};
-		recognition.onresult = async (event: any) => {
-			const results = event.results as SpeechRecognitionResultList;
+		recognition.onresult = async (event: SpeechRecognitionEvent) => {
+			const results = event.results;
 			const transcript = results[0][0].transcript;
 			setInputValue({ text: transcript, voice: true });
 
@@ -80,7 +78,7 @@ export default function ChatInput({
 			// }, 500);
 
 		};
-		recognition.onerror = (event: any) => {
+		recognition.onerror = (event: SpeechRecognitionErrorEvent) => {
 			console.error(event);
 			setAlertOpen(true);
 			setIsRecording(false);

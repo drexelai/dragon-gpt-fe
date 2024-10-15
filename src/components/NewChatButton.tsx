@@ -2,8 +2,7 @@
 
 import { Plus } from "lucide-react";
 import { Button } from "./ui/button";
-import { usePathname, useRouter } from "next/navigation";
-import { useEffect, useState } from "react";
+import { useRouter } from "next/navigation";
 
 export default function NewChatButton({
 	state

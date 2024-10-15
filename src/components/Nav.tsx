@@ -2,28 +2,19 @@
 
 import {
 	ChevronLeft,
-	Ellipsis,
 	Menu,
-	Plus,
-	SquareArrowOutUpRight,
-	Trash2Icon,
 	X,
 } from "lucide-react";
-import { ModeToggle } from "./ModeToggle";
-import { Button, buttonVariants } from "./ui/button";
+import { Button } from "./ui/button";
 import { Separator } from "./ui/separator";
 import RecentConversations from "./RecentConversations";
 import {
 	Sheet,
 	SheetContent,
-	SheetDescription,
-	SheetHeader,
 	SheetTrigger,
 } from "./ui/sheet";
 import NewChatButton from "./NewChatButton";
 import { useEffect, useState } from "react";
-import Link from "next/link";
-import ClearAllChatsButton from "./ClearAllChatsButton";
 import NavComponents from "./NavComponents";
 import * as SheetPrimitive from "@radix-ui/react-dialog"
 
@@ -35,25 +26,18 @@ export default function Nav({
 	activeConversation?: Conversation;
 }) {
 	const [open, setOpen] = useState(true);
-	const [windowWidth, setWindowWidth] = useState(0);
-
-	const handleClearAllChats = () => {
-		window.localStorage.removeItem("conversations");
-		window.location.reload();
-	};
 
 	useEffect(() => {
 		const handleResize = () => {
-			setWindowWidth(window.innerWidth);
 			if (window.innerWidth < 1024) {
-				setOpen(false); // Close the navbar if width is less than 1024px
+				setOpen(false);
 			} else {
-				setOpen(true); // Optionally reopen if width is greater than or equal to 1024px
+				setOpen(true);
 			}
 		};
 
 		window.addEventListener("resize", handleResize);
-		handleResize(); // Call it once to set the initial state
+		handleResize();
 
 		return () => {
 			window.removeEventListener("resize", handleResize);

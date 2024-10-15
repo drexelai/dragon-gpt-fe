@@ -1,9 +1,6 @@
 import Link from "next/link";
 import ClearAllChatsButton from "./ClearAllChatsButton";
-import NewChatButton from "./NewChatButton";
-import RecentConversations from "./RecentConversations";
 import { Button, buttonVariants } from "./ui/button";
-import { Separator } from "./ui/separator";
 import { SquareArrowOutUpRight } from "lucide-react";
 import { ModeToggle } from "./ModeToggle";
 

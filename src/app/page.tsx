@@ -1,17 +1,10 @@
 "use client";
 
 import ChatInterface from "@/components/ChatInterface";
-import { ModeToggle } from "@/components/ModeToggle";
 import Nav from "@/components/Nav";
-import RecentConversations from "@/components/RecentConversations";
-import { Button } from "@/components/ui/button";
-import { Separator } from "@/components/ui/separator";
 import InfoToolTip from "@/components/InfoTooltip";
-import { X } from "lucide-react";
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
-import { Toaster } from "sonner";
-import type { Metadata } from "next";
 
 export default function Home() {
   const [conversations, setConversations] = useState<Conversation[]>([]);

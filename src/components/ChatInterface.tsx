@@ -3,11 +3,10 @@
 import { useEffect, useRef, useState } from "react";
 import ChatMessages from "./ChatMessages";
 import ChatInput from "./ChatInput";
-import { usePathname, useRouter, useSearchParams } from "next/navigation";
+import { usePathname } from "next/navigation";
 import { v4 } from "uuid";
 import { Button } from "./ui/button";
 import { Spinner } from "./ui/spinner";
-import { BlinkingIndicator } from "./BlinkingIndicator";
 
 const samples = {
   questions: [
@@ -165,32 +164,34 @@ export default function ChatInterface({
         "conversations",
         JSON.stringify(updatedConversations)
       );
-    } catch (error: any) {
-      console.error("Error fetching bot response:", error.message);
-      const errorText = `I'm sorry, I couldn't process your request at this moment.\nPlease contact the developers with this error message: ${error.message} for question "${message}" `;
+    } catch (error: unknown) {
+      if (error instanceof Error) {
+        console.error("Error fetching bot response:", error.message);
+        const errorText = `I'm sorry, I couldn't process your request at this moment.\nPlease contact the developers with this error message: ${error.message} for question "${message}" `;
 
-      convo.messages.push({
-        text: errorText,
-        isUser: false,
-        timestamp: Date.now(),
-      });
-      const conversationExists = pastConversations.some(
-        (c) => c.id === convo.id
-      );
-      const updatedConversations = conversationExists
-        ? pastConversations.map((c) => (c.id === convo.id ? convo : c)) // Update existing
-        : [...pastConversations, convo]; // Append new conversation if it doesn't exist
+        convo.messages.push({
+          text: errorText,
+          isUser: false,
+          timestamp: Date.now(),
+        });
+        const conversationExists = pastConversations.some(
+          (c) => c.id === convo.id
+        );
+        const updatedConversations = conversationExists
+          ? pastConversations.map((c) => (c.id === convo.id ? convo : c)) // Update existing
+          : [...pastConversations, convo]; // Append new conversation if it doesn't exist
 
-      window.localStorage.setItem(
-        "conversations",
-        JSON.stringify(updatedConversations)
-      );
+        window.localStorage.setItem(
+          "conversations",
+          JSON.stringify(updatedConversations)
+        );
 
-      setMessages((prev) => {
-        const newMessages = [...prev!];
-        newMessages[newMessages.length - 1].text = errorText;
-        return newMessages;
-      });
+        setMessages((prev) => {
+          const newMessages = [...prev!];
+          newMessages[newMessages.length - 1].text = errorText;
+          return newMessages;
+        });
+      }
     } finally {
       setIsStreaming(false);
     }
@@ -262,15 +263,13 @@ export default function ChatInterface({
             </h1>
             <div className="flex flex-row items-start gap-10">
               <div className="flex flex-col items-center">
-                <div className="flex flex-row flex-wrap gap-4 mb-2 justify-center">
+                <div className="flex flex-row flex-wrap gap-4 mb-2">
                   {samples.know.map((message, index) => (
                     // Put the message in the input field when clicked
                     <Button
                       key={index}
                       variant="ghost"
-                      onClick={() =>
-                        handleSendMessage("Tell me about the " + message)
-                      }
+                      onClick={() => handleSendMessage(message)}
                       className="p-1 px-2 max-w-80 h-fit  text-base font-light rounded-full bg-gray-100 dark:bg-gray-100/40 hover:bg-gray-200 dark:hover:bg-gray-300/40 text-left"
                     >
                       {message}
