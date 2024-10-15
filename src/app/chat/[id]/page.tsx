@@ -1,14 +1,10 @@
 "use client";
 
-import { notFound, useRouter } from "next/navigation";
-import RecentConversations from "@/components/RecentConversations";
+import { useRouter } from "next/navigation";
 import Nav from "@/components/Nav";
 import InfoToolTip from "@/components/InfoTooltip";
-import { Info } from "lucide-react";
 import ChatInterface from "@/components/ChatInterface";
-import { Suspense, useEffect, useState } from "react";
-import { Toaster, toast } from "sonner";
-import { Spinner } from "@/components/ui/spinner";
+import { useEffect, useState } from "react";
 
 // export async function generateMetadata({ params }: { params: { id: string }}) {
 // 	const conversations = await fetchConversations();
@@ -41,7 +37,7 @@ export default function ChatPage({ params }: { params: { id: string } }) {
     };
 
     if (typeof window !== "undefined") {
-      let convos = fetchConversations();
+      const convos = fetchConversations();
       setConversations(convos);
 
       const activeConversation = convos.find((convo) => convo.id === params.id);

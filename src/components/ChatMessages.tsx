@@ -39,7 +39,7 @@ export default function ChatMessages({
     // Using setTimeout to wait for DOM update
     setTimeout(() => {
       const links = chatMessages.getElementsByTagName("a");
-      for (let link of Array.from(links)) {
+      for (const link of Array.from(links)) {
         link.setAttribute("target", "_blank");
       }
     }, 500);

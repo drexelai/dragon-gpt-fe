@@ -1,9 +1,8 @@
 'use client';
 
-import { usePathname, useRouter } from "next/navigation";
+import { useRouter } from "next/navigation";
 import { Button } from "./ui/button";
 import { MessageSquareText } from "lucide-react";
-import { useEffect, useState } from "react";
 
 const RecentConversations = ({
 	conversations,
@@ -14,7 +13,6 @@ const RecentConversations = ({
 	activeConversation?: Conversation,
 	small?: boolean,
 }) => {
-	const [recentConversations, setRecentConversations] = useState(conversations); // Local state for conversations
 	const router = useRouter();
 
 	const setActiveConversation = (convo: Conversation) => {
