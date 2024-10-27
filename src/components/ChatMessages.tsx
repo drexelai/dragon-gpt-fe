@@ -124,7 +124,7 @@ export default function ChatMessages({
               </span>
             ) : (
               <span
-                className="max-w-lg overflow-hiddend text-wrap whitespace-pre-wrap break-words tracking-tight"
+				className={`max-w-lg overflow-hidden text-wrap whitespace-pre-wrap break-words tracking-tight ${isStreaming && message.text.length === 0 && "after:content-[''] after:w-0.5 after:h-5 after:bg-black dark:after:bg-white after:animate-blink after:ml-1 after:inline-block"}`}
                 style={{ wordBreak: "break-word" }}
                 id="bot-response"
                 // className="leading-8"
@@ -132,10 +132,6 @@ export default function ChatMessages({
                   __html: DOMPurify.sanitize(marked(message.text) as string),
                 }}
               />
-            )}
-            {/* Only show the loading animation if the message is being streamed */}
-            {isStreaming && index === messages.length - 1 && (
-              <span className="animate-pulse">...</span>
             )}
           </div>
         </div>
