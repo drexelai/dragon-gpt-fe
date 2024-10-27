@@ -87,15 +87,18 @@ body {
 
 /* Scrollbar styles */
 ::-webkit-scrollbar {
-	width: 8px;
+	height: 6px;
+	width: 6px;
 	transition-property: all;
 	transition-duration: 150ms;
-	/* Set the width of the scrollbar */
+}
+
+::-webkit-scrollbar-corner {
+	background-color: transparent;
 }
 
 ::-webkit-scrollbar-track {
 	background: #f1f1f100;
-	/* Set the background color of the track */
 }
 
 ::-webkit-scrollbar-thumb {
@@ -136,6 +139,11 @@ a {
 }
 
 .blue-gray-gradient {
-	background: linear-gradient(90deg, #44545F 23%, #86929A 48%, #3D5264 66%);
-	background-clip: text;
+	background: linear-gradient(107.48deg, #44545F 2.67%, #86929A 40.92%, #3D5264 68.08%);
+    background-clip: text;
+    color: transparent;
 }
+
+.bg-gradient-radial {
+	background: radial-gradient(circle, rgba(255, 255, 255, 0.1) 0%, rgba(0, 0, 0, 0) 70%);
+  }

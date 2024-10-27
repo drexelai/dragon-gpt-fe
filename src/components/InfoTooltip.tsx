@@ -1,25 +1,23 @@
-import {
-  Tooltip,
-  TooltipContent,
-  TooltipProvider,
-  TooltipTrigger,
-} from "@/components/ui/tooltip";
-import { Info } from "lucide-react"; // Assuming Info icon is coming from lucide-react or any icon package you're using.
+import { TooltipProvider } from "@/components/ui/tooltip";
+import { Info } from "lucide-react";
+import { HybridTooltip, HybridTooltipContent, HybridTooltipTrigger, TouchProvider } from "./ui/TouchProvider";
 
 const CustomTooltip = () => {
-  return (
-    <TooltipProvider delayDuration={250}>
-      <Tooltip>
-        <TooltipTrigger>
-          <Info />
-        </TooltipTrigger>
-        <TooltipContent className="max-w-80" side="bottom">
-          Ask DragonGPT any of your Drexel related questions and get a response
-          in seconds
-        </TooltipContent>
-      </Tooltip>
-    </TooltipProvider>
-  );
+	return (
+		<TouchProvider>
+			<TooltipProvider delayDuration={250}>
+				<HybridTooltip>
+					<HybridTooltipTrigger>
+						<Info />
+					</HybridTooltipTrigger>
+					<HybridTooltipContent className="max-w-80 bg-black/70 border-none backdrop-filter backdrop-blur-sm text-white dark:bg-white dark:text-black" side="bottom">
+						Ask DragonGPT any of your Drexel related questions and get a response
+						in seconds
+					</HybridTooltipContent>
+				</HybridTooltip>
+			</TooltipProvider>
+		</TouchProvider>
+	);
 };
 
 export default CustomTooltip;

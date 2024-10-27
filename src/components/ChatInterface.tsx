@@ -25,10 +25,8 @@ const samples = {
     "Limited knowledge, Drexel community based.",
   ],
   know: [
-    "Clubs I can join",
-    "Dining Plans",
-    "Academic Tutoring Resources",
-    "Ways to book a study room",
+    ["Clubs I can join", "Dining Plans", "Courses"],
+    ["Tutor help?", "Book a study room", "Campus Map"],
   ],
 };
 
@@ -64,6 +62,7 @@ export default function ChatInterface({
   }, [activeConversation]);
 
   const handleSendMessage = async (message: string) => {
+    setIsStreaming(true);
     let convo = activeConvo;
     const pastConversations = JSON.parse(
       window.localStorage.getItem("conversations") || "[]"
@@ -165,6 +164,8 @@ export default function ChatInterface({
         JSON.stringify(updatedConversations)
       );
     } catch (error: unknown) {
+      await new Promise((resolve) => setTimeout(resolve, 1000));
+
       if (error instanceof Error) {
         console.error("Error fetching bot response:", error.message);
         const errorText = `I'm sorry, I couldn't process your request at this moment.\nPlease contact the developers with this error message: ${error.message} for question "${message}" `;
@@ -200,12 +201,13 @@ export default function ChatInterface({
   return (
     <div className="flex flex-col h-[calc(100vh-10rem)] w-full items-center">
       {messages && messages.length > 0 && (
-        <div className="xl:px-32 flex-grow overflow-auto w-full">
+        <div className="xl:px-20 flex-grow overflow-auto w-full">
           <ChatMessages messages={messages} isStreaming={isStreaming} />
         </div>
       )}
       {messages && messages.length === 0 && (
         <>
+          <div className="hidden dark:block absolute -z-10 top-72 m-auto w-72 h-72 lg:w-96 lg:h-96 bg-gradient-radial from-white/20 to-transparent rounded-full blur-2xl"></div>
           <div className="hidden md:flex flex-col items-center justify-center h-full w-full">
             <h1 className="text-3xl font-bold mb-10">Ask DragonGPT</h1>
             <div className="flex flex-row items-start gap-10">
@@ -228,7 +230,7 @@ export default function ChatInterface({
                 </div>
               </div>
               <div className="hidden lg:flex flex-col items-center">
-                <h2 className="text-lg font-bold mb-4">
+                <h2 className="text-lg font-bold mb-4 text-center">
                   What can DragonGPT do?
                 </h2>
                 <div className="flex flex-col gap-4">
@@ -257,26 +259,25 @@ export default function ChatInterface({
               </div>
             </div>
           </div>
-          <div className="md:hidden flex flex-col items-center justify-center h-full w-full">
-            <h1 className="text-4xl font-bold mb-10 text-center w-56 flex-1 mt-60">
-              What would you like to know more about?
-            </h1>
-            <div className="flex flex-row items-start gap-10">
-              <div className="flex flex-col items-center">
-                <div className="flex flex-row flex-wrap gap-4 mb-2">
-                  {samples.know.map((message, index) => (
-                    // Put the message in the input field when clicked
+          <h1 className="md:hidden text-4xl font-bold mb-10 text-center w-56 flex-1 mt-60 blue-gray-gradient">
+            What would you like to know more about?
+          </h1>
+          <div className="overflow-auto md:overflow-hidden md:hidden flex justify-end flex-col h-full w-full">
+            <div className="flex flex-col overflow-auto mb-2">
+              {samples.know.map((arr, index) => (
+                <div key={index} className="flex flex-row">
+                  {arr.map((message, i) => (
                     <Button
-                      key={index}
+                      key={i}
                       variant="ghost"
                       onClick={() => handleSendMessage(message)}
-                      className="p-1 px-2 max-w-80 h-fit  text-base font-light rounded-full bg-gray-100 dark:bg-gray-100/40 hover:bg-gray-200 dark:hover:bg-gray-300/40 text-left"
+                      className="p-1 px-2 m-2 max-w-80 h-fit  text-base font-light rounded-full bg-gray-100 dark:bg-gray-100/40 hover:bg-gray-200 dark:hover:bg-gray-300/40 text-left"
                     >
                       {message}
                     </Button>
                   ))}
                 </div>
-              </div>
+              ))}
             </div>
           </div>
         </>
@@ -286,7 +287,11 @@ export default function ChatInterface({
           <Spinner className="" />
         </div>
       )}
-      <ChatInput onSendMessage={handleSendMessage} messageRef={messageRef} />
+      <ChatInput
+        onSendMessage={handleSendMessage}
+        isStreaming={isStreaming}
+        messageRef={messageRef}
+      />
     </div>
   );
 }

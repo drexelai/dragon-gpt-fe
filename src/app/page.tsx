@@ -43,10 +43,10 @@ export default function Home() {
         conversations={conversations}
         activeConversation={activeConversation}
       />
-      <div className="p-4 xl:px-24 lg:px-18 md:px-14 sm:px-3 w-full">
+      <div className="py-4 xl:px-24 lg:px-18 md:px-14 sm:px-3 w-full">
         <div className="flex flex-col gap-8">
           <div className="flex flex-row pb-4 md:relative md:left-[-50px] md:top-[20px] justify-center md:justify-normal">
-            <h1 className="text-4xl px-4 mb-2 font-bold">DragonGPT</h1>
+            <h1 className="text-4xl px-4 font-bold">DragonGPT</h1>
             <InfoToolTip />
           </div>
           <ChatInterface />
