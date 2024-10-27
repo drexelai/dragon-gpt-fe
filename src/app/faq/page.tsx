@@ -1,8 +1,8 @@
 "use client";
 
 import { useRouter } from "next/navigation";
-import Image from "next/image";
-import DragonGPTLogo from "../../public/dragongptblue.png";
+// import Image from "next/image";
+// import DragonGPTLogo from "../../public/dragongptblue.png";
 
 export default function FAQ() {
   const router = useRouter();
@@ -10,20 +10,20 @@ export default function FAQ() {
   return (
     <div className="p-4 xl:px-24 lg:px-18 md:px-14 sm:px-3 w-full flex justify-center">
       <div className="flex flex-col items-center text-center">
-        <Image
+        {/* <Image
           src={DragonGPTLogo} // image in /public/dragon.png
           alt="DragonGPT Logo"
           width={200}
           height={200}
-        />{" "}
+        />{" "} */}
         <br></br>
-        <h1 className="text-4xl px-4 font-bold mb-4">About DragonGPT</h1>
+        <h1 className="text-4xl px-4 font-bold mb-4">About SAGE</h1>
         <p className="text-lg max-w-2xl">
-          DragonGPT is your personal AI-powered academic guide for all things
-          Drexel. Using advanced retrieval-augmented generation, it delivers
-          accurate, fast answers to any question about university data. Whether
+          SAGE is your personal AI-powered academic guide for all things Drexel.
+          Using advanced retrieval-augmented generation, it delivers accurate,
+          fast answers to any question about university data. Whether
           you&apos;re looking for course information, academic deadlines, or
-          recommendations for next term&apos;s classes, DragonGPT provides
+          recommendations for next term&apos;s classes, SAGE provides
           personalized, real-time support—just like a well-informed academic
           advisor, but available 24/7.
         </p>
@@ -40,7 +40,7 @@ export default function FAQ() {
           className="px-4 py-2 bg-blue-700 text-white rounded hover:bg-blue-700"
           onClick={() => router.push("/")}
         >
-          Go back to DragonGPT
+          Go back to SAGE
         </button>
       </div>
     </div>

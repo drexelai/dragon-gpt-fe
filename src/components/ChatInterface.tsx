@@ -209,7 +209,7 @@ export default function ChatInterface({
         <>
           <div className="hidden dark:block absolute -z-10 top-72 m-auto w-72 h-72 lg:w-96 lg:h-96 bg-gradient-radial from-white/20 to-transparent rounded-full blur-2xl"></div>
           <div className="hidden md:flex flex-col items-center justify-center h-full w-full">
-            <h1 className="text-3xl font-bold mb-10">Ask DragonGPT</h1>
+            <h1 className="text-3xl font-bold mb-10">Ask SAGE</h1>
             <div className="flex flex-row items-start gap-10">
               <div className="flex flex-col items-center">
                 <h2 className="hidden lg:block text-lg font-bold mb-4">
@@ -231,7 +231,7 @@ export default function ChatInterface({
               </div>
               <div className="hidden lg:flex flex-col items-center">
                 <h2 className="text-lg font-bold mb-4 text-center">
-                  What can DragonGPT do?
+                  What can SAGE do?
                 </h2>
                 <div className="flex flex-col gap-4">
                   {samples.capabilities.map((str, index) => (
