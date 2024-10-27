@@ -22,8 +22,8 @@ export default function FAQ() {
           DragonGPT is your personal AI-powered academic guide for all things
           Drexel. Using advanced retrieval-augmented generation, it delivers
           accurate, fast answers to any question about university data. Whether
-          you&apos;re looking for course information, academic deadlines, or
-          recommendations for next term&apos;s classes, DragonGPT provides
+          you're looking for course information, academic deadlines, or
+          recommendations for next term's classes, DragonGPT provides
           personalized, real-time support—just like a well-informed academic
           advisor, but available 24/7.
         </p>

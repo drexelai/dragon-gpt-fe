@@ -46,7 +46,7 @@ export default function ChatPage({ params }: { params: { id: string } }) {
         router.push("/"); // if the conversation is not found, redirect to the home page
       }
     }
-  });
+  }, []);
 
   return (
     <div className="m-4 flex">

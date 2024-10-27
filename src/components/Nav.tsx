@@ -48,7 +48,7 @@ export default function Nav({
 
 	return (
 		<nav
-			className={`fixed md:relative md:bg-almostWhite dark:bg-background-70 m-4 md:border-2 dark:border-solid transition-all ease-in-out duration-300 h-fit md:h-[calc(100vh-4rem)] md:shadow-spread dark:shadow-sm rounded-2xl backdrop-blur border-border/40 items-center ${open ? "lg:w-80 md:w-96 md:overflow-hidden" : "w-32"
+			className={`fixed md:relative md:bg-almostWhite dark:bg-background-70 m-4 md:border-2 dark:border-solid transition-all ease-in-out duration-300 h-fit md:h-[calc(100vh-4rem)] md:shadow-spread dark:shadow-sm rounded-2xl backdrop-blur border-border/40 items-center ${open ? "lg:w-[22rem] md:w-96 md:overflow-hidden" : "w-32"
 				}`}
 		>
 			{open ? (
