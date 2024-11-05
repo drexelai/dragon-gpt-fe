@@ -7,6 +7,7 @@ import { usePathname } from "next/navigation";
 import { v4 } from "uuid";
 import { Button } from "./ui/button";
 import { Spinner } from "./ui/spinner";
+import appInsights from "../app/appInsights";
 
 const samples = {
   questions: [
@@ -149,6 +150,18 @@ export default function ChatInterface({
 
         updateMessages(accumulatedChunks);
       }
+
+      // Track daily active user event once the response is fully received
+    appInsights.trackEvent({ name: "Daily Active User" });
+
+    // Track each question asked
+    appInsights.trackEvent({
+      name: "Question Asked",
+      properties: {
+        question: message,
+        conversationId: convo.id,
+      },
+      });
 
       convo.messages.push({
         text: accumulatedChunks,

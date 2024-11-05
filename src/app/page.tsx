@@ -5,6 +5,7 @@ import Nav from "@/components/Nav";
 import InfoToolTip from "@/components/InfoTooltip";
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
+import appInsights from "./appInsights";
 
 export default function Home() {
   const [conversations, setConversations] = useState<Conversation[]>([]);
@@ -12,6 +13,10 @@ export default function Home() {
     Conversation | undefined
   >();
   const pathname = usePathname();
+
+  useEffect(() => {
+    appInsights.trackPageView(); // Track page view on load
+  }, []);
 
   useEffect(() => {
     const fetchConversations = () => {
