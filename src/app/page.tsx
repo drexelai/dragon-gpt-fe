@@ -5,6 +5,7 @@ import Nav from "@/components/Nav";
 import InfoToolTip from "@/components/InfoTooltip";
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
+import appInsights from "./appInsights";
 
 export default function Home() {
   const [conversations, setConversations] = useState<Conversation[]>([]);
@@ -12,6 +13,10 @@ export default function Home() {
     Conversation | undefined
   >();
   const pathname = usePathname();
+
+  useEffect(() => {
+    appInsights.trackPageView(); // Track page view on load
+  }, []);
 
   useEffect(() => {
     const fetchConversations = () => {
@@ -46,7 +51,7 @@ export default function Home() {
       <div className="py-4 xl:px-24 lg:px-18 md:px-14 sm:px-3 w-full">
         <div className="flex flex-col gap-8">
           <div className="flex flex-row pb-4 md:relative md:left-[-50px] md:top-[20px] justify-center md:justify-normal">
-            <h1 className="text-4xl px-4 font-bold">DragonGPT</h1>
+            <h1 className="text-4xl px-4 font-bold">SAGE</h1>
             <InfoToolTip />
           </div>
           <ChatInterface />
