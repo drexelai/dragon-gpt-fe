@@ -113,7 +113,10 @@ export default function ChatInterface({
         body: JSON.stringify({
           priorConversation: activeConversation?.messages.map(
             (messageObject) => {
-              return { text: messageObject.text, isUser: messageObject.isUser };
+              return {
+                text: messageObject.text,
+                isUser: messageObject.isUser,
+              };
             }
           ),
           query: message,

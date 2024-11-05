@@ -57,7 +57,7 @@ const RecentConversations = ({
 		const conversations = JSON.parse(window.localStorage.getItem('conversations') || '[]') as Conversation[];
 		const newConversations = conversations.filter(c => c.id !== convo.id);
 		window.localStorage.setItem('conversations', JSON.stringify(newConversations));
-		window.location.reload();
+		router.push('/');
 	}
 
 	return (
@@ -78,7 +78,7 @@ const RecentConversations = ({
 									onClick={() => setActiveConversation(convo)}
 									variant={"ghost"}
 								>
-									<MessageSquareText className={`${!small && 'mr-2'} w-4`} />
+									<MessageSquareText className={`${!small && 'mx-2'} w-4`} />
 									{!small && (
 										<span className="lg:max-w-44 md:max-w-32 max-w-52 w-28 truncate">{convo.title}</span>
 									)}
