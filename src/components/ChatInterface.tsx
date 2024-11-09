@@ -26,8 +26,8 @@ const samples = {
     "Limited knowledge, Drexel community based.",
   ],
   know: [
-    ["Active clubs", "Dining Plans", "Popular Majors"],
-    ["Academic Advising", "Class Registration"],
+    ["Active Clubs", "Dining Plans", "Popular Majors", "Basketball Team"],
+    ["Academic Advising", "Class Registration", "Work Study Opportunities"],
   ],
 };
 
@@ -58,7 +58,6 @@ export default function ChatInterface({
   }, [pathname]);
 
   useEffect(() => {
-    console.log("something");
     setMessages(activeConversation?.messages || []);
     setActiveConvo(activeConversation);
   }, [activeConversation, setActiveConvo]);

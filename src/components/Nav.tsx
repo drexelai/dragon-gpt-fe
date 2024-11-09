@@ -91,7 +91,7 @@ export default function Nav({
 						>
 							<Menu />
 						</Button>
-						<Sheet>
+						<Sheet onOpenChange={() => setTimeout(() => document.body.style.pointerEvents = "", 500)}>
 							<SheetTrigger className="lg:hidden" asChild>
 								<Button variant="ghost">
 									<Menu />
@@ -143,7 +143,7 @@ export default function Nav({
 				</div>
 			)}
 			<div className="md:hidden">
-				<Sheet>
+				<Sheet onOpenChange={() => setTimeout(() => document.body.style.pointerEvents = "", 500)}>
 					<SheetTrigger className="fixed mt-1" asChild>
 						<Button variant="ghost">
 							<Menu />

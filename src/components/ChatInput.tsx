@@ -93,7 +93,7 @@ export default function ChatInput({
       setIsRecording(false);
     };
     recognition.onend = () => {
-      console.log("recognition end");
+      //console.log("recognition end");
       messageRef?.current?.focus(); // Focus the div
       document.execCommand("SelectAll", false, undefined);
       document.getSelection()?.collapseToEnd();
