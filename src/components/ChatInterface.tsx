@@ -26,8 +26,8 @@ const samples = {
     "Limited knowledge, Drexel community based.",
   ],
   know: [
-    ["Clubs I can join", "Dining Plans", "Courses"],
-    ["Tutor help?", "Book a study room", "Campus Map"],
+    ["Active clubs", "Dining Plans", "Popular Majors"],
+    ["Academic Advising", "Class Registration"],
   ],
 };
 
@@ -58,19 +58,21 @@ export default function ChatInterface({
   }, [pathname]);
 
   useEffect(() => {
+    console.log("something");
     setMessages(activeConversation?.messages || []);
     setActiveConvo(activeConversation);
-  }, [activeConversation]);
+  }, [activeConversation, setActiveConvo]);
 
   const handleSendMessage = async (message: string) => {
+    let firstMessage = false;
     setIsStreaming(true);
     let convo = activeConvo;
     const pastConversations = JSON.parse(
       window.localStorage.getItem("conversations") || "[]"
     ) as Conversation[];
-    console.log({ pastConversations });
 
     if (!convo) {
+      firstMessage = true;
       const uuid = v4();
       convo = {
         id: uuid,
@@ -151,7 +153,7 @@ export default function ChatInterface({
         updateMessages(accumulatedChunks);
       }
 
-      // Track daily active user event once the response is fully received
+    // Track daily active user event once the response is fully received
     appInsights.trackEvent({ name: "Daily Active User" });
 
     // Track each question asked
@@ -163,6 +165,7 @@ export default function ChatInterface({
       },
       });
 
+      //Update conversation
       convo.messages.push({
         text: accumulatedChunks,
         isUser: false,
@@ -179,6 +182,28 @@ export default function ChatInterface({
         "conversations",
         JSON.stringify(updatedConversations)
       );
+
+      if (firstMessage){
+        fetch(process.env.NEXT_PUBLIC_API_URL + "/summarize-convo", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+              message
+          }),
+        }).then(async data => {
+          const newName = (await data.json()).messageSummary;
+          convo.title = newName;
+          window.localStorage.setItem(
+            "conversations",
+            JSON.stringify(updatedConversations)
+          );
+          setActiveConvo(convo);
+        }).catch(err => {
+          console.error(err);
+        });
+      }
     } catch (error: unknown) {
       await new Promise((resolve) => setTimeout(resolve, 1000));
 
@@ -275,18 +300,18 @@ export default function ChatInterface({
               </div>
             </div>
           </div>
-          <h1 className="md:hidden text-4xl font-bold mb-10 text-center w-56 flex-1 mt-60 blue-gray-gradient">
+          <h1 className="md:hidden text-4xl font-bold mb-10 text-center w-56 flex-1 mt-60">
             What would you like to know more about?
           </h1>
           <div className="overflow-auto md:overflow-hidden md:hidden flex justify-end flex-col h-full w-full">
-            <div className="flex flex-col overflow-auto mb-2">
+            <div className="flex flex-col overflow-auto mb-8">
               {samples.know.map((arr, index) => (
                 <div key={index} className="flex flex-row">
                   {arr.map((message, i) => (
                     <Button
                       key={i}
                       variant="ghost"
-                      onClick={() => handleSendMessage(message)}
+                      onClick={() => handleSendMessage("Tell me about " + message)}
                       className="p-1 px-2 m-2 max-w-80 h-fit  text-base font-light rounded-full bg-gray-100 dark:bg-gray-100/40 hover:bg-gray-200 dark:hover:bg-gray-300/40 text-left"
                     >
                       {message}

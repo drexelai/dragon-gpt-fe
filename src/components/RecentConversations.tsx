@@ -95,7 +95,7 @@ const RecentConversations = ({
 						</ContextMenu>
 
 						{!small && (
-							<DropdownMenu>
+							<DropdownMenu modal={false}>
 								<DropdownMenuTrigger asChild>
 									<Button variant="ghost" className="p-0 px-2 flex items-center">
 										<EllipsisVertical className="opacity-70" />
