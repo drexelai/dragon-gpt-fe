@@ -38,7 +38,8 @@
     "tailwindcss-animate": "^1.0.7",
     "tailwindcss-theme-variants": "^2.0.0-beta.0",
     "uuid": "^10.0.0",
-    "zod": "^3.23.8"
+    "zod": "^3.23.8",
+    "zustand": "^5.0.1"
   },
   "devDependencies": {
     "@types/dom-speech-recognition": "^0.0.4",

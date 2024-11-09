@@ -7,49 +7,49 @@ import { Toaster } from "sonner";
 import { TouchProvider } from "@/components/ui/TouchProvider";
 
 const plusJakartaSans = Plus_Jakarta_Sans({
-  subsets: ["latin"],
-  weight: ["400", "500", "700"],
+	subsets: ["latin"],
+	weight: ["400", "500", "700"],
 });
 
 const geistSans = localFont({
-  src: "./fonts/GeistVF.woff",
-  variable: "--font-geist-sans",
-  weight: "100 900",
+	src: "./fonts/GeistVF.woff",
+	variable: "--font-geist-sans",
+	weight: "100 900",
 });
 const geistMono = localFont({
-  src: "./fonts/GeistMonoVF.woff",
-  variable: "--font-geist-mono",
-  weight: "100 900",
+	src: "./fonts/GeistMonoVF.woff",
+	variable: "--font-geist-mono",
+	weight: "100 900",
 });
 
 export const metadata: Metadata = {
-  title: "SAGE",
-  description: "Answer any Drexel question in seconds",
-  icons: {
-    icon: "favicon.ico",
-  },
+	title: "SAGE",
+	description: "Answer any Drexel question in seconds",
+	icons: {
+		icon: "favicon.ico",
+	},
 };
 
 export default function RootLayout({
-  children,
+	children,
 }: Readonly<{
-  children: React.ReactNode;
+	children: React.ReactNode;
 }>) {
-  return (
-    <html lang="en">
-      <body
-        className={`${plusJakartaSans.className} ${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
-        <ThemeProvider
-          attribute="class"
-          defaultTheme="system"
-          enableSystem
-          disableTransitionOnChange
-        >
-          <TouchProvider>{children}</TouchProvider>
-        </ThemeProvider>
-        <Toaster />
-      </body>
-    </html>
-  );
+	return (
+		<html lang="en">
+			<body
+				className={`${plusJakartaSans.className} ${geistSans.variable} ${geistMono.variable} antialiased`}
+			>
+				<ThemeProvider
+					attribute="class"
+					defaultTheme="system"
+					enableSystem
+					disableTransitionOnChange
+				>
+					<TouchProvider>{children}</TouchProvider>
+				</ThemeProvider>
+				<Toaster />
+			</body>
+		</html>
+	);
 }
