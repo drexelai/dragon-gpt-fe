@@ -1,6 +1,6 @@
 "use client";
 
-import { act, useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import ChatMessages from "./ChatMessages";
 import ChatInput from "./ChatInput";
 import { usePathname } from "next/navigation";
@@ -10,7 +10,6 @@ import { Spinner } from "./ui/spinner";
 import appInsights from "../app/appInsights";
 import { useConversationStore } from "@/stores/useConversationStore";
 import { samples } from "@/lib/utils";
-import { time } from "console";
 
 export default function ChatInterface() {
 	const {
@@ -46,7 +45,6 @@ export default function ChatInterface() {
 	}, [activeConversation, setActiveConversation]);
 
 	const handleSendMessage = async (message: string) => {
-		const messagesNow = [];
 		let firstMessage = false;
 		setIsStreaming(true);
 		const pastConversations = [...conversations]; // duplicate the array to avoid state mutation

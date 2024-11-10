@@ -20,9 +20,10 @@ const RecentConversations = ({
 				</h2>
 			)}
 			<div className={`${small ? 'items-center' : 'items-start'} flex flex-col items-start max-h-96`}>
-				{conversations.map((convo, index) => (
+				{[...conversations].reverse().map((convo, index) => (
 					<RecentConversationItem conversation={convo} index={index} small={small} key={index} />
 				))}
+
 			</div>
 		</div>
 	);
