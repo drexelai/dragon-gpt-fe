@@ -4,14 +4,16 @@ import ChatInterface from "@/components/ChatInterface";
 import Nav from "@/components/Nav";
 import InfoToolTip from "@/components/InfoTooltip";
 import { usePathname } from "next/navigation";
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 import appInsights from "./appInsights";
+import { useConversationStore } from "@/stores/useConversationStore";
 
 export default function Home() {
-	const [conversations, setConversations] = useState<Conversation[]>([]);
-	const [activeConversation, setActiveConversation] = useState<
-		Conversation | undefined
-	>();
+	const {
+		setConversations,
+		setActiveConversation,
+	} = useConversationStore();
+
 	const pathname = usePathname();
 
 	useEffect(() => {
@@ -44,10 +46,7 @@ export default function Home() {
 
 	return (
 		<div className="m-4 flex">
-			<Nav
-				conversations={conversations}
-				activeConversation={activeConversation}
-			/>
+			<Nav />
 			<div className="py-4 xl:px-24 lg:px-18 md:px-14 sm:px-3 w-full">
 				<div className="flex flex-col gap-8">
 					<div className="flex flex-row pb-4 md:relative md:left-[-50px] md:top-[20px] justify-center md:justify-normal">

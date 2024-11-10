@@ -4,7 +4,8 @@ import { useRouter } from "next/navigation";
 import Nav from "@/components/Nav";
 import InfoToolTip from "@/components/InfoTooltip";
 import ChatInterface from "@/components/ChatInterface";
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
+import { useConversationStore } from "@/stores/useConversationStore";
 
 // export async function generateMetadata({ params }: { params: { id: string }}) {
 // 	const conversations = await fetchConversations();
@@ -23,10 +24,11 @@ import { useEffect, useState } from "react";
 // }
 
 export default function ChatPage({ params }: { params: { id: string } }) {
-	const [conversations, setConversations] = useState<Conversation[]>([]);
-	const [activeConversation, setActiveConversation] = useState<
-		Conversation | undefined
-	>();
+	const {
+		setConversations,
+		setActiveConversation
+	} = useConversationStore();
+
 	const router = useRouter();
 
 	useEffect(() => {
@@ -50,17 +52,14 @@ export default function ChatPage({ params }: { params: { id: string } }) {
 
 	return (
 		<div className="m-4 flex">
-			<Nav
-				conversations={conversations}
-				activeConversation={activeConversation}
-			/>
+			<Nav />
 			<div className="py-4 xl:px-24 lg:px-18 md:px-14 sm:px-3 w-full">
 				<div className="flex flex-col">
 					<div className="flex flex-row pb-4 mb-4 md:relative md:left-[-50px] md:top-[20px] justify-center md:justify-normal">
 						<h1 className="text-4xl px-4 font-bold">SAGE</h1>
 						<InfoToolTip />
 					</div>
-					<ChatInterface activeConversation={activeConversation} />
+					<ChatInterface />
 				</div>
 			</div>
 		</div>

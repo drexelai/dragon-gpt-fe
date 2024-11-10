@@ -3,17 +3,21 @@
 import { Plus } from "lucide-react";
 import { Button } from "./ui/button";
 import { useRouter } from "next/navigation";
+import { useConversationStore } from "@/stores/useConversationStore";
 
 export default function NewChatButton({
 	state
 }: {
 	state?: "open" | "closed" | "mobile"
 }) {
+	const { setActiveConversation } = useConversationStore();
 	const router = useRouter();
 
 	const startNewConversation = () => {
 		router.push(`/`);
+		setActiveConversation(undefined);
 	};
+
 
 	return (
 		<>

@@ -8,35 +8,17 @@ import { v4 } from "uuid";
 import { Button } from "./ui/button";
 import { Spinner } from "./ui/spinner";
 import appInsights from "../app/appInsights";
+import { useConversationStore } from "@/stores/useConversationStore";
+import { samples } from "@/lib/utils";
 
-const samples = {
-  questions: [
-    "What are the top engineering programs at Drexel?",
-    "What are the on campus housing options at Drexel?",
-    "What resources are available for freshman academic support at Drexel?",
-  ],
-  capabilities: [
-    "Reference general sources or explain where you might find further reading.",
-    "Answer questions on a wide range of topics, from academics to general knowledge.",
-    "Assist with research, offering insight across various fields.",
-  ],
-  limitations: [
-    "May occasionally get incorrect information.",
-    "May occasionally produce harmful instructions or biased content.",
-    "Limited knowledge, Drexel community based.",
-  ],
-  know: [
-    ["Active Clubs", "Dining Plans", "Popular Majors", "Basketball Team"],
-    ["Academic Advising", "Class Registration", "Work Study Opportunities"],
-  ],
-};
+export default function ChatInterface() {
+	const {
+		conversations,
+		setConversations,
+		setActiveConversation,
+		activeConversation
+	} = useConversationStore();
 
-export default function ChatInterface({
-	activeConversation,
-}: {
-	activeConversation?: Conversation;
-}) {
-	const [activeConvo, setActiveConvo] = useState(activeConversation);
 	const [messages, setMessages] = useState<
 		{ text: string; isUser: boolean }[] | null
 	>(null);
@@ -52,23 +34,21 @@ export default function ChatInterface({
 	// reset messages when navigating to home
 	useEffect(() => {
 		if (pathname === "/" && messages && messages.length > 0) {
-			setActiveConvo(undefined);
+			// new chat already sets activeConversation to undefined so just setMessages
 			setMessages([]);
 		}
 	}, [pathname]);
 
-  useEffect(() => {
-    setMessages(activeConversation?.messages || []);
-    setActiveConvo(activeConversation);
-  }, [activeConversation, setActiveConvo]);
+	useEffect(() => {
+		setMessages(activeConversation?.messages || []);
+		setActiveConversation(activeConversation);
+	}, [activeConversation, setActiveConversation]);
 
 	const handleSendMessage = async (message: string) => {
 		let firstMessage = false;
 		setIsStreaming(true);
-		let convo = activeConvo;
-		const pastConversations = JSON.parse(
-			window.localStorage.getItem("conversations") || "[]"
-		) as Conversation[];
+		let convo = activeConversation;
+		const pastConversations = [...conversations]; // duplicate the array to avoid state mutation
 
 		if (!convo) {
 			firstMessage = true;
@@ -83,27 +63,20 @@ export default function ChatInterface({
 				isUser: true,
 				timestamp: Date.now(),
 			});
-			setActiveConvo(convo);
-			window.localStorage.setItem(
-				"conversations",
-				JSON.stringify([...pastConversations, convo])
-			);
+			setActiveConversation(convo);
+			setConversations(conversations);
 			window.history.pushState(null, "", `/chat/${uuid}`);
 		} else {
-			convo.messages = [
-				...convo.messages,
-				{ text: message, isUser: true, timestamp: Date.now() },
-			];
+			convo.messages.push({ text: message, isUser: true, timestamp: Date.now() });
 			const updatedConversations = pastConversations.map((c) =>
-				c.id === convo!.id ? convo : c
+				c.id === convo!.id ? convo! : c // convo will always be defined here, ! added to avoid typescript's annoying complaining
 			);
-			window.localStorage.setItem(
-				"conversations",
-				JSON.stringify(updatedConversations)
-			);
+			setConversations(updatedConversations);
 		}
 
-		setMessages((prev) => [...prev!, { text: message, isUser: true }]);
+		setMessages(convo.messages);
+		console.log('')
+		// setMessages((prev) => [...prev!, { text: message, isUser: true }]);
 		setMessages((prev) => [...prev!, { text: "", isUser: false }]);
 
 		try {
@@ -177,10 +150,7 @@ export default function ChatInterface({
 				? pastConversations.map((c) => (c.id === convo.id ? convo : c)) // Update existing
 				: [...pastConversations, convo]; // Append new conversation if it doesn't exist
 
-			window.localStorage.setItem(
-				"conversations",
-				JSON.stringify(updatedConversations)
-			);
+			setConversations(updatedConversations);
 
 			if (firstMessage) {
 				fetch(process.env.NEXT_PUBLIC_API_URL + "/summarize-convo", {
@@ -194,11 +164,8 @@ export default function ChatInterface({
 				}).then(async data => {
 					const newName = (await data.json()).messageSummary;
 					convo.title = newName;
-					window.localStorage.setItem(
-						"conversations",
-						JSON.stringify(updatedConversations)
-					);
-					setActiveConvo(convo);
+					setConversations(updatedConversations);
+					setActiveConversation(convo);
 				}).catch(err => {
 					console.error(err);
 				});

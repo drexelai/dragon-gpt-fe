@@ -18,13 +18,7 @@ import { useEffect, useState } from "react";
 import NavComponents from "./NavComponents";
 import * as SheetPrimitive from "@radix-ui/react-dialog"
 
-export default function Nav({
-	conversations,
-	activeConversation,
-}: {
-	conversations: Conversation[];
-	activeConversation?: Conversation;
-}) {
+export default function Nav() {
 	const [open, setOpen] = useState(true);
 
 	useEffect(() => {
@@ -43,8 +37,6 @@ export default function Nav({
 			window.removeEventListener("resize", handleResize);
 		};
 	}, []);
-
-
 
 	return (
 		<nav
@@ -69,10 +61,7 @@ export default function Nav({
 
 					<Separator className="my-4" />
 
-						<RecentConversations
-							conversations={conversations}
-							activeConversation={activeConversation}
-						/>
+						<RecentConversations />
 					<Separator className="my-6" />
 					<div className="flex flex-col items-start gap-2">
 						<NavComponents variant="open" />
@@ -115,10 +104,7 @@ export default function Nav({
 									<NewChatButton />
 
 									<Separator className="my-4" />
-										<RecentConversations
-											conversations={conversations}
-											activeConversation={activeConversation}
-										/>
+										<RecentConversations />
 									<Separator className="my-6" />
 									<div className="flex flex-col items-start gap-4">
 										<NavComponents variant="mobile" />
@@ -131,11 +117,7 @@ export default function Nav({
 
 					<Separator className="my-4" />
 
-						<RecentConversations
-							conversations={conversations}
-							activeConversation={activeConversation}
-							small
-						/>
+						<RecentConversations small />
 					<Separator className="my-6" />
 					<div className="flex flex-col items-start gap-2">
 						<NavComponents variant="closed" />
@@ -168,10 +150,7 @@ export default function Nav({
 
 							<Separator className="my-4" />
 
-								<RecentConversations
-									conversations={conversations}
-									activeConversation={activeConversation}
-								/>
+								<RecentConversations />
 							<Separator className="my-6" />
 							<div className="flex flex-col items-start gap-4">
 								<NavComponents variant="mobile" />

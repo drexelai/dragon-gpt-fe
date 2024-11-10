@@ -1,14 +1,29 @@
 import { AlertDialog, AlertDialogCancel, AlertDialogContent, AlertDialogDescription, AlertDialogHeader, AlertDialogTitle, AlertDialogTrigger } from "../ui/alert-dialog";
 import { Trash2, X } from "lucide-react";
 import { Button } from "../ui/button";
+import { useConversationStore } from "@/stores/useConversationStore";
+import { useRouter } from "next/navigation";
 
 export default function DeleteChat({
 	convo,
-	onDelete
+	setDropdownOpen
 }: {
 	convo: Conversation;
-	onDelete: (convo: Conversation) => void;
+	setDropdownOpen: (open: boolean) => void;
 }) {
+	const { activeConversation, setConversations } = useConversationStore();
+	const router = useRouter();
+
+	const handleDelete = (convo: Conversation) => {
+		const conversations = JSON.parse(window.localStorage.getItem('conversations') || '[]') as Conversation[];
+		const newConversations = conversations.filter(c => c.id !== convo.id);
+		setConversations(newConversations);
+		if(activeConversation && activeConversation.id === convo.id) {
+			router.push('/');
+		} else {
+			setDropdownOpen(false); // close the dropdown if the page doesn't change
+		}
+	}
 
 	return (
 		<AlertDialog>
@@ -29,7 +44,9 @@ export default function DeleteChat({
 						This will permanently delete the message history of <span className="font-semibold">{convo.title}</span>
 					</AlertDialogDescription>
 					<div>
-						<Button variant="destructive" className="rounded-xl" onClick={() => onDelete(convo)}>Delete</Button>
+						<AlertDialogTrigger asChild>
+							<Button variant="destructive" className="rounded-xl" onClick={() => handleDelete(convo)}>Delete</Button>
+						</AlertDialogTrigger>
 					</div>
 				</AlertDialogHeader>
 			</AlertDialogContent>
