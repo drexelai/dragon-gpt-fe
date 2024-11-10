@@ -10,25 +10,25 @@ import { Spinner } from "./ui/spinner";
 import appInsights from "../app/appInsights";
 
 const samples = {
-	questions: [
-		"What are the top engineering programs at Drexel?",
-		"What are the on campus housing options at Drexel?",
-		"What resources are available for freshman academic support at Drexel?",
-	],
-	capabilities: [
-		"Reference general sources or explain where you might find further reading.",
-		"Answer questions on a wide range of topics, from academics to general knowledge.",
-		"Assist with research, offering insight across various fields.",
-	],
-	limitations: [
-		"May occasionally get incorrect information.",
-		"May occasionally produce harmful instructions or biased content.",
-		"Limited knowledge, Drexel community based.",
-	],
-	know: [
-		["Active clubs", "Dining Plans", "Popular Majors"],
-		["Academic Advising", "Class Registration"],
-	],
+  questions: [
+    "What are the top engineering programs at Drexel?",
+    "What are the on campus housing options at Drexel?",
+    "What resources are available for freshman academic support at Drexel?",
+  ],
+  capabilities: [
+    "Reference general sources or explain where you might find further reading.",
+    "Answer questions on a wide range of topics, from academics to general knowledge.",
+    "Assist with research, offering insight across various fields.",
+  ],
+  limitations: [
+    "May occasionally get incorrect information.",
+    "May occasionally produce harmful instructions or biased content.",
+    "Limited knowledge, Drexel community based.",
+  ],
+  know: [
+    ["Active Clubs", "Dining Plans", "Popular Majors", "Basketball Team"],
+    ["Academic Advising", "Class Registration", "Work Study Opportunities"],
+  ],
 };
 
 export default function ChatInterface({
@@ -57,11 +57,10 @@ export default function ChatInterface({
 		}
 	}, [pathname]);
 
-	useEffect(() => {
-		console.log("something");
-		setMessages(activeConversation?.messages || []);
-		setActiveConvo(activeConversation);
-	}, [activeConversation, setActiveConvo]);
+  useEffect(() => {
+    setMessages(activeConversation?.messages || []);
+    setActiveConvo(activeConversation);
+  }, [activeConversation, setActiveConvo]);
 
 	const handleSendMessage = async (message: string) => {
 		let firstMessage = false;
