@@ -1,11 +1,11 @@
 import { useRouter } from "next/navigation";
-import { Button } from "./ui/button";
-import { ContextMenu, ContextMenuContent, ContextMenuItem, ContextMenuTrigger } from "./ui/context-menu";
+import { Button } from "../ui/button";
+import { ContextMenu, ContextMenuContent, ContextMenuItem, ContextMenuTrigger } from "../ui/context-menu";
 import { EllipsisVertical, MessageSquareText } from "lucide-react";
 import { useConversationStore } from "@/stores/useConversationStore";
-import RenameChat from "./ChatOptions/RenameChat";
-import DeleteChat from "./ChatOptions/DeleteChat";
-import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "./ui/dropdown-menu";
+import RenameChat from "../ChatOptions/RenameChat";
+import DeleteChat from "../ChatOptions/DeleteChat";
+import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "../ui/dropdown-menu";
 import { useState } from "react";
 
 export default function RecentConversationItem({

@@ -1,7 +1,7 @@
 "use client";
 
 import { useRouter } from "next/navigation";
-import Nav from "@/components/Nav";
+import Nav from "@/components/Navigation/Nav";
 import InfoToolTip from "@/components/InfoTooltip";
 import ChatInterface from "@/components/ChatInterface";
 import { useEffect } from "react";

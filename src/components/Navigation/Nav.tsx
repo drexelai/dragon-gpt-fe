@@ -5,14 +5,14 @@ import {
 	Menu,
 	X,
 } from "lucide-react";
-import { Button } from "./ui/button";
-import { Separator } from "./ui/separator";
+import { Button } from "../ui/button";
+import { Separator } from "../ui/separator";
 import RecentConversations from "./RecentConversations";
 import {
 	Sheet,
 	SheetContent,
 	SheetTrigger,
-} from "./ui/sheet";
+} from "../ui/sheet";
 import NewChatButton from "./NewChatButton";
 import { useEffect, useState } from "react";
 import NavComponents from "./NavComponents";

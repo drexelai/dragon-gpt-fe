@@ -5,6 +5,7 @@ import DefaultAvatar from "../public/default_pfp.jpg";
 import { marked } from "marked";
 import { gfmHeadingId } from "marked-gfm-heading-id";
 import DOMPurify from "dompurify";
+import { useConversationStore } from "@/stores/useConversationStore";
 
 const options = {
 	prefix: "chat-header-",
@@ -23,6 +24,7 @@ export default function ChatMessages({
 	messages: { text: string; isUser: boolean }[];
 	isStreaming: boolean;
 }) {
+	const { activeConversation } = useConversationStore();
 	const messagesEndRef = useRef<HTMLDivElement>(null);
 	const scrollRef = useRef<HTMLDivElement>(null);
 	const [maskStyle, setMaskStyle] = useState("");
@@ -90,7 +92,7 @@ export default function ChatMessages({
 		>
 			{" "}
 			{/* Add id for links effect */}
-			{messages.map((message, index) => (
+			{activeConversation?.messages.map((message, index) => (
 				<div
 					key={index}
 					className={`flex ${message.isUser ? "justify-end" : "justify-start"
