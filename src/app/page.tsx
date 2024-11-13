@@ -1,7 +1,7 @@
 "use client";
 
 import ChatInterface from "@/components/ChatInterface";
-import Nav from "@/components/navigation/Nav";
+import Nav from "@/components/Navigation/Nav";
 import InfoToolTip from "@/components/InfoTooltip";
 import { usePathname } from "next/navigation";
 import { useEffect } from "react";

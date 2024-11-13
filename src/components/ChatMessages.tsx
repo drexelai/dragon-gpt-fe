@@ -1,6 +1,5 @@
 import Image from "next/image";
 import { useEffect, useRef, useState } from "react";
-import MarioAvatar from "../public/mario.png";
 import DefaultAvatar from "../public/default_pfp.jpg";
 import { marked } from "marked";
 import { gfmHeadingId } from "marked-gfm-heading-id";
