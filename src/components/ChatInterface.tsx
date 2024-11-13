@@ -7,9 +7,10 @@ import { usePathname } from "next/navigation";
 import { v4 } from "uuid";
 import { Button } from "./ui/button";
 import { Spinner } from "./ui/spinner";
-import appInsights from "../app/appInsights";
 import { useConversationStore } from "@/stores/useConversationStore";
 import { samples } from "@/lib/utils";
+import logo from "../public/sage_wizard_teal.png";
+import Image from "next/image";
 
 export default function ChatInterface() {
 	const {
@@ -138,18 +139,6 @@ export default function ChatInterface() {
 				setActiveConversation(updatedConversation);
 			}
 
-			// Track daily active user event once the response is fully received
-			appInsights.trackEvent({ name: "Daily Active User" });
-
-			// Track each question asked
-			appInsights.trackEvent({
-				name: "Question Asked",
-				properties: {
-					question: message,
-					conversationId: updatedConversation!.id,
-				},
-			});
-
 			//Update conversation
 			updatedConversation = {
 				...updatedConversation,
@@ -239,8 +228,9 @@ export default function ChatInterface() {
 			)}
 			{messages && messages.length === 0 && (
 				<>
-					<div className="hidden dark:block absolute -z-10 top-72 m-auto w-72 h-72 lg:w-96 lg:h-96 bg-gradient-radial from-white/20 to-transparent rounded-full blur-2xl"></div>
-					<div className="hidden md:flex flex-col items-center justify-center h-full w-full">
+					{/* Legacy components below */}
+					{/* <div className="hidden dark:block absolute -z-10 top-72 m-auto w-72 h-72 lg:w-96 lg:h-96 bg-gradient-radial from-white/20 to-transparent rounded-full blur-2xl"></div> */}
+					{/* <div className="hidden md:flex flex-col items-center justify-center h-full w-full">
 						<h1 className="text-3xl font-bold mb-10">Ask SAGE</h1>
 						<div className="flex flex-row items-start gap-10">
 							<div className="flex flex-col items-center">
@@ -290,11 +280,17 @@ export default function ChatInterface() {
 								</div>
 							</div>
 						</div>
-					</div>
-					<h1 className="md:hidden text-4xl font-bold mb-10 text-center w-56 flex-1 mt-60">
+					</div> */}
+					<h1 className="text-4xl font-bold mb-10 mt-5 md:mt-20 text-center w-72 md:w-1/2 flex-1 text-transparent bg-clip-text bg-light-teal-gradient dark:bg-dark-teal-gradient">
 						What would you like to know more about?
 					</h1>
-					<div className="overflow-auto md:overflow-hidden md:hidden flex justify-end flex-col h-full w-full">
+					<Image
+					src={logo}
+					alt="Sage Wizard Logo"
+					width={150}
+					className="mt-10 pointer-events-none select-none"
+					/>
+					<div className="overflow-auto flex justify-end lg:items-center flex-col h-full w-full">
 						<div className="flex flex-col overflow-auto mb-8">
 							{samples.know.map((arr, index) => (
 								<div key={index} className="flex flex-row">
@@ -303,7 +299,7 @@ export default function ChatInterface() {
 											key={i}
 											variant="ghost"
 											onClick={() => handleSendMessage("Tell me about " + message)}
-											className="p-1 px-2 m-2 max-w-80 h-fit  text-base font-light rounded-full bg-gray-100 dark:bg-gray-100/40 hover:bg-gray-200 dark:hover:bg-gray-300/40 text-left"
+											className="p-1 px-2 lg:px-3 m-2 max-w-80 h-fit  text-base font-light rounded-full bg-gray-200 dark:bg-white dark:text-black hover:bg-gray-300 dark:hover:bg-white/80 text-left"
 										>
 											{message}
 										</Button>
