@@ -21,7 +21,7 @@ export default function NewChatButton({
 
 	return (
 		<>
-			<Button className={`${!state || state === 'open' ? 'px-10' : 'w-fit'} shadow-md rounded-xl`} variant={"default"} size={state === "mobile" ? "lg" : "default"} onClick={startNewConversation}>
+			<Button className={`${!state || state === 'open' ? 'px-10' : 'w-fit'} dark:bg-neutral-500 dark:text-white shadow-md rounded-xl`} variant={"default"} size={state === "mobile" ? "lg" : "default"} onClick={startNewConversation}>
 				<Plus className="scale-75" />{!state || state === 'open' ? 'New Chat' : ''}
 			</Button>
 		</>
