@@ -1,11 +1,10 @@
 "use client";
 
 import ChatInterface from "@/components/ChatInterface";
-import Nav from "@/components/Navigation/Nav";
+import Nav from "@/components/navigation/Nav";
 import InfoToolTip from "@/components/InfoTooltip";
 import { usePathname } from "next/navigation";
 import { useEffect } from "react";
-import appInsights from "./appInsights";
 import { useConversationStore } from "@/stores/useConversationStore";
 
 export default function Home() {
@@ -15,10 +14,6 @@ export default function Home() {
 	} = useConversationStore();
 
 	const pathname = usePathname();
-
-	useEffect(() => {
-		appInsights.trackPageView(); // Track page view on load
-	}, []);
 
 	useEffect(() => {
 		const fetchConversations = () => {
@@ -50,7 +45,7 @@ export default function Home() {
 			<div className="py-4 xl:px-24 lg:px-18 md:px-14 sm:px-3 w-full">
 				<div className="flex flex-col gap-8">
 					<div className="flex flex-row pb-4 md:relative md:left-[-50px] md:top-[20px] justify-center md:justify-normal">
-						<h1 className="text-4xl px-4 font-bold">SAGE</h1>
+						<h1 className="text-4xl px-4 font-semibold">SAGE</h1>
 						<InfoToolTip />
 					</div>
 					<ChatInterface />

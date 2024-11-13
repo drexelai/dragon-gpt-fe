@@ -1,7 +1,7 @@
 "use client";
 
 import { useRouter } from "next/navigation";
-import Nav from "@/components/Navigation/Nav";
+import Nav from "@/components/navigation/Nav";
 import InfoToolTip from "@/components/InfoTooltip";
 import ChatInterface from "@/components/ChatInterface";
 import { useEffect } from "react";
@@ -56,7 +56,7 @@ export default function ChatPage({ params }: { params: { id: string } }) {
 			<div className="py-4 xl:px-24 lg:px-18 md:px-14 sm:px-3 w-full">
 				<div className="flex flex-col">
 					<div className="flex flex-row pb-4 mb-4 md:relative md:left-[-50px] md:top-[20px] justify-center md:justify-normal">
-						<h1 className="text-4xl px-4 font-bold">SAGE</h1>
+						<h1 className="text-4xl px-4 font-semibold">SAGE</h1>
 						<InfoToolTip />
 					</div>
 					<ChatInterface />

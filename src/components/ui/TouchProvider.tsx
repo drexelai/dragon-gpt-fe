@@ -1,4 +1,4 @@
-// Made by @luisdralves on Github to add support to tooltips no mobile devices
+// Made by @luisdralves on Github to add support to tooltips on mobile devices
 // https://github.com/shadcn-ui/ui/issues/2402#issuecomment-1930895113
 'use client';
 
