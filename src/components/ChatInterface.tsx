@@ -220,9 +220,9 @@ export default function ChatInterface() {
 	};
 
 	return (
-		<div className="flex flex-col h-[calc(100vh-10rem)] w-full items-center">
+		<div className="flex flex-col h-[calc(100vh-10rem)] supports-[dvh]:h-[calc(100dvh-10rem)] w-full items-center">
 			{messages && messages.length > 0 && (
-				<div className="xl:px-20 flex-grow overflow-auto w-full">
+				<div className="xl:px-20 mt-4 flex-grow overflow-auto w-full">
 					<ChatMessages messages={messages} isStreaming={isStreaming} />
 				</div>
 			)}
