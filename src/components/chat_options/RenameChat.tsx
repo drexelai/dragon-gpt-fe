@@ -8,6 +8,7 @@ import { useConversationStore } from "@/stores/useConversationStore";
 import { z } from "zod"
 import { zodResolver } from "@hookform/resolvers/zod";
 import { useState } from "react";
+import { toast } from "sonner";
 
 const renameForm = z.object({
 	name: z.string()
@@ -42,6 +43,7 @@ export default function RenameChat({
 	const handleRename = (convo: Conversation, newName: string) => {
 		convo.title = newName;
 		setConversations(conversations);
+		toast.success('Chat renamed successfully');
 	}
 
 	return (

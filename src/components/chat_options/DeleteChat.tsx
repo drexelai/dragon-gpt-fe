@@ -3,6 +3,7 @@ import { Trash2, X } from "lucide-react";
 import { Button } from "../ui/button";
 import { useConversationStore } from "@/stores/useConversationStore";
 import { useRouter } from "next/navigation";
+import { toast } from "sonner";
 
 export default function DeleteChat({
 	convo,
@@ -23,6 +24,7 @@ export default function DeleteChat({
 		} else {
 			setDropdownOpen(false); // close the dropdown if the page doesn't change
 		}
+		toast.success('Chat deleted successfully');
 	}
 
 	return (

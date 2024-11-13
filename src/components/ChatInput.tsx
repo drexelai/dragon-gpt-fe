@@ -11,6 +11,7 @@ import {
 	AlertDialogTitle,
 	AlertDialogTrigger,
 } from "./ui/alert-dialog";
+import { toast } from "sonner";
 
 export default function ChatInput({
 	onSendMessage,
@@ -89,8 +90,8 @@ export default function ChatInput({
 		};
 		recognition.onerror = (event: SpeechRecognitionErrorEvent) => {
 			console.error(event);
-			setAlertOpen(true);
 			setIsRecording(false);
+			toast.error("Permissions with your browser are preventing the microphone from working. Please check your settings.", { duration: 5000 });
 		};
 		recognition.onend = () => {
 			console.log("recognition end");
@@ -113,7 +114,7 @@ export default function ChatInput({
 
 	return (
 		<div className="z-10 items-center justify-center flex flex-row gap-2 w-[-webkit-fill-available]">
-			<div className="flex flex-row w-[-webkit-fill-available] max-w-xl border-solid border rounded-xl shadow-spread dark:shadow-none focus-within:ring-1 focus-within:ring-black">
+			<div className="flex flex-row items-center px-1 w-[-webkit-fill-available] max-w-xl border-solid border rounded-3xl shadow-spread dark:shadow-none focus-within:ring-1 focus-within:ring-black bg-gray-200 dark:text-black dark:bg-white backdrop-blur-md backdrop-filter">
 				<div
 					contentEditable={true}
 					translate="no"
@@ -141,22 +142,24 @@ export default function ChatInput({
 				</div>
 				<Button
 					onClick={handleMicClick}
-					className={`rounded-full ${isRecording ? "bg-red-500 animate-pulse hover:bg-red-500" : ""
+					className={`rounded-full hover:bg-whtie transition-all ${isRecording ? "bg-red-500 animate-pulse hover:bg-red-500" : ""
 						}`}
 					variant="ghost"
 				>
-					<Mic />
+					<Mic className="hover:scale-90 text-black transition-all" />
+					<span className="sr-only">Record voice</span>
 				</Button>
-			</div>
-			<Button
+				<Button
 				onClick={handleSend}
 				disabled={isStreaming}
-				className={`rounded-xl px-3`}
-				variant="default"
+				className={`rounded-3xl px-3 bg-sage-primary`}
+				variant="ghost"
 			>
-				<Send className="md:hidden" />
-				<span className="hidden md:block">Send</span>
+				<Send className="md:hidden text-white" />
+				<span className="hidden md:block text-white">Send</span>
 			</Button>
+			</div>
+
 			<AlertDialog open={alertOpen}>
 				<AlertDialogTrigger></AlertDialogTrigger>
 				<AlertDialogContent>

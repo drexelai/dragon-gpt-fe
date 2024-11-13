@@ -21,6 +21,7 @@ const config: Config = {
 				// almostWhite: '#7090B01C',
 				'background-95': 'hsl(var(--background) / 0.95)',
 				'background-70': 'hsl(var(--background) / 0.7)',
+				'sage-primary': '#195761'
 			},
 			borderColor: {
 				'border-40': 'hsl(var(--border) / 0.4)',
