@@ -21,6 +21,13 @@ const config: Config = {
 				// almostWhite: '#7090B01C',
 				'background-95': 'hsl(var(--background) / 0.95)',
 				'background-70': 'hsl(var(--background) / 0.7)',
+				'sage-primary': '#195761',
+				'dark-primary': 'white',
+				'light-primary': 'rgb(229 231 235 / var(--tw-bg-opacity))',
+			},
+			backgroundImage: {
+				'dark-teal-gradient': 'linear-gradient(153deg, #3987A8 20.44%, #44B09E 56.01%, #F9F9F9 99.69%)',
+				'light-teal-gradient': 'linear-gradient(153deg, #14557B -0.31%, #7FCEC5 99.69%)'
 			},
 			borderColor: {
 				'border-40': 'hsl(var(--border) / 0.4)',

@@ -1,8 +1,8 @@
 import Link from "next/link";
 import ClearAllChatsButton from "./ClearAllChatsButton";
-import { Button, buttonVariants } from "./ui/button";
+import { Button, buttonVariants } from "../ui/button";
 import { SquareArrowOutUpRight } from "lucide-react";
-import { ModeToggle } from "./ModeToggle";
+import { ModeToggle } from "../ModeToggle";
 
 export default function NavComponents({
 	variant,

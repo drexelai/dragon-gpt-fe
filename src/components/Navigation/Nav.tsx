@@ -5,26 +5,20 @@ import {
 	Menu,
 	X,
 } from "lucide-react";
-import { Button } from "./ui/button";
-import { Separator } from "./ui/separator";
+import { Button } from "../ui/button";
+import { Separator } from "../ui/separator";
 import RecentConversations from "./RecentConversations";
 import {
 	Sheet,
 	SheetContent,
 	SheetTrigger,
-} from "./ui/sheet";
+} from "../ui/sheet";
 import NewChatButton from "./NewChatButton";
 import { useEffect, useState } from "react";
 import NavComponents from "./NavComponents";
 import * as SheetPrimitive from "@radix-ui/react-dialog"
 
-export default function Nav({
-	conversations,
-	activeConversation,
-}: {
-	conversations: Conversation[];
-	activeConversation?: Conversation;
-}) {
+export default function Nav() {
 	const [open, setOpen] = useState(true);
 
 	useEffect(() => {
@@ -44,11 +38,9 @@ export default function Nav({
 		};
 	}, []);
 
-
-
 	return (
 		<nav
-			className={`fixed md:relative md:bg-almostWhite dark:bg-background-70 m-4 md:border-2 dark:border-solid transition-all ease-in-out duration-300 h-fit md:h-[calc(100vh-4rem)] md:shadow-spread dark:shadow-sm rounded-2xl backdrop-blur border-border/40 items-center ${open ? "lg:w-[22rem] md:w-96 md:overflow-hidden" : "w-32"
+			className={`fixed md:relative md:bg-almostWhite dark:bg-black/40 m-4 md:border-2 dark:border-solid transition-all ease-in-out duration-300 h-fit md:h-[calc(100vh-4rem)] md:shadow-spread dark:shadow-sm rounded-2xl backdrop-blur border-border/40 items-center ${open ? "lg:w-[22rem] md:w-96 md:overflow-hidden" : "w-32"
 				}`}
 		>
 			{open ? (
@@ -69,10 +61,7 @@ export default function Nav({
 
 					<Separator className="my-4" />
 
-						<RecentConversations
-							conversations={conversations}
-							activeConversation={activeConversation}
-						/>
+						<RecentConversations />
 					<Separator className="my-6" />
 					<div className="flex flex-col items-start gap-2">
 						<NavComponents variant="open" />
@@ -115,10 +104,7 @@ export default function Nav({
 									<NewChatButton />
 
 									<Separator className="my-4" />
-										<RecentConversations
-											conversations={conversations}
-											activeConversation={activeConversation}
-										/>
+										<RecentConversations />
 									<Separator className="my-6" />
 									<div className="flex flex-col items-start gap-4">
 										<NavComponents variant="mobile" />
@@ -131,11 +117,7 @@ export default function Nav({
 
 					<Separator className="my-4" />
 
-						<RecentConversations
-							conversations={conversations}
-							activeConversation={activeConversation}
-							small
-						/>
+						<RecentConversations small />
 					<Separator className="my-6" />
 					<div className="flex flex-col items-start gap-2">
 						<NavComponents variant="closed" />
@@ -145,7 +127,7 @@ export default function Nav({
 			<div className="md:hidden">
 				<Sheet onOpenChange={() => setTimeout(() => document.body.style.pointerEvents = "", 500)}>
 					<SheetTrigger className="fixed mt-1" asChild>
-						<Button variant="ghost">
+						<Button variant="ghost" className="hover:bg-gray-300/40" >
 							<Menu />
 						</Button>
 					</SheetTrigger>
@@ -168,10 +150,7 @@ export default function Nav({
 
 							<Separator className="my-4" />
 
-								<RecentConversations
-									conversations={conversations}
-									activeConversation={activeConversation}
-								/>
+								<RecentConversations />
 							<Separator className="my-6" />
 							<div className="flex flex-col items-start gap-4">
 								<NavComponents variant="mobile" />
