@@ -104,12 +104,14 @@ export default function ChatMessages({
 					>
 						{!message.isUser ? (
 							<Image
+								priority
 								src={logo}
 								alt="Sage Wizard Logo"
 								className="w-10 h-10 md:w-14 md:h-14 aspect-square rounded-full mr-4 object-cover flex-shrink-0 align-top vertical transform -scale-x-[1]"
 							/>
 						) : (
 							<Image
+								priority
 								src={DefaultAvatar}
 								alt="Mario Avatar"
 								className="w-10 h-10 md:w-14 md:h-14 aspect-square rounded-full ml-4 object-cover flex-shrink-0 align-top"
