@@ -55,8 +55,8 @@ export default function RootLayout({
 				</ThemeProvider>
 				<Toaster
 					toastOptions={{
-						className: "bg-gray-600/50 dark:bg-gray-500/40 backdrop-blur-lg backdrop-filter text-white dark:border-white/10 border-black/10",
-						duration: 1000
+						className: "bg-neutral-600/50 dark:bg-neutral-500/40 backdrop-blur-lg backdrop-filter text-white dark:border-white/10 border-black/10",
+						duration: 1500
 					}}
 					position="top-right"
 				/>
