@@ -12,7 +12,7 @@ const CustomTooltip = () => {
 		<TouchProvider>
 			<TooltipProvider delayDuration={250}>
 				<HybridTooltip>
-					<HybridTooltipTrigger className="fixed right-0 py-2 px-4 md:relative md:right-[unset] md:py-0 md:px-0">
+					<HybridTooltipTrigger className="fixed right-4 py-2 px-4 md:relative md:right-[unset] md:py-0 md:px-0">
 						<Info />
 					</HybridTooltipTrigger>
 					<HybridTooltipContent

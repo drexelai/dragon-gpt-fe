@@ -127,7 +127,7 @@ export default function Nav() {
 			<div className="md:hidden">
 				<Sheet onOpenChange={() => setTimeout(() => document.body.style.pointerEvents = "", 500)}>
 					<SheetTrigger className="fixed mt-1" asChild>
-						<Button variant="ghost" className="hover:bg-gray-300/40" >
+						<Button variant="ghost" className="hover:bg-gray-300/40 -top-4 sm:top-0" >
 							<Menu />
 						</Button>
 					</SheetTrigger>
