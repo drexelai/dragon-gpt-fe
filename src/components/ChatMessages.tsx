@@ -83,7 +83,7 @@ export default function ChatMessages({
 
 	return (
 		<div
-			className="overflow-y-auto h-full w-full mt-auto justify-start flex flex-col margin-top: auto"
+			className="overflow-y-auto h-full w-full flex flex-col margin-top: auto"
 			id="chat-messages"
 			ref={scrollRef}
 			style={{
@@ -95,7 +95,7 @@ export default function ChatMessages({
 			{activeConversation?.messages.map((message, index) => (
 				<div
 					key={index}
-					className={`flex ${message.isUser ? "justify-end" : "justify-start"
+					className={`first:mt-auto flex ${message.isUser ? "justify-end" : "justify-start"
 						} p-2`}
 				>
 					<div

@@ -1,6 +1,5 @@
-import { AlertDialog, AlertDialogCancel, AlertDialogContent, AlertDialogDescription, AlertDialogHeader, AlertDialogTitle, AlertDialogTrigger } from "../ui/alert-dialog";
 import { Form, FormControl, FormField, FormItem, FormLabel, FormMessage } from "../ui/form";
-import { Pencil, X } from "lucide-react";
+import { Pencil } from "lucide-react";
 import { Button } from "../ui/button";
 import { useForm } from "react-hook-form";
 import { Input } from "../ui/input";
@@ -9,6 +8,7 @@ import { z } from "zod"
 import { zodResolver } from "@hookform/resolvers/zod";
 import { useState } from "react";
 import { toast } from "sonner";
+import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle, DialogTrigger } from "../ui/dialog";
 
 const renameForm = z.object({
 	name: z.string()
@@ -47,23 +47,17 @@ export default function RenameChat({
 	}
 
 	return (
-		<AlertDialog open={open} onOpenChange={setOpen}>
-			<AlertDialogTrigger className="flex gap-10 relative px-2 py-1.5 transition-all  hover:bg-gray-300/50 text-sm items-center rounded-sm w-full">
+		<Dialog open={open} onOpenChange={setOpen}>
+			<DialogTrigger className="flex gap-10 relative px-2 py-1.5 transition-all  hover:bg-gray-300/50 text-sm items-center rounded-sm w-full">
 				<p>Rename</p>
 				<Pencil className="w-5 h-5 ml-auto" />
-			</AlertDialogTrigger>
-			<AlertDialogContent>
-				<AlertDialogHeader>
-					<AlertDialogCancel asChild>
-						<Button variant="ghost" className="absolute top-2 right-2 border-0">
-							<X className="opacity-70 w-4 h-4" />
-							<span className="sr-only">Close</span>
-						</Button>
-					</AlertDialogCancel>
-					<AlertDialogTitle>
+			</DialogTrigger>
+			<DialogContent className="overflow-y-scroll max-h-dvh">
+				<DialogHeader>
+					<DialogTitle>
 						Rename <span className="text-">{`"${convo.title}"`}</span>
-					</AlertDialogTitle>
-					<AlertDialogDescription className="hidden" />
+					</DialogTitle>
+					<DialogDescription className="hidden" />
 					<Form {...form}>
 						<form onSubmit={form.handleSubmit((data) => {
 							onSubmit(data, convo)
@@ -75,7 +69,7 @@ export default function RenameChat({
 									<FormItem>
 										<FormLabel className="hidden">New Name</FormLabel>
 										<FormControl>
-											<Input placeholder={convo.title} type="text" autoComplete="off" {...field} />
+											<Input placeholder={convo.title} type="text" autoComplete="off" {...field} className="text-base" />
 										</FormControl>
 										<FormMessage />
 									</FormItem>
@@ -83,8 +77,8 @@ export default function RenameChat({
 							<Button type="submit" className="mr-2 rounded-xl">Submit</Button>
 						</form>
 					</Form>
-				</AlertDialogHeader>
-			</AlertDialogContent>
-		</AlertDialog>
+				</DialogHeader>
+			</DialogContent>
+		</Dialog>
 	)
 }

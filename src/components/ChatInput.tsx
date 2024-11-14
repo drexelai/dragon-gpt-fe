@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Button } from "./ui/button";
-import { Mic, Send } from "lucide-react";
+import { Mic, SendHorizonal } from "lucide-react";
 import {
 	AlertDialog,
 	AlertDialogCancel,
@@ -155,7 +155,7 @@ export default function ChatInput({
 				className={`rounded-3xl px-3 bg-sage-primary`}
 				variant="ghost"
 			>
-				<Send className="md:hidden text-white" />
+				<SendHorizonal className="md:hidden text-white" />
 				<span className="hidden md:block text-white">Send</span>
 			</Button>
 			</div>
