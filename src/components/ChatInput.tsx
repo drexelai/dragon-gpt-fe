@@ -114,7 +114,7 @@ export default function ChatInput({
 
 	return (
 		<div className="z-10 items-center justify-center flex flex-row gap-2 w-[-webkit-fill-available]">
-			<div className="flex flex-row items-center px-1 w-[-webkit-fill-available] max-w-xl border-solid border rounded-3xl shadow-spread dark:shadow-none focus-within:ring-1 focus-within:ring-black bg-gray-200 dark:text-black dark:bg-white backdrop-blur-md backdrop-filter">
+			<div className="flex flex-row items-center px-1 w-[-webkit-fill-available] max-w-xl lg:max-w-4xl border-solid border rounded-3xl shadow-spread dark:shadow-none focus-within:ring-1 focus-within:ring-neutral-500 bg-gray-200 dark:bg-neutral-700 backdrop-blur-md backdrop-filter">
 				<div
 					contentEditable={true}
 					translate="no"
@@ -146,7 +146,7 @@ export default function ChatInput({
 						}`}
 					variant="ghost"
 				>
-					<Mic className="hover:scale-90 text-black transition-all" />
+					<Mic className="hover:scale-90 transition-all dark:text-gray-300" />
 					<span className="sr-only">Record voice</span>
 				</Button>
 				<Button
