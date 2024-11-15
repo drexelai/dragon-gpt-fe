@@ -288,10 +288,10 @@ export default function ChatInterface() {
 					src={logo}
 					alt="Sage Wizard Logo"
 					width={150}
-					className="mt-10 w-24 pointer-events-none select-none"
+					className="mt-10 w-24 lg:w-40 pointer-events-none select-none"
 					/>
 					<div className="overflow-auto flex justify-end lg:items-center flex-col h-full w-full">
-						<div className="flex flex-col overflow-auto no-scrollbar mb-2">
+						<div className="flex flex-col md:items-center overflow-auto no-scrollbar mb-2">
 							{samples.know.map((arr, index) => (
 								<div key={index} className="flex flex-row">
 									{arr.map((message, i) => (
@@ -299,7 +299,7 @@ export default function ChatInterface() {
 											key={i}
 											variant="ghost"
 											onClick={() => handleSendMessage("Tell me about " + message)}
-											className="p-1 px-2 lg:px-3 m-2 max-w-80 h-fit  text-base font-light rounded-full bg-gray-200 dark:bg-neutral-700 hover:bg-neutral-300 dark:hover:bg-neutral-500 text-left"
+											className="p-1 px-2 lg:px-3 m-2 max-w-80 h-fit  text-base font-light rounded-full bg-gray-200 dark:bg-neutral-700 hover:bg-neutral-300 dark:hover:bg-neutral-600 text-left"
 										>
 											{message}
 										</Button>
