@@ -285,6 +285,7 @@ export default function ChatInterface() {
 						What would you like to know more about?
 					</h1>
 					<Image
+					priority
 					src={logo}
 					alt="Sage Wizard Logo"
 					width={150}
