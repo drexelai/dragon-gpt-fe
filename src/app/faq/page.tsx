@@ -17,13 +17,13 @@ export default function FAQ() {
           height={200}
         />{" "} */}
         <br></br>
-        <h1 className="text-4xl px-4 font-bold mb-4">About SAGE</h1>
+        <h1 className="text-4xl px-4 font-bold mb-4">About DragonGPT</h1>
         <p className="text-lg max-w-2xl">
-          SAGE is your personal AI-powered academic guide for all things Drexel.
+          DragonGPT is your personal AI-powered academic guide for all things Drexel.
           Using advanced retrieval-augmented generation, it delivers accurate,
           fast answers to any question about university data. Whether
           you&apos;re looking for course information, academic deadlines, or
-          recommendations for next term&apos;s classes, SAGE provides
+          recommendations for next term&apos;s classes, DragonGPT provides
           personalized, real-time support—just like a well-informed academic
           advisor, but available 24/7.
         </p>
@@ -40,7 +40,7 @@ export default function FAQ() {
           className="px-4 py-2 bg-blue-700 text-white rounded hover:bg-blue-700"
           onClick={() => router.push("/")}
         >
-          Go back to SAGE
+          Go back to DragonGPT
         </button>
       </div>
     </div>

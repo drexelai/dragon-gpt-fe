@@ -5,7 +5,7 @@ import { marked } from "marked";
 import { gfmHeadingId } from "marked-gfm-heading-id";
 import DOMPurify from "dompurify";
 import { useConversationStore } from "@/stores/useConversationStore";
-import logo from "../public/sage_wizard_teal.png";
+import logo from "../public/mario.png";
 
 const options = {
 	prefix: "chat-header-",
@@ -107,7 +107,7 @@ export default function ChatMessages({
 								priority
 								src={logo}
 								alt="Sage Wizard Logo"
-								className="w-10 h-10 md:w-14 md:h-14 aspect-square rounded-full mr-4 object-cover flex-shrink-0 align-top vertical transform -scale-x-[1]"
+								className="w-10 h-10 md:w-14 md:h-14 aspect-square rounded-full mr-4 object-cover flex-shrink-0 align-top"
 							/>
 						) : (
 							<Image

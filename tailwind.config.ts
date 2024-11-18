@@ -1,5 +1,5 @@
 import type { Config } from "tailwindcss";
-import { themeVariants, prefersLight, prefersDark } from "tailwindcss-theme-variants";
+import { themeVariants, prefersLight } from "tailwindcss-theme-variants";
 
 const config: Config = {
 	darkMode: ["class"],

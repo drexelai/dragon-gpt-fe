@@ -9,7 +9,7 @@ import { Button } from "./ui/button";
 import { Spinner } from "./ui/spinner";
 import { useConversationStore } from "@/stores/useConversationStore";
 import { samples } from "@/lib/utils";
-import logo from "../public/sage_wizard_teal.png";
+import logo from "../public/mario.png";
 import Image from "next/image";
 
 export default function ChatInterface() {
