@@ -26,3 +26,13 @@ export const samples = {
 		["Academic Advising", "Class Registration", "Work Study Opportunities"],
 	],
 };
+
+const formatter = new Intl.DateTimeFormat("en-US", {
+	hour: "numeric",
+	hour12: true,
+  });
+
+export const formatHourIntl = (hour: number) => {
+	const date = new Date(0, 0, 0, hour);
+	return formatter.format(date);
+  }
