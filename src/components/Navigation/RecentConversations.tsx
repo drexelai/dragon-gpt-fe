@@ -2,6 +2,7 @@
 
 import { useConversationStore } from "@/stores/useConversationStore";
 import RecentConversationItem from "./RecentConversationItem";
+import ZzIcon from "../ui/zz-icon";
 
 const RecentConversations = ({
 	small
@@ -20,9 +21,14 @@ const RecentConversations = ({
 				</h2>
 			)}
 			<div className={`${small ? 'items-center' : 'items-start'} flex flex-col items-start max-h-96`}>
-				{[...conversations].reverse().map((convo, index) => (
+				{conversations.length > 0 ? [...conversations].reverse().map((convo, index) => (
 					<RecentConversationItem conversation={convo} index={index} small={small} key={index} />
-				))}
+				)) : (
+					<div className="flex flex-col gap-4 justify-center items-center w-full h-96">
+						<ZzIcon className="text-muted-foreground" />
+						{!small && <p className="text-muted-foreground text-center text-sm">When you create a new chat, it'll show up here</p>}
+					</div>
+				)}
 
 			</div>
 		</div>
