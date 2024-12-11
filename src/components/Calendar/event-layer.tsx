@@ -43,10 +43,10 @@ export function EventLayer({ events, weekDays }: EventLayerProps) {
 						key={event.id}
 						className={cn(
 							"absolute mx-1 rounded-md p-2 overflow-hidden",
-							"hover:z-10 hover:max-w-full hover:shadow-md transition-all duration-200 shrink",
+							"hover:z-10 hover:max-w-full hover:shadow-sm transition-all duration-200 shrink",
 							"min-w-[4.3rem] max-w-[4.3rem] sm:min-w-[7rem] sm:max-w-[7rem]",
 							event.color,
-							"dark:invert dark:bg-opacity-50",
+							"dark:invert dark:bg-neutral-300 dark:shadow-white",
 							"border-l-4 border-current border-opacity-10"
 						)}
 						style={{

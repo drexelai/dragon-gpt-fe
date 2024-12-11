@@ -6,12 +6,9 @@ import InfoToolTip from "@/components/InfoTooltip";
 import { usePathname } from "next/navigation";
 import { useEffect } from "react";
 import { useConversationStore } from "@/stores/useConversationStore";
-// import CalendarGrid from "@/components/Calendar/CalendarGrid";
-import CalendarGrid from "@/components/Calendar/week-calendar";
+import Calendar from "@/components/Calendar/week-calendar";
 import { useCalendarStore } from "@/stores/useCalendarStore";
-import ClassCalendar from "@/components/Calendar/class-calendar";
 import { cn } from "@/lib/utils";
-import { useWindowSize } from "@/hooks";
 import { MinimumWidth } from "@/types";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import { ArrowLeft } from "lucide-react";
@@ -22,8 +19,7 @@ export default function Home() {
 		setActiveConversation,
 	} = useConversationStore();
 
-	const windowSize = useWindowSize();
-	const isDesktop = windowSize.width > MinimumWidth.Large;
+	const isDesktop = window.innerWidth > MinimumWidth.Large;
 
 	const { calendarOpen } = useCalendarStore();
 
@@ -72,7 +68,7 @@ export default function Home() {
 						<ChatInterface />
 						{calendarOpen && (
 							isDesktop
-								? <CalendarGrid />
+								? <Calendar />
 								: <Sheet open={true}>
 
 									<SheetContent className="!max-w-full w-full">

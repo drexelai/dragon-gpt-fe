@@ -17,7 +17,7 @@ export function WeekHeader({ days }: WeekHeaderProps) {
 						day.isSame(moment(), "day") && "bg-blue-300/10"
 					)}
 				>
-					<span className="text-sm font-medium text-neutral-500">
+					<span className="text-sm font-medium text-neutral-500 dark:text-neutral-400">
 						{day.format("ddd").toUpperCase()}
 					</span>
 					<span className="text-xl font-medium">{day.format("D")}</span>

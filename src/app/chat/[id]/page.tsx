@@ -6,10 +6,12 @@ import InfoToolTip from "@/components/InfoTooltip";
 import ChatInterface from "@/components/ChatInterface";
 import { useEffect } from "react";
 import { useConversationStore } from "@/stores/useConversationStore";
-// import CalendarGrid from "@/components/Calendar/CalendarGrid";
-import CalendarGrid from "@/components/Calendar/newcal";
+import Calendar from "@/components/Calendar/week-calendar";
 import { useCalendarStore } from "@/stores/useCalendarStore";
 import { cn } from "@/lib/utils";
+import { MinimumWidth } from "@/types";
+import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
+import { ArrowLeft } from "lucide-react";
 
 // export async function generateMetadata({ params }: { params: { id: string }}) {
 // 	const conversations = await fetchConversations();
@@ -28,12 +30,13 @@ import { cn } from "@/lib/utils";
 // }
 
 export default function ChatPage({ params }: { params: { id: string } }) {
+	const isDesktop = window.innerWidth > MinimumWidth.Large;
 	const {
 		setConversations,
 		setActiveConversation
 	} = useConversationStore();
 
-	const { calendarOpen } = useCalendarStore();
+	const { calendarOpen, setCalendarOpen } = useCalendarStore();
 
 	const router = useRouter();
 
@@ -68,12 +71,27 @@ export default function ChatPage({ params }: { params: { id: string } }) {
 						<h1 className={cn(
 							"fixed md:relative text-4xl px-4 font-semibold",
 							calendarOpen && "ml-8"
-							)}>DragonGPT</h1>
+						)}>DragonGPT</h1>
 						<InfoToolTip />
 					</div>
 					<div className="flex flex-row">
 						<ChatInterface />
-						{calendarOpen && <CalendarGrid />}
+						{isDesktop
+							? calendarOpen && (<Calendar />)
+							: <Sheet open={calendarOpen} onOpenChange={() => setCalendarOpen()} >
+
+								<SheetContent className="!max-w-full w-full">
+									<div className="flex flex-row gap-6">
+										<SheetTrigger className=" hover:bg-gray-300/40 -top-4 sm:top-0 rounded-sm"
+										>
+											<ArrowLeft />
+											<span className="sr-only">Exit calendar</span>
+										</SheetTrigger>
+										<span className="text-xl font-bold">Dragon Scheduler</span>
+									</div>
+									<Calendar />
+								</SheetContent>
+							</Sheet>}
 					</div>
 				</div>
 			</div>
