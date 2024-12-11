@@ -1,19 +1,21 @@
-import moment from 'moment';
 import { cn, formatHourIntl } from '@/lib/utils';
+import { useWindowSize } from '@/hooks';
+import { MinimumWidth } from '@/types';
 
 export function TimeGrid() {
 	const hours = Array.from({ length: 24 }, (_, i) => i);
+	const windowSize = useWindowSize();
+	const isDesktop = windowSize.width > MinimumWidth.Large;
 
 	return (
 		<div
-			className="ml-20 grid h-[1440px]"
+			className="ml-10 lg:ml-20 grid h-[1440px] lg:grid-cols-[auto_repeat(7,_1fr)] grid-cols-[auto_repeat(5,_1fr)]"
 			style={{
-				gridTemplateColumns: 'auto repeat(7, 1fr)',
 				gridTemplateRows: 'repeat(288, minmax(0, 1fr))',
 			}}
 		>
 			{/* Time column */}
-			<div className="relative right-14">
+			<div className="relative right-12">
 				{hours.map((hour) => (
 					<div
 						key={hour}
@@ -30,7 +32,7 @@ export function TimeGrid() {
 			</div>
 
 			{/* Day columns */}
-			{Array.from({ length: 7 }).map((_, dayIndex) => (
+			{Array.from({ length: isDesktop ? 7 : 5 }).map((_, dayIndex) => (
 				<div
 					key={dayIndex}
 					className={cn("border-r relative", dayIndex === 6 && "border-r-0")}

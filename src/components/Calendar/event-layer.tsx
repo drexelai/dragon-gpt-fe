@@ -25,12 +25,12 @@ export function EventLayer({ events, weekDays }: EventLayerProps) {
 
 	return (
 		<div
-		className={cn(
-			"ml-20", // Time column width
-			"absolute inset-0 grid h-[1440px]"
-		)}
+			className={cn(
+				"ml-8 lg:ml-[4.5rem]", // Time column width
+				"absolute inset-0 grid h-[1440px]",
+				"grid-cols-[auto_repeat(5,_1fr)] lg:grid-cols-[auto_repeat(7,_1fr)]",
+			)}
 			style={{
-				gridTemplateColumns: 'auto repeat(7, 1fr)',
 				gridTemplateRows: 'repeat(288, minmax(0, 1fr))',
 			}}
 		>
@@ -43,7 +43,8 @@ export function EventLayer({ events, weekDays }: EventLayerProps) {
 						key={event.id}
 						className={cn(
 							"absolute mx-1 rounded-md p-2 overflow-hidden",
-							"hover:z-10 transition-all duration-200 min-w-[7rem] max-w-[7rem] shrink",
+							"hover:z-10 hover:max-w-full hover:shadow-md transition-all duration-200 shrink",
+							"min-w-[4.3rem] max-w-[4.3rem] sm:min-w-[7rem] sm:max-w-[7rem]",
 							event.color,
 							"border-l-4 border-current border-opacity-10"
 						)}
@@ -52,9 +53,20 @@ export function EventLayer({ events, weekDays }: EventLayerProps) {
 							top: position.top,
 							height: position.height,
 						}}
+						onMouseEnter={(e) => {
+							const currentTarget = e.currentTarget;
+							const computedStyle = window.getComputedStyle(currentTarget);
+							const currentHeight = parseFloat(computedStyle.height);
+							const contentHeight = currentTarget.scrollHeight;
+
+							currentTarget.style.height = `${Math.max(currentHeight, contentHeight)}px`;
+						}}
+						onMouseLeave={(e) => {
+							e.currentTarget.style.height = position.height;
+						}}
 					>
 						<p className="text-xs opacity-75 font-semibold">
-							{moment(event.start).format('HH:mm A')}
+							{moment(event.start, ["HH:mm"]).format('h:mm a')}
 						</p>
 						<p className="text-xs truncate">{event.title}</p>
 					</div>
