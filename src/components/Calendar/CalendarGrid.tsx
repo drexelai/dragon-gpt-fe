@@ -92,7 +92,7 @@ const WeeklyCalendar: React.FC = () => {
 					"MMM D, YYYY"
 				)}`}</h2>
 			</header>
-			<div className="grid max-h-[45rem] overflow-scroll" style={{ gridTemplateColumns: "1fr repeat(7, 1fr)" }} ref={ref}>
+			<div className="grid max-h-[45rem] overflow-scroll " style={{ gridTemplateColumns: "1fr repeat(7, 1fr)" }} ref={ref}>
 				<div className="grid grid-rows-24 gap-0.5">
 					{hours.map((hour, index) => (
 						<div

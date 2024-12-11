@@ -12,9 +12,6 @@ export default function NavComponents({
 	variant: "open" | "closed" | "mobile";
 }) {
 	const { setCalendarOpen } = useCalendarStore();
-	const handleCalendarClick = () => {
-		setCalendarOpen();
-	}
 
 	return (
 		<>

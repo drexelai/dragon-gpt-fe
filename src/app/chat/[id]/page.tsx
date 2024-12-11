@@ -6,7 +6,8 @@ import InfoToolTip from "@/components/InfoTooltip";
 import ChatInterface from "@/components/ChatInterface";
 import { useEffect } from "react";
 import { useConversationStore } from "@/stores/useConversationStore";
-import CalendarGrid from "@/components/Calendar/CalendarGrid";
+// import CalendarGrid from "@/components/Calendar/CalendarGrid";
+import CalendarGrid from "@/components/Calendar/newcal";
 import { useCalendarStore } from "@/stores/useCalendarStore";
 import { cn } from "@/lib/utils";
 
