@@ -7,22 +7,19 @@ interface WeekHeaderProps {
 
 export function WeekHeader({ days }: WeekHeaderProps) {
 	return (
-		<div className="grid grid-cols-8 border-b">
-			<div className="p-2 border-r" /> {/* Time column */}
+		<div className="ml-20 grid grid-cols-7">
 			{days.map((day, index) => (
 				<div
 					key={day.format()}
 					className={cn(
-						"p-2 text-center border-r",
+						"p-2 text-center border-r dark:border-neutral-200/10 font-semibold py-2 h-16 flex flex-col items-start justify-center",
 						index === 6 && "border-r-0"
 					)}
 				>
-					<div className="text-sm font-medium text-muted-foreground">
-						{day.format('ddd')}
-					</div>
-					<div className="text-lg font-semibold">
-						{day.format('D')}
-					</div>
+					<span className="text-sm font-semibold text-neutral-500">
+						{day.format("ddd").toUpperCase()}
+					</span>
+					<span className="text-xl font-medium">{day.format("D")}</span>
 				</div>
 			))}
 		</div>

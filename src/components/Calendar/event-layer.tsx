@@ -24,7 +24,16 @@ export function EventLayer({ events, weekDays }: EventLayerProps) {
 	};
 
 	return (
-		<div className="absolute inset-0 grid grid-cols-8 pointer-events-none">
+		<div
+		className={cn(
+			"ml-20", // Time column width
+			"absolute inset-0 grid h-[1440px]"
+		)}
+			style={{
+				gridTemplateColumns: 'auto repeat(7, 1fr)',
+				gridTemplateRows: 'repeat(288, minmax(0, 1fr))',
+			}}
+		>
 			{events.map((event) => {
 				const position = calculateEventPosition(event);
 				if (!position) return null;
@@ -34,7 +43,7 @@ export function EventLayer({ events, weekDays }: EventLayerProps) {
 						key={event.id}
 						className={cn(
 							"absolute mx-1 rounded-md p-2 overflow-hidden",
-							"hover:z-10 transition-all duration-200 max-w-[7rem] shrink",
+							"hover:z-10 transition-all duration-200 min-w-[7rem] max-w-[7rem] shrink",
 							event.color,
 							"border-l-4 border-current border-opacity-10"
 						)}
@@ -44,10 +53,10 @@ export function EventLayer({ events, weekDays }: EventLayerProps) {
 							height: position.height,
 						}}
 					>
-						<p className="font-medium text-xs truncate">{event.title}</p>
-						<p className="text-xs opacity-75">
-							{moment(event.start).format('HH:mm')}
+						<p className="text-xs opacity-75 font-semibold">
+							{moment(event.start).format('HH:mm A')}
 						</p>
+						<p className="text-xs truncate">{event.title}</p>
 					</div>
 				);
 			})}

@@ -11,12 +11,19 @@ import CalendarGrid from "@/components/Calendar/week-calendar";
 import { useCalendarStore } from "@/stores/useCalendarStore";
 import ClassCalendar from "@/components/Calendar/class-calendar";
 import { cn } from "@/lib/utils";
+import { useWindowSize } from "@/hooks";
+import { MinimumWidth } from "@/types";
+import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
+import { ArrowLeft } from "lucide-react";
 
 export default function Home() {
 	const {
 		setConversations,
 		setActiveConversation,
 	} = useConversationStore();
+
+	const windowSize = useWindowSize();
+	const isDesktop = windowSize.width > MinimumWidth.Large;
 
 	const { calendarOpen } = useCalendarStore();
 
@@ -63,7 +70,23 @@ export default function Home() {
 					</div>
 					<div className="flex flex-row">
 						<ChatInterface />
-						{calendarOpen && <CalendarGrid />}
+						{calendarOpen && (
+							isDesktop
+								? <CalendarGrid />
+								: <Sheet open={true}>
+
+									<SheetContent className="!max-w-full w-full">
+										<div className="flex flex-row gap-6">
+											<SheetTrigger className=" hover:bg-gray-300/40 -top-4 sm:top-0 rounded-sm">
+												<ArrowLeft />
+												<span className="sr-only">Exit calendar</span>
+											</SheetTrigger>
+											<span className="text-xl font-bold">Dragon Scheduler</span>
+										</div>
+										<CalendarGrid />
+									</SheetContent>
+								</Sheet>
+						)}
 					</div>
 				</div>
 			</div>

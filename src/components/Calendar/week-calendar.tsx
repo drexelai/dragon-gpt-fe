@@ -78,9 +78,9 @@ export default function WeekCalendar() {
 	};
 
 	return (
-		<div className="w-full max-w-4xl flex flex-col h-[800px] bg-background rounded-lg shadow-lg">
-			<div className="flex items-center justify-between p-4 border-b">
-			<div className="inline-flex ml-24 -space-x-px rounded-lg shadow-sm shadow-black/5 rtl:space-x-reverse">
+		<div className="w-full max-w-4xl flex flex-col h-[800px] bg-background rounded-lg">
+			<div className="flex items-center justify-between p-4">
+			<div className="inline-flex ml-24 -space-x-px rounded-lg rtl:space-x-reverse">
 					<Button
 						className="rounded-none shadow-none first:rounded-s-lg last:rounded-e-lg focus-visible:z-10"
 						variant="secondary"
@@ -92,7 +92,7 @@ export default function WeekCalendar() {
 					</Button>
 					<Button
 						variant="secondary"
-						className="p-2 rounded-none border-r-1 boreder-l-1 border-r-gray-50"
+						className="p-2 rounded-none border-r-1 border-l-1 border-r-gray-50"
 						onClick={goToToday}
 					>
 						Today
@@ -118,6 +118,7 @@ export default function WeekCalendar() {
 			<div className="flex-1 overflow-scroll">
 				<WeekHeader days={weekDays} />
 				<div className="relative flex-1 overflow-y-auto">
+
 					<TimeGrid />
 					<EventLayer events={events} weekDays={weekDays} />
 				</div>
