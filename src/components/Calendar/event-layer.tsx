@@ -18,7 +18,8 @@ export function EventLayer({ events, weekDays, view }: EventLayerProps) {
 		const duration = moment(event.end).diff(moment(event.start), 'minutes');
 
 		return {
-			gridColumn: dayIndex + 2, // +2 because first column is time
+			gridRow: `${(12 * startHour) + 1} / span ${12 * (duration / 60)}`, // 5 minutes per slot
+			gridColumn: dayIndex + 1, // +1 because first column is time
 			top: `${startHour * 60 + startMinute}px`,
 			height: `${duration}px`,
 		};
@@ -28,11 +29,12 @@ export function EventLayer({ events, weekDays, view }: EventLayerProps) {
 		<div
 			className={cn(
 				"mt-2", // offset from the top
-				"ml-8 lg:ml-[4.5rem]", // Time column width
+				"ml-10 lg:ml-[4.5rem]", // Time column width
 				"absolute inset-0 grid h-[1440px]",
 				"grid-cols-[auto_repeat(5,_1fr)] lg:grid-cols-[auto_repeat(7,_1fr)]",
-				view === 'week' && "grid-cols-[auto_repeat(5,_1fr)]",
-				view === '3day' && "grid-cols-[auto_repeat(3,_1fr)]",
+				view === 'week' && "grid-cols-5",
+				view === '3day' && "grid-cols-3",
+				"row-start-1 col-start-1"
 			)}
 			style={{
 				gridTemplateRows: 'repeat(288, minmax(0, 1fr))',
@@ -46,18 +48,17 @@ export function EventLayer({ events, weekDays, view }: EventLayerProps) {
 					<div
 						key={event.id}
 						className={cn(
-							"absolute mx-1 rounded-md p-2 overflow-hidden",
+							"flex flex-col relative mx-1 rounded-md p-2 overflow-hidden",
 							"hover:z-10 hover:max-w-full hover:shadow-md transition-all duration-200 shrink",
-							view === 'week' && "min-w-[4.8rem] max-w-[4.8rem] sm:min-w-[7rem] sm:max-w-[7rem]",
-							view === '3day' && "min-w-[8rem] max-w-[8rem]",
+							// view === 'week' && "min-w-[4.8rem] max-w-[4.8rem] sm:min-w-[7rem] sm:max-w-[7rem]",
+							// view === '3day' && "min-w-[8rem] max-w-[8rem]",
 							event.color,
 							"dark:invert dark:bg-neutral-300 dark:shadow-white",
 							"bg-opacity-70 hover:bg-opacity-100"
 						)}
 						style={{
+							gridRow: position.gridRow,
 							gridColumn: position.gridColumn,
-							top: position.top,
-							height: position.height,
 						}}
 						onMouseEnter={(e) => {
 							const currentTarget = e.currentTarget;

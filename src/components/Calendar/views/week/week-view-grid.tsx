@@ -26,30 +26,15 @@ export function WeekViewGrid({ weekDays, view }: WeekViewGridProps) {
 	return (
 		<div
 			className={cn(
-				"mt-2 ml-10 grid h-[1440px] grid-cols-[auto_repeat(5,_1fr)]",
-				view === 'week' && "grid-cols-[auto_repeat(5,_1fr)]",
-				view === '3day' && "grid-cols-[auto_repeat(3,_1fr)]",
+				"mt-2 ml-10 grid h-[1440px] grid-cols-5 row-start-1 col-start-1",
+				view === 'week' && "grid-cols-5",
+				view === '3day' && "grid-cols-3",
 			)}
 			style={{
 				gridTemplateRows: 'repeat(288, minmax(0, 1fr))',
 			}}
 		>
-			{/* Time column */}
-			<div className="relative right-12">
-				{hours.map((hour) => (
-					<div
-						key={hour}
-						className="h-[60px] relative border-b border-border/50 w-max"
-						style={{
-							gridRow: `span 12`, // 12 5-minute slots per hour
-						}}
-					>
-						<span className="absolute -translate-y-1/2 text-xs text-muted-foreground px-2 w-max">
-							{formatHourIntl(hour)}
-						</span>
-					</div>
-				))}
-			</div>
+			
 
 			{/* Day columns */}
 			{Array.from({ length: findDayLength(view) }).map((_, dayIndex) => (

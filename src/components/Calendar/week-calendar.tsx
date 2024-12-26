@@ -11,6 +11,7 @@ import NewEventButton from './new-event';
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuSeparator, DropdownMenuTrigger } from '../ui/dropdown-menu';
 import { MonthIcon, ScheduleIcon, ThreeDayIcon, WeekIcon } from '@/icons/calendar';
 import { WeekViewGrid } from './views/week/week-view-grid';
+import CalendarHours from './hours';
 
 const generateMockEvents = (baseDate: moment.Moment): CalendarEvent[] => {
 	const today = moment(baseDate).startOf('week').add(1, 'day'); // Start from Monday
@@ -227,10 +228,10 @@ export default function WeekCalendar() {
 			</div>
 
 
-
+			<WeekHeader days={weekDays} view={currentView} />
 			<div className="flex-1 overflow-scroll" ref={scrollRef}>
-				<WeekHeader days={weekDays} view={currentView} />
-				<div className="relative flex-1 overflow-y-auto">
+				<div className="relative flex-1 grid grid-cols-1 grid-rows-1">
+					<CalendarHours />
 					<WeekViewGrid view={currentView} weekDays={weekDays} />
 					<EventLayer events={events} weekDays={weekDays} view={currentView} />
 				</div>
