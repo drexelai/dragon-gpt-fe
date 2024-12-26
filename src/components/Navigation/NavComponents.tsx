@@ -15,16 +15,17 @@ export default function NavComponents({
 
 	return (
 		<>
-			<ClearAllChatsButton iconOnly={variant === "closed"} />
-			<Button variant="ghost" className="hover:bg-gray-300/40" onClick={setCalendarOpen}>
+			<Button variant="default" className="hover:bg-gray-300/40" onClick={setCalendarOpen}>
 				<CalendarDaysIcon className="h-[1.2rem] w-[1.2rem] mr-2" />
 				{variant !== "closed" && (
 					<>
-						<p>Calendar</p>
-						<Badge className="ml-2 font-normal">New</Badge>
+						<p>Dragon Scheduler</p>
+						<Badge className="ml-2 font-normal bg-sage-primary">New</Badge>
 					</>
 				)}
 			</Button>
+			<ClearAllChatsButton iconOnly={variant === "closed"} />
+
 			<Button
 				variant={"ghost"}
 				className="hover:bg-gray-300/40 py-4"
