@@ -26,6 +26,7 @@ export function EventLayer({ events, weekDays }: EventLayerProps) {
 	return (
 		<div
 			className={cn(
+				"mt-2", // offset from the top
 				"ml-8 lg:ml-[4.5rem]", // Time column width
 				"absolute inset-0 grid h-[1440px]",
 				"grid-cols-[auto_repeat(5,_1fr)] lg:grid-cols-[auto_repeat(7,_1fr)]",
@@ -43,11 +44,11 @@ export function EventLayer({ events, weekDays }: EventLayerProps) {
 						key={event.id}
 						className={cn(
 							"absolute mx-1 rounded-md p-2 overflow-hidden",
-							"hover:z-10 hover:max-w-full hover:shadow-sm transition-all duration-200 shrink",
+							"hover:z-10 hover:max-w-full hover:shadow-md transition-all duration-200 shrink",
 							"min-w-[4.3rem] max-w-[4.3rem] sm:min-w-[7rem] sm:max-w-[7rem]",
 							event.color,
 							"dark:invert dark:bg-neutral-300 dark:shadow-white",
-							"border-l-4 border-current border-opacity-10"
+							"bg-opacity-70 hover:bg-opacity-100"
 						)}
 						style={{
 							gridColumn: position.gridColumn,
