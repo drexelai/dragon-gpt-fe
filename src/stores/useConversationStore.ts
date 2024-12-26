@@ -10,11 +10,6 @@ interface ConversationStore {
 	setMessagesPrevious: (fn: (prev: Message[] | null) => Message[]) => void;
 }
 
-interface SchedulerChatStore {
-	messages: Message[];
-	setSchedulerMessages: (messages: Message[]) => void;
-}
-
 export const useConversationStore = create<ConversationStore>((set) => ({
 	conversations: [],
 	activeConversation: undefined,
@@ -28,9 +23,4 @@ export const useConversationStore = create<ConversationStore>((set) => ({
 	setMessagesPrevious: (fn: (prev: Message[] | null) => Message[]) => {
 		set((state => ({ messages: fn(state.messages) }) ));
 	}
-}));
-
-export const useSchedulerStore = create<SchedulerChatStore>((set) => ({
-	messages: [],
-	setSchedulerMessages: (messages) => set({ messages })
 }));

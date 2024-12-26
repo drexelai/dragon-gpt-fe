@@ -5,6 +5,7 @@ import { CalendarDaysIcon, SquareArrowOutUpRight } from "lucide-react";
 import { ModeToggle } from "../ModeToggle";
 import { Badge } from "../ui/badge";
 import { useCalendarStore } from "@/stores/useCalendarStore";
+import { useRouter } from "next/navigation";
 
 export default function NavComponents({
 	variant,
@@ -12,10 +13,15 @@ export default function NavComponents({
 	variant: "open" | "closed" | "mobile";
 }) {
 	const { setCalendarOpen } = useCalendarStore();
+	const router = useRouter();
+
+	const handleScheduleClick = () => {
+		router.push(`/scheduler`);
+	}
 
 	return (
 		<>
-			<Button variant="default" className="hover:bg-gray-300/40" onClick={setCalendarOpen}>
+			<Button variant="default" className="hover:bg-gray-300/40" onClick={handleScheduleClick}>
 				<CalendarDaysIcon className="h-[1.2rem] w-[1.2rem] mr-2" />
 				{variant !== "closed" && (
 					<>

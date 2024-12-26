@@ -3,10 +3,12 @@ import WeekCalendar from "@/components/Calendar/week-calendar";
 import ChatInterface from "@/components/ChatInterface";
 import InfoTooltip from "@/components/InfoTooltip";
 import Nav from "@/components/Navigation/Nav";
+import SchedulerInterface from "@/components/scheduler/scheduler-interface";
+import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import { cn } from "@/lib/utils";
 import { useCalendarStore } from "@/stores/useCalendarStore";
-import { useSchedulerStore } from "@/stores/useConversationStore";
+import { useSchedulerStore } from "@/stores/useSchedulerStore";
 import { MinimumWidth } from "@/types";
 import { ArrowLeft, ArrowUpRight } from "lucide-react";
 import { useEffect } from "react"
@@ -46,15 +48,18 @@ export default function Page() {
 						)}>DragonGPT Scheduler</h1>
 						<InfoTooltip />
 					</div>
-					<div className="flex flex-row gap-2 self-center border text-blue-950 border-blue-950 rounded-3xl p-4">
-						<div>
-							<p className="font-semibold">Dragon Scheduler</p>
-							<p>Take a look at your schedule</p>
-						</div>
-						<ArrowUpRight />
+					<div
+						className="flex flex-row gap-2 self-center border text-sky-900 border-sky-900 rounded-[2rem] p-6 m-8 w-full hover:cursor-pointer"
+						onClick={() => setCalendarOpen()}
+					>
+							<div className="w-full">
+								<p className="font-semibold text-lg">Dragon Scheduler</p>
+								<p>Take a look at your schedule</p>
+							</div>
+							<ArrowUpRight />
 					</div>
 					<div className="flex flex-row">
-						<ChatInterface />
+						<SchedulerInterface />
 						{isDesktop
 							? calendarOpen && (<WeekCalendar />)
 							: <Sheet open={calendarOpen} onOpenChange={() => setCalendarOpen()} >
