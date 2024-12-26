@@ -11,3 +11,6 @@ type Message = {
 	isUser: boolean;
 	timestamp: number;
 }
+
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
+type CalendarView = 'week' | '3day';

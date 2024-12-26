@@ -5,9 +5,10 @@ import type { CalendarEvent } from '@/types';
 interface EventLayerProps {
 	events: CalendarEvent[];
 	weekDays: moment.Moment[];
+	view: CalendarView;
 }
 
-export function EventLayer({ events, weekDays }: EventLayerProps) {
+export function EventLayer({ events, weekDays, view }: EventLayerProps) {
 	const calculateEventPosition = (event: CalendarEvent) => {
 		const dayIndex = weekDays.findIndex(day => day.isSame(event.start, 'day'));
 		if (dayIndex === -1) return null;
@@ -30,6 +31,8 @@ export function EventLayer({ events, weekDays }: EventLayerProps) {
 				"ml-8 lg:ml-[4.5rem]", // Time column width
 				"absolute inset-0 grid h-[1440px]",
 				"grid-cols-[auto_repeat(5,_1fr)] lg:grid-cols-[auto_repeat(7,_1fr)]",
+				view === 'week' && "grid-cols-[auto_repeat(5,_1fr)]",
+				view === '3day' && "grid-cols-[auto_repeat(3,_1fr)]",
 			)}
 			style={{
 				gridTemplateRows: 'repeat(288, minmax(0, 1fr))',
@@ -45,7 +48,8 @@ export function EventLayer({ events, weekDays }: EventLayerProps) {
 						className={cn(
 							"absolute mx-1 rounded-md p-2 overflow-hidden",
 							"hover:z-10 hover:max-w-full hover:shadow-md transition-all duration-200 shrink",
-							"min-w-[4.3rem] max-w-[4.3rem] sm:min-w-[7rem] sm:max-w-[7rem]",
+							view === 'week' && "min-w-[4.8rem] max-w-[4.8rem] sm:min-w-[7rem] sm:max-w-[7rem]",
+							view === '3day' && "min-w-[8rem] max-w-[8rem]",
 							event.color,
 							"dark:invert dark:bg-neutral-300 dark:shadow-white",
 							"bg-opacity-70 hover:bg-opacity-100"
