@@ -7,6 +7,8 @@ import { EventLayer } from './event-layer';
 import { MinimumWidth, type CalendarEvent } from '@/types';
 import { Button } from '../ui/button';
 import { useMaskImage } from '@/hooks';
+import NewEventButton from './new-event';
+import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from '../ui/dropdown-menu';
 
 const generateMockEvents = (baseDate: moment.Moment): CalendarEvent[] => {
 	const today = moment(baseDate).startOf('week').add(1, 'day'); // Start from Monday
@@ -72,7 +74,7 @@ export default function WeekCalendar() {
 	);
 
 	const goToPreviousWeek = () => {
-		if(isDesktop) {
+		if (isDesktop) {
 			const newDate = currentDate.clone().subtract(1, "week");
 			setCurrentDate(newDate);
 			setWeekDays(
@@ -92,7 +94,7 @@ export default function WeekCalendar() {
 	};
 
 	const goToNextWeek = () => {
-		if(isDesktop) {
+		if (isDesktop) {
 			const newDate = currentDate.clone().add(1, "week");
 			setCurrentDate(newDate);
 			setWeekDays(
@@ -124,7 +126,7 @@ export default function WeekCalendar() {
 	return (
 		<div className="w-full max-w-4xl flex flex-col h-[800px] bg-background rounded-lg">
 			<div className="flex items-center justify-between p-4">
-			<div className="inline-flex -space-x-px rounded-lg rtl:space-x-reverse">
+				<div className="inline-flex -space-x-px rounded-lg rtl:space-x-reverse">
 					<Button
 						className="rounded-none shadow-none first:rounded-s-lg last:rounded-e-lg focus-visible:z-10"
 						variant="secondary"
@@ -151,12 +153,31 @@ export default function WeekCalendar() {
 						<ChevronRight size={16} strokeWidth={2} aria-hidden="true" />
 					</Button>
 				</div>
+				{/* <NewEventButton /> */}
 				<div className="flex items-center gap-2">
 					<CalendarDays className="w-6 h-6 text-primary" />
 					<h2 className="text-md lg:text-xl text-primary">
 						{currentDate.format('MMMM YYYY')}
 					</h2>
 				</div>
+			</div>
+
+			<div className='px-16'>
+				<DropdownMenu>
+					<DropdownMenuTrigger asChild>
+						<Button variant="outline" className='rounded-2xl w-full justify-start'>
+							3 Day
+						</Button>
+					</DropdownMenuTrigger>
+					<DropdownMenuContent>
+						<DropdownMenuItem>
+							3 Day
+						</DropdownMenuItem>
+						<DropdownMenuItem>Week</DropdownMenuItem>
+						<DropdownMenuItem>Month</DropdownMenuItem>
+						<DropdownMenuItem>Schedule</DropdownMenuItem>
+					</DropdownMenuContent>
+				</DropdownMenu>
 			</div>
 
 			<div className="flex-1 overflow-scroll" ref={scrollRef}>

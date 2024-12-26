@@ -35,9 +35,7 @@ export default function ChatPage({ params }: { params: { id: string } }) {
 		setConversations,
 		setActiveConversation
 	} = useConversationStore();
-
 	const { calendarOpen, setCalendarOpen } = useCalendarStore();
-
 	const router = useRouter();
 
 	useEffect(() => {
@@ -91,7 +89,8 @@ export default function ChatPage({ params }: { params: { id: string } }) {
 									</div>
 									<Calendar />
 								</SheetContent>
-							</Sheet>}
+							</Sheet>
+						}
 					</div>
 				</div>
 			</div>

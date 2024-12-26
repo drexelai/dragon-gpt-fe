@@ -14,15 +14,12 @@ import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import { ArrowLeft } from "lucide-react";
 
 export default function Home() {
+	const isDesktop = window.innerWidth > MinimumWidth.Large;
 	const {
 		setConversations,
 		setActiveConversation,
 	} = useConversationStore();
-
-	const isDesktop = window.innerWidth > MinimumWidth.Large;
-
-	const { calendarOpen } = useCalendarStore();
-
+	const { calendarOpen, setCalendarOpen } = useCalendarStore();
 	const pathname = usePathname();
 
 	useEffect(() => {
@@ -66,23 +63,23 @@ export default function Home() {
 					</div>
 					<div className="flex flex-row">
 						<ChatInterface />
-						{calendarOpen && (
-							isDesktop
-								? <Calendar />
-								: <Sheet open={true}>
+						{isDesktop
+							? calendarOpen && (<Calendar />)
+							: <Sheet open={calendarOpen} onOpenChange={() => setCalendarOpen()} >
 
-									<SheetContent className="!max-w-full w-full">
-										<div className="flex flex-row gap-6">
-											<SheetTrigger className=" hover:bg-gray-300/40 -top-4 sm:top-0 rounded-sm">
-												<ArrowLeft />
-												<span className="sr-only">Exit calendar</span>
-											</SheetTrigger>
-											<span className="text-xl font-bold">Dragon Scheduler</span>
-										</div>
-										<CalendarGrid />
-									</SheetContent>
-								</Sheet>
-						)}
+								<SheetContent className="!max-w-full w-full">
+									<div className="flex flex-row gap-6">
+										<SheetTrigger className=" hover:bg-gray-300/40 -top-4 sm:top-0 rounded-sm"
+										>
+											<ArrowLeft />
+											<span className="sr-only">Exit calendar</span>
+										</SheetTrigger>
+										<span className="text-xl font-bold">Dragon Scheduler</span>
+									</div>
+									<Calendar />
+								</SheetContent>
+							</Sheet>
+						}
 					</div>
 				</div>
 			</div>
