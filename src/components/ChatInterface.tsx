@@ -287,16 +287,9 @@ export default function ChatInterface() {
 							</div>
 						</div>
 					</div> */}
-					<h1 className="text-3xl md:text-4xl font-bold mt-20 md:mb-10 text-center w-72 md:w-1/2 flex-1 text-transparent bg-clip-text bg-light-teal-gradient dark:bg-dark-teal-gradient">
+					<h1 className="text-3xl md:text-4xl font-bold mt-20 md:mb-10 text-center w-72 md:w-1/2 flex-1">
 						What would you like to know more about?
 					</h1>
-					<Image
-					priority
-					src={logo}
-					alt="Sage Wizard Logo"
-					width={150}
-					className="mt-10 w-24 lg:w-40 pointer-events-none select-none"
-					/>
 					<div className={cn("overflow-auto flex justify-end flex-col h-full w-full",
 						calendarOpen ? "items-start" : "lg:items-center"
 					)}>

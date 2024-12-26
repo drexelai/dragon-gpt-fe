@@ -5,7 +5,8 @@ import { CalendarDaysIcon, SquareArrowOutUpRight } from "lucide-react";
 import { ModeToggle } from "../ModeToggle";
 import { Badge } from "../ui/badge";
 import { useCalendarStore } from "@/stores/useCalendarStore";
-import { useRouter } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
+import { cn } from "@/lib/utils";
 
 export default function NavComponents({
 	variant,
@@ -14,19 +15,28 @@ export default function NavComponents({
 }) {
 	const { setCalendarOpen } = useCalendarStore();
 	const router = useRouter();
+	const pathname = usePathname();
 
 	const handleScheduleClick = () => {
 		router.push(`/scheduler`);
 	}
 
+	const isInScheduler = pathname.includes("scheduler");
+
 	return (
 		<>
-			<Button variant="default" className="hover:bg-gray-300/40" onClick={handleScheduleClick}>
+			<Button
+			variant="ghost"
+			className={cn(
+				"hover:bg-gray-300/40",
+				isInScheduler && "dark:bg-gray-200/20 bg-gray-200/60"
+			)}
+			onClick={handleScheduleClick}>
 				<CalendarDaysIcon className="h-[1.2rem] w-[1.2rem] mr-2" />
 				{variant !== "closed" && (
 					<>
 						<p>Dragon Scheduler</p>
-						<Badge className="ml-2 font-normal bg-sage-primary">New</Badge>
+						<Badge className="ml-2 font-normal bg-sky-900">New</Badge>
 					</>
 				)}
 			</Button>
