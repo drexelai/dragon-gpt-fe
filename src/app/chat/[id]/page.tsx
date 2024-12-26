@@ -74,23 +74,6 @@ export default function ChatPage({ params }: { params: { id: string } }) {
 					</div>
 					<div className="flex flex-row">
 						<ChatInterface />
-						{isDesktop
-							? calendarOpen && (<Calendar />)
-							: <Sheet open={calendarOpen} onOpenChange={() => setCalendarOpen()} >
-
-								<SheetContent className="!max-w-full w-full">
-									<div className="flex flex-row gap-6">
-										<SheetTrigger className=" hover:bg-gray-300/40 -top-4 sm:top-0 rounded-sm"
-										>
-											<ArrowLeft />
-											<span className="sr-only">Exit calendar</span>
-										</SheetTrigger>
-										<span className="text-xl font-bold">Dragon Scheduler</span>
-									</div>
-									<Calendar />
-								</SheetContent>
-							</Sheet>
-						}
 					</div>
 				</div>
 			</div>

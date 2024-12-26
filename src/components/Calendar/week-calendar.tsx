@@ -155,12 +155,12 @@ export default function WeekCalendar() {
 
 	return (
 		<div className="w-full max-w-4xl flex flex-col h-[800px] bg-background rounded-lg">
-			<div className="flex items-center gap-2 w-full mt-4 px-4">
+			{/* <div className="flex items-center gap-2 w-full mt-4 px-4">
 				<CalendarDays className="w-6 h-6 text-primary" />
 				<h2 className="text-md lg:text-xl text-primary font-medium">
 					{currentDate.format('MMMM YYYY')}
 				</h2>
-			</div>
+			</div> */}
 
 			<div className="flex items-center p-4 gap-2">
 				<div className="inline-flex -space-x-px rounded-2xl rtl:space-x-reverse shadow-sm border border-neutral-200">

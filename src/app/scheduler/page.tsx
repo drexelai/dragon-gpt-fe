@@ -63,8 +63,8 @@ export default function Page() {
 						{isDesktop
 							? calendarOpen && (<WeekCalendar />)
 							: <Sheet open={calendarOpen} onOpenChange={() => setCalendarOpen()} >
-								<SheetContent className="!max-w-full w-full">
-									<div className="flex flex-row gap-6">
+								<SheetContent className="!max-w-full w-full p-2">
+									<div className="flex flex-row gap-6 ml-8">
 										<SheetTrigger className=" hover:bg-gray-300/40 -top-4 sm:top-0 rounded-sm"
 										>
 											<ArrowLeft />
