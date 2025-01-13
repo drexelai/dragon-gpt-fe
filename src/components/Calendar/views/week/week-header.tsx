@@ -11,7 +11,8 @@ export function WeekHeader({ days, view }: WeekHeaderProps) {
 		<div className={cn(
 			"ml-10 grid",
 			view === "week" && "grid-cols-5",
-			view === "3day" && "grid-cols-3"
+			view === "3day" && "grid-cols-3",
+			view === "day" && "grid-cols-5"
 		)}>
 			{days.map((day, index) => (
 				<div

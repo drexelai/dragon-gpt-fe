@@ -9,14 +9,25 @@ interface EventLayerProps {
 }
 
 export function EventLayer({ events, weekDays, view }: EventLayerProps) {
-	const calculateEventPosition = (event: CalendarEvent) => {
-		const dayIndex = weekDays.findIndex(day => day.isSame(event.start, 'day'));
-		if (dayIndex === -1) return null;
-
+	const calculateEventPosition = (event: CalendarEvent, view: CalendarView) => {
+		console.log(!weekDays[0].isSame(event.start, 'day'))
 		const startHour = moment(event.start).hour();
 		const startMinute = moment(event.start).minute();
 		const duration = moment(event.end).diff(moment(event.start), 'minutes');
 
+		if(view === 'day') {
+			if (!weekDays[0].isSame(event.start, 'day')) return null;
+			console.log(!weekDays[0].isSame(event.start, 'day'))
+			console.log(`${(12 * startHour) + 1} / span ${12 * (duration / 60)}`)
+			return {
+				gridRow: `${(12 * startHour) + 1} / span ${12 * (duration / 60)}`,
+				gridColumn: 1,
+				top: `${moment(event.start).minute()}px`,
+				height: `${moment(event.end).diff(moment(event.start), 'minutes')}px`,
+			}
+		}
+		const dayIndex = weekDays.findIndex(day => day.isSame(event.start, 'day'));
+		if (dayIndex === -1) return null;
 		return {
 			gridRow: `${(12 * startHour) + 1} / span ${12 * (duration / 60)}`, // 5 minutes per slot
 			gridColumn: dayIndex + 1, // +1 because first column is time
@@ -28,12 +39,13 @@ export function EventLayer({ events, weekDays, view }: EventLayerProps) {
 	return (
 		<div
 			className={cn(
-				"mt-2", // offset from the top
+				"mt-2 z-10", // offset from the top
 				"ml-10 lg:ml-[4.5rem]", // Time column width
 				"absolute inset-0 grid h-[1440px]",
 				"grid-cols-[auto_repeat(5,_1fr)] lg:grid-cols-[auto_repeat(7,_1fr)]",
 				view === 'week' && "grid-cols-5",
 				view === '3day' && "grid-cols-3",
+				view === 'day' && "grid-cols-1",
 				"row-start-1 col-start-1"
 			)}
 			style={{
@@ -41,7 +53,7 @@ export function EventLayer({ events, weekDays, view }: EventLayerProps) {
 			}}
 		>
 			{events.map((event) => {
-				const position = calculateEventPosition(event);
+				const position = calculateEventPosition(event, view);
 				if (!position) return null;
 
 				return (

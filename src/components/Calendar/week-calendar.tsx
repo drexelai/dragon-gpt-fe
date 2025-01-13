@@ -9,7 +9,7 @@ import { Button } from '../ui/button';
 import { useMaskImage } from '@/hooks';
 import NewEventButton from './new-event';
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuSeparator, DropdownMenuTrigger } from '../ui/dropdown-menu';
-import { MonthIcon, ScheduleIcon, ThreeDayIcon, WeekIcon } from '@/icons/calendar';
+import { DayIcon, MonthIcon, ScheduleIcon, ThreeDayIcon, WeekIcon } from '@/icons/calendar';
 import { WeekViewGrid } from './views/week/week-view-grid';
 import CalendarHours from './hours';
 
@@ -87,11 +87,11 @@ export default function WeekCalendar() {
 		// 		)
 		// 	);
 		// } else
-		if (currentView === 'week' || currentView === '3day') {
+		if (currentView === 'week' || currentView === '3day' || currentView === 'day') {
 			const newDate = currentDate.clone().subtract(1, "days")
 			setCurrentDate(newDate);
 			setWeekDays(
-				Array.from({ length: currentView === 'week' ? 5 : 3 }, (_, i) =>
+				Array.from({ length: currentView === 'week' || currentView === 'day' ? 5 : 3 }, (_, i) =>
 					moment(newDate).add(i, 'days')
 				)
 			);
@@ -108,11 +108,11 @@ export default function WeekCalendar() {
 		// 		)
 		// 	);
 		// } else
-		if (currentView === 'week' || currentView === '3day') {
+		if (currentView === 'week' || currentView === '3day' || currentView === 'day') {
 			const newDate = currentDate.clone().add(1, "days");
 			setCurrentDate(newDate);
 			setWeekDays(
-				Array.from({ length: currentView === 'week' ? 5 : 3 }, (_, i) =>
+				Array.from({ length: currentView === 'week' || currentView === 'day' ? 5 : 3 }, (_, i) =>
 					moment(newDate).add(i, 'days')
 				)
 			);
@@ -138,7 +138,7 @@ export default function WeekCalendar() {
 	};
 
 	useEffect(() => {
-		if (currentView === 'week') {
+		if (currentView === 'week' || currentView === 'day') {
 			setWeekDays(
 				Array.from({ length: 5 }, (_, i) =>
 					moment(currentDate).add(i, 'days')
@@ -198,6 +198,7 @@ export default function WeekCalendar() {
 								<div className='flex flex-row gap-2'>
 									{currentView === '3day' && (<><ThreeDayIcon />3 Day</>)}
 									{currentView === 'week' && (<><WeekIcon />Week</>)}
+									{currentView === 'day' && (<><DayIcon />Day</>)}
 								</div>
 								<div>
 									<ChevronDownIcon />
@@ -206,6 +207,10 @@ export default function WeekCalendar() {
 							</Button>
 						</DropdownMenuTrigger>
 						<DropdownMenuContent className='rounded-2xl'>
+						<DropdownMenuItem className='flex items-center gap-1' onClick={() => setCurrentView('day')}>
+								<DayIcon />Day
+							</DropdownMenuItem>
+							<DropdownMenuSeparator />
 							<DropdownMenuItem className='flex items-center gap-1' onClick={() => setCurrentView('3day')}>
 								<ThreeDayIcon />3 Day
 							</DropdownMenuItem>
