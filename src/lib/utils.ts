@@ -36,3 +36,10 @@ export const formatHourIntl = (hour: number) => {
 	const date = new Date(0, 0, 0, hour);
 	return formatter.format(date);
   }
+
+export const getTailwindEventColor = (eventColor: string) => {
+	const color = eventColor.split('-')[0];
+	const shade = eventColor.split('-')[1];
+	if(!shade) return `bg-${color}-400`;
+	return `bg-${color}-${shade}`;
+}

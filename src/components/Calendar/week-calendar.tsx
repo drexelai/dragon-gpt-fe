@@ -1,64 +1,52 @@
 import { useEffect, useRef, useState } from 'react';
 import moment from 'moment';
-import { CalendarDays, ChevronDownIcon, ChevronLeft, ChevronRight } from 'lucide-react';
+import { ChevronDownIcon, ChevronLeft, ChevronRight } from 'lucide-react';
 import { WeekHeader } from './views/week/week-header';
-import { TimeGrid } from './time-grid';
 import { EventLayer } from './event-layer';
 import { MinimumWidth, type CalendarEvent } from '@/types';
 import { Button } from '../ui/button';
 import { useMaskImage } from '@/hooks';
-import NewEventButton from './new-event';
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuSeparator, DropdownMenuTrigger } from '../ui/dropdown-menu';
 import { DayIcon, MonthIcon, ScheduleIcon, ThreeDayIcon, WeekIcon } from '@/icons/calendar';
 import { WeekViewGrid } from './views/week/week-view-grid';
 import CalendarHours from './hours';
 
 const generateMockEvents = (baseDate: moment.Moment): CalendarEvent[] => {
-	const today = moment(baseDate).startOf('week').add(1, 'day'); // Start from Monday
+	const today = moment(baseDate);
 
 	return [
 		{
 			id: '1',
-			title: 'Early Morning Workout',
-			start: moment(today).add(1, 'day').hour(6).minute(0).toDate(),
-			end: moment(today).add(1, 'day').hour(7).minute(0).toDate(),
-			color: 'bg-blue-400',
+			title: 'Org Mgmt',
+			location: 'Room 101',
+			start: moment(today).add(1, 'day').hour(9).minute(0).toDate(),
+			end: moment(today).add(1, 'day').hour(10).minute(0).toDate(),
+			color: 'bg-red-300',
 		},
 		{
 			id: '2',
-			title: 'Team Standup',
-			start: moment(today).add(1, 'day').hour(9).minute(30).toDate(),
-			end: moment(today).add(1, 'day').hour(10).minute(0).toDate(),
-			color: 'bg-purple-400',
+			title: 'Macro',
+			location: 'Room 102',
+			start: moment(today).add(1, 'day').hour(10).minute(0).toDate(),
+			end: moment(today).add(1, 'day').hour(11).minute(0).toDate(),
+			color: 'bg-orange-300',
 		},
 		{
 			id: '3',
-			title: 'Project Review',
-			start: moment(today).add(2, 'day').hour(10).minute(0).toDate(),
-			end: moment(today).add(2, 'day').hour(12).minute(0).toDate(),
-			color: 'bg-green-400',
+			title: 'Micro',
+			location: 'Room 103',
+			start: moment(today).add(1, 'day').hour(11).minute(0).toDate(),
+			end: moment(today).add(1, 'day').hour(12).minute(0).toDate(),
+			color: 'bg-yellow-300',
 		},
 		{
 			id: '4',
-			title: 'Lunch with Clients',
-			start: moment(today).add(3, 'day').hour(12).minute(0).toDate(),
-			end: moment(today).add(3, 'day').hour(14).minute(0).toDate(),
-			color: 'bg-yellow-400',
-		},
-		{
-			id: '5',
-			title: 'Design Workshop',
-			start: moment(today).add(4, 'day').hour(14).minute(0).toDate(),
-			end: moment(today).add(4, 'day').hour(16).minute(0).toDate(),
-			color: 'bg-pink-400',
-		},
-		{
-			id: '6',
-			title: 'Evening Yoga',
-			start: moment(today).add(5, 'day').hour(17).minute(0).toDate(),
-			end: moment(today).add(5, 'day').hour(18).minute(0).toDate(),
-			color: 'bg-indigo-400',
-		},
+			title: 'Financial Mgmt',
+			location: 'Room 104',
+			start: moment(today).add(1, 'day').hour(12).minute(0).toDate(),
+			end: moment(today).add(1, 'day').hour(14).minute(0).toDate(),
+			color: 'bg-green-300',
+		}
 	];
 };
 
@@ -69,6 +57,12 @@ export default function WeekCalendar() {
 	const scrollRef = useRef<HTMLDivElement>(null);
 	const [currentView, setCurrentView] = useState<CalendarView>('week');
 
+	const [swipeProgress, setSwipeProgress] = useState(0); // Track swipe progress
+	const [isSwiping, setIsSwiping] = useState(false);
+	const [startX, setStartX] = useState(0);
+	const [offsetX, setOffsetX] = useState(0);
+	const containerRef = useRef<HTMLDivElement>(null);
+
 	useMaskImage(scrollRef);
 
 	const [weekDays, setWeekDays] = useState(
@@ -77,7 +71,7 @@ export default function WeekCalendar() {
 		)
 	);
 
-	const goToPreviousWeek = () => {
+	const goToPrevious = () => {
 		// if (currentView === 'week') {
 		// 	const newDate = currentDate.clone().subtract(1, "week");
 		// 	setCurrentDate(newDate);
@@ -87,18 +81,34 @@ export default function WeekCalendar() {
 		// 		)
 		// 	);
 		// } else
-		if (currentView === 'week' || currentView === '3day' || currentView === 'day') {
+		if (currentView === 'day') {
 			const newDate = currentDate.clone().subtract(1, "days")
 			setCurrentDate(newDate);
 			setWeekDays(
-				Array.from({ length: currentView === 'week' || currentView === 'day' ? 5 : 3 }, (_, i) =>
+				Array.from({ length: 5 }, (_, i) =>
 					moment(newDate).add(i, 'days')
+				)
+			);
+		} else if (currentView === '3day') {
+			const newDate = currentDate.clone().subtract(3, "days");
+			setCurrentDate(newDate);
+			setWeekDays(
+				Array.from({ length: 3 }, (_, i) =>
+					moment(newDate).startOf('day').add(i, 'days')
+				)
+			);
+		} else if (currentView === 'week') {
+			const newDate = currentDate.clone().subtract(1, "week");
+			setCurrentDate(newDate);
+			setWeekDays(
+				Array.from({ length: 5 }, (_, i) =>
+					moment(newDate).startOf('week').add(i, 'days')
 				)
 			);
 		}
 	};
 
-	const goToNextWeek = () => {
+	const goToNext = () => {
 		// if (currentView === 'ddd') {
 		// 	const newDate = currentDate.clone().add(1, "week");
 		// 	setCurrentDate(newDate);
@@ -108,12 +118,28 @@ export default function WeekCalendar() {
 		// 		)
 		// 	);
 		// } else
-		if (currentView === 'week' || currentView === '3day' || currentView === 'day') {
+		if (currentView === 'day') {
 			const newDate = currentDate.clone().add(1, "days");
 			setCurrentDate(newDate);
 			setWeekDays(
-				Array.from({ length: currentView === 'week' || currentView === 'day' ? 5 : 3 }, (_, i) =>
+				Array.from({ length: 5 }, (_, i) =>
 					moment(newDate).add(i, 'days')
+				)
+			);
+		} else if (currentView === 'week') {
+			const newDate = currentDate.clone().add(1, "week");
+			setCurrentDate(newDate);
+			setWeekDays(
+				Array.from({ length: 5 }, (_, i) =>
+					moment(newDate).startOf('week').add(i, 'days')
+				)
+			);
+		} else if (currentView === '3day') {
+			const newDate = currentDate.clone().add(3, "days");
+			setCurrentDate(newDate);
+			setWeekDays(
+				Array.from({ length: 3 }, (_, i) =>
+					moment(newDate).startOf('day').add(i, 'days')
 				)
 			);
 		}
@@ -122,7 +148,7 @@ export default function WeekCalendar() {
 	const goToToday = () => {
 		const newDate = moment();
 		setCurrentDate(moment());
-		if (currentView === 'week') {
+		if (currentView === 'week' || currentView === 'day') {
 			setWeekDays(
 				Array.from({ length: 5 }, (_, i) =>
 					moment(newDate).add(i, 'days')
@@ -135,6 +161,32 @@ export default function WeekCalendar() {
 				)
 			);
 		}
+	};
+
+	const handleTouchStart = (e: React.TouchEvent) => {
+		setIsSwiping(true);
+		setStartX(e.touches[0].clientX);
+	};
+
+	const handleTouchMove = (e: React.TouchEvent) => {
+		if (!isSwiping) return;
+		setOffsetX(e.touches[0].clientX - startX);
+		const currentX = e.touches[0].clientX;
+		const delta = currentX - startX;
+		const progress = Math.max(0, Math.min(1, Math.abs(delta) / window.innerWidth)); // 0 to 1
+		console.log({progress, delta, })
+		setSwipeProgress(progress);
+	};
+
+	const handleTouchEnd = () => {
+		setIsSwiping(false);
+		if (offsetX > 50) {
+			goToPrevious(); // Swipe right
+		} else if (offsetX < -50) {
+			goToNext(); // Swipe left
+		}
+		setOffsetX(0);
+		setSwipeProgress(0);
 	};
 
 	useEffect(() => {
@@ -169,7 +221,7 @@ export default function WeekCalendar() {
 						variant="secondary"
 						size="icon"
 						aria-label="Previous week"
-						onClick={goToPreviousWeek}
+						onClick={goToPrevious}
 					>
 						<ChevronLeft size={16} strokeWidth={2} aria-hidden="true" />
 					</Button>
@@ -185,7 +237,7 @@ export default function WeekCalendar() {
 						variant="secondary"
 						size="icon"
 						aria-label="Next week"
-						onClick={goToNextWeek}
+						onClick={goToNext}
 					>
 						<ChevronRight size={16} strokeWidth={2} aria-hidden="true" />
 					</Button>
@@ -195,7 +247,7 @@ export default function WeekCalendar() {
 					<DropdownMenu>
 						<DropdownMenuTrigger asChild>
 							<Button variant="outline" className='rounded-2xl w-full justify-between'>
-								<div className='flex flex-row gap-2'>
+								<div className='flex flex-row gap-2 items-center'>
 									{currentView === '3day' && (<><ThreeDayIcon />3 Day</>)}
 									{currentView === 'week' && (<><WeekIcon />Week</>)}
 									{currentView === 'day' && (<><DayIcon />Day</>)}
@@ -207,7 +259,7 @@ export default function WeekCalendar() {
 							</Button>
 						</DropdownMenuTrigger>
 						<DropdownMenuContent className='rounded-2xl'>
-						<DropdownMenuItem className='flex items-center gap-1' onClick={() => setCurrentView('day')}>
+							<DropdownMenuItem className='flex items-center gap-1' onClick={() => setCurrentView('day')}>
 								<DayIcon />Day
 							</DropdownMenuItem>
 							<DropdownMenuSeparator />
@@ -234,8 +286,19 @@ export default function WeekCalendar() {
 
 
 			<WeekHeader days={weekDays} view={currentView} />
-			<div className="flex-1 overflow-scroll" ref={scrollRef}>
-				<div className="relative flex-1 grid grid-cols-1 grid-rows-1">
+			<div className="flex-1 overflow-scroll"
+				ref={scrollRef}
+				onTouchStart={handleTouchStart}
+				onTouchMove={handleTouchMove}
+				onTouchEnd={handleTouchEnd}
+			>
+				<div className="relative flex-1 grid grid-cols-1 grid-rows-1"
+					ref={containerRef}
+					style={{
+						opacity: 1 - swipeProgress,
+						transform: `translateX(${offsetX}px)`,
+					}}
+				>
 					<CalendarHours />
 					<WeekViewGrid view={currentView} weekDays={weekDays} />
 					<EventLayer events={events} weekDays={weekDays} view={currentView} />

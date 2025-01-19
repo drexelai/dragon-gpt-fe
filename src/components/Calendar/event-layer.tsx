@@ -1,5 +1,5 @@
 import moment from 'moment';
-import { cn } from '@/lib/utils';
+import { cn, getTailwindEventColor } from '@/lib/utils';
 import type { CalendarEvent } from '@/types';
 
 interface EventLayerProps {
@@ -10,20 +10,14 @@ interface EventLayerProps {
 
 export function EventLayer({ events, weekDays, view }: EventLayerProps) {
 	const calculateEventPosition = (event: CalendarEvent, view: CalendarView) => {
-		console.log(!weekDays[0].isSame(event.start, 'day'))
 		const startHour = moment(event.start).hour();
-		const startMinute = moment(event.start).minute();
 		const duration = moment(event.end).diff(moment(event.start), 'minutes');
 
 		if(view === 'day') {
 			if (!weekDays[0].isSame(event.start, 'day')) return null;
-			console.log(!weekDays[0].isSame(event.start, 'day'))
-			console.log(`${(12 * startHour) + 1} / span ${12 * (duration / 60)}`)
 			return {
 				gridRow: `${(12 * startHour) + 1} / span ${12 * (duration / 60)}`,
 				gridColumn: 1,
-				top: `${moment(event.start).minute()}px`,
-				height: `${moment(event.end).diff(moment(event.start), 'minutes')}px`,
 			}
 		}
 		const dayIndex = weekDays.findIndex(day => day.isSame(event.start, 'day'));
@@ -31,8 +25,6 @@ export function EventLayer({ events, weekDays, view }: EventLayerProps) {
 		return {
 			gridRow: `${(12 * startHour) + 1} / span ${12 * (duration / 60)}`, // 5 minutes per slot
 			gridColumn: dayIndex + 1, // +1 because first column is time
-			top: `${startHour * 60 + startMinute}px`,
-			height: `${duration}px`,
 		};
 	};
 
@@ -60,7 +52,7 @@ export function EventLayer({ events, weekDays, view }: EventLayerProps) {
 					<div
 						key={event.id}
 						className={cn(
-							"flex flex-col relative mx-1 rounded-md p-2 overflow-hidden",
+							"flex flex-col relative mx-1 rounded-md p-2 mb-1 overflow-hidden cursor-pointer",
 							"hover:z-10 hover:max-w-full hover:shadow-md transition-all duration-200 shrink",
 							// view === 'week' && "min-w-[4.8rem] max-w-[4.8rem] sm:min-w-[7rem] sm:max-w-[7rem]",
 							// view === '3day' && "min-w-[8rem] max-w-[8rem]",
@@ -81,13 +73,13 @@ export function EventLayer({ events, weekDays, view }: EventLayerProps) {
 							currentTarget.style.height = `${Math.max(currentHeight, contentHeight)}px`;
 						}}
 						onMouseLeave={(e) => {
-							e.currentTarget.style.height = position.height;
+							e.currentTarget.style.height = 'unset';
 						}}
 					>
 						<p className="text-xs opacity-75 font-semibold">
-							{moment(event.start, ["HH:mm"]).format('h:mm a')}
+							{event.title}
 						</p>
-						<p className="text-xs truncate">{event.title}</p>
+						<p className={cn(`${view === "week" ? "text-[0.5rem] sm:text-xs" : "text-xs"} font-light`)}>{event.location}</p>
 					</div>
 				);
 			})}
