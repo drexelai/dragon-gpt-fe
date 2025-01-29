@@ -1,6 +1,9 @@
 import moment from 'moment';
 import { cn } from '@/lib/utils';
 import { CalendarEvent, CalendarView } from '@/lib/types';
+import { useState } from 'react';
+import EventModal from './components/EventModal';
+import { AnimatePresence } from "framer-motion";
 
 interface EventLayerProps {
 	events: CalendarEvent[];
@@ -9,6 +12,9 @@ interface EventLayerProps {
 }
 
 export function EventLayer({ events, weekDays, view }: EventLayerProps) {
+	const [editModalOpen, setEditModalOpen] = useState(false);
+	const [selectedEvent, setSelectedEvent] = useState<CalendarEvent | null>(null);
+
 	const calculateEventPosition = (event: CalendarEvent, view: CalendarView) => {
 		const startHour = moment(event.start).hour();
 		const duration = moment(event.end).diff(moment(event.start), 'minutes');
@@ -48,9 +54,14 @@ export function EventLayer({ events, weekDays, view }: EventLayerProps) {
 		return {
 			gridRow: `${(12 * startHour) + 1} / span ${12 * (duration / 60)}`,
 			gridColumn: dayIndex + 1,
-			width: isOverlapping ? '47%' : 'unset',
+			width: isOverlapping ? '45%' : 'unset',
 			justifySelf: isOverlapping ? events.findIndex(e => e.id === event.id) % 2 === 0 ? 'end' : 'start' : 'stretch'
 		};
+	};
+
+	const handleEventClick = (event: CalendarEvent) => {
+		setSelectedEvent(event);
+		setEditModalOpen(true);
 	};
 
 	return (
@@ -100,6 +111,7 @@ export function EventLayer({ events, weekDays, view }: EventLayerProps) {
 						onMouseLeave={(e) => {
 							e.currentTarget.style.height = 'unset';
 						}}
+						onClick={() => handleEventClick(event)}
 					>
 						<p className="text-xs opacity-75 font-semibold truncate">
 							{event.title}
@@ -108,6 +120,17 @@ export function EventLayer({ events, weekDays, view }: EventLayerProps) {
 					</div>
 				);
 			})}
+
+			{selectedEvent && (
+				<EventModal
+					event={selectedEvent}
+					open={editModalOpen}
+					onOpenChange={(open) => {
+						setEditModalOpen(open);
+						if (!open) setSelectedEvent(null);
+					}}
+				/>
+			)}
 		</div>
 	);
 }
