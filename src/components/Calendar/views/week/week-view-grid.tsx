@@ -55,9 +55,9 @@ export function WeekViewGrid({ weekDays, view }: WeekViewGridProps) {
 			}}
 		>
 			{/* Current time indicator */}
-			{moment().isSame(weekDays[0], 'day') && (
+			{moment().isSame(weekDays[0], 'day') && view === 'day' && (
 				<div
-					className="absolute w-full z-10 flex items-center pointer-events-none"
+					className="absolute w-full z-50 flex items-center pointer-events-none"
 					style={{
 						top: `${getCurrentTimePosition()}%`
 					}}

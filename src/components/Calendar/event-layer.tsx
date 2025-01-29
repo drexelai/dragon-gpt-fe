@@ -1,6 +1,6 @@
 import moment from 'moment';
-import { cn, getTailwindEventColor } from '@/lib/utils';
-import type { CalendarEvent } from '@/types';
+import { cn } from '@/lib/utils';
+import { CalendarEvent, CalendarView } from '@/lib/types';
 
 interface EventLayerProps {
 	events: CalendarEvent[];
@@ -15,16 +15,41 @@ export function EventLayer({ events, weekDays, view }: EventLayerProps) {
 
 		if(view === 'day') {
 			if (!weekDays[0].isSame(event.start, 'day')) return null;
+
+			// Get all events for this day
+			const dayEvents = events.filter(e => moment(e.start).isSame(weekDays[0], 'day'));
+			const isOverlapping = dayEvents.some(e =>
+				e.id !== event.id &&
+				moment(event.start).isBefore(moment(e.end)) &&
+				moment(event.end).isAfter(moment(e.start))
+			);
+
+			if(isOverlapping) console.log(event.title, events.findIndex(e => e.id === event.id) % 2 === 0);
+
 			return {
 				gridRow: `${(12 * startHour) + 1} / span ${12 * (duration / 60)}`,
 				gridColumn: 1,
-			}
+				width: isOverlapping ? '48%' : '100%',
+				justifySelf: isOverlapping ? events.findIndex(e => e.id === event.id) % 2 === 0 ? 'end' : 'start' : 'stretch'
+			};
 		}
+
 		const dayIndex = weekDays.findIndex(day => day.isSame(event.start, 'day'));
 		if (dayIndex === -1) return null;
+
+		// Check for overlaps
+		const dayEvents = events.filter(e => moment(e.start).isSame(weekDays[dayIndex], 'day'));
+		const isOverlapping = dayEvents.some(e =>
+			e.id !== event.id &&
+			moment(event.start).isBefore(moment(e.end)) &&
+			moment(event.end).isAfter(moment(e.start))
+		);
+
 		return {
-			gridRow: `${(12 * startHour) + 1} / span ${12 * (duration / 60)}`, // 5 minutes per slot
-			gridColumn: dayIndex + 1, // +1 because first column is time
+			gridRow: `${(12 * startHour) + 1} / span ${12 * (duration / 60)}`,
+			gridColumn: dayIndex + 1,
+			width: isOverlapping ? '47%' : 'unset',
+			justifySelf: isOverlapping ? events.findIndex(e => e.id === event.id) % 2 === 0 ? 'end' : 'start' : 'stretch'
 		};
 	};
 
@@ -54,8 +79,6 @@ export function EventLayer({ events, weekDays, view }: EventLayerProps) {
 						className={cn(
 							"flex flex-col relative mx-1 rounded-md p-2 mb-1 overflow-hidden cursor-pointer",
 							"hover:z-10 hover:max-w-full hover:shadow-md transition-all duration-200 shrink",
-							// view === 'week' && "min-w-[4.8rem] max-w-[4.8rem] sm:min-w-[7rem] sm:max-w-[7rem]",
-							// view === '3day' && "min-w-[8rem] max-w-[8rem]",
 							event.color,
 							"dark:invert dark:bg-neutral-300 dark:shadow-white",
 							"bg-opacity-70 hover:bg-opacity-100"
@@ -63,6 +86,8 @@ export function EventLayer({ events, weekDays, view }: EventLayerProps) {
 						style={{
 							gridRow: position.gridRow,
 							gridColumn: position.gridColumn,
+							width: position.width,
+							justifySelf: position.justifySelf
 						}}
 						onMouseEnter={(e) => {
 							const currentTarget = e.currentTarget;
@@ -76,10 +101,10 @@ export function EventLayer({ events, weekDays, view }: EventLayerProps) {
 							e.currentTarget.style.height = 'unset';
 						}}
 					>
-						<p className="text-xs opacity-75 font-semibold">
+						<p className="text-xs opacity-75 font-semibold truncate">
 							{event.title}
 						</p>
-						<p className={cn(`${view === "week" ? "text-[0.5rem] sm:text-xs" : "text-xs"} font-light`)}>{event.location}</p>
+						<p className={cn(`${view === "week" ? "text-[0.5rem] sm:text-xs" : "text-xs"} font-light truncate`)}>{event.location}</p>
 					</div>
 				);
 			})}

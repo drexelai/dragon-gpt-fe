@@ -14,42 +14,90 @@ import ScheduleView from './views/schedule-view';
 import { CalendarView } from '@/lib/types';
 
 const generateMockEvents = (baseDate: moment.Moment): CalendarEvent[] => {
-	const today = moment(baseDate);
-
-	return [
-		{
-			id: '1',
-			title: 'Org Mgmt',
-			location: 'Room 101',
-			start: moment(today).add(1, 'day').hour(9).minute(0).toDate(),
-			end: moment(today).add(1, 'day').hour(10).minute(0).toDate(),
-			color: 'bg-red-300',
-		},
-		{
-			id: '2',
-			title: 'Macro',
-			location: 'Room 102',
-			start: moment(today).add(1, 'day').hour(10).minute(0).toDate(),
-			end: moment(today).add(1, 'day').hour(11).minute(0).toDate(),
-			color: 'bg-orange-300',
-		},
-		{
-			id: '3',
-			title: 'Micro',
-			location: 'Room 103',
-			start: moment(today).add(1, 'day').hour(11).minute(0).toDate(),
-			end: moment(today).add(1, 'day').hour(12).minute(0).toDate(),
-			color: 'bg-yellow-300',
-		},
-		{
-			id: '4',
-			title: 'Financial Mgmt',
-			location: 'Room 104',
-			start: moment(today).add(1, 'day').hour(12).minute(0).toDate(),
-			end: moment(today).add(1, 'day').hour(14).minute(0).toDate(),
-			color: 'bg-green-300',
-		}
+	const events: CalendarEvent[] = [];
+	const eventTitles = [
+		'Team Meeting',
+		'Project Review',
+		'Client Call',
+		'Lunch Break',
+		'Code Review',
+		'Design Sprint',
+		'Weekly Sync',
+		'Planning Session',
+		'1:1 Meeting',
+		'Workshop'
 	];
+
+	const locations = [
+		'Room 101',
+		'Room 102',
+		'Room 103',
+		'Conference A',
+		'Conference B',
+		'Meeting Room 1',
+		'Meeting Room 2',
+		'Cafeteria',
+		'Office',
+		'Virtual'
+	];
+
+	const colors = [
+		'bg-red-300',
+		'bg-orange-300',
+		'bg-yellow-300',
+		'bg-green-300',
+		'bg-blue-300',
+		'bg-indigo-300',
+		'bg-purple-300',
+		'bg-pink-300'
+	];
+
+	// Generate events for 14 days
+	for (let day = 0; day < 14; day++) {
+		const currentDay = moment(baseDate).add(day, 'days');
+
+		// Skip weekends
+		if (currentDay.day() === 0 || currentDay.day() === 6) continue;
+
+		// Random number of events for this day (2-5)
+		const numEvents = Math.floor(Math.random() * 4) + 2;
+
+		// Keep track of used hours to avoid overlap
+		const usedHours = new Set();
+
+		for (let i = 0; i < numEvents; i++) {
+			// Find an available start hour (9-16)
+			let startHour;
+			do {
+				startHour = Math.floor(Math.random() * 8) + 9; // 9 AM to 4 PM
+			} while (usedHours.has(startHour));
+
+			usedHours.add(startHour);
+
+			// Random duration 1-2 hours
+			const duration = Math.random() < 0.7 ? 1 : 2;
+
+			events.push({
+				id: `${day}-${i}`,
+				title: eventTitles[Math.floor(Math.random() * eventTitles.length)],
+				location: locations[Math.floor(Math.random() * locations.length)],
+				start: moment(currentDay)
+					.hour(startHour)
+					.minute(0)
+					.toDate(),
+				end: moment(currentDay)
+					.hour(startHour + duration)
+					.minute(0)
+					.toDate(),
+				color: colors[Math.floor(Math.random() * colors.length)],
+			});
+		}
+
+		// Sort events by start time
+		events.sort((a, b) => moment(a.start).diff(moment(b.start)));
+	}
+
+	return events;
 };
 
 export default function WeekCalendar() {
