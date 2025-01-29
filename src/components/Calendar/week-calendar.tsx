@@ -74,77 +74,63 @@ export default function WeekCalendar() {
 	);
 
 	const goToPrevious = () => {
-		// if (currentView === 'week') {
-		// 	const newDate = currentDate.clone().subtract(1, "week");
-		// 	setCurrentDate(newDate);
-		// 	setWeekDays(
-		// 		Array.from({ length: 5 }, (_, i) =>
-		// 			moment(newDate).startOf('week').add(i, 'days')
-		// 		)
-		// 	);
-		// } else
+		let newDate: moment.Moment;
 		if (currentView === 'day') {
-			const newDate = currentDate.clone().subtract(1, "days")
-			setCurrentDate(newDate);
+			newDate = currentDate.clone().subtract(1, "days");
 			setWeekDays(
 				Array.from({ length: 5 }, (_, i) =>
 					moment(newDate).add(i, 'days')
 				)
 			);
 		} else if (currentView === '3day') {
-			const newDate = currentDate.clone().subtract(3, "days");
-			setCurrentDate(newDate);
+			const firstShownDate = weekDays[0];
+			newDate = moment(firstShownDate).subtract(3, "days");
 			setWeekDays(
 				Array.from({ length: 3 }, (_, i) =>
-					moment(newDate).startOf('day').add(i, 'days')
+					moment(newDate).add(i, 'days')
 				)
 			);
 		} else if (currentView === 'week') {
-			const newDate = currentDate.clone().subtract(1, "week");
-			setCurrentDate(newDate);
+			const firstShownDate = weekDays[0];
+			newDate = moment(firstShownDate).subtract(5, "days");
 			setWeekDays(
 				Array.from({ length: 5 }, (_, i) =>
-					moment(newDate).startOf('week').add(i, 'days')
+					moment(newDate).add(i, 'days')
 				)
 			);
 		}
+
+		setCurrentDate(newDate!);
 	};
 
 	const goToNext = () => {
-		// if (currentView === 'ddd') {
-		// 	const newDate = currentDate.clone().add(1, "week");
-		// 	setCurrentDate(newDate);
-		// 	setWeekDays(
-		// 		Array.from({ length: 5 }, (_, i) =>
-		// 			moment(newDate).startOf('week').add(i, 'days')
-		// 		)
-		// 	);
-		// } else
+		let newDate: moment.Moment;
 		if (currentView === 'day') {
-			const newDate = currentDate.clone().add(1, "days");
-			setCurrentDate(newDate);
+			newDate = currentDate.clone().add(1, "days");
 			setWeekDays(
 				Array.from({ length: 5 }, (_, i) =>
 					moment(newDate).add(i, 'days')
 				)
 			);
-		} else if (currentView === 'week') {
-			const newDate = currentDate.clone().add(1, "week");
-			setCurrentDate(newDate);
-			setWeekDays(
-				Array.from({ length: 5 }, (_, i) =>
-					moment(newDate).startOf('week').add(i, 'days')
-				)
-			);
 		} else if (currentView === '3day') {
-			const newDate = currentDate.clone().add(3, "days");
-			setCurrentDate(newDate);
+			const lastShownDate = weekDays[2];
+			newDate = moment(lastShownDate).add(1, "days");
 			setWeekDays(
 				Array.from({ length: 3 }, (_, i) =>
-					moment(newDate).startOf('day').add(i, 'days')
+					moment(newDate).add(i, 'days')
+				)
+			);
+		} else if (currentView === 'week') {
+			const lastShownDate = weekDays[4];
+			newDate = moment(lastShownDate).add(1, "days");
+			setWeekDays(
+				Array.from({ length: 5 }, (_, i) =>
+					moment(newDate).add(i, 'days')
 				)
 			);
 		}
+
+		setCurrentDate(newDate!);
 	};
 
 	const goToToday = () => {
