@@ -1,5 +1,6 @@
 import moment from 'moment';
 import { cn } from '@/lib/utils';
+import { CalendarView } from '@/lib/types';
 
 interface WeekHeaderProps {
 	days: moment.Moment[];

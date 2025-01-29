@@ -10,6 +10,8 @@ import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuSepara
 import { DayIcon, MonthIcon, ScheduleIcon, ThreeDayIcon, WeekIcon } from '@/icons/calendar';
 import { WeekViewGrid } from './views/week/week-view-grid';
 import CalendarHours from './hours';
+import ScheduleView from './views/schedule-view';
+import { CalendarView } from '@/lib/types';
 
 const generateMockEvents = (baseDate: moment.Moment): CalendarEvent[] => {
 	const today = moment(baseDate);
@@ -53,7 +55,7 @@ const generateMockEvents = (baseDate: moment.Moment): CalendarEvent[] => {
 export default function WeekCalendar() {
 	const [currentDate, setCurrentDate] = useState(moment());
 	const [events] = useState<CalendarEvent[]>(() => generateMockEvents(currentDate));
-	const isDesktop = window.innerWidth > MinimumWidth.Large;
+	const isDesktop = window?.innerWidth > MinimumWidth.Large;
 	const scrollRef = useRef<HTMLDivElement>(null);
 	const [currentView, setCurrentView] = useState<CalendarView>('week');
 
@@ -174,7 +176,7 @@ export default function WeekCalendar() {
 		const currentX = e.touches[0].clientX;
 		const delta = currentX - startX;
 		const progress = Math.max(0, Math.min(1, Math.abs(delta) / window.innerWidth)); // 0 to 1
-		console.log({progress, delta, })
+		console.log({ progress, delta, })
 		setSwipeProgress(progress);
 	};
 
@@ -251,6 +253,7 @@ export default function WeekCalendar() {
 									{currentView === '3day' && (<><ThreeDayIcon />3 Day</>)}
 									{currentView === 'week' && (<><WeekIcon />Week</>)}
 									{currentView === 'day' && (<><DayIcon />Day</>)}
+									{currentView === 'schedule' && (<><ScheduleIcon />Schedule</>)}
 								</div>
 								<div>
 									<ChevronDownIcon />
@@ -275,7 +278,7 @@ export default function WeekCalendar() {
 								<MonthIcon />Month
 							</DropdownMenuItem>
 							<DropdownMenuSeparator />
-							<DropdownMenuItem className='flex items-center gap-1'>
+							<DropdownMenuItem className='flex items-center gap-1' onClick={() => setCurrentView('schedule')}>
 								<ScheduleIcon />Schedule
 							</DropdownMenuItem>
 						</DropdownMenuContent>
@@ -284,26 +287,31 @@ export default function WeekCalendar() {
 
 			</div>
 
-
-			<WeekHeader days={weekDays} view={currentView} />
-			<div className="flex-1 overflow-scroll"
-				ref={scrollRef}
-				onTouchStart={handleTouchStart}
-				onTouchMove={handleTouchMove}
-				onTouchEnd={handleTouchEnd}
-			>
-				<div className="relative flex-1 grid grid-cols-1 grid-rows-1"
-					ref={containerRef}
-					style={{
-						opacity: 1 - swipeProgress,
-						transform: `translateX(${offsetX}px)`,
-					}}
+			{currentView === 'schedule' ? (
+				<ScheduleView events={events} />
+			) : (
+			<>
+				<WeekHeader days={weekDays} view={currentView} />
+				<div className="flex-1 overflow-scroll"
+					ref={scrollRef}
+					onTouchStart={handleTouchStart}
+					onTouchMove={handleTouchMove}
+					onTouchEnd={handleTouchEnd}
 				>
-					<CalendarHours />
-					<WeekViewGrid view={currentView} weekDays={weekDays} />
-					<EventLayer events={events} weekDays={weekDays} view={currentView} />
+					<div className="relative flex-1 grid grid-cols-1 grid-rows-1"
+						ref={containerRef}
+						style={{
+							opacity: 1 - swipeProgress,
+							transform: `translateX(${offsetX}px)`,
+						}}
+					>
+						<CalendarHours />
+						<WeekViewGrid view={currentView} weekDays={weekDays} />
+						<EventLayer events={events} weekDays={weekDays} view={currentView} />
+					</div>
 				</div>
-			</div>
+			</>
+			)}
 		</div>
 	);
 }

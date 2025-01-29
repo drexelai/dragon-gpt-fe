@@ -13,4 +13,12 @@ type Message = {
 }
 
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
-type CalendarView = 'week' | '3day' | 'day';
+export type CalendarView = 'week' | '3day' | 'day' | 'schedule';
+export interface CalendarEvent {
+	id: string;
+	title: string;
+	location?: string;
+	start: Date;
+	end: Date;
+	color: string;
+}
