@@ -78,7 +78,7 @@ export function WeekViewGrid({ weekDays, view }: WeekViewGridProps) {
 							key={hour}
 							className={cn(
 								"h-[60px] border-r border-t border-border/50 dark:border-neutral-200/10",
-								findTodayIndex(weekDays) === dayIndex && view !== 'day' && "bg-neutral-100"
+								findTodayIndex(weekDays) === dayIndex && view !== 'day' && "bg-neutral-100 dark:bg-neutral-900/30"
 							)}
 							style={{
 								gridRow: `span 12`, // 12 5-minute slots per hour

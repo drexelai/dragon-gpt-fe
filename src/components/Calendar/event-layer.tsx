@@ -91,7 +91,7 @@ export function EventLayer({ events, weekDays, view }: EventLayerProps) {
 							"flex flex-col relative mx-1 rounded-md p-2 mb-1 overflow-hidden cursor-pointer",
 							"hover:z-10 hover:max-w-full hover:shadow-md transition-all duration-200 shrink",
 							event.color,
-							"dark:invert dark:bg-neutral-300 dark:shadow-white",
+							"",
 							"bg-opacity-70 hover:bg-opacity-100"
 						)}
 						style={{

@@ -33,7 +33,7 @@ export default function ScheduleView({ events }: { events: CalendarEvent[] }) {
 
 	return (
 		<div className="flex flex-row gap-4 w-full h-full overflow-auto">
-			<div className="flex flex-col bg-sky-50 rounded-lg h-fit gap-4">
+			<div className="flex flex-col bg-sky-50 dark:bg-neutral-900/30 rounded-lg h-fit gap-4">
 				{/** Day column */}
 				{sortedDays.map((day) => (
 					<div

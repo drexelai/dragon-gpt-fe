@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { CalendarEvent } from "@/lib/types";
-import { CircleAlert, SquarePenIcon } from "lucide-react";
+import { CircleAlert, SquarePenIcon, Trash, Trash2Icon } from "lucide-react";
 import { useId, useState, useEffect } from "react";
 import { z } from "zod";
 import { zodResolver } from "@hookform/resolvers/zod";
@@ -194,9 +194,9 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 											onOpenChange(false);
 										}
 									}}
-									className="w-full"
+									
 								>
-									Delete
+									<Trash2Icon />
 								</Button>
 								</div>
 							</form>

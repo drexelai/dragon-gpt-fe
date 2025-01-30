@@ -282,7 +282,7 @@ export default function WeekCalendar() {
 				<div className='w-full'>
 					<DropdownMenu>
 						<DropdownMenuTrigger asChild>
-							<Button variant="outline" className='rounded-2xl w-full justify-between'>
+							<Button variant="outline" className='rounded-2xl w-full justify-between dark:border-neutral-300'>
 								<div className='flex flex-row gap-2 items-center'>
 									{currentView === '3day' && (<><ThreeDayIcon />3 Day</>)}
 									{currentView === 'week' && (<><WeekIcon />Week</>)}
