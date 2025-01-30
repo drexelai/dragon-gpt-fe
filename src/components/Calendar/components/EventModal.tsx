@@ -116,7 +116,7 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 						<SquarePenIcon className="opacity-80" size={16} strokeWidth={2} />
 					</div>
 					<DialogHeader className="w-full">
-						<DialogTitle className="sm:text-center">Edit {event.title}</DialogTitle>
+						<DialogTitle className="sm:text-center max-w-80 truncate">Edit {event.title}</DialogTitle>
 						<DialogDescription className="sm:text-center">
 							Make changes to your event here
 						</DialogDescription>

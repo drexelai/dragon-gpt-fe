@@ -242,7 +242,7 @@ export default function WeekCalendar() {
 	}, [currentView]);
 
 	return (
-		<div className="w-full max-w-4xl flex flex-col h-[800px] bg-background rounded-lg">
+		<div className="w-full max-w-4xl flex flex-col h-full bg-background rounded-lg">
 			{/* <div className="flex items-center gap-2 w-full mt-4 px-4">
 				<CalendarDays className="w-6 h-6 text-primary" />
 				<h2 className="text-md lg:text-xl text-primary font-medium">

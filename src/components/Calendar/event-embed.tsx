@@ -10,7 +10,7 @@ export default function EventEmbed({ event }: { event: CalendarEvent }) {
 
 	return (
 		<div
-			className={cn("flex flex-row p-3 gap-2 rounded-xl bg-opacity-70 hover:bg-opacity-100", event.color)}
+			className={cn("flex flex-row py-3 px-1 gap-2 rounded-xl bg-opacity-70 hover:bg-opacity-100 shadow-md", event.color)}
 			onClick={() => setOpen(true)}
 		>
 			<div onClick={(e) => e.stopPropagation()}>
