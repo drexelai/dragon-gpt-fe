@@ -28,9 +28,7 @@ export default function ScheduleView({ events }: { events: CalendarEvent[] }) {
 			return moment(day).isSame(moment(), 'day') ? 5 : 0; // 5rem for empty today, 0 for other empty days
 		}
 
-		// Calculate height based on number of events
-		// Each event is ~5rem tall plus some gap spacing
-		return groupedEvents[day].length * 5; // 5.5rem per event to account for gaps
+		return groupedEvents[day].length * 5;
 	};
 
 	return (
@@ -75,7 +73,10 @@ export default function ScheduleView({ events }: { events: CalendarEvent[] }) {
 							</div>
 						) : (
 							groupedEvents[day].map((event) => (
-								<EventEmbed event={event} key={event.id} />
+								<EventEmbed
+									key={event.id}
+									event={event}
+								/>
 							))
 						)}
 					</div>

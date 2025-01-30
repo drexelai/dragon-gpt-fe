@@ -97,7 +97,11 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 		<Dialog
 			open={open}
 			onOpenChange={(open) => {
-				if (!open && isDirty && !window.confirm('You have unsaved changes. Are you sure you want to close?')) {
+				if (!open && isDirty) {
+					if (window.confirm('You have unsaved changes. Are you sure you want to close?')) {
+						setIsDirty(false);
+						onOpenChange(false);
+					}
 					return;
 				}
 				onOpenChange(open);

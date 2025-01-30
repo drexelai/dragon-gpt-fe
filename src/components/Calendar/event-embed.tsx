@@ -5,22 +5,21 @@ import moment from "moment";
 import EventModal from "./components/EventModal";
 import { useState } from "react";
 
-export default function EventEmbed({ event, key }: { event: CalendarEvent, key: string }) {
+export default function EventEmbed({ event }: { event: CalendarEvent }) {
 	const [open, setOpen] = useState(false);
 
 	return (
 		<div
 		className={cn("flex flex-row p-3 gap-2 rounded-xl bg-opacity-70 hover:bg-opacity-100", event.color)}
-		key={key}
 		onClick={() => setOpen(true)}
 		>
-			<EventModal
-				event={event}
-				open={open}
-				onOpenChange={(open) => {
-					setOpen(open);
-				}}
-			/>
+			<div onClick={(e) => e.stopPropagation()}>
+				<EventModal
+					event={event}
+					open={open}
+					onOpenChange={setOpen}
+				/>
+			</div>
 			<Separator orientation="vertical" className={"bg-primary"} />
 			<div className="flex flex-col">
 				<p className="text-lg font-medium">{event.title}</p>
