@@ -22,7 +22,7 @@ export default function EventEmbed({ event }: { event: CalendarEvent }) {
 			</div>
 			<Separator orientation="vertical" className={"bg-primary"} />
 			<div className="flex flex-col">
-				<p className="text-lg font-medium">{event.title}</p>
+				<p className="text-base font-medium">{event.title}</p>
 				<span className="text-sm flex flex-row gap-2 items-center">
 					<p className="min-w-20">{event.location}</p>
 					<p>{moment(event.start).format("h:mm a")} - {moment(event.end).format("h:mm a")}</p>

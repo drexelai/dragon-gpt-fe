@@ -183,7 +183,7 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 								/>
 								<div className="flex flex-row gap-1">
 								<Button type="submit" disabled={isSubmitting} className="mr-2 w-full bg-green-500">
-									{isSubmitting ? 'Saving...' : 'Submit'}
+									{isSubmitting ? 'Saving...' : 'Save'}
 								</Button>
 								<Button
 									type="button"

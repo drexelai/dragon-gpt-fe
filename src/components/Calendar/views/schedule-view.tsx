@@ -28,7 +28,7 @@ export default function ScheduleView({ events }: { events: CalendarEvent[] }) {
 			return moment(day).isSame(moment(), 'day') ? 5 : 0; // 5rem for empty today, 0 for other empty days
 		}
 
-		return groupedEvents[day].length * 5;
+		return groupedEvents[day].length * 4.75;
 	};
 
 	return (

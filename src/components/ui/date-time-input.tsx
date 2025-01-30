@@ -6,17 +6,23 @@ import { CalendarDateTime } from "@internationalized/date";
 export default function DateTimeInput({ label, value, onChange }: { label: string, value: Date, onChange: (date: Date) => void }) {
 	return (
 		<DateField
-		className="space-y-2"
-		granularity="minute"
-		hourCycle={12}
-		value={new CalendarDateTime(
-			value.getFullYear(),
-			value.getMonth() + 1,
-			value.getDate(),
-			value.getHours(),
-			value.getMinutes()
-		)}
-		onChange={(date) => onChange(date ? date.toDate('UTC') : new Date())}
+			className="space-y-2"
+			granularity="minute"
+			hourCycle={12}
+			hideTimeZone
+			value={new CalendarDateTime(
+				value.getFullYear(),
+				value.getMonth() + 1,
+				value.getDate(),
+				value.getHours(),
+				value.getMinutes()
+			)}
+			onChange={(date) => {
+				if (date) {
+					const newDate = date.toDate(Intl.DateTimeFormat().resolvedOptions().timeZone);
+					onChange(newDate);
+				}
+			}}
 		>
 			<Label className="text-sm font-medium text-muted-foreground">{label}</Label>
 			<DateInput className="relative inline-flex h-9 w-full items-center overflow-hidden whitespace-nowrap rounded-lg border border-input bg-background px-3 py-2 text-sm shadow-sm shadow-black/5 transition-shadow data-[focus-within]:border-ring data-[disabled]:opacity-50 data-[focus-within]:outline-none data-[focus-within]:ring-[3px] data-[focus-within]:ring-ring/20 tracking-tighter">
