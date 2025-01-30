@@ -148,12 +148,12 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 											<FormMessage />
 										</FormItem>
 									)} />
-									<div className="flex flex-row gap-2">
+									<div className="flex flex-col sm:flex-row gap-2">
 										<FormField
 										control={form.control}
 										name="start"
 										render={({ field }) => (
-											<FormItem className="w-full text-start">
+											<FormItem className="text-start">
 												<DateTimeInput label="Start" value={field.value} onChange={field.onChange} />
 												<FormMessage />
 											</FormItem>
@@ -162,7 +162,7 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 										control={form.control}
 										name="end"
 										render={({ field }) => (
-											<FormItem className="w-full text-start">
+											<FormItem className="text-start">
 												<DateTimeInput label="End" value={field.value} onChange={field.onChange} />
 												<FormMessage />
 											</FormItem>
@@ -194,9 +194,10 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 											onOpenChange(false);
 										}
 									}}
-									
+
 								>
-									<Trash2Icon />
+									<Trash2Icon className="scale-75"/>
+									<span className="sr-only">Delete Event</span>
 								</Button>
 								</div>
 							</form>
