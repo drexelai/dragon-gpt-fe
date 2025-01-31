@@ -3,7 +3,6 @@ import { cn } from '@/lib/utils';
 import { CalendarEvent, CalendarView } from '@/lib/types';
 import { useState } from 'react';
 import EventModal from './components/EventModal';
-import { AnimatePresence } from "framer-motion";
 
 interface EventLayerProps {
 	events: CalendarEvent[];

@@ -1,12 +1,11 @@
 "use client";
 
-import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from "@/components/ui/dialog";
+import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from "@/components/ui/dialog";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-import { Label } from "@/components/ui/label";
 import { CalendarEvent } from "@/lib/types";
-import { CircleAlert, SquarePenIcon, Trash, Trash2Icon } from "lucide-react";
-import { useId, useState, useEffect } from "react";
+import { SquarePenIcon, Trash2Icon } from "lucide-react";
+import { useState, useEffect } from "react";
 import { z } from "zod";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { useForm } from "react-hook-form";
@@ -48,8 +47,6 @@ const eventForm = z.object({
 });
 
 export default function EventModal({ event, open, onOpenChange }: { event: CalendarEvent, open: boolean, onOpenChange: (open: boolean) => void }) {
-	const id = useId();
-	const [inputValue, setInputValue] = useState("");
 	const [isSubmitting, setIsSubmitting] = useState(false);
 	const [isDirty, setIsDirty] = useState(false);
 
@@ -86,10 +83,12 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 			event.color = values.color;
 			toast.success('Changes saved successfully');
 		} catch (error: unknown) {
+			console.error(error);
 			toast.error('Failed to save changes');
 		} finally {
 			setIsSubmitting(false);
 			onOpenChange(false);
+			setIsDirty(false);
 		}
 	}
 

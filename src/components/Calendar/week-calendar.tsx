@@ -241,7 +241,7 @@ export default function WeekCalendar() {
 				)
 			);
 		}
-	}, [currentView]);
+	}, [currentView, currentDate]);
 
 	const handleViewChange = (view: CalendarView) => {
 		setCurrentView(view);
