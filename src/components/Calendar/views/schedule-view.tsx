@@ -1,7 +1,7 @@
 import { CalendarEvent } from "@/lib/types";
 import { cn } from "@/lib/utils";
 import moment from "moment";
-import EventEmbed from "../event-embed";
+import EventEmbed from "../components/EventEmbed";
 import ZzIcon from "@/components/ui/zz-icon";
 import React from "react";
 

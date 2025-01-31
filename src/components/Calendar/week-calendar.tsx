@@ -11,6 +11,7 @@ import { DayIcon, MonthIcon, ScheduleIcon, ThreeDayIcon, WeekIcon } from '@/icon
 import { WeekViewGrid } from './views/week/week-view-grid';
 import CalendarHours from './hours';
 import ScheduleView from './views/schedule-view';
+import MonthView from './views/month/MonthView';
 
 const generateMockEvents = (baseDate: moment.Moment): CalendarEvent[] => {
 	const events: CalendarEvent[] = [];
@@ -342,6 +343,8 @@ export default function WeekCalendar() {
 
 			{currentView === 'schedule' ? (
 				<ScheduleView events={events} />
+			) : currentView === 'month' ? (
+				<MonthView events={events} />
 			) : (
 			<>
 				<WeekHeader days={weekDays} view={currentView} />

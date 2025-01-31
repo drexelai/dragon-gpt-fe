@@ -1,8 +1,8 @@
 import { CalendarEvent } from "@/lib/types";
-import { Separator } from "../ui/separator";
+import { Separator } from "../../ui/separator";
 import { cn } from "@/lib/utils";
 import moment from "moment";
-import EventModal from "./components/EventModal";
+import EventModal from "./EventModal";
 import { useState } from "react";
 
 export default function EventEmbed({ event }: { event: CalendarEvent }) {
