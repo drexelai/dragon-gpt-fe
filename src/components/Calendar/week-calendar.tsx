@@ -3,7 +3,7 @@ import moment from 'moment';
 import { ChevronDownIcon, ChevronLeft, ChevronRight } from 'lucide-react';
 import { WeekHeader } from './views/week/week-header';
 import { EventLayer } from './event-layer';
-import { MinimumWidth, type CalendarEvent } from '@/types';
+import { MinimumWidth } from '@/types';
 import { Button } from '../ui/button';
 import { useMaskImage } from '@/hooks';
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuSeparator, DropdownMenuTrigger } from '../ui/dropdown-menu';
@@ -11,7 +11,6 @@ import { DayIcon, MonthIcon, ScheduleIcon, ThreeDayIcon, WeekIcon } from '@/icon
 import { WeekViewGrid } from './views/week/week-view-grid';
 import CalendarHours from './hours';
 import ScheduleView from './views/schedule-view';
-import { CalendarView } from '@/lib/types';
 
 const generateMockEvents = (baseDate: moment.Moment): CalendarEvent[] => {
 	const events: CalendarEvent[] = [];
@@ -102,14 +101,14 @@ const generateMockEvents = (baseDate: moment.Moment): CalendarEvent[] => {
 
 export default function WeekCalendar() {
 	const [currentDate, setCurrentDate] = useState(moment());
-	const [events] = useState<CalendarEvent[]>(() => generateMockEvents(currentDate));
-	const isDesktop = window?.innerWidth > MinimumWidth.Large;
-	const scrollRef = useRef<HTMLDivElement>(null);
 	const [currentView, setCurrentView] = useState<CalendarView>(() => {
 		const savedView = localStorage.getItem('calendarView');
 		return (savedView as CalendarView) || '3day';
 	});
 
+	const [events] = useState<CalendarEvent[]>(() => generateMockEvents(currentDate));
+	const isDesktop = window?.innerWidth > MinimumWidth.Large;
+	const scrollRef = useRef<HTMLDivElement>(null);
 	const [swipeProgress, setSwipeProgress] = useState(0);
 	const [isSwiping, setIsSwiping] = useState(false);
 	const [startX, setStartX] = useState(0);
@@ -295,6 +294,7 @@ export default function WeekCalendar() {
 									{currentView === 'week' && (<><WeekIcon />Week</>)}
 									{currentView === 'day' && (<><DayIcon />Day</>)}
 									{currentView === 'schedule' && (<><ScheduleIcon />Schedule</>)}
+									{currentView === 'month' && (<><MonthIcon />Month</>)}
 								</div>
 								<div>
 									<ChevronDownIcon />
@@ -324,7 +324,10 @@ export default function WeekCalendar() {
 								<WeekIcon /> Week
 							</DropdownMenuItem>
 							<DropdownMenuSeparator />
-							<DropdownMenuItem className='flex items-center gap-1'>
+							<DropdownMenuItem
+								className='flex items-center gap-1'
+								onClick={() => handleViewChange('month')}
+							>
 								<MonthIcon />Month
 							</DropdownMenuItem>
 							<DropdownMenuSeparator />
