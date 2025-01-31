@@ -116,7 +116,11 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 						<SquarePenIcon className="opacity-80" size={16} strokeWidth={2} />
 					</div>
 					<DialogHeader className="w-full">
-						<DialogTitle className="sm:text-center max-w-80 truncate">Edit {event.title}</DialogTitle>
+						<div className="flex justify-center">
+							<DialogTitle className="text-center truncate max-w-[20rem] px-4 pb-1">
+								Edit {event.title}
+							</DialogTitle>
+						</div>
 						<DialogDescription className="sm:text-center">
 							Make changes to your event here
 						</DialogDescription>
@@ -136,7 +140,7 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 											<FormMessage />
 										</FormItem>
 									)} />
-									<FormField
+								<FormField
 									control={form.control}
 									name="location"
 									render={({ field }) => (
@@ -148,57 +152,60 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 											<FormMessage />
 										</FormItem>
 									)} />
+								<div className="flex flex-row sm:flex-col gap-4">
 									<div className="flex flex-col sm:flex-row gap-2">
 										<FormField
-										control={form.control}
-										name="start"
-										render={({ field }) => (
-											<FormItem className="text-start">
-												<DateTimeInput label="Start" value={field.value} onChange={field.onChange} />
-												<FormMessage />
-											</FormItem>
-										)} />
+											control={form.control}
+											name="start"
+											render={({ field }) => (
+												<FormItem className="text-start">
+													<DateTimeInput label="Start" value={field.value} onChange={field.onChange} />
+													<FormMessage />
+												</FormItem>
+											)} />
 										<FormField
-										control={form.control}
-										name="end"
-										render={({ field }) => (
-											<FormItem className="text-start">
-												<DateTimeInput label="End" value={field.value} onChange={field.onChange} />
-												<FormMessage />
-											</FormItem>
-										)} />
+											control={form.control}
+											name="end"
+											render={({ field }) => (
+												<FormItem className="text-start">
+													<DateTimeInput label="End" value={field.value} onChange={field.onChange} />
+													<FormMessage />
+												</FormItem>
+											)} />
 									</div>
 									<FormField
-									control={form.control}
-									name="color"
-									render={({ field }) => (
-										<FormItem className="w-full text-start">
-											<FormLabel className="text-start text-muted-foreground">Color</FormLabel>
-											<FormControl>
-												<ColorSelect value={field.value} onChange={field.onChange} />
-											</FormControl>
-											<FormMessage />
-										</FormItem>
-									)}
-								/>
-								<div className="flex flex-row gap-1">
-								<Button type="submit" disabled={isSubmitting} className="mr-2 w-full bg-green-500">
-									{isSubmitting ? 'Saving...' : 'Save'}
-								</Button>
-								<Button
-									type="button"
-									variant="destructive"
-									onClick={() => {
-										if (window.confirm('Are you sure you want to delete this event?')) {
-											// Handle delete
-											onOpenChange(false);
-										}
-									}}
+										control={form.control}
+										name="color"
+										render={({ field }) => (
+											<FormItem className="w-full text-start">
+												<FormLabel className="text-start text-muted-foreground">Color</FormLabel>
+												<FormControl>
+													<ColorSelect value={field.value} onChange={field.onChange} />
+												</FormControl>
+												<FormMessage />
+											</FormItem>
+										)}
+									/>
+								</div>
 
-								>
-									<Trash2Icon className="scale-75"/>
-									<span className="sr-only">Delete Event</span>
-								</Button>
+								<div className="flex flex-row gap-1">
+									<Button type="submit" disabled={isSubmitting} className="mr-2 w-full bg-green-500">
+										{isSubmitting ? 'Saving...' : 'Save'}
+									</Button>
+									<Button
+										type="button"
+										variant="destructive"
+										onClick={() => {
+											if (window.confirm('Are you sure you want to delete this event?')) {
+												// Handle delete
+												onOpenChange(false);
+											}
+										}}
+
+									>
+										<Trash2Icon className="scale-75" />
+										<span className="sr-only">Delete Event</span>
+									</Button>
 								</div>
 							</form>
 						</Form>

@@ -105,9 +105,12 @@ export default function WeekCalendar() {
 	const [events] = useState<CalendarEvent[]>(() => generateMockEvents(currentDate));
 	const isDesktop = window?.innerWidth > MinimumWidth.Large;
 	const scrollRef = useRef<HTMLDivElement>(null);
-	const [currentView, setCurrentView] = useState<CalendarView>('week');
+	const [currentView, setCurrentView] = useState<CalendarView>(() => {
+		const savedView = localStorage.getItem('calendarView');
+		return (savedView as CalendarView) || '3day';
+	});
 
-	const [swipeProgress, setSwipeProgress] = useState(0); // Track swipe progress
+	const [swipeProgress, setSwipeProgress] = useState(0);
 	const [isSwiping, setIsSwiping] = useState(false);
 	const [startX, setStartX] = useState(0);
 	const [offsetX, setOffsetX] = useState(0);
@@ -209,17 +212,16 @@ export default function WeekCalendar() {
 		setOffsetX(e.touches[0].clientX - startX);
 		const currentX = e.touches[0].clientX;
 		const delta = currentX - startX;
-		const progress = Math.max(0, Math.min(1, Math.abs(delta) / window.innerWidth)); // 0 to 1
-		console.log({ progress, delta, })
+		const progress = Math.max(0, Math.min(1, Math.abs(delta) / window.innerWidth));
 		setSwipeProgress(progress);
 	};
 
 	const handleTouchEnd = () => {
 		setIsSwiping(false);
 		if (offsetX > 50) {
-			goToPrevious(); // Swipe right
+			goToPrevious();
 		} else if (offsetX < -50) {
-			goToNext(); // Swipe left
+			goToNext();
 		}
 		setOffsetX(0);
 		setSwipeProgress(0);
@@ -240,6 +242,11 @@ export default function WeekCalendar() {
 			);
 		}
 	}, [currentView]);
+
+	const handleViewChange = (view: CalendarView) => {
+		setCurrentView(view);
+		localStorage.setItem('calendarView', view);
+	};
 
 	return (
 		<div className="w-full max-w-4xl flex flex-col h-full bg-background rounded-lg">
@@ -296,15 +303,24 @@ export default function WeekCalendar() {
 							</Button>
 						</DropdownMenuTrigger>
 						<DropdownMenuContent className='rounded-2xl'>
-							<DropdownMenuItem className='flex items-center gap-1' onClick={() => setCurrentView('day')}>
+							<DropdownMenuItem
+								className='flex items-center gap-1'
+								onClick={() => handleViewChange('day')}
+							>
 								<DayIcon />Day
 							</DropdownMenuItem>
 							<DropdownMenuSeparator />
-							<DropdownMenuItem className='flex items-center gap-1' onClick={() => setCurrentView('3day')}>
+							<DropdownMenuItem
+								className='flex items-center gap-1'
+								onClick={() => handleViewChange('3day')}
+							>
 								<ThreeDayIcon />3 Day
 							</DropdownMenuItem>
 							<DropdownMenuSeparator />
-							<DropdownMenuItem className='flex items-center gap-1' onClick={() => setCurrentView('week')}>
+							<DropdownMenuItem
+								className='flex items-center gap-1'
+								onClick={() => handleViewChange('week')}
+							>
 								<WeekIcon /> Week
 							</DropdownMenuItem>
 							<DropdownMenuSeparator />
@@ -312,7 +328,7 @@ export default function WeekCalendar() {
 								<MonthIcon />Month
 							</DropdownMenuItem>
 							<DropdownMenuSeparator />
-							<DropdownMenuItem className='flex items-center gap-1' onClick={() => setCurrentView('schedule')}>
+							<DropdownMenuItem className='flex items-center gap-1' onClick={() => handleViewChange('schedule')}>
 								<ScheduleIcon />Schedule
 							</DropdownMenuItem>
 						</DropdownMenuContent>
