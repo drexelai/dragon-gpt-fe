@@ -10,7 +10,7 @@ import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuSepara
 import { DayIcon, MonthIcon, ScheduleIcon, ThreeDayIcon, WeekIcon } from '@/icons/calendar';
 import { WeekViewGrid } from './views/week/week-view-grid';
 import CalendarHours from './hours';
-import ScheduleView from './views/schedule-view';
+import ScheduleView from './views/schedule/ScheduleView';
 import MonthView from './views/month/MonthView';
 
 const generateMockEvents = (baseDate: moment.Moment): CalendarEvent[] => {

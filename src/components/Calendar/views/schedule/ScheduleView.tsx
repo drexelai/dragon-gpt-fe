@@ -1,8 +1,8 @@
 import { CalendarEvent } from "@/lib/types";
 import { cn } from "@/lib/utils";
 import moment from "moment";
-import EventEmbed from "../components/EventEmbed";
-import ZzIcon from "@/components/ui/zz-icon";
+import EventEmbed from "../../components/EventEmbed";
+import ZzIcon from "@/icons/general/zz-icon";
 import React from "react";
 
 export default function ScheduleView({ events }: { events: CalendarEvent[] }) {
