@@ -83,7 +83,7 @@ export function EventLayer({ events, weekDays, view }: EventLayerProps) {
 					<div
 						key={`${event.id}-${index}`}
 						className={cn(
-							"flex flex-col relative mx-1 rounded-md p-2 mb-1 shadow-md overflow-hidden cursor-pointer",
+							"flex flex-col relative mx-1 rounded-md p-2 mb-1 shadow-sm border border-neutral-200 overflow-hidden cursor-pointer",
 							"hover:z-10 hover:max-w-full hover:shadow-md transition-all duration-200 shrink",
 							event.color,
 							"",

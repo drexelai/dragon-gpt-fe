@@ -246,7 +246,10 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 				}
 			}}
 		>
-			<DialogContent onOpenAutoFocus={(e) => e.preventDefault()}>
+			<DialogContent
+				onOpenAutoFocus={(e) => e.preventDefault()}
+				className="max-h-[90dvh] overflow-y-scroll"
+			>
 				<div className="flex flex-col items-center gap-2 w-full">
 					<div
 						className="flex size-9 shrink-0 items-center justify-center rounded-full border border-border"
@@ -260,13 +263,13 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 								Edit {event.title}
 							</DialogTitle>
 						</div>
-						<DialogDescription className="sm:text-center">
+						<DialogDescription className="hidden">
 							Make changes to your event here
 						</DialogDescription>
 						<Form {...form}>
 							<form onSubmit={form.handleSubmit((data) => {
 								onSubmit(data)
-							})} className="space-y-4">
+							})} className="space-y-4 overflow-auto">
 								<FormField
 									control={form.control}
 									name="title"

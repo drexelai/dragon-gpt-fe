@@ -2,9 +2,20 @@ import { cn } from "@/lib/utils";
 import moment from "moment";
 import EventEmbed from "../../components/EventEmbed";
 import ZzIcon from "@/icons/general/zz-icon";
-import React from "react";
+import React, { useRef, useEffect } from "react";
 
 export default function ScheduleView({ events }: { events: CalendarEvent[] }) {
+	const todayRef = useRef<HTMLDivElement>(null);
+
+	useEffect(() => {
+		// Add a small delay to ensure the DOM is ready
+		setTimeout(() => {
+			todayRef.current?.scrollIntoView({
+				block: 'center'
+			});
+		}, 0);
+	}, []);
+
 	const groupedEvents = events.reduce((acc, event) => {
 		const day = moment(event.start).format('YYYY-MM-DD');
 		if (!acc[day]) {
@@ -45,6 +56,7 @@ export default function ScheduleView({ events }: { events: CalendarEvent[] }) {
 							<div className="h-10" />
 						)}
 						<div
+							ref={moment(day).isSame(moment(), 'day') ? todayRef : undefined}
 							className={cn(
 								"flex flex-col p-4 text-center rounded-lg transition-all",
 								!moment(day).isSame(moment(), "day")
@@ -74,6 +86,7 @@ export default function ScheduleView({ events }: { events: CalendarEvent[] }) {
 							</div>
 						)}
 						<div
+							ref={moment(day).isSame(moment(), 'day') ? todayRef : undefined}
 							className="flex flex-col gap-2 transition-all"
 							style={{
 								height: `${getDayHeight(day)}rem`,
