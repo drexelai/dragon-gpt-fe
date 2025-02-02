@@ -112,7 +112,7 @@ export function EventLayer({ events, weekDays, view }: EventLayerProps) {
 						}}
 						onClick={() => handleEventClick(event)}
 					>
-						<p className="text-xs opacity-75 font-semibold truncate">
+						<p className="text-xs opacity-75 font-semibold">
 							{event.title}
 						</p>
 						<p className={cn(`${view === "week" ? "text-[0.5rem] sm:text-xs" : "text-xs"} font-light truncate`)}>{event.location}</p>

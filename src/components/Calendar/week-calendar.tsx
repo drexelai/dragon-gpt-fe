@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef, useState, useMemo } from 'react';
 import moment from 'moment';
 import { ChevronDownIcon, ChevronLeft, ChevronRight } from 'lucide-react';
 import { WeekHeader } from './views/week/week-header';
@@ -92,12 +92,87 @@ const generateMockEvents = (baseDate: moment.Moment): CalendarEvent[] => {
 				color: colors[Math.floor(Math.random() * colors.length)],
 			});
 		}
-
-		// Sort events by start time
-		events.sort((a, b) => moment(a.start).diff(moment(b.start)));
 	}
 
+	const recurringEvents: CalendarEvent[] = [
+		{
+			id: 'daily-standup',
+			title: 'Recur 0',
+			location: 'Virtual',
+			start: moment(baseDate).hour(10).minute(0).toDate(),
+			end: moment(baseDate).hour(10).minute(30).toDate(),
+			color: 'bg-blue-300',
+			recurrence: {
+				type: 'specific-days',
+				days: ['monday', 'tuesday', 'wednesday', 'thursday', 'friday'],
+				endDate: moment(baseDate).add(3, 'months').toDate()
+			}
+		},
+		{
+			id: 'weekly-planning',
+			title: 'Recur 1',
+			location: 'Conference A',
+			start: moment(baseDate).day(1).hour(14).minute(0).toDate(), // Monday
+			end: moment(baseDate).day(1).hour(15).minute(0).toDate(),
+			color: 'bg-green-300',
+			recurrence: {
+				type: 'weekly'
+			}
+		}
+	];
+
+	events.push(...recurringEvents);
+
+	events.sort((a, b) => moment(a.start).diff(moment(b.start)));
+	console.log({ events });
 	return events;
+};
+
+const expandRecurringEvents = (events: CalendarEvent[], startDate: Date, endDate: Date): CalendarEvent[] => {
+	const expandedEvents: CalendarEvent[] = [];
+
+	events.forEach(event => {
+		if (!event.recurrence) {
+			expandedEvents.push(event);
+			return;
+		}
+
+		const start = moment(startDate);
+		const end = moment(endDate);
+		const eventStart = moment(event.start);
+		const eventEnd = moment(event.end);
+		const duration = moment.duration(eventEnd.diff(eventStart));
+
+		while (start.isBefore(end)) {
+			if (event.recurrence.type === 'daily') {
+				expandedEvents.push({
+					...event,
+					id: `${event.id}-${start.format('YYYY-MM-DD')}`,
+					start: start.clone().hour(eventStart.hour()).minute(eventStart.minute()).toDate(),
+					end: start.clone().hour(eventEnd.hour()).minute(eventEnd.minute()).toDate(),
+				});
+			} else if (event.recurrence.type === 'weekly' && start.day() === eventStart.day()) {
+				expandedEvents.push({
+					...event,
+					id: `${event.id}-${start.format('YYYY-MM-DD')}`,
+					start: start.clone().hour(eventStart.hour()).minute(eventStart.minute()).toDate(),
+					end: start.clone().hour(eventEnd.hour()).minute(eventEnd.minute()).toDate(),
+				});
+			} else if (event.recurrence.type === 'specific-days' &&
+					   event.recurrence.days?.includes(start.format('dddd').toLowerCase() as any)) {
+				expandedEvents.push({
+					...event,
+					id: `${event.id}-${start.format('YYYY-MM-DD')}`,
+					start: start.clone().hour(eventStart.hour()).minute(eventStart.minute()).toDate(),
+					end: start.clone().hour(eventEnd.hour()).minute(eventEnd.minute()).toDate(),
+				});
+			}
+			start.add(1, 'day');
+		}
+	});
+
+	// Sort all expanded events by start time
+	return expandedEvents.sort((a, b) => moment(a.start).diff(moment(b.start)));
 };
 
 export default function WeekCalendar() {
@@ -107,7 +182,13 @@ export default function WeekCalendar() {
 		return (savedView as CalendarView) || '3day';
 	});
 
-	const [events] = useState<CalendarEvent[]>(() => generateMockEvents(currentDate));
+	const [baseEvents] = useState<CalendarEvent[]>(() => generateMockEvents(currentDate));
+	const events = useMemo(() => {
+		const startDate = moment(currentDate).subtract(2, 'weeks');
+		const endDate = moment(currentDate).add(2, 'weeks');
+		return expandRecurringEvents(baseEvents, startDate.toDate(), endDate.toDate());
+	}, [baseEvents, currentDate]);
+
 	const isDesktop = window?.innerWidth > MinimumWidth.Large;
 	const scrollRef = useRef<HTMLDivElement>(null);
 	const [swipeProgress, setSwipeProgress] = useState(0);
