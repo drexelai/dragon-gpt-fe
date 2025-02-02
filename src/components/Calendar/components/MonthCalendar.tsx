@@ -102,7 +102,7 @@ function MonthCalendar({
 							className={cn(
 								buttonVariants({ variant: "ghost" }),
 								"h-8 w-8 p-0 font-normal relative flex flex-col items-center",
-								isSelected && "bg-neutral-100 border border-neutral-200",
+								isSelected && "bg-neutral-100 border border-neutral-200 dark:bg-neutral-800 dark:border-neutral-700",
 								isOutsideMonth && "text-muted-foreground",
 								dayProps.className
 							)}

@@ -236,7 +236,7 @@ export default function WeekCalendar() {
 			</div> */}
 
 			<div className="flex items-center p-4 gap-2">
-				<div className="inline-flex -space-x-px rounded-2xl rtl:space-x-reverse shadow-sm border border-neutral-200">
+				<div className="inline-flex -space-x-px rounded-2xl rtl:space-x-reverse shadow-sm border border-neutral-200 dark:border-neutral-700">
 					<Button
 						className="rounded-none shadow-none first:rounded-s-2xl last:rounded-e-2xl focus-visible:z-10"
 						variant="secondary"
@@ -267,7 +267,7 @@ export default function WeekCalendar() {
 				<div className='w-full'>
 					<DropdownMenu>
 						<DropdownMenuTrigger asChild>
-							<Button variant="outline" className='rounded-2xl w-full justify-between dark:border-neutral-300'>
+							<Button variant="outline" className='rounded-2xl w-full justify-between dark:border-neutral-700'>
 								<div className='flex flex-row gap-2 items-center'>
 									{currentView === '3day' && (<><ThreeDayIcon />3 Day</>)}
 									{currentView === 'week' && (<><WeekIcon />Week</>)}

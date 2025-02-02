@@ -84,7 +84,8 @@ export const useEventStore = create<EventStore>((set) => ({
                 recurrence: {
                     type: 'specific-days',
                     days: ['monday', 'tuesday', 'wednesday', 'thursday', 'friday'],
-                    endDate: moment(baseDate).add(3, 'months').toDate()
+                    endDate: moment(baseDate).add(3, 'months').toDate(),
+					interval: 1
                 }
             },
             {
