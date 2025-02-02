@@ -28,33 +28,30 @@ export function EventLayer({ events, weekDays, view }: EventLayerProps) {
 				moment(event.end).isAfter(moment(e.start))
 			);
 
-			if(isOverlapping) console.log(event.title, events.findIndex(e => e.id === event.id) % 2 === 0);
-
 			return {
 				gridRow: `${(12 * startHour) + 1} / span ${12 * (duration / 60)}`,
 				gridColumn: 1,
 				width: isOverlapping ? '48%' : '100%',
-				justifySelf: isOverlapping ? events.findIndex(e => e.id === event.id) % 2 === 0 ? 'end' : 'start' : 'stretch'
+				justifySelf: isOverlapping ? dayEvents.findIndex(e => e.id === event.id) % 2 === 0 ? 'end' : 'start' : 'stretch'
+			};
+		} else {
+			const dayIndex = weekDays.findIndex(day => day.isSame(event.start, 'day'));
+			if (dayIndex === -1) return null;
+
+			const dayEvents = events.filter(e => moment(e.start).isSame(weekDays[dayIndex], 'day'));
+			const isOverlapping = dayEvents.some(e =>
+				e.id !== event.id &&
+				moment(event.start).isBefore(moment(e.end)) &&
+				moment(event.end).isAfter(moment(e.start))
+			);
+
+			return {
+				gridRow: `${(12 * startHour) + 1} / span ${12 * (duration / 60)}`,
+				gridColumn: dayIndex + 1,
+				width: isOverlapping ? '45%' : 'unset',
+				justifySelf: isOverlapping ? dayEvents.findIndex(e => e.id === event.id) % 2 === 0 ? 'end' : 'start' : 'stretch'
 			};
 		}
-
-		const dayIndex = weekDays.findIndex(day => day.isSame(event.start, 'day'));
-		if (dayIndex === -1) return null;
-
-		// Check for overlaps
-		const dayEvents = events.filter(e => moment(e.start).isSame(weekDays[dayIndex], 'day'));
-		const isOverlapping = dayEvents.some(e =>
-			e.id !== event.id &&
-			moment(event.start).isBefore(moment(e.end)) &&
-			moment(event.end).isAfter(moment(e.start))
-		);
-
-		return {
-			gridRow: `${(12 * startHour) + 1} / span ${12 * (duration / 60)}`,
-			gridColumn: dayIndex + 1,
-			width: isOverlapping ? '45%' : 'unset',
-			justifySelf: isOverlapping ? events.findIndex(e => e.id === event.id) % 2 === 0 ? 'end' : 'start' : 'stretch'
-		};
 	};
 
 	const handleEventClick = (event: CalendarEvent) => {
@@ -78,13 +75,13 @@ export function EventLayer({ events, weekDays, view }: EventLayerProps) {
 				gridTemplateRows: 'repeat(288, minmax(0, 1fr))',
 			}}
 		>
-			{events.map((event) => {
+			{events.map((event, index) => {
 				const position = calculateEventPosition(event, view);
 				if (!position) return null;
 
 				return (
 					<div
-						key={event.id}
+						key={`${event.id}-${index}`}
 						className={cn(
 							"flex flex-col relative mx-1 rounded-md p-2 mb-1 overflow-hidden cursor-pointer",
 							"hover:z-10 hover:max-w-full hover:shadow-md transition-all duration-200 shrink",
