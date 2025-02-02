@@ -79,14 +79,6 @@ const eventForm = z.object({
 }, {
 	message: "Please select at least one day",
 	path: ["recurrenceDays"],
-}).refine((data) => {
-	if ((data.recurrence === 'weekly' || data.recurrence === 'specific-days') && !data.recurrenceInterval) {
-		return false;
-	}
-	return true;
-}, {
-	message: "Please select an interval",
-	path: ["recurrenceInterval"],
 });
 
 export default function EventModal({ event, open, onOpenChange }: { event: CalendarEvent, open: boolean, onOpenChange: (open: boolean) => void }) {
@@ -171,7 +163,7 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 					end: values.end,
 					recurrence: values.recurring ? {
 						type: values.recurrence as "daily" | "weekly" | "specific-days",
-						interval: values.recurrenceInterval,
+						interval: (values.recurrence === "weekly" || values.recurrence === "specific-days") && !values.recurrenceInterval ? 1 : values.recurrenceInterval, // default to 1
 						days: values.recurrenceDays as ("monday" | "tuesday" | "wednesday" | "thursday" | "friday" | "saturday" | "sunday")[],
 						endDate: values.recurrenceEnd || undefined,
 					} : undefined,
