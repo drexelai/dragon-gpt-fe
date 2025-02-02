@@ -5,7 +5,7 @@ import InfoTooltip from "@/components/InfoTooltip";
 import Nav from "@/components/Navigation/Nav";
 import SchedulerInterface from "@/components/scheduler/scheduler-interface";
 import { Button } from "@/components/ui/button";
-import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
+import { Sheet, SheetContent, SheetTitle, SheetTrigger } from "@/components/ui/sheet";
 import { cn } from "@/lib/utils";
 import { useCalendarStore } from "@/stores/useCalendarStore";
 import { useSchedulerStore } from "@/stores/useSchedulerStore";
@@ -63,6 +63,7 @@ export default function Page() {
 						{isDesktop
 							? calendarOpen && (<WeekCalendar />)
 							: <Sheet open={calendarOpen} onOpenChange={() => setCalendarOpen()} >
+								<SheetTitle className="sr-only">Dragon Scheduler</SheetTitle>
 								<SheetContent className="!max-w-full w-full p-2">
 									<div className="flex flex-row gap-6 ml-8">
 										<SheetTrigger className=" hover:bg-gray-300/40 -top-4 sm:top-0 rounded-sm"

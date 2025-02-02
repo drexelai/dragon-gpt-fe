@@ -19,6 +19,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import moment from "moment";
 import { useEventStore } from '@/stores/useEventStore';
 import { DaySelect, Day } from "@/components/ui/day-select";
+import { CustomSelect } from "@/components/ui/custom-select";
 
 const eventForm = z.object({
 	title: z.string()
@@ -360,19 +361,16 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 											render={({ field }) => (
 												<FormItem className="w-full text-start">
 													<FormLabel className="text-start text-muted-foreground">Recurrence Type</FormLabel>
-													<Select
+													<CustomSelect
+														value={field.value || ""}
 														onValueChange={field.onChange}
-														defaultValue={field.value}
-													>
-														<SelectTrigger>
-															<SelectValue placeholder="Select recurrence type" />
-														</SelectTrigger>
-														<SelectContent>
-															<SelectItem value="weekly">Weekly</SelectItem>
-															<SelectItem value="daily">Daily</SelectItem>
-															<SelectItem value="specific-days">Specific Days</SelectItem>
-														</SelectContent>
-													</Select>
+														placeholder="Select recurrence type"
+														options={[
+															{ value: "weekly", label: "Weekly" },
+															{ value: "daily", label: "Daily" },
+															{ value: "specific-days", label: "Specific Days" }
+														]}
+													/>
 													<FormMessage />
 												</FormItem>
 											)}
@@ -385,21 +383,15 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 												render={({ field }) => (
 													<FormItem className="w-full text-start">
 														<FormLabel className="text-start text-muted-foreground">Repeat every</FormLabel>
-														<Select
-															onValueChange={(value) => field.onChange(parseInt(value))}
+														<CustomSelect
 															value={field.value?.toString() || "1"}
-														>
-															<SelectTrigger>
-																<SelectValue placeholder="Select interval" />
-															</SelectTrigger>
-															<SelectContent>
-																{[1, 2, 3, 4].map((num) => (
-																	<SelectItem key={num} value={num.toString()}>
-																		{num} {num === 1 ? 'week' : 'weeks'}
-																	</SelectItem>
-																))}
-															</SelectContent>
-														</Select>
+															onValueChange={(value) => field.onChange(parseInt(value))}
+															placeholder="Select interval"
+															options={[1, 2, 3, 4].map((num) => ({
+																value: num.toString(),
+																label: `${num} ${num === 1 ? 'week' : 'weeks'}`
+															}))}
+														/>
 														<FormMessage />
 													</FormItem>
 												)}
