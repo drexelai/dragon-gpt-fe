@@ -15,7 +15,6 @@ import { toast } from "sonner";
 import React from "react";
 import { Checkbox } from "@/components/ui/checkbox";
 import { Label } from "@/components/ui/label";
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import moment from "moment";
 import { useEventStore } from '@/stores/useEventStore';
 import { DaySelect, Day } from "@/components/ui/day-select";

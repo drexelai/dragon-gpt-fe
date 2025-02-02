@@ -1,8 +1,6 @@
 import { cn } from '@/lib/utils';
-import { useWindowSize } from '@/hooks';
-import { MinimumWidth } from '@/types';
 import moment from 'moment';
-import { useEffect, useState, useRef } from 'react';
+import { useRef } from 'react';
 import { CalendarView } from '@/lib/types';
 
 const findDayLength = (view: CalendarView) => {
