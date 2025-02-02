@@ -116,9 +116,25 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 	}, [startDate, form]);
 
 	useEffect(() => {
-		const subscription = form.watch(() => setIsDirty(true));
+		const subscription = form.watch(() => {
+			const currentValues = form.getValues();
+			const hasChanges =
+				currentValues.title !== event.title ||
+				currentValues.location !== event.location ||
+				currentValues.color !== event.color ||
+				!moment(currentValues.start).isSame(event.start) ||
+				!moment(currentValues.end).isSame(event.end) ||
+				!!currentValues.recurring !== !!event.recurrence ||
+				currentValues.recurrence !== event.recurrence?.type ||
+				currentValues.recurrenceInterval !== event.recurrence?.interval ||
+				JSON.stringify(currentValues.recurrenceDays) !== JSON.stringify(event.recurrence?.days) ||
+				(currentValues.recurrenceEnd && event.recurrence?.endDate &&
+					!moment(currentValues.recurrenceEnd).isSame(event.recurrence.endDate));
+
+			setIsDirty(hasChanges ?? false);
+		});
 		return () => subscription.unsubscribe();
-	}, [form]);
+	}, [form, event]);
 
 	useEffect(() => {
 		form.reset({
@@ -150,6 +166,8 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 					title: values.title,
 					location: values.location,
 					color: values.color,
+					start: values.start,
+					end: values.end,
 					recurrence: values.recurring ? {
 						type: values.recurrence as "daily" | "weekly" | "specific-days",
 						interval: values.recurrenceInterval,
@@ -320,7 +338,7 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 														checked={field.value}
 														onCheckedChange={(checked) => {
 															field.onChange(checked);
-															setIsRecurring(checked as boolean);
+															setIsRecurring(!!checked);
 														}}
 														id="recurring"
 													/>
