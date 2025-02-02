@@ -115,7 +115,14 @@ export function EventLayer({ events, weekDays, view }: EventLayerProps) {
 						<p className="text-xs opacity-75 font-semibold">
 							{event.title}
 						</p>
-						<p className={cn(`${view === "week" ? "text-[0.5rem] sm:text-xs" : "text-xs"} font-light truncate`)}>{event.location}</p>
+						<p className={cn(`${
+							view === "week" && !position.gridRow.includes("span 12") // if it is a long event and week view, show the location
+								? "text-[0.5rem] sm:text-xs"
+								: view === "week"
+									? "hidden"
+									: "text-xs"
+							}
+							font-light truncate`)}>{event.location}</p>
 					</div>
 				);
 			})}

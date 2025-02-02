@@ -18,7 +18,7 @@ export default function MonthView({ events }: { events: CalendarEvent[] }) {
 				events={events}
 				defaultMonth={date}
 			/>
-			<div className="flex flex-col gap-2">
+			<div className="flex flex-col gap-4">
 				{events.filter(event => moment(event.start).isSame(date, 'day')).length > 0 ?
 					events.filter(event => moment(event.start).isSame(date, 'day')).map((event) => (
 						<EventEmbed key={event.id} event={event} />

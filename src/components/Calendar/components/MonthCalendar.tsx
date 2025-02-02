@@ -42,7 +42,7 @@ function MonthCalendar({
 				months: "flex flex-col sm:flex-row space-y-4 sm:space-x-4 sm:space-y-0",
 				month: "space-y-4",
 				caption: "flex justify-center pt-1 relative items-center",
-				caption_label: "text-sm font-medium",
+				caption_label: "text-base font-medium",
 				nav: "space-x-1 flex items-center",
 				nav_button: cn(
 					buttonVariants({ variant: "outline" }),
@@ -96,7 +96,7 @@ function MonthCalendar({
 							className={cn(
 								buttonVariants({ variant: "ghost" }),
 								"h-8 w-8 p-0 font-normal relative flex flex-col items-center",
-								isSelected && "bg-neutral-200",
+								isSelected && "bg-neutral-100 border border-neutral-200",
 								isOutsideMonth && "text-muted-foreground",
 								dayProps.className
 							)}
