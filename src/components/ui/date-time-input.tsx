@@ -3,7 +3,7 @@
 import { DateField, DateInput, DateSegment, Label } from "react-aria-components";
 import { CalendarDateTime } from "@internationalized/date";
 
-export default function DateTimeInput({ label, value, onChange }: { label: string, value: Date, onChange: (date: Date) => void }) {
+export default function DateTimeInput({ label, value, onChange }: { label?: string, value: Date, onChange: (date: Date) => void }) {
 	return (
 		<DateField
 			className="space-y-2 flex flex-col"
@@ -24,7 +24,7 @@ export default function DateTimeInput({ label, value, onChange }: { label: strin
 				}
 			}}
 		>
-			<Label className="text-sm font-medium text-muted-foreground">{label}</Label>
+			{label && <Label className="text-sm font-medium text-muted-foreground">{label}</Label>}
 			<DateInput className="relative inline-flex h-9 w-fit items-center overflow-hidden whitespace-nowrap rounded-lg border border-input dark:border-neutral-500/50 bg-background px-3 py-2 text-sm shadow-sm shadow-black/5 transition-shadow data-[focus-within]:border-ring data-[disabled]:opacity-50 data-[focus-within]:outline-none data-[focus-within]:ring-[3px] data-[focus-within]:ring-ring/20 tracking-tighter">
 				{(segment) => (
 					<DateSegment

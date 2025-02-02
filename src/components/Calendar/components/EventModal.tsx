@@ -3,7 +3,6 @@
 import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from "@/components/ui/dialog";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-import { CalendarEvent } from "@/lib/types";
 import { SquarePenIcon, Trash2Icon } from "lucide-react";
 import { useState, useEffect } from "react";
 import { z } from "zod";
@@ -14,6 +13,11 @@ import DateTimeInput from "@/components/ui/date-time-input";
 import { ColorSelect } from "@/components/ui/color-select";
 import { toast } from "sonner";
 import React from "react";
+import { Checkbox } from "@/components/ui/checkbox";
+import { Label } from "@/components/ui/label";
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
+import moment from "moment";
+import { useEventStore } from '@/stores/useEventStore';
 
 const eventForm = z.object({
 	title: z.string()
@@ -25,6 +29,11 @@ const eventForm = z.object({
 	start: z.date(),
 	end: z.date(),
 	color: z.string(),
+	recurring: z.boolean().optional(),
+	recurrence: z.string().optional(), // "daily", "weekly", "specific-days",
+	recurrenceInterval: z.number().optional(), // 1, 2, 3, 4, 5
+	recurrenceDays: z.array(z.string()).optional(), // ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"]
+	recurrenceEnd: z.date().optional().nullable(),
 }).refine((data) => {
 	return data.end > data.start;
 }, {
@@ -32,7 +41,7 @@ const eventForm = z.object({
 	path: ["end"],
 }).refine((data) => {
 	const duration = data.end.getTime() - data.start.getTime();
-	const maxDuration = 24 * 60 * 60 * 1000; // 24 hours in milliseconds
+	const maxDuration = 24 * 60 * 60 * 1000;
 	return duration <= maxDuration;
 }, {
 	message: "Event cannot be longer than 24 hours",
@@ -40,15 +49,41 @@ const eventForm = z.object({
 }).refine((data) => {
 	const startHour = data.start.getHours();
 	const endHour = data.end.getHours();
-	return startHour >= 6 && endHour <= 22; // Example: restrict to 6 AM - 10 PM
+	return startHour >= 6 && endHour <= 22;
 }, {
 	message: "Events must be between 6 AM and 10 PM",
 	path: ["start"],
+}).refine((data) => {
+	if (data.recurring && !data.recurrence) {
+		return false;
+	}
+	return true;
+}, {
+	message: "Please select a recurrence type",
+	path: ["recurrence"],
+}).refine((data) => {
+	if (data.recurring && (!data.recurrenceEnd || moment(data.recurrenceEnd).isSameOrBefore(moment(), 'day'))) {
+		return false;
+	}
+	return true;
+}, {
+	message: "End date must be set and must be in the future",
+	path: ["recurrenceEnd"],
+}).refine((data) => {
+	if (data.recurrence === 'specific-days' && (!data.recurrenceDays || data.recurrenceDays.length === 0)) {
+		return false;
+	}
+	return true;
+}, {
+	message: "Please select at least one day",
+	path: ["recurrenceDays"],
 });
 
 export default function EventModal({ event, open, onOpenChange }: { event: CalendarEvent, open: boolean, onOpenChange: (open: boolean) => void }) {
+	const { baseEvents, updateEvent, deleteEvent } = useEventStore();
 	const [isSubmitting, setIsSubmitting] = useState(false);
 	const [isDirty, setIsDirty] = useState(false);
+	const [isRecurring, setIsRecurring] = useState(!!event.recurrence);
 
 	const form = useForm<z.infer<typeof eventForm>>({
 		resolver: zodResolver(eventForm),
@@ -58,6 +93,11 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 			start: event.start,
 			end: event.end,
 			color: event.color,
+			recurring: !!event.recurrence,
+			recurrence: event.recurrence?.type,
+			recurrenceInterval: event.recurrence?.interval,
+			recurrenceDays: event.recurrence?.days,
+			recurrenceEnd: event.recurrence?.endDate || null,
 		}
 	});
 
@@ -71,16 +111,46 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 		return () => subscription.unsubscribe();
 	}, [form]);
 
-	const onSubmit = async (values: z.infer<typeof eventForm>, event: CalendarEvent) => {
+	// Add this effect to reset form when event changes
+	useEffect(() => {
+		form.reset({
+			title: event.title,
+			location: event.location,
+			start: event.start,
+			end: event.end,
+			color: event.color,
+			recurring: !!event.recurrence,
+			recurrence: event.recurrence?.type,
+			recurrenceInterval: event.recurrence?.interval,
+			recurrenceDays: event.recurrence?.days,
+			recurrenceEnd: event.recurrence?.endDate || null,
+		});
+		setIsRecurring(!!event.recurrence);
+		setIsDirty(false);
+	}, [event, form]);
+
+	const onSubmit = async (values: z.infer<typeof eventForm>) => {
 		setIsSubmitting(true);
 		try {
 			onOpenChange(false);
-			console.log(values);
-			event.title = values.title;
-			event.location = values.location;
-			event.start = values.start;
-			event.end = values.end;
-			event.color = values.color;
+
+			// Find and update all instances of this recurring event
+			const baseEvent = baseEvents.find(e => e.id === event.id);
+			if (baseEvent) {
+				updateEvent({
+					...baseEvent,
+					title: values.title,
+					location: values.location,
+					color: values.color,
+					recurrence: values.recurring ? {
+						type: values.recurrence as "daily" | "weekly" | "specific-days",
+						interval: values.recurrenceInterval,
+						days: values.recurrenceDays as ("monday" | "tuesday" | "wednesday" | "thursday" | "friday" | "saturday" | "sunday")[],
+						endDate: values.recurrenceEnd || undefined,
+					} : undefined,
+				});
+			}
+
 			toast.success('Changes saved successfully');
 		} catch (error: unknown) {
 			console.error(error);
@@ -91,6 +161,19 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 			setIsDirty(false);
 		}
 	}
+
+	const handleDelete = () => {
+		if (window.confirm('Are you sure you want to delete this event?')) {
+			try {
+				deleteEvent(event.id);
+				toast.success('Event deleted successfully');
+				onOpenChange(false);
+			} catch (error) {
+				console.error(error);
+				toast.error('Failed to delete event');
+			}
+		}
+	};
 
 	return (
 		<Dialog
@@ -125,7 +208,7 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 						</DialogDescription>
 						<Form {...form}>
 							<form onSubmit={form.handleSubmit((data) => {
-								onSubmit(data, event)
+								onSubmit(data)
 							})} className="space-y-4">
 								<FormField
 									control={form.control}
@@ -187,6 +270,128 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 									/>
 								</div>
 
+								<div className="flex flex-row gap-2 items-center">
+									<FormField
+										control={form.control}
+										name="recurring"
+										render={({ field }) => (
+											<FormItem className="flex flex-row items-center space-x-2 space-y-0">
+												<FormControl>
+													<Checkbox
+														checked={field.value}
+														onCheckedChange={(checked) => {
+															field.onChange(checked);
+															setIsRecurring(checked as boolean);
+														}}
+														id="recurring"
+													/>
+												</FormControl>
+												<Label htmlFor="recurring">Recurring</Label>
+											</FormItem>
+										)}
+									/>
+								</div>
+
+								{isRecurring && (
+									<div className="space-y-4">
+										<FormField
+											control={form.control}
+											name="recurrence"
+											render={({ field }) => (
+												<FormItem className="w-full text-start">
+													<FormLabel className="text-start text-muted-foreground">Recurrence Type</FormLabel>
+													<Select
+														onValueChange={field.onChange}
+														defaultValue={field.value}
+													>
+														<SelectTrigger>
+															<SelectValue placeholder="Select recurrence type" />
+														</SelectTrigger>
+														<SelectContent>
+															<SelectItem value="weekly">Weekly</SelectItem>
+															<SelectItem value="daily">Daily</SelectItem>
+															<SelectItem value="specific-days">Specific Days</SelectItem>
+														</SelectContent>
+													</Select>
+													<FormMessage />
+												</FormItem>
+											)}
+										/>
+
+										{(form.watch("recurrence") === "weekly" || form.watch("recurrence") === "specific-days") && (
+											<FormField
+												control={form.control}
+												name="recurrenceInterval"
+												render={({ field }) => (
+													<FormItem className="w-full text-start">
+														<FormLabel className="text-start text-muted-foreground">Repeat every</FormLabel>
+														<Select
+															onValueChange={(value) => field.onChange(parseInt(value))}
+															defaultValue={field.value?.toString()}
+														>
+															<SelectTrigger>
+																<SelectValue placeholder="Select interval" />
+															</SelectTrigger>
+															<SelectContent>
+																{[1, 2, 3, 4].map((num) => (
+																	<SelectItem key={num} value={num.toString()}>
+																		{num} {num === 1 ? 'week' : 'weeks'}
+																	</SelectItem>
+																))}
+															</SelectContent>
+														</Select>
+														<FormMessage />
+													</FormItem>
+												)}
+											/>
+										)}
+
+										{form.watch("recurrence") === "specific-days" && (
+											<FormField
+												control={form.control}
+												name="recurrenceDays"
+												render={({ field }) => (
+													<FormItem className="w-full text-start">
+														<FormLabel className="text-start text-muted-foreground">Repeat on</FormLabel>
+														<div className="flex flex-wrap gap-2">
+															{['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday'].map((day) => (
+																<div key={day} className="flex items-center space-x-2">
+																	<Checkbox
+																		checked={field.value?.includes(day)}
+																		onCheckedChange={(checked) => {
+																			const updatedDays = checked
+																				? [...(field.value || []), day]
+																				: field.value?.filter(d => d !== day) || [];
+																			field.onChange(updatedDays);
+																		}}
+																	/>
+																	<Label>{day.charAt(0).toUpperCase() + day.slice(1)}</Label>
+																</div>
+															))}
+														</div>
+														<FormMessage />
+													</FormItem>
+												)}
+											/>
+										)}
+
+										<FormField
+											control={form.control}
+											name="recurrenceEnd"
+											render={({ field }) => (
+												<FormItem className="w-full text-start">
+													<DateTimeInput
+														label="End Date"
+														value={field.value || new Date()}
+														onChange={field.onChange}
+													/>
+													<FormMessage />
+												</FormItem>
+											)}
+										/>
+									</div>
+								)}
+
 								<div className="flex flex-row gap-1">
 									<Button type="submit" disabled={isSubmitting} className="mr-2 w-full bg-green-500">
 										{isSubmitting ? 'Saving...' : 'Save'}
@@ -194,13 +399,7 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 									<Button
 										type="button"
 										variant="destructive"
-										onClick={() => {
-											if (window.confirm('Are you sure you want to delete this event?')) {
-												// Handle delete
-												onOpenChange(false);
-											}
-										}}
-
+										onClick={handleDelete}
 									>
 										<Trash2Icon className="scale-75" />
 										<span className="sr-only">Delete Event</span>

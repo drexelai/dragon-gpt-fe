@@ -1,4 +1,3 @@
-import { CalendarEvent } from "@/lib/types";
 import { Separator } from "../../ui/separator";
 import { cn } from "@/lib/utils";
 import moment from "moment";

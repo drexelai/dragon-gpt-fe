@@ -1,4 +1,3 @@
-import { CalendarEvent } from "@/lib/types";
 import { cn } from "@/lib/utils";
 import moment from "moment";
 import EventEmbed from "../../components/EventEmbed";

@@ -12,121 +12,7 @@ import { WeekViewGrid } from './views/week/week-view-grid';
 import CalendarHours from './hours';
 import ScheduleView from './views/schedule/ScheduleView';
 import MonthView from './views/month/MonthView';
-
-const generateMockEvents = (baseDate: moment.Moment): CalendarEvent[] => {
-	const events: CalendarEvent[] = [];
-	const eventTitles = [
-		'Team Meeting',
-		'Project Review',
-		'Client Call',
-		'Lunch Break',
-		'Code Review',
-		'Design Sprint',
-		'Weekly Sync',
-		'Planning Session',
-		'1:1 Meeting',
-		'Workshop'
-	];
-
-	const locations = [
-		'Room 101',
-		'Room 102',
-		'Room 103',
-		'Conference A',
-		'Conference B',
-		'Meeting Room 1',
-		'Meeting Room 2',
-		'Cafeteria',
-		'Office',
-		'Virtual'
-	];
-
-	const colors = [
-		'bg-red-300',
-		'bg-orange-300',
-		'bg-yellow-300',
-		'bg-green-300',
-		'bg-blue-300',
-		'bg-indigo-300',
-		'bg-purple-300',
-		'bg-pink-300'
-	];
-
-	// Generate events for 14 days
-	for (let day = 0; day < 14; day++) {
-		const currentDay = moment(baseDate).add(day, 'days');
-
-		// Skip weekends
-		if (currentDay.day() === 0 || currentDay.day() === 6) continue;
-
-		// Random number of events for this day (2-5)
-		const numEvents = Math.floor(Math.random() * 4) + 2;
-
-		// Keep track of used hours to avoid overlap
-		const usedHours = new Set();
-
-		for (let i = 0; i < numEvents; i++) {
-			// Find an available start hour (9-16)
-			let startHour;
-			do {
-				startHour = Math.floor(Math.random() * 8) + 9; // 9 AM to 4 PM
-			} while (usedHours.has(startHour));
-
-			usedHours.add(startHour);
-
-			// Random duration 1-2 hours
-			const duration = Math.random() < 0.7 ? 1 : 2;
-
-			events.push({
-				id: `${day}-${i}`,
-				title: eventTitles[Math.floor(Math.random() * eventTitles.length)],
-				location: locations[Math.floor(Math.random() * locations.length)],
-				start: moment(currentDay)
-					.hour(startHour)
-					.minute(0)
-					.toDate(),
-				end: moment(currentDay)
-					.hour(startHour + duration)
-					.minute(0)
-					.toDate(),
-				color: colors[Math.floor(Math.random() * colors.length)],
-			});
-		}
-	}
-
-	const recurringEvents: CalendarEvent[] = [
-		{
-			id: 'daily-standup',
-			title: 'Recur 0',
-			location: 'Virtual',
-			start: moment(baseDate).hour(10).minute(0).toDate(),
-			end: moment(baseDate).hour(10).minute(30).toDate(),
-			color: 'bg-blue-300',
-			recurrence: {
-				type: 'specific-days',
-				days: ['monday', 'tuesday', 'wednesday', 'thursday', 'friday'],
-				endDate: moment(baseDate).add(3, 'months').toDate()
-			}
-		},
-		{
-			id: 'weekly-planning',
-			title: 'Recur 1',
-			location: 'Conference A',
-			start: moment(baseDate).day(1).hour(14).minute(0).toDate(), // Monday
-			end: moment(baseDate).day(1).hour(15).minute(0).toDate(),
-			color: 'bg-green-300',
-			recurrence: {
-				type: 'weekly'
-			}
-		}
-	];
-
-	events.push(...recurringEvents);
-
-	events.sort((a, b) => moment(a.start).diff(moment(b.start)));
-	console.log({ events });
-	return events;
-};
+import { useEventStore } from '@/stores/useEventStore';
 
 const expandRecurringEvents = (events: CalendarEvent[], startDate: Date, endDate: Date): CalendarEvent[] => {
 	const expandedEvents: CalendarEvent[] = [];
@@ -141,48 +27,56 @@ const expandRecurringEvents = (events: CalendarEvent[], startDate: Date, endDate
 		const end = moment(endDate);
 		const eventStart = moment(event.start);
 		const eventEnd = moment(event.end);
-		const duration = moment.duration(eventEnd.diff(eventStart));
 
 		while (start.isBefore(end)) {
 			if (event.recurrence.type === 'daily') {
 				expandedEvents.push({
 					...event,
-					id: `${event.id}-${start.format('YYYY-MM-DD')}`,
 					start: start.clone().hour(eventStart.hour()).minute(eventStart.minute()).toDate(),
 					end: start.clone().hour(eventEnd.hour()).minute(eventEnd.minute()).toDate(),
 				});
-			} else if (event.recurrence.type === 'weekly' && start.day() === eventStart.day()) {
-				expandedEvents.push({
-					...event,
-					id: `${event.id}-${start.format('YYYY-MM-DD')}`,
-					start: start.clone().hour(eventStart.hour()).minute(eventStart.minute()).toDate(),
-					end: start.clone().hour(eventEnd.hour()).minute(eventEnd.minute()).toDate(),
-				});
-			} else if (event.recurrence.type === 'specific-days' &&
-					   event.recurrence.days?.includes(start.format('dddd').toLowerCase() as any)) {
-				expandedEvents.push({
-					...event,
-					id: `${event.id}-${start.format('YYYY-MM-DD')}`,
-					start: start.clone().hour(eventStart.hour()).minute(eventStart.minute()).toDate(),
-					end: start.clone().hour(eventEnd.hour()).minute(eventEnd.minute()).toDate(),
-				});
+			} else if (event.recurrence.type === 'weekly') {
+				const interval = event.recurrence.interval || 1;
+				const weekDiff = start.diff(eventStart, 'weeks');
+				if (start.day() === eventStart.day() && weekDiff % interval === 0) {
+					expandedEvents.push({
+						...event,
+						start: start.clone().hour(eventStart.hour()).minute(eventStart.minute()).toDate(),
+						end: start.clone().hour(eventEnd.hour()).minute(eventEnd.minute()).toDate(),
+					});
+				}
+			} else if (event.recurrence.type === 'specific-days') {
+				const interval = event.recurrence.interval || 1;
+				const weekDiff = start.diff(eventStart, 'weeks');
+				if (event.recurrence.days?.includes(start.format('dddd').toLowerCase() as 'monday' | 'tuesday' | 'wednesday' | 'thursday' | 'friday' | 'saturday' | 'sunday') &&
+					weekDiff % interval === 0) {
+					expandedEvents.push({
+						...event,
+						start: start.clone().hour(eventStart.hour()).minute(eventStart.minute()).toDate(),
+						end: start.clone().hour(eventEnd.hour()).minute(eventEnd.minute()).toDate(),
+					});
+				}
 			}
 			start.add(1, 'day');
 		}
 	});
 
-	// Sort all expanded events by start time
 	return expandedEvents.sort((a, b) => moment(a.start).diff(moment(b.start)));
 };
 
 export default function WeekCalendar() {
+	const { baseEvents, generateMockEvents } = useEventStore();
 	const [currentDate, setCurrentDate] = useState(moment());
 	const [currentView, setCurrentView] = useState<CalendarView>(() => {
 		const savedView = localStorage.getItem('calendarView');
 		return (savedView as CalendarView) || '3day';
 	});
 
-	const [baseEvents] = useState<CalendarEvent[]>(() => generateMockEvents(currentDate));
+	// Initialize events on mount
+	useEffect(() => {
+		generateMockEvents(currentDate);
+	}, []);
+
 	const events = useMemo(() => {
 		const startDate = moment(currentDate).subtract(2, 'weeks');
 		const endDate = moment(currentDate).add(2, 'weeks');

@@ -3,8 +3,9 @@ declare global {
 
 	type RecurrencePattern = {
 		type: 'daily' | 'weekly' | 'specific-days';
+		interval?: number;
 		days?: ('monday' | 'tuesday' | 'wednesday' | 'thursday' | 'friday' | 'saturday' | 'sunday')[];
-		endDate?: Date;
+		endDate?: Date | null;
 	}
 
 	interface CalendarEvent {
