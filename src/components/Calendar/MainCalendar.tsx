@@ -2,14 +2,14 @@ import { useEffect, useRef, useState, useMemo } from 'react';
 import moment from 'moment';
 import { ChevronDownIcon, ChevronLeft, ChevronRight } from 'lucide-react';
 import { WeekHeader } from './views/week/week-header';
-import { EventLayer } from './event-layer';
+import { EventLayer } from './components/EventLayer';
 import { MinimumWidth } from '@/types';
 import { Button } from '../ui/button';
 import { useMaskImage } from '@/hooks';
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuSeparator, DropdownMenuTrigger } from '../ui/dropdown-menu';
 import { DayIcon, MonthIcon, ScheduleIcon, ThreeDayIcon, WeekIcon } from '@/icons/calendar';
 import { WeekViewGrid } from './views/week/week-view-grid';
-import CalendarHours from './hours';
+import CalendarHours from './components/CalendarHours';
 import ScheduleView from './views/schedule/ScheduleView';
 import MonthView from './views/month/MonthView';
 import { useEventStore } from '@/stores/useEventStore';
@@ -64,7 +64,7 @@ const expandRecurringEvents = (events: CalendarEvent[], startDate: Date, endDate
 	return expandedEvents.sort((a, b) => moment(a.start).diff(moment(b.start)));
 };
 
-export default function WeekCalendar() {
+export default function MainCalendar() {
 	const { baseEvents, generateMockEvents } = useEventStore();
 	const [currentDate, setCurrentDate] = useState(moment());
 	const [currentView, setCurrentView] = useState<CalendarView>(() => {

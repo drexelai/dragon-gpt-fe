@@ -1,5 +1,5 @@
 "use client";
-import WeekCalendar from "@/components/Calendar/week-calendar";
+import WeekCalendar from "@/components/Calendar/MainCalendar";
 import ChatInterface from "@/components/ChatInterface";
 import InfoTooltip from "@/components/InfoTooltip";
 import Nav from "@/components/Navigation/Nav";

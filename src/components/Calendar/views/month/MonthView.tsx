@@ -1,4 +1,4 @@
-import { MonthCalendar } from "@/components/Calendar/components/MonthCalendar";
+import { MonthCalendar } from "@/components/Calendar/views/month/MonthCalendar";
 import { useState } from "react";
 import EventEmbed from "@/components/Calendar/components/EventEmbed";
 import moment from "moment";

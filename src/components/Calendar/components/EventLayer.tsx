@@ -1,7 +1,7 @@
 import moment from 'moment';
 import { cn } from '@/lib/utils';
 import { useState } from 'react';
-import EventModal from './components/EventModal';
+import EventModal from './EventModal';
 
 interface EventLayerProps {
 	events: CalendarEvent[];

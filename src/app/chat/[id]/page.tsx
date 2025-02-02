@@ -6,7 +6,7 @@ import InfoToolTip from "@/components/InfoTooltip";
 import ChatInterface from "@/components/ChatInterface";
 import { useEffect } from "react";
 import { useConversationStore } from "@/stores/useConversationStore";
-import Calendar from "@/components/Calendar/week-calendar";
+import Calendar from "@/components/Calendar/MainCalendar";
 import { useCalendarStore } from "@/stores/useCalendarStore";
 import { cn } from "@/lib/utils";
 import { MinimumWidth } from "@/types";
