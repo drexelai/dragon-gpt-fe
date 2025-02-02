@@ -4,7 +4,12 @@ import EventEmbed from "@/components/Calendar/components/EventEmbed";
 import moment from "moment";
 import ZzIcon from "@/icons/general/zz-icon";
 
-export default function MonthView({ events }: { events: CalendarEvent[] }) {
+interface MonthViewProps {
+	events: CalendarEvent[];
+	onMonthChange?: (date: moment.Moment) => void;
+}
+
+export default function MonthView({ events, onMonthChange }: MonthViewProps) {
 	const [date, setDate] = useState<Date>(new Date());
 
 	return (
@@ -17,6 +22,7 @@ export default function MonthView({ events }: { events: CalendarEvent[] }) {
 				className="w-full"
 				events={events}
 				defaultMonth={date}
+				onNavigate={(date) => onMonthChange?.(moment(date))}
 			/>
 			<div className="flex flex-col gap-4">
 				{events.filter(event => moment(event.start).isSame(date, 'day')).length > 0 ?

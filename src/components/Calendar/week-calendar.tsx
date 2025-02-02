@@ -72,14 +72,13 @@ export default function WeekCalendar() {
 		return (savedView as CalendarView) || '3day';
 	});
 
-	// Initialize events on mount
 	useEffect(() => {
 		generateMockEvents(currentDate);
 	}, []);
 
 	const events = useMemo(() => {
-		const startDate = moment(currentDate).subtract(2, 'weeks');
-		const endDate = moment(currentDate).add(2, 'weeks');
+		const startDate = moment(currentDate).subtract(6, 'weeks');
+		const endDate = moment(currentDate).add(6, 'weeks');
 		return expandRecurringEvents(baseEvents, startDate.toDate(), endDate.toDate());
 	}, [baseEvents, currentDate]);
 
@@ -223,6 +222,10 @@ export default function WeekCalendar() {
 		localStorage.setItem('calendarView', view);
 	};
 
+	const handleMonthChange = (newDate: moment.Moment) => {
+		setCurrentDate(newDate);
+	};
+
 	return (
 		<div className="w-full max-w-4xl flex flex-col h-full bg-background rounded-lg">
 			{/* <div className="flex items-center gap-2 w-full mt-4 px-4">
@@ -319,7 +322,10 @@ export default function WeekCalendar() {
 			{currentView === 'schedule' ? (
 				<ScheduleView events={events} />
 			) : currentView === 'month' ? (
-				<MonthView events={events} />
+				<MonthView
+					events={events}
+					onMonthChange={handleMonthChange}
+				/>
 			) : (
 			<>
 				<WeekHeader days={weekDays} view={currentView} />

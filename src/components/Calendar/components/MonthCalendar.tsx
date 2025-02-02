@@ -13,6 +13,7 @@ import { SetStateAction } from "react"
 export type CalendarProps = React.ComponentProps<typeof DayPicker> & {
 	events?: CalendarEvent[];
 	onSelect?: Dispatch<SetStateAction<Date>>;
+	onNavigate?: (date: Date) => void;
 }
 
 function MonthCalendar({
@@ -22,22 +23,27 @@ function MonthCalendar({
 	events = [],
 	selected,
 	onSelect,
+	onNavigate,
 	...props
 }: CalendarProps) {
 	const [currentMonth, setCurrentMonth] = React.useState<Date>(props.defaultMonth || new Date());
 
-	// Function to get events for a specific day
 	const getEventsForDay = (day: Date) => {
 		return events?.filter(event =>
 			moment(event.start).isSame(day, 'day')
-		).slice(0, 3); // Only take first 3 events
+		).slice(0, 3);
 	};
 
 	return (
 		<DayPicker
 			showOutsideDays={showOutsideDays}
 			className={cn("p-3", className)}
-			onMonthChange={setCurrentMonth}
+			onMonthChange={(date) => {
+				if (date && onNavigate) {
+					onNavigate(date);
+				}
+				setCurrentMonth(date);
+			}}
 			classNames={{
 				months: "flex flex-col sm:flex-row space-y-4 sm:space-x-4 sm:space-y-0",
 				month: "space-y-4",

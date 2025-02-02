@@ -18,6 +18,7 @@ import { Label } from "@/components/ui/label";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import moment from "moment";
 import { useEventStore } from '@/stores/useEventStore';
+import { DaySelect, Day } from "@/components/ui/day-select";
 
 const eventForm = z.object({
 	title: z.string()
@@ -77,6 +78,14 @@ const eventForm = z.object({
 }, {
 	message: "Please select at least one day",
 	path: ["recurrenceDays"],
+}).refine((data) => {
+	if ((data.recurrence === 'weekly' || data.recurrence === 'specific-days') && !data.recurrenceInterval) {
+		return false;
+	}
+	return true;
+}, {
+	message: "Please select an interval",
+	path: ["recurrenceInterval"],
 });
 
 export default function EventModal({ event, open, onOpenChange }: { event: CalendarEvent, open: boolean, onOpenChange: (open: boolean) => void }) {
@@ -111,7 +120,6 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 		return () => subscription.unsubscribe();
 	}, [form]);
 
-	// Add this effect to reset form when event changes
 	useEffect(() => {
 		form.reset({
 			title: event.title,
@@ -179,14 +187,45 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 		<Dialog
 			open={open}
 			onOpenChange={(open) => {
-				if (!open && isDirty) {
-					if (window.confirm('You have unsaved changes. Are you sure you want to close?')) {
-						setIsDirty(false);
-						onOpenChange(false);
+				if (!open) {
+					if (isDirty) {
+						if (window.confirm('You have unsaved changes. Are you sure you want to close?')) {
+							form.reset({
+								title: event.title,
+								location: event.location,
+								start: event.start,
+								end: event.end,
+								color: event.color,
+								recurring: !!event.recurrence,
+								recurrence: event.recurrence?.type,
+								recurrenceInterval: event.recurrence?.interval,
+								recurrenceDays: event.recurrence?.days,
+								recurrenceEnd: event.recurrence?.endDate || null,
+							});
+							setIsRecurring(!!event.recurrence);
+							setIsDirty(false);
+							onOpenChange(false);
+						}
+						return;
 					}
-					return;
+					// Reset form even when no changes were made
+					form.reset({
+						title: event.title,
+						location: event.location,
+						start: event.start,
+						end: event.end,
+						color: event.color,
+						recurring: !!event.recurrence,
+						recurrence: event.recurrence?.type,
+						recurrenceInterval: event.recurrence?.interval,
+						recurrenceDays: event.recurrence?.days,
+						recurrenceEnd: event.recurrence?.endDate || null,
+					});
+					setIsRecurring(!!event.recurrence);
+					onOpenChange(false);
+				} else {
+					onOpenChange(true);
 				}
-				onOpenChange(open);
 			}}
 		>
 			<DialogContent onOpenAutoFocus={(e) => e.preventDefault()}>
@@ -327,7 +366,7 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 														<FormLabel className="text-start text-muted-foreground">Repeat every</FormLabel>
 														<Select
 															onValueChange={(value) => field.onChange(parseInt(value))}
-															defaultValue={field.value?.toString()}
+															value={field.value?.toString() || "1"}
 														>
 															<SelectTrigger>
 																<SelectValue placeholder="Select interval" />
@@ -353,22 +392,12 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 												render={({ field }) => (
 													<FormItem className="w-full text-start">
 														<FormLabel className="text-start text-muted-foreground">Repeat on</FormLabel>
-														<div className="flex flex-wrap gap-2">
-															{['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday'].map((day) => (
-																<div key={day} className="flex items-center space-x-2">
-																	<Checkbox
-																		checked={field.value?.includes(day)}
-																		onCheckedChange={(checked) => {
-																			const updatedDays = checked
-																				? [...(field.value || []), day]
-																				: field.value?.filter(d => d !== day) || [];
-																			field.onChange(updatedDays);
-																		}}
-																	/>
-																	<Label>{day.charAt(0).toUpperCase() + day.slice(1)}</Label>
-																</div>
-															))}
-														</div>
+														<FormControl>
+															<DaySelect
+																value={(field.value || []) as Day[]}
+																onChange={field.onChange}
+															/>
+														</FormControl>
 														<FormMessage />
 													</FormItem>
 												)}
