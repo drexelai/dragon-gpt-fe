@@ -16,11 +16,22 @@ export function EventLayer({ events, weekDays, view }: EventLayerProps) {
 	const calculateEventPosition = (event: CalendarEvent, view: CalendarView) => {
 		const startHour = moment(event.start).hour();
 		const duration = moment(event.end).diff(moment(event.start), 'minutes');
+		const startMinutes = moment(event.start).minutes();
+
+		const startCell = (12 * startHour) + Math.round(startMinutes / 5) + 1;
+		const durationCells = Math.round((duration / 5));
+
+		if(event.title === 'Team Meeting') console.log({
+			start: moment(event.start).format('HH:mm'),
+			end: moment(event.end).format('HH:mm'),
+			duration,
+			title: event.title,
+			gridRow: `${startCell} / span ${durationCells}`
+		});
 
 		if(view === 'day') {
 			if (!weekDays[0].isSame(event.start, 'day')) return null;
 
-			// Get all events for this day
 			const dayEvents = events.filter(e => moment(e.start).isSame(weekDays[0], 'day'));
 			const isOverlapping = dayEvents.some(e =>
 				e.id !== event.id &&
@@ -29,7 +40,7 @@ export function EventLayer({ events, weekDays, view }: EventLayerProps) {
 			);
 
 			return {
-				gridRow: `${(12 * startHour) + 1} / span ${12 * (duration / 60)}`,
+				gridRow: `${startCell} / span ${durationCells}`,
 				gridColumn: 1,
 				width: isOverlapping ? '48%' : '100%',
 				justifySelf: isOverlapping ? dayEvents.findIndex(e => e.id === event.id) % 2 === 0 ? 'end' : 'start' : 'stretch'
@@ -46,7 +57,7 @@ export function EventLayer({ events, weekDays, view }: EventLayerProps) {
 			);
 
 			return {
-				gridRow: `${(12 * startHour) + 1} / span ${12 * (duration / 60)}`,
+				gridRow: `${startCell} / span ${durationCells}`,
 				gridColumn: dayIndex + 1,
 				width: isOverlapping ? '45%' : 'unset',
 				justifySelf: isOverlapping ? dayEvents.findIndex(e => e.id === event.id) % 2 === 0 ? 'end' : 'start' : 'stretch'
@@ -65,7 +76,7 @@ export function EventLayer({ events, weekDays, view }: EventLayerProps) {
 				"mt-2 z-10", // offset from the top
 				"ml-10 lg:ml-[4.5rem]", // Time column width
 				"absolute inset-0 grid h-[1440px]",
-				"grid-cols-[auto_repeat(5,_1fr)] lg:grid-cols-[auto_repeat(7,_1fr)]",
+				"grid-cols-[auto_repeat(5,_1fr)]",
 				view === 'week' && "grid-cols-5",
 				view === '3day' && "grid-cols-3",
 				view === 'day' && "grid-cols-1",
