@@ -31,7 +31,7 @@ export function CustomSelect({ value, onValueChange, placeholder, options }: Cus
           variant="outline"
           role="combobox"
           className={cn(
-            "w-full justify-between",
+            "w-full justify-between font-normal",
             !value && "text-muted-foreground"
           )}
         >

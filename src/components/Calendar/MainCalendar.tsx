@@ -27,8 +27,9 @@ const expandRecurringEvents = (events: CalendarEvent[], startDate: Date, endDate
 		const end = moment(endDate);
 		const eventStart = moment(event.start);
 		const eventEnd = moment(event.end);
+		const recurrenceEnd = event.recurrence.endDate ? moment(event.recurrence.endDate) : end;
 
-		while (start.isBefore(end)) {
+		while (start.isBefore(end) && start.isSameOrBefore(recurrenceEnd)) {
 			if (event.recurrence.type === 'daily') {
 				expandedEvents.push({
 					...event,
@@ -67,6 +68,7 @@ const expandRecurringEvents = (events: CalendarEvent[], startDate: Date, endDate
 export default function MainCalendar() {
 	const { baseEvents, generateMockEvents } = useEventStore();
 	const [currentDate, setCurrentDate] = useState(moment());
+	const [loadedWeeks, setLoadedWeeks] = useState(6);
 	const [currentView, setCurrentView] = useState<CalendarView>(() => {
 		const savedView = localStorage.getItem('calendarView');
 		return (savedView as CalendarView) || '3day';
@@ -77,10 +79,14 @@ export default function MainCalendar() {
 	}, []);
 
 	const events = useMemo(() => {
-		const startDate = moment(currentDate).subtract(6, 'weeks');
-		const endDate = moment(currentDate).add(6, 'weeks');
+		const startDate = moment(currentDate).subtract(loadedWeeks, 'weeks');
+		const endDate = moment(currentDate).add(loadedWeeks, 'weeks');
 		return expandRecurringEvents(baseEvents, startDate.toDate(), endDate.toDate());
-	}, [baseEvents, currentDate]);
+	}, [baseEvents, currentDate, loadedWeeks]);
+
+	const handleLoadMoreEvents = () => {
+		setLoadedWeeks(prev => prev + 6);
+	};
 
 	const isDesktop = window?.innerWidth > MinimumWidth.Large;
 	const scrollRef = useRef<HTMLDivElement>(null);
@@ -320,7 +326,10 @@ export default function MainCalendar() {
 			</div>
 
 			{currentView === 'schedule' ? (
-				<ScheduleView events={events} />
+				<ScheduleView
+					events={events}
+					onLoadMore={handleLoadMoreEvents}
+				/>
 			) : currentView === 'month' ? (
 				<MonthView
 					events={events}
