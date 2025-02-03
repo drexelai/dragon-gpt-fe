@@ -34,7 +34,7 @@ const eventForm = z.object({
 	recurrence: z.string().optional(), // "daily", "weekly", "specific-days",
 	recurrenceInterval: z.number().optional(), // 1, 2, 3, 4, 5
 	recurrenceDays: z.array(z.string()).optional(), // ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"]
-	recurrenceEnd: z.date().optional().nullable(),
+	recurrenceEnd: z.date().nullable().optional(),
 }).refine((data) => {
 	return data.end > data.start;
 }, {
@@ -78,6 +78,14 @@ const eventForm = z.object({
 }, {
 	message: "Please select at least one day",
 	path: ["recurrenceDays"],
+}).refine((data) => {
+	if (data.recurring && data.recurrence && data.recurrenceEnd) {
+		return moment(data.recurrenceEnd).isAfter(moment(), 'day');
+	}
+	return true;
+}, {
+	message: "End date must be in the future",
+	path: ["recurrenceEnd"],
 });
 
 export default function EventModal({ event, open, onOpenChange }: { event: CalendarEvent, open: boolean, onOpenChange: (open: boolean) => void }) {
@@ -293,7 +301,7 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 											name="start"
 											render={({ field }) => (
 												<FormItem className="text-start">
-													<DateTimeInput label="Start" value={field.value} onChange={field.onChange} />
+													<DateTimeInput label="Start Time" value={field.value} onChange={field.onChange} />
 													<FormMessage />
 												</FormItem>
 											)} />
@@ -302,7 +310,7 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 											name="end"
 											render={({ field }) => (
 												<FormItem className="text-start">
-													<DateTimeInput label="End" value={field.value} onChange={field.onChange} />
+													<DateTimeInput label="End Time" value={field.value} onChange={field.onChange} />
 													<FormMessage />
 												</FormItem>
 											)} />
@@ -415,9 +423,10 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 												<FormItem className="w-full text-start">
 													<DateTimeInput
 														label="End Date"
-														value={field.value || new Date()}
+														value={field.value}
 														onChange={field.onChange}
 													/>
+													<p className="text-xs text-muted-foreground">Leave blank for infinite</p>
 													<FormMessage />
 												</FormItem>
 											)}

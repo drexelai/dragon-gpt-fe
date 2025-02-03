@@ -21,14 +21,6 @@ export function EventLayer({ events, weekDays, view }: EventLayerProps) {
 		const startCell = (12 * startHour) + Math.round(startMinutes / 5) + 1;
 		const durationCells = Math.round((duration / 5));
 
-		if(event.title === 'Team Meeting') console.log({
-			start: moment(event.start).format('HH:mm'),
-			end: moment(event.end).format('HH:mm'),
-			duration,
-			title: event.title,
-			gridRow: `${startCell} / span ${durationCells}`
-		});
-
 		if(view === 'day') {
 			if (!weekDays[0].isSame(event.start, 'day')) return null;
 
@@ -94,7 +86,7 @@ export function EventLayer({ events, weekDays, view }: EventLayerProps) {
 					<div
 						key={`${event.id}-${index}`}
 						className={cn(
-							"flex flex-col relative mx-1 rounded-md p-2 mb-1 shadow-sm border border-neutral-200 dark:border-neutral-700 overflow-hidden cursor-pointer",
+							"flex flex-col relative mx-1 rounded-md p-2 mb-1 shadow-sm drop-shadow-md border border-neutral-200 dark:border-neutral-700 overflow-hidden cursor-pointer",
 							"hover:z-10 hover:max-w-full hover:shadow-md transition-all duration-200 shrink",
 							event.color,
 							"bg-opacity-70 hover:bg-opacity-100"
