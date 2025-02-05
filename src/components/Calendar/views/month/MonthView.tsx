@@ -25,6 +25,7 @@ export default function MonthView({ events, onMonthChange }: MonthViewProps) {
 				onNavigate={(date) => onMonthChange?.(moment(date))}
 			/>
 			<div className="flex flex-col gap-4">
+				<p className="text-muted-foreground font-medium mt-2">{moment(date).format('MMMM Do YYYY')}</p>
 				{events.filter(event => moment(event.start).isSame(date, 'day')).length > 0 ?
 					events.filter(event => moment(event.start).isSame(date, 'day')).map((event) => (
 						<EventEmbed key={event.id} event={event} />

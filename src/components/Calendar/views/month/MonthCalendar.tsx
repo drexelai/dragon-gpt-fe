@@ -101,15 +101,15 @@ function MonthCalendar({
 							}}
 							className={cn(
 								buttonVariants({ variant: "ghost" }),
-								"h-8 w-8 p-0 font-normal relative flex flex-col items-center",
-								isSelected && "bg-neutral-100 border border-neutral-200 dark:bg-neutral-800 dark:border-neutral-700",
+								"h-8 w-8 p-0 font-normal relative flex flex-col items-center rounded-2xl transition-all ease-in-out",
+								isSelected && "bg-sky-100 border border-neutral-200 dark:bg-neutral-800 dark:border-neutral-700",
 								isOutsideMonth && "text-muted-foreground",
 								dayProps.className
 							)}
 						>
 							<span>{date.getDate()}</span>
 							{dayEvents.length > 0 && (
-								<div className="flex gap-0.5 absolute -bottom-[0.05px]">
+								<div className="flex gap-0.5 absolute -bottom-1">
 									{dayEvents.map((event) => (
 										<div
 											key={event.id}

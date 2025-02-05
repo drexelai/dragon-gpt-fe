@@ -63,14 +63,6 @@ const eventForm = z.object({
 	message: "Please select a recurrence type",
 	path: ["recurrence"],
 }).refine((data) => {
-	if (data.recurring && (!data.recurrenceEnd || moment(data.recurrenceEnd).isSameOrBefore(moment(), 'day'))) {
-		return false;
-	}
-	return true;
-}, {
-	message: "End date must be set and must be in the future",
-	path: ["recurrenceEnd"],
-}).refine((data) => {
 	if (data.recurrence === 'specific-days' && (!data.recurrenceDays || data.recurrenceDays.length === 0)) {
 		return false;
 	}
@@ -426,7 +418,7 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 														value={field.value}
 														onChange={field.onChange}
 													/>
-													<p className="text-xs text-muted-foreground">Leave blank for infinite</p>
+													<p className="text-xs text-muted-foreground">Leave blank for no end</p>
 													<FormMessage />
 												</FormItem>
 											)}

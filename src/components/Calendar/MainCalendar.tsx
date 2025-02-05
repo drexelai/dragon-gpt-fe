@@ -13,6 +13,7 @@ import CalendarHours from './components/CalendarHours';
 import ScheduleView from './views/schedule/ScheduleView';
 import MonthView from './views/month/MonthView';
 import { useEventStore } from '@/stores/useEventStore';
+import { cn } from '@/lib/utils';
 
 const expandRecurringEvents = (events: CalendarEvent[], startDate: Date, endDate: Date): CalendarEvent[] => {
 	const expandedEvents: CalendarEvent[] = [];
@@ -242,33 +243,16 @@ export default function MainCalendar() {
 			</div> */}
 
 			<div className="flex items-center p-4 gap-2">
-				<div className="inline-flex -space-x-px rounded-2xl rtl:space-x-reverse shadow-sm border border-neutral-200 dark:border-neutral-700">
 					<Button
-						className="rounded-none shadow-none first:rounded-s-2xl last:rounded-e-2xl focus-visible:z-10"
-						variant="secondary"
-						size="icon"
-						aria-label="Previous week"
-						onClick={goToPrevious}
-					>
-						<ChevronLeft size={16} strokeWidth={2} aria-hidden="true" />
-					</Button>
-					<Button
-						variant="secondary"
-						className="p-2 rounded-none border-r-1 border-l-1 border-r-gray-50"
+						variant="outline"
+						className={cn(
+								"rounded-3xl",
+								!["day", "3day", "week"].includes(currentView) && "hidden"
+							)}
 						onClick={goToToday}
 					>
 						Today
 					</Button>
-					<Button
-						className="rounded-none shadow-none first:rounded-s-2xl last:rounded-e-2xl focus-visible:z-10"
-						variant="secondary"
-						size="icon"
-						aria-label="Next week"
-						onClick={goToNext}
-					>
-						<ChevronRight size={16} strokeWidth={2} aria-hidden="true" />
-					</Button>
-				</div>
 				{/* <NewEventButton /> */}
 				<div className='w-full'>
 					<DropdownMenu>
@@ -336,27 +320,46 @@ export default function MainCalendar() {
 					onMonthChange={handleMonthChange}
 				/>
 			) : (
-			<>
-				<WeekHeader days={weekDays} view={currentView} />
-				<div className="flex-1 overflow-scroll"
-					ref={scrollRef}
-					onTouchStart={handleTouchStart}
-					onTouchMove={handleTouchMove}
-					onTouchEnd={handleTouchEnd}
-				>
-					<div className="relative flex-1 grid grid-cols-1 grid-rows-1"
-						ref={containerRef}
-						style={{
-							opacity: 1 - swipeProgress,
-							transform: `translateX(${offsetX}px)`,
-						}}
-					>
-						<CalendarHours />
-						<WeekViewGrid view={currentView} weekDays={weekDays} />
-						<EventLayer events={events} weekDays={weekDays} view={currentView} />
+				<>
+					<div className='w-full flex flex-row justify-between items-center px-4'>
+						<Button
+							variant="ghost"
+							size="icon"
+							aria-label="Previous week"
+							onClick={goToPrevious}
+						>
+							<ChevronLeft size={16} strokeWidth={2} aria-hidden="true" />
+						</Button>
+						<p className='font-medium'>{moment(currentDate).format('MMMM YYYY')}</p>
+						<Button
+							variant="ghost"
+							size="icon"
+							aria-label="Next week"
+							onClick={goToNext}
+						>
+							<ChevronRight size={16} strokeWidth={2} aria-hidden="true" />
+						</Button>
 					</div>
-				</div>
-			</>
+					<WeekHeader days={weekDays} view={currentView} />
+					<div className="flex-1 overflow-scroll"
+						ref={scrollRef}
+						onTouchStart={handleTouchStart}
+						onTouchMove={handleTouchMove}
+						onTouchEnd={handleTouchEnd}
+					>
+						<div className="relative flex-1 grid grid-cols-1 grid-rows-1"
+							ref={containerRef}
+							style={{
+								opacity: 1 - swipeProgress,
+								transform: `translateX(${offsetX}px)`,
+							}}
+						>
+							<CalendarHours />
+							<WeekViewGrid view={currentView} weekDays={weekDays} />
+							<EventLayer events={events} weekDays={weekDays} view={currentView} />
+						</div>
+					</div>
+				</>
 			)}
 		</div>
 	);
