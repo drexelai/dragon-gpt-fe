@@ -64,6 +64,7 @@ export const useEventStore = create<EventStore>((set) => ({
                 events.push({
                     id: uuidv4(),
                     title: eventTitles[Math.floor(Math.random() * eventTitles.length)],
+					description: 'sample description',
                     location: locations[Math.floor(Math.random() * locations.length)],
                     start: moment(currentDay).hour(startHour).minute(0).toDate(),
                     end: moment(currentDay).hour(startHour + duration).minute(0).toDate(),
@@ -77,6 +78,7 @@ export const useEventStore = create<EventStore>((set) => ({
             {
                 id: uuidv4(),
                 title: 'Recur 0',
+				description: 'sample description',
                 location: 'Virtual',
                 start: moment(baseDate).hour(10).minute(0).toDate(),
                 end: moment(baseDate).hour(10).minute(30).toDate(),
@@ -91,6 +93,7 @@ export const useEventStore = create<EventStore>((set) => ({
             {
                 id: uuidv4(),
                 title: 'Recur 1',
+				description: '',
                 location: 'Conference A',
                 start: moment(baseDate).day(1).hour(14).minute(0).toDate(),
                 end: moment(baseDate).day(1).hour(15).minute(0).toDate(),

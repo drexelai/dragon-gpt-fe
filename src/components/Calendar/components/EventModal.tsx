@@ -24,6 +24,7 @@ const eventForm = z.object({
 	title: z.string()
 		.min(1, 'Name must be at least 1 character')
 		.max(40, 'Name cannot be more than 40 characters'),
+	description: z.string().optional(),
 	location: z.string()
 		.min(1, 'Location must be at least 1 character')
 		.max(40, 'Location cannot be more than 40 characters'),
@@ -90,6 +91,7 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 		resolver: zodResolver(eventForm),
 		defaultValues: {
 			title: event.title,
+			description: event.description || '',
 			location: event.location,
 			start: event.start,
 			end: event.end,
@@ -112,6 +114,7 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 			const currentValues = form.getValues();
 			const hasChanges =
 				currentValues.title !== event.title ||
+				currentValues.description !== (event.description || '') ||
 				currentValues.location !== event.location ||
 				currentValues.color !== event.color ||
 				!moment(currentValues.start).isSame(event.start) ||
@@ -131,6 +134,7 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 	useEffect(() => {
 		form.reset({
 			title: event.title,
+			description: event.description || '',
 			location: event.location,
 			start: event.start,
 			end: event.end,
@@ -156,6 +160,7 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 				updateEvent({
 					...baseEvent,
 					title: values.title,
+					description: values.description || '',
 					location: values.location,
 					color: values.color,
 					start: values.start,
@@ -202,6 +207,7 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 						if (window.confirm('You have unsaved changes. Are you sure you want to close?')) {
 							form.reset({
 								title: event.title,
+								description: event.description || '',
 								location: event.location,
 								start: event.start,
 								end: event.end,
@@ -221,6 +227,7 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 					// Reset form even when no changes were made
 					form.reset({
 						title: event.title,
+						description: event.description || '',
 						location: event.location,
 						start: event.start,
 						end: event.end,
@@ -252,11 +259,11 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 					<DialogHeader className="w-full">
 						<div className="flex justify-center">
 							<DialogTitle className="text-center truncate max-w-[20rem] px-4 pb-1">
-								Edit {event.title}
+								Edit Event
 							</DialogTitle>
 						</div>
-						<DialogDescription className="hidden">
-							Make changes to your event here
+						<DialogDescription>
+							{event.description}
 						</DialogDescription>
 						<Form {...form}>
 							<form onSubmit={form.handleSubmit((data) => {
@@ -270,6 +277,24 @@ export default function EventModal({ event, open, onOpenChange }: { event: Calen
 											<FormLabel className="text-start text-muted-foreground">Title</FormLabel>
 											<FormControl>
 												<Input placeholder={event.title} type="text" autoComplete="off" {...field} className="text-base" />
+											</FormControl>
+											<FormMessage />
+										</FormItem>
+									)} />
+								<FormField
+									control={form.control}
+									name="description"
+									render={({ field }) => (
+										<FormItem className="w-full text-start">
+											<FormLabel className="text-start text-muted-foreground">Description</FormLabel>
+											<FormControl>
+												<Input
+													placeholder="Add a description"
+													type="text"
+													autoComplete="off"
+													{...field}
+													className="text-base"
+												/>
 											</FormControl>
 											<FormMessage />
 										</FormItem>
