@@ -1,14 +1,14 @@
 import { useEffect, useRef, useState, useMemo } from 'react';
 import moment from 'moment';
 import { ChevronDownIcon, ChevronLeft, ChevronRight } from 'lucide-react';
-import { WeekHeader } from './views/week/week-header';
+import { WeekHeader } from './views/week/WeekHeader';
 import { EventLayer } from './components/EventLayer';
 import { MinimumWidth } from '@/types';
 import { Button } from '../ui/button';
 import { useMaskImage } from '@/hooks';
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuSeparator, DropdownMenuTrigger } from '../ui/dropdown-menu';
 import { DayIcon, MonthIcon, ScheduleIcon, ThreeDayIcon, WeekIcon } from '@/icons/calendar';
-import { WeekViewGrid } from './views/week/week-view-grid';
+import { WeekViewGrid } from './views/week/WeekViewGrid';
 import CalendarHours from './components/CalendarHours';
 import ScheduleView from './views/schedule/ScheduleView';
 import MonthView from './views/month/MonthView';
