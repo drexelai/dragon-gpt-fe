@@ -8,14 +8,16 @@ interface WeekHeaderProps {
 }
 
 export function WeekHeader({ days, view }: WeekHeaderProps) {
+	const displayDays = view === "day" ? [days[0]] : days;
+
 	return (
 		<div className={cn(
 			"ml-10 grid",
 			view === "week" && "grid-cols-5",
 			view === "3day" && "grid-cols-3",
-			view === "day" && "grid-cols-5"
+			view === "day" && "grid-cols-1"
 		)}>
-			{days.map((day, index) => (
+			{displayDays.map((day, index) => (
 				<div
 					key={day.format()}
 					className={cn(
@@ -29,7 +31,7 @@ export function WeekHeader({ days, view }: WeekHeaderProps) {
 						"text-sm font-normal",
 						!day.isSame(moment(), "day") && "text-neutral-500 dark:text-neutral-400"
 					)}>
-						{day.format("ddd")}
+						{day.format(view === "day" ? "dddd" : "ddd")}
 					</span>
 				</div>
 			))}

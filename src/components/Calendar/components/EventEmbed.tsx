@@ -24,7 +24,7 @@ export default function EventEmbed({ event }: { event: CalendarEvent }) {
 			<div className="flex flex-col w-full pr-4">
 				<div className="flex flex-row gap-2 items-center">
 					<p className="text-base font-medium max-w-64 truncate">{event.title}</p>
-					{event.recurrence && <RepeatIcon size={16} className="ml-auto" />}
+					{event.recurrence && <RepeatIcon size={16} className="ml-auto opacity-75" />}
 				</div>
 				<span className="text-sm flex flex-row gap-2 items-center w-full justify-between">
 					<p className="max-w-32 truncate">{event.location}</p>

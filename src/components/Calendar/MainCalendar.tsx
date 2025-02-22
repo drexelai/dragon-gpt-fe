@@ -244,7 +244,7 @@ export default function MainCalendar() {
 
 			<div className="flex items-center p-4 gap-2">
 					<Button
-						variant="outline"
+						variant="default"
 						className={cn(
 								"rounded-3xl",
 								!["day", "3day", "week"].includes(currentView) && "hidden"
@@ -321,7 +321,7 @@ export default function MainCalendar() {
 				/>
 			) : (
 				<>
-					<div className='w-full flex flex-row justify-between items-center px-4'>
+					<div className='w-full flex flex-row justify-between items-center pl-8'>
 						<Button
 							variant="ghost"
 							size="icon"
@@ -360,7 +360,7 @@ export default function MainCalendar() {
 						</div>
 					</div>
 				</>
-			)}
+			)}z
 		</div>
 	);
 }
