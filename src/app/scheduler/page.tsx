@@ -1,10 +1,8 @@
 "use client";
 import WeekCalendar from "@/components/Calendar/MainCalendar";
-import ChatInterface from "@/components/ChatInterface";
 import InfoTooltip from "@/components/InfoTooltip";
 import Nav from "@/components/Navigation/Nav";
 import SchedulerInterface from "@/components/scheduler/scheduler-interface";
-import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTitle, SheetTrigger } from "@/components/ui/sheet";
 import { cn } from "@/lib/utils";
 import { useCalendarStore } from "@/stores/useCalendarStore";
