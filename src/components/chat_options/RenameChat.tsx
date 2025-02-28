@@ -12,9 +12,9 @@ import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle, Di
 
 const renameForm = z.object({
 	name: z.string()
-		.min(1, 'Title must be at least 1 character')
-		.max(40, 'Title cannot be more than 40 characters')
-		.regex(/^[a-zA-Z0-9 ]+$/, 'Title can only contain letters, numbers, and spaces'),
+		.min(1, 'Name must be at least 1 character')
+		.max(40, 'Name cannot be more than 40 characters')
+		.regex(/^[a-zA-Z0-9 ]+$/, 'Name can only contain letters, numbers, and spaces'),
 });
 
 export default function RenameChat({

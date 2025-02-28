@@ -6,12 +6,6 @@ import InfoToolTip from "@/components/InfoTooltip";
 import ChatInterface from "@/components/ChatInterface";
 import { useEffect } from "react";
 import { useConversationStore } from "@/stores/useConversationStore";
-import Calendar from "@/components/Calendar/MainCalendar";
-import { useCalendarStore } from "@/stores/useCalendarStore";
-import { cn } from "@/lib/utils";
-import { MinimumWidth } from "@/types";
-import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
-import { ArrowLeft } from "lucide-react";
 
 // export async function generateMetadata({ params }: { params: { id: string }}) {
 // 	const conversations = await fetchConversations();
@@ -30,12 +24,11 @@ import { ArrowLeft } from "lucide-react";
 // }
 
 export default function ChatPage({ params }: { params: { id: string } }) {
-	const isDesktop = window.innerWidth > MinimumWidth.Large;
 	const {
 		setConversations,
 		setActiveConversation
 	} = useConversationStore();
-	const { calendarOpen, setCalendarOpen } = useCalendarStore();
+
 	const router = useRouter();
 
 	useEffect(() => {
@@ -60,21 +53,13 @@ export default function ChatPage({ params }: { params: { id: string } }) {
 	return (
 		<div className="m-4 flex">
 			<Nav />
-			<div className={cn(
-				"w-full",
-				!calendarOpen && "sm:py-4 xl:px-24 lg:px-18 md:px-14 sm:px-3 "
-			)}>
+			<div className="sm:py-4 xl:px-24 lg:px-18 md:px-14 sm:px-3 w-full">
 				<div className="flex flex-col">
 					<div className="flex flex-row pb-4 mb-4 md:relative md:left-[-50px] md:top-[20px] justify-center md:justify-normal">
-						<h1 className={cn(
-							"fixed md:relative text-4xl px-4 font-semibold",
-							calendarOpen && "ml-8"
-						)}>DragonGPT</h1>
+						<h1 className="fixed md:relative text-4xl px-4 font-semibold">DragonGPT</h1>
 						<InfoToolTip />
 					</div>
-					<div className="flex flex-row">
-						<ChatInterface />
-					</div>
+					<ChatInterface />
 				</div>
 			</div>
 		</div>

@@ -7,7 +7,7 @@ import {
 	TouchProvider,
 } from "./ui/TouchProvider";
 
-const InfoTooltip = () => {
+const CustomTooltip = () => {
 	return (
 		<TouchProvider>
 			<TooltipProvider delayDuration={250}>
@@ -28,4 +28,4 @@ const InfoTooltip = () => {
 	);
 };
 
-export default InfoTooltip;
+export default CustomTooltip;

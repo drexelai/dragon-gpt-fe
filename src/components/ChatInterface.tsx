@@ -8,10 +8,9 @@ import { v4 } from "uuid";
 import { Button } from "./ui/button";
 import { Spinner } from "./ui/spinner";
 import { useConversationStore } from "@/stores/useConversationStore";
-import { cn, samples } from "@/lib/utils";
+import { samples } from "@/lib/utils";
 import logo from "../public/mario.png";
 import Image from "next/image";
-import { useCalendarStore } from "@/stores/useCalendarStore";
 
 export default function ChatInterface() {
 	const {
@@ -20,8 +19,6 @@ export default function ChatInterface() {
 		setActiveConversation,
 		activeConversation
 	} = useConversationStore();
-
-	const { calendarOpen } = useCalendarStore();
 
 	const [messages, setMessages] = useState<
 		{ text: string; isUser: boolean }[] | null
@@ -223,12 +220,9 @@ export default function ChatInterface() {
 	};
 
 	return (
-		<div className="flex flex-col h-[calc(100dvh-5rem)] sm:h-[calc(100vh-10rem)] supports-[dvh]:h-[calc(100dvh-10rem)] w-full min-w-64 flex-1 items-center">
+		<div className="flex flex-col h-[calc(100dvh-5rem)] sm:h-[calc(100vh-10rem)] supports-[dvh]:h-[calc(100dvh-10rem)] w-full items-center">
 			{messages && messages.length > 0 && (
-				<div className={cn(
-					"mt-4 flex-grow overflow-auto w-full",
-					!calendarOpen && "xl:px-20"
-					)}>
+				<div className="xl:px-20 mt-4 flex-grow overflow-auto w-full">
 					<ChatMessages messages={messages} isStreaming={isStreaming} />
 				</div>
 			)}
@@ -287,12 +281,17 @@ export default function ChatInterface() {
 							</div>
 						</div>
 					</div> */}
-					<h1 className="text-3xl md:text-4xl font-bold mt-20 md:mb-10 text-center w-72 md:w-1/2 flex-1">
+					<h1 className="text-3xl md:text-4xl font-bold mt-20 md:mb-10 text-center w-72 md:w-1/2 flex-1 text-transparent bg-clip-text bg-light-teal-gradient dark:bg-dark-teal-gradient">
 						What would you like to know more about?
 					</h1>
-					<div className={cn("overflow-auto flex justify-end flex-col h-full w-full",
-						calendarOpen ? "items-start" : "lg:items-center"
-					)}>
+					<Image
+					priority
+					src={logo}
+					alt="Sage Wizard Logo"
+					width={150}
+					className="mt-10 w-24 lg:w-40 pointer-events-none select-none"
+					/>
+					<div className="overflow-auto flex justify-end lg:items-center flex-col h-full w-full">
 						<div className="flex flex-col md:items-center overflow-auto no-scrollbar mb-2">
 							{samples.know.map((arr, index) => (
 								<div key={index} className="flex flex-row">
