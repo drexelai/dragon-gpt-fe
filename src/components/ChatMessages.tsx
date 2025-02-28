@@ -6,6 +6,7 @@ import { gfmHeadingId } from "marked-gfm-heading-id";
 import DOMPurify from "dompurify";
 import { useConversationStore } from "@/stores/useConversationStore";
 import logo from "../public/mario.png";
+import { useMaskImage } from "@/hooks";
 
 const options = {
 	prefix: "chat-header-",
@@ -27,7 +28,6 @@ export default function ChatMessages({
 	const { activeConversation } = useConversationStore();
 	const messagesEndRef = useRef<HTMLDivElement>(null);
 	const scrollRef = useRef<HTMLDivElement>(null);
-	const [maskStyle, setMaskStyle] = useState("");
 
 	const scrollToBottom = () => {
 		messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
@@ -47,48 +47,13 @@ export default function ChatMessages({
 		}, 500);
 	}, [messages]);
 
-	const handleScroll = () => {
-		const scrollElement = scrollRef.current;
-		if (!scrollElement) return;
-		const { scrollTop, scrollHeight, clientHeight } = scrollElement;
-		//console.log({ scrollTop, scrollHeight, clientHeight });
-
-		if (scrollTop === 0) {
-			// at the top - fade only at the bottom
-			setMaskStyle(
-				"linear-gradient(to bottom, white, white 5	%, white 90%, transparent)"
-			);
-		} else if (scrollTop + clientHeight >= scrollHeight) {
-			// at the bottom - fade only at the top
-			setMaskStyle(
-				"linear-gradient(to bottom, transparent, white 5%, white 90%, white)"
-			);
-		} else {
-			// middle - fade both top and bottom
-			setMaskStyle(
-				"linear-gradient(to bottom, transparent, white 5%, white 90%, transparent)"
-			);
-		}
-	};
-
-	useEffect(() => {
-		const scrollElement = scrollRef.current;
-		if (scrollElement) scrollElement.addEventListener("scroll", handleScroll);
-
-		return () => {
-			if (scrollElement)
-				scrollElement.removeEventListener("scroll", handleScroll);
-		};
-	}, []);
+	useMaskImage(scrollRef);
 
 	return (
 		<div
 			className="overflow-y-auto h-full w-full flex flex-col margin-top: auto"
 			id="chat-messages"
 			ref={scrollRef}
-			style={{
-				maskImage: maskStyle,
-			}}
 		>
 			{" "}
 			{/* Add id for links effect */}

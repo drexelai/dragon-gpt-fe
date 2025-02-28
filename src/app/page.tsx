@@ -6,13 +6,20 @@ import InfoToolTip from "@/components/InfoTooltip";
 import { usePathname } from "next/navigation";
 import { useEffect } from "react";
 import { useConversationStore } from "@/stores/useConversationStore";
+import Calendar from "@/components/Calendar/MainCalendar";
+import { useCalendarStore } from "@/stores/useCalendarStore";
+import { cn } from "@/lib/utils";
+import { MinimumWidth } from "@/types";
+import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
+import { ArrowLeft } from "lucide-react";
 
 export default function Home() {
+	const isDesktop = window.innerWidth > MinimumWidth.Large;
 	const {
 		setConversations,
 		setActiveConversation,
 	} = useConversationStore();
-
+	const { calendarOpen, setCalendarOpen } = useCalendarStore();
 	const pathname = usePathname();
 
 	useEffect(() => {
@@ -42,13 +49,21 @@ export default function Home() {
 	return (
 		<div className="m-4 flex">
 			<Nav />
-			<div className="sm:py-4 xl:px-24 lg:px-18 md:px-14 sm:px-3 w-full">
+			<div className={cn(
+				"w-full",
+				!calendarOpen && "sm:py-4 xl:px-24 lg:px-18 md:px-14 sm:px-3 "
+			)}>
 				<div className="flex flex-col gap-8">
 					<div className="flex flex-row pb-4 md:relative md:left-[-50px] md:top-[20px] justify-center md:justify-normal">
-						<h1 className="fixed md:relative text-4xl px-4 font-semibold">DragonGPT</h1>
+						<h1 className={cn(
+							"fixed md:relative text-4xl px-4 font-semibold",
+							calendarOpen && "ml-8"
+						)}>DragonGPT</h1>
 						<InfoToolTip />
 					</div>
-					<ChatInterface />
+					<div className="flex flex-row">
+						<ChatInterface />
+					</div>
 				</div>
 			</div>
 		</div>

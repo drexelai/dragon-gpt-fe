@@ -17,8 +17,11 @@ import NewChatButton from "./NewChatButton";
 import { useEffect, useState } from "react";
 import NavComponents from "./NavComponents";
 import * as SheetPrimitive from "@radix-ui/react-dialog"
+import { cn } from "@/lib/utils";
+import { useCalendarStore } from "@/stores/useCalendarStore";
 
 export default function Nav() {
+	const { calendarOpen } = useCalendarStore();
 	const [open, setOpen] = useState(true);
 
 	useEffect(() => {
@@ -26,7 +29,7 @@ export default function Nav() {
 			if (window.innerWidth < 1024) {
 				setOpen(false);
 			} else {
-				setOpen(true);
+				if(!calendarOpen) setOpen(true);
 			}
 		};
 
@@ -36,7 +39,13 @@ export default function Nav() {
 		return () => {
 			window.removeEventListener("resize", handleResize);
 		};
-	}, []);
+	}, [calendarOpen]);
+
+	useEffect(() => {
+		if (calendarOpen) {
+			setOpen(false);
+		}
+	}, [calendarOpen]);
 
 	return (
 		<nav
@@ -73,15 +82,21 @@ export default function Nav() {
 					id="navbar"
 				>
 					<div className="flex flex-col justify-center items-center transition-all ease-in-out duration-200 gap-2">
+						{/* If device is size is less than  medium --> render SheetTrigger, if greater than medium render Button */}
 						<Button
 							variant="ghost"
-							className="hover:bg-gray-300/40 md:hidden lg:block"
+							className={cn(
+								"hover:bg-gray-300/40",
+								calendarOpen ? "hidden" : "md:hidden lg:block"
+							)}
 							onClick={() => setOpen(true)}
 						>
 							<Menu />
 						</Button>
 						<Sheet onOpenChange={() => setTimeout(() => document.body.style.pointerEvents = "", 500)}>
-							<SheetTrigger className="lg:hidden" asChild>
+							<SheetTrigger className={cn(
+								calendarOpen ? "block" : "lg:hidden"
+							)} asChild>
 								<Button variant="ghost">
 									<Menu />
 								</Button>

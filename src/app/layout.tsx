@@ -1,3 +1,4 @@
+import "react-big-calendar/lib/css/react-big-calendar.css";
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";

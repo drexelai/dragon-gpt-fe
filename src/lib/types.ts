@@ -11,3 +11,14 @@ type Message = {
 	isUser: boolean;
 	timestamp: number;
 }
+
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
+export type CalendarView = 'week' | '3day' | 'day' | 'month' | 'schedule';
+export interface CalendarEvent {
+	id: string;
+	title: string;
+	location?: string;
+	start: Date;
+	end: Date;
+	color: string;
+}
