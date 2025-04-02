@@ -152,8 +152,8 @@ export default function ChatInput({
 				<Button
 				onClick={handleSend}
 				disabled={isStreaming}
-				className={`rounded-3xl px-3 bg-sky-900`}
-				variant="default"
+				className={`rounded-3xl px-3 bg-sage-primary`}
+				variant="ghost"
 			>
 				<SendHorizonal className="md:hidden text-white" />
 				<span className="hidden md:block text-white">Send</span>
