@@ -281,18 +281,18 @@ export default function ChatInterface() {
 							</div>
 						</div>
 					</div> */}
-					<h1 className="text-3xl md:text-4xl p-2 font-bold mt-20 md:mb-10 text-center w-72 md:w-1/2 flex-1 text-transparent bg-clip-text bg-light-teal-gradient dark:bg-dark-teal-gradient">
+					<h1 className="text-3xl md:text-4xl p-1 font-bold mt-20 mb-20 md:mt-5 md:mb-5 text-center w-72 md:w-1/2 flex-1 text-transparent bg-clip-text bg-light-teal-gradient dark:bg-dark-teal-gradient">
 					Channel your inner academic weapon
 					</h1>
 					<Image
 					priority
 					src={logo}
 					alt="Sage Wizard Logo"
-					width={150}
-					className="mt-5 w-48 sm:w-40 md:w-48 lg:w-56 xl:w-64 pointer-events-none select-none"
+					width={120}
+					className="mt-0 w-56 sm:w-56 md:w-44 lg:w-44 xl:w-56 pointer-events-none select-none"
 					/>
 					<div className="overflow-auto flex justify-end lg:items-center flex-col h-full w-full">
-						<p className="p-2 mb-4 max-w-80 text-base font-bold text-center mx-auto"> Ask DragonGPT about:</p>
+						<p className="p-2 mb-2 max-w-80 text-base font-bold text-center mx-auto"> Ask DragonGPT about:</p>
 					<div className="flex flex-col md:items-center overflow-auto no-scrollbar mb-2">
 							{samples.know.map((arr, index) => (
 								<div key={index} className="flex flex-row">
