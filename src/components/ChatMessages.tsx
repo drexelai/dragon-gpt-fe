@@ -5,7 +5,7 @@ import { marked } from "marked";
 import { gfmHeadingId } from "marked-gfm-heading-id";
 import DOMPurify from "dompurify";
 import { useConversationStore } from "@/stores/useConversationStore";
-import logo from "../public/mario.png";
+import logo from "../public/dragongpt transparent.png";
 
 const options = {
 	prefix: "chat-header-",
