@@ -288,7 +288,7 @@ export default function ChatInterface() {
 					priority
 					src={logo}
 					alt="Sage Wizard Logo"
-					width={120}
+					width={150}
 					className="mt-0 w-42 sm:w-56 md:w-44 lg:w-44 xl:w-56"
 					/>
 					<div className="overflow-auto flex justify-end lg:items-center flex-col h-full w-full">
