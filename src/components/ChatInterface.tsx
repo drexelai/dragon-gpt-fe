@@ -289,7 +289,7 @@ export default function ChatInterface() {
 					src={logo}
 					alt="Sage Wizard Logo"
 					width={120}
-					className="mt-0 w-56 sm:w-56 md:w-44 lg:w-44 xl:w-56 pointer-events-none select-none"
+					className="mt-0 w-42 sm:w-56 md:w-44 lg:w-44 xl:w-56"
 					/>
 					<div className="overflow-auto flex justify-end lg:items-center flex-col h-full w-full">
 						<p className="p-2 mb-2 max-w-80 text-base font-bold text-center mx-auto"> Ask DragonGPT about:</p>
