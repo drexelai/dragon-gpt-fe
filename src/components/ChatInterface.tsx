@@ -281,7 +281,7 @@ export default function ChatInterface() {
 							</div>
 						</div>
 					</div> */}
-					<h1 className="text-3xl md:text-4xl p-1 font-bold mt-20 mb-20 md:mt-5 md:mb-5 text-center w-72 md:w-1/2 flex-1 text-transparent bg-clip-text bg-light-teal-gradient dark:bg-dark-teal-gradient">
+					<h1 className="text-3xl md:text-4xl p-1 font-bold mt-20 mb-20 md:mt-5 md:mb-5 text-center w-72 md:w-1/2 flex-1 text-[#00568B]">
 					Channel your inner academic weapon
 					</h1>
 					<Image
